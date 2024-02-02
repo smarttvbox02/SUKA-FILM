@@ -1,16 +1,16 @@
 
 
 ==================================================================================================================================================================
-#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="MOVIE",LA:Iron Man (4K)
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="MOVIE",Iron Man (4K)
 http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35392.mkv
 
-#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/FHdBFkH/IRON-VS-HULK.jpg" group-title="MOVIE",Iron Man 2 (DUAL AUDIO)
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/ThWs8zh/ironman-2.jpg" group-title="MOVIE",Iron Man 2 (DUAL AUDIO)
 http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35393.mkv
 
-#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/wryPjKh/iron-man-3.jpg" group-title="MOVIE",LA:Iron Man 3 (DUAL AUDIO)
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/wryPjKh/iron-man-3.jpg" group-title="MOVIE",Iron Man 3 (DUAL AUDIO)
 http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35397.mkv
 
-#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="MOVIE",LA:Iron Man & Hulk - Héroes Unidos
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/FHdBFkH/IRON-VS-HULK.jpg" group-title="MOVIE",Iron Man & Hulk 
 http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35391.mp4
 
 
