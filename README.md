@@ -1,69 +1,20 @@
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Makin Lama Makin Asyik
-https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Mana Bisa Tahan
-https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Pencet Sana Pencet Sini
-https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Potret Mimpi Buruk
-https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Pengabdi Setan 2: Communion
-https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",The Doll 3
-https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+==================================================================================================================================================================
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="VOD ",LA:Iron Man (4K)
+http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35392.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Inang
-https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Nini Thowok
-https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Ikut Aku ke Neraka
-https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Ratu Ilmu Hitam
-https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kuyang the Movie
-https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Makmum
-https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/FHdBFkH/IRON-VS-HULK.jpg" group-title="VOD ",Iron Man 2 (DUAL AUDIO)
+http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35393.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Titisan Setan 2
-https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Suster Keramas
-https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Suzzanna: Bernapas Dalam Kubur
-https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",40 Hari Bangkitnya Pocong
-https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",The Returning
-https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Rumah Dara
-https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Hompimpa
-https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kabut
-https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/wryPjKh/iron-man-3.jpg" group-title="VOD ",LA:Iron Man 3 (DUAL AUDIO)
+http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35397.mkv
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Belenggu
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Alas Pati: Hutan Mati
-https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Pengabdi Setan
-https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kain Kafan Hitam
-https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Rencana Luput
-https://www.googleapis.com/drive/v3/files/1wQcSihpiOoZdE3igDqzoIS0sZ98VNvum?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Rencana Kabur 2 Hades
-https://www.googleapis.com/drive/v3/files/1PdlQRrP7viZHB5CblPzBDKrm1Sy8L7C8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="VOD ",LA:Iron Man & Hulk - Héroes Unidos
+http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35391.mp4
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE"  tvg-logo="https://image.tmdb.org/t/p/w185/kGMe8oqY2m8tWRFp3jjglmL7jnY.jpg", The Meg 2 2023
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE"  tvg-logo="https://image.tmdb.org/t/p/w185/kGMe8oqY2m8tWRFp3jjglmL7jnY.jpg", The Meg 2 
 https://www.googleapis.com/drive/v3/files/1El--Q0hHjgymeiv1zNUO2tq7iH9zhZQx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/023508X0-landscape.jpg" group-title="MOVIE",Fast & Furious: Hobbs & Shaw
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -73,8 +24,10 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e7864b63a736626cec
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0tNP7CS/trans-2.jpg" group-title="MOVIE",Transporter 2
 https://www.googleapis.com/drive/v3/files/1aHNMwzVw8B8H7b_HkW8tYfyhw7DyNMdi?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Xcynmw/trans-3.jpg" group-title="MOVIE",Transporter 3
 https://www.googleapis.com/drive/v3/files/1KecYpsXXUIpsM8u3spCJzRc37xo0fgKz?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/020839X0-landscape.jpg"" group-title="MOVIE", Transformers 1 (2007)
 https://privatemaster.xyz/cdn/stream/master/BiNuTIxLWoxzhMeSkMAFTAmXEGth1GgHuAH9MAwfjPmHaM9OpokycTYNTRYvb9QDpFz1iSDc52PUd75BH9LuyYWoNiWAMVrkbDffNQsbKRdSIlCg2rZEAn7iw5lGYMoz/master.m3u8
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/010422X0-landscape.jpg" group-title="MOVIE", Transformers Revenge of the Fallen 
@@ -84,17 +37,26 @@ https://privatemaster.xyz/cdn/stream/master/mqRXxqN3aAod7VPCVfvJzweMn25cw1Bjj3aR
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/018147X0-portrait.jpg" group-title="MOVIE", Transformers  Age of Extinction 
 https://privatemaster.xyz/cdn/stream/master/lil4csqeL7SfvseXYDqzJ3YTVDD7Pa4Flk0zkcEFEDtxfHjltTgGdiRKLBhbR2aVXIxU1aDBEScOCQbWTxElECGTpZaSHfRheIqYQYZJkEpUOJr5nMiNYxfCnPQ5vroL/master.m3u8
 
-
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.jeded.com/i/avengers-age-of-ultron.35616.jpg",avengers : age of ultron 
+http://abf.filmbluray.id/6jtc63v
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1w8r11/RAISE-OF-THE-BEAST.jpg" group-title="MOVIE", Transformers  Rise of the Beasts 
 https://privatemaster.xyz/cdn/stream/master/743XWgJWf6KzszEwhOlQ4oFQ50T0LJGp5INiiKnUHhV23pJHSlzxPGJHOuSiQR7MChXiK9sLufK8gsYhlLwKkHex8nYUWyB0JgVBvBVx1xWXkpesGApA7jmWlV20QPP1/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="MOVIE",The Bourne Supremacy
 https://www.googleapis.com/drive/v3/files/1JL4xp1GiBbXBiS_ZUJ50VgtVa6CeX008?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020305X0-portrait.jpg" group-title="MOVIE",The Bourne Ultimatum
 https://www.googleapis.com/drive/v3/files/1Kq4xCUzVxxw7Zq8GaPLuxayRhE7XCuBH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/015423X0-portrait.jpg" group-title="MOVIE",The Bourne Legacy
 https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan 
+http://37.26.86.39:48768/movies/traintobusan.mp4
+
+
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/rambo5.png",Rambo : Last Blood 
 http://abf.filmbluray.id/29312ls
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/rambo2.png",Rambo : First Blood - Part II 
@@ -102,15 +64,13 @@ http://abf.filmbluray.id/8mw6c2w
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/rambo3.png",Rambo III 
 http://abf.filmbluray.id/83vl1q9
 
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan 
-http://37.26.86.39:48768/movies/traintobusan.mp4
+
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.jeded.com/i/iron-man.29111.jpg",Iron Man 
 http://abf.filmbluray.id/01l2rdj
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/bill2.png",Kill Bill Volume 2 
 http://abf.filmbluray.id/1dkgnf9
-#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.jeded.com/i/avengers-age-of-ultron.35616.jpg",avengers : age of ultron 
-http://abf.filmbluray.id/6jtc63v
+
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/lara1.png",Lara Croft Tomb Raider 
 http://abf.filmbluray.id/7vic44x
 
@@ -119,12 +79,18 @@ http://abf.filmbluray.id/39v93kw
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
 http://abf.filmbluray.id/9mmhxus
+
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/041243X0-landscape.jpg" group-title="MOVIE",The Nun II
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4063e8388256eeabd2f4efdae7aedd3:12843781a238285c811dcc5a3715e344
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e64adf_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040423X0-landscape.jpg" group-title="MOVIE",KUNGFU PANDA 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Lightyear 
@@ -308,11 +274,6 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_key=671a3fc7b55dcb56f8c66ed8eaad141e:962953b30ed281c5b40eca0078466df0
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/65012e17d940521074e137bd_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
-#EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040423X0-landscape.jpg" group-title="MOVIE",KUNGFU PANDA 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e080e8d17a75b68c171bafed250c617e:e2666c16aaa10cc855a580ff0d39a633
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/040436X0-landscape.jpg" group-title="MOVIE",The Weeknd: Live At Sofi Stadium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -559,8 +520,69 @@ https://www.dropbox.com/s/4h4l38uqldqot2h/sinkhole.mp4?dl=1
 https://www.dropbox.com/s/isv6vb8z1fy25x5/theaddamsfamily2.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6NVj2J/dune.jpg" group-title="MOVIE"",Dune (2021)
 https://www.dropbox.com/s/0hq5vopq6qook0m/dune.mp4?dl=1
+==========================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Makin Lama Makin Asyik
+https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Mana Bisa Tahan
+https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Pencet Sana Pencet Sini
+https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Potret Mimpi Buruk
+https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Pengabdi Setan 2: Communion
+https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",The Doll 3
+https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Inang
+https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Nini Thowok
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Ikut Aku ke Neraka
+https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Ratu Ilmu Hitam
+https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kuyang the Movie
+https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Makmum
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Titisan Setan 2
+https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Suster Keramas
+https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Suzzanna: Bernapas Dalam Kubur
+https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",40 Hari Bangkitnya Pocong
+https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",The Returning
+https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Rumah Dara
+https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Hompimpa
+https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kabut
+https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Belenggu
+https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Alas Pati: Hutan Mati
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Pengabdi Setan
+https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kain Kafan Hitam
+https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Rencana Luput
+https://www.googleapis.com/drive/v3/files/1wQcSihpiOoZdE3igDqzoIS0sZ98VNvum?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Rencana Kabur 2 Hades
+https://www.googleapis.com/drive/v3/files/1PdlQRrP7viZHB5CblPzBDKrm1Sy8L7C8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 ========================================================================================================================================================================
