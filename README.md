@@ -93,45 +93,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6537627dd940521074e
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64aa6825d940521074d91179_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Lightyear 
-https://data03.streamku.xyz/mv/21a-lightyear.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Me Time 
-https://data03.streamku.xyz/mv/29a-me.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Seoul Vibe 
-https://data03.streamku.xyz/mv/29a-seoul.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Samaritan 
-https://data03.streamku.xyz/mv/29a-samaritan.mp4
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Battle at Lake Changjin II 
-https://data03.streamku.xyz/mv/a-water.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Jurassic World Dominion 
-https://data03.streamku.xyz/mv/13a-jurassic.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Top Gun: Maverick 
-https://data03.streamku.xyz/mv/28a-top.mp4
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Luck 
-https://data03.streamku.xyz/mv/14a-luck.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Prey 
-https://data03.streamku.xyz/mv/14a-prey.mp4
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Purple Hearts 
-https://data03.streamku.xyz/mv/11a-purple.mp4
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Paradise Highway 
-https://data03.streamku.xyz/mv/11a-paradise.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Honor Society 
-https://data03.streamku.xyz/mv/11a-honor.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Not Okay 
-https://data03.streamku.xyz/mv/20a-not.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Roundup 
-https://data03.streamku.xyz/mv/7a-roundup.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Gray Man 
-https://data03.streamku.xyz/mv/6a-gray.mp4
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Other One 
-https://data03.streamku.xyz/mv/1a-thewitchpart2.mp4
-
-#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Vikram 
-https://data03.streamku.xyz/mv/6a-vikram.mp4
 
 
 
@@ -520,6 +481,51 @@ https://www.dropbox.com/s/4h4l38uqldqot2h/sinkhole.mp4?dl=1
 https://www.dropbox.com/s/isv6vb8z1fy25x5/theaddamsfamily2.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s6NVj2J/dune.jpg" group-title="MOVIE"",Dune (2021)
 https://www.dropbox.com/s/0hq5vopq6qook0m/dune.mp4?dl=1
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Lightyear 
+https://data03.streamku.xyz/mv/21a-lightyear.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Me Time 
+https://data03.streamku.xyz/mv/29a-me.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Seoul Vibe 
+https://data03.streamku.xyz/mv/29a-seoul.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Samaritan 
+https://data03.streamku.xyz/mv/29a-samaritan.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Battle at Lake Changjin II 
+https://data03.streamku.xyz/mv/a-water.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Jurassic World Dominion 
+https://data03.streamku.xyz/mv/13a-jurassic.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Top Gun: Maverick 
+https://data03.streamku.xyz/mv/28a-top.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Luck 
+https://data03.streamku.xyz/mv/14a-luck.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Prey 
+https://data03.streamku.xyz/mv/14a-prey.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Purple Hearts 
+https://data03.streamku.xyz/mv/11a-purple.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Paradise Highway 
+https://data03.streamku.xyz/mv/11a-paradise.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Honor Society 
+https://data03.streamku.xyz/mv/11a-honor.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Not Okay 
+https://data03.streamku.xyz/mv/20a-not.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Roundup 
+https://data03.streamku.xyz/mv/7a-roundup.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Gray Man 
+https://data03.streamku.xyz/mv/6a-gray.mp4
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",The Other One 
+https://data03.streamku.xyz/mv/1a-thewitchpart2.mp4
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2vgK160/bioskop.jpg" group-title="MOVIE",Vikram 
+https://data03.streamku.xyz/mv/6a-vikram.mp4
+
+
+
+
+
 ==========================================================================================================================================================================
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Makin Lama Makin Asyik
 https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
