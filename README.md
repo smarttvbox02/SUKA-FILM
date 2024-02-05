@@ -1,14 +1,17 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pintar Pintar Bodoh (1980) SUB INDO
 http://abf.filmbluray.id/u4hspqy
-
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/hCQZtiv4M4JggJ17yb8VlJgJJwx.jpg" group-title="Warkop DKI", antri dong (1990)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/78aN7.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pokoknya Beres (1983) SUB INDO
 http://abf.filmbluray.id/zxfzjhm
-
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/xiLEzS1TvECh0nyhT4jZwajcFco.jpg" group-title="Warkop DKI", itu bisa di atur  warkop dki
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/kIi46.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Tahu Diri Dong (1984) SUB INDO
 http://abf.filmbluray.id/u752m23
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Gantian Dong (1985) SUB INDO
 http://abf.filmbluray.id/rq99s97
-
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ouVRoKOps7ew5k6MoGo2bgqbtH7.jpg" group-title="Warkop DKI", atas boleh bawah boleh  warkop dki
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/uR5t88.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Depan Bisa Belakang Bisa (1987) SUB INDO
 http://abf.filmbluray.id/zobm5cs
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bisa Naik Bisa Turun (1991) SUB INDO
@@ -23,8 +26,115 @@ http://abf.filmbluray.id/wxvxwdc
 http://abf.filmbluray.id/w26tyv5
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Warkop DKI Reborn (2019) SUB INDO
 http://abf.filmbluray.id/zcricf6
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Makin Lama Makin Asyik
+https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Mana Bisa Tahan
+https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Pencet Sana Pencet Sini
+https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 ==================================================================================================================================================================
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Potret Mimpi Buruk
+https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",The Returning
+https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Rumah Dara
+https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Hompimpa
+https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Kabut
+https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIJJdrTCfoX_2XWFkhW6-K-FuNDCZMvIzDng&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩", the raid redemption (2011)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/o41Ddr.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Belenggu
+https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/gdzgIt0aBG9ERZy0va5seZhbcrI.jpg" group-title="🇮🇩FILM INDO🇮🇩", Yowis Ben (2018)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/id756d.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/t1N4uWXg17fZ5PsqQ0UilKqStBe.jpg" group-title="🇮🇩FILM INDO🇮🇩", Yowis Ben 2 (2019)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/iTdF1.m3u8
+#EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qCOBtAaG1IceuqgcipXdDTmRFQP.jpg" group-title="🇮🇩FILM INDO🇮🇩", Yowis Ben 3 (2021)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/tq43wD.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/u9ws7HyqsSdpm9cuM4HOqtnLTkz.jpg" group-title="🇮🇩FILM INDO🇮🇩", Tasbih Kosong (2023)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/KcZm3.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Rencana Luput
+https://www.googleapis.com/drive/v3/files/1wQcSihpiOoZdE3igDqzoIS0sZ98VNvum?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="🇮🇩FILM INDO🇮🇩",Rencana Kabur 2 Hades
+https://www.googleapis.com/drive/v3/files/1PdlQRrP7viZHB5CblPzBDKrm1Sy8L7C8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+===========================================================================================================================================================================
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/Ah2F2pzS0St34QDtRyK7AIIMUwP.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" , Suzzanna: Malam Jumat Kliwon (2023)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/k4idF.m3u8
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUwYTNiMWQtZGQwMS00NGM0LTgxOWMtNTg2YzQxMzBlMmVlXkEyXkFqcGdeQXVyNjQ5NjgyMjE@._V1_.jpg",Alas Pati: Hutan Mati
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Pengabdi Setan 2: Communion
+https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://pbs.twimg.com/media/DU_5NS5U0AAsRkf.jpg",Titisan Setan 2 
+https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suster Keramas
+https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suzzanna: Bernapas Dalam Kubur
+https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",40 Hari Bangkitnya Pocong
+https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",The Returning
+https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Rumah Dara
+https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Kabut
+https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Belenggu
+https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Pengabdi Setan
+https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Kain Kafan Hitam
+https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Alas Pati: Hutan Mati
+https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Pengabdi Setan 2: Communion
+https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",The Doll 3
+https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Inang
+https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Nini Thowok
+https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Ikut Aku ke Neraka
+https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Ratu Ilmu Hitam
+https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Kuyang the Movie
+https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Makmum
+https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Titisan Setan 2
+https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suster Keramas
+https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suzzanna: Bernapas Dalam Kubur
+https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",40 Hari Bangkitnya Pocong
+https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jsD9Xno9bCaDtGm6Av9yr4T5SUq.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩", khanzab (2023)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/86Z2tt.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/t86d7Us4hW9yVqf8ctDj834d1RD.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩", jailangkung sandekala (2022)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/i93rZt4.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/63InZxeGgfNQCoWkImR14fB99AY.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩", kkn di desa penari (2022)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/i9rZt4.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/rGFFl5OXkhpHuS7zOJmZqxfgqgF.jpg" group-title="🇮🇩 BIOSKOP HOROR 🇮🇩", air terjun pengantin (2009)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/6yfll.m3u8
+
+
+=========================================================================================================================================================================
 #EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="MOVIE",Iron Man (4K)
 http://mku0414.oknirvana.club:8880/movie/3us02233n01/adsf232e23/35392.mkv
 
@@ -79,7 +189,71 @@ https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_FMjpg_UX1000_.jpg",Train to Busan 
 http://37.26.86.39:48768/movies/traintobusan.mp4
+#EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/81D5xBlnTAdJs19dbkfw8eK0oWA.jpg" group-title="MOVIE", Thunderbolt (1995) jackie chan
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ilp63.m3u8
+#EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="MOVIE", Spider-Man (2002)
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ilp78.m3u8
 
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5r5RWODOpkopNizwn99b9qVD6KJ.jpg" group-title="MOVIE", Bolts & Blip_Battle of the Lunar League (2012) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/iyY4p.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg" group-title="MOVIE", The Cat Returns (2002) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/iyY40.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg" group-title="MOVIE", Raya and the Last Dragon (2021) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ihY70.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/1oRBc0Xom1bMMBBm7uGEjH01LDK.jpg" group-title="MOVIE", Back To The Sea (2012) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ihZD1.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="MOVIE", Rebel Moon - Part One: A Child of Fire (2023) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/iTlD1.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg" group-title="MOVIE", Ford v Ferrari (2019) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/k7odF.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/iPN3Vy71U0B7p1R667EdifmwW1b.jpg" group-title="MOVIE", Crayon Shin-chan: Very Tasty! B-class Gourmet Survival!! (2013) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/Kc6p3.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wyh51mR03XXASZkmEKr1MiOEzoJ.jpg" group-title="MOVIE", Detective Conan Movie 2 Case Closed: The Fourteenth Target (1998) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/KY6d3.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/abW5AzHDaIK1n9C36VdAeOwORRA.jpg" group-title="MOVIE", Cars (2006) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/tY6d3.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/wxCZmXRJa8hSv1Tpih8TBSR4o6b.jpg" group-title="MOVIE", Doraemon: Nobita's New Dinosaur (2020) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/pVy63.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg" group-title="MOVIE", Jurassic Park III (2001) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/it56d.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/boUXx3KWFkhYe8OllT1VCfI2kpu.jpg" group-title="MOVIE", Manou the Swift (2019) Dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/pK756d.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg" group-title="MOVIE", ballerina (2023) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/iJj6y.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/bI7lGR5HuYlENlp11brKUAaPHuO.jpg" group-title="MOVIE", Day Shift (2022) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/85rtz.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" group-title="MOVIE", titanic (1997) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/85rt6z.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w188_and_h282_bestv2/f9glpkL7Ihh2Ys6fECzr0Wdl9SD.jpg" group-title="MOVIE", Detective Conan Movie 1 The Time-Bombed Skyscraper (1997) Dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/kHy65.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/2MFIhZAW0CVlEQrFyqwa4U6zqJP.jpg" group-title="MOVIE", toy story 2 (1999) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/kH6y65.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/zaqam2RNscH5ooYFWInV6hjx6y5.jpg" group-title="MOVIE", 2012 (2009) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/yY5oR7t.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg" group-title="MOVIE", a bug's life (1998) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ukS55.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg" group-title="MOVIE", the mummy returns (2001) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/kH65y65.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg" group-title="MOVIE", luca (2021) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/kt12Mbyt.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg" group-title="MOVIE", Fullmetal Alchemist the Revenge of Scar (2022) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/t5R2o.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/kyeqWdyUXW608qlYkRqosgbbJyK.jpg" group-title="MOVIE", avatar (2009) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/A0vtT.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg" group-title="MOVIE", Toy Story (1995) dubbing
+https://filmovie.github.io/by/vod/Toy.Story.(1995).Dubbing/toy.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg" group-title="MOVIE", leo (2023) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/Kc6d3.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="http://pictures.my.id/images/rambo5.png",Rambo : Last Blood 
 http://abf.filmbluray.id/29312ls
@@ -551,68 +725,8 @@ https://data03.streamku.xyz/mv/6a-vikram.mp4
 
 
 ==========================================================================================================================================================================
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Makin Lama Makin Asyik
-https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Mana Bisa Tahan
-https://www.googleapis.com/drive/v3/files/1n9ZYDxtLdRVFEth3P_opwEb5pU8vkoGU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Pencet Sana Pencet Sini
-https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Potret Mimpi Buruk
-https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Pengabdi Setan 2: Communion
-https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",The Doll 3
-https://www.googleapis.com/drive/v3/files/1d6_1dNtU1ooJauEwm_1nVCXyN7jNfutU?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Inang
-https://www.googleapis.com/drive/v3/files/1t00ReoTNyh81mnlSKZfo3c4F7xFvxOKK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Nini Thowok
-https://www.googleapis.com/drive/v3/files/1wEwUCCP7rCu_vHc1UvGt3wOivv9bJHqo?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Ikut Aku ke Neraka
-https://www.googleapis.com/drive/v3/files/1wbbNUEVWpfhxNsO805enjX4eQNRmKbyN?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Ratu Ilmu Hitam
-https://www.googleapis.com/drive/v3/files/1A9UotE6t0j_WIJHuUzh955B_whbgobDH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kuyang the Movie
-https://www.googleapis.com/drive/v3/files/1IRfViSK6vfXNcHKU2i7L4kTBeRp8k203?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Makmum
-https://www.googleapis.com/drive/v3/files/1D_EKnGSUPx9RYov0Ac9aqSjCKcDT8nE-?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Titisan Setan 2
-https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Suster Keramas
-https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Suzzanna: Bernapas Dalam Kubur
-https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",40 Hari Bangkitnya Pocong
-https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",The Returning
-https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Rumah Dara
-https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Hompimpa
-https://www.googleapis.com/drive/v3/files/1dWxzlcnEAjpKkbCsgi8A7lsUTlb3e0FM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kabut
-https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Belenggu
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Alas Pati: Hutan Mati
-https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Pengabdi Setan
-https://www.googleapis.com/drive/v3/files/1Z2xItp-0ua2HKD2ggaNampcE60XEAddp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Kain Kafan Hitam
-https://www.googleapis.com/drive/v3/files/1sbPMgFuUBm_tC6ppgOawAYO4ozB5Pvt6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="FILM INDO",Rencana Luput
-https://www.googleapis.com/drive/v3/files/1wQcSihpiOoZdE3igDqzoIS0sZ98VNvum?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="FILM INDO",Rencana Kabur 2 Hades
-https://www.googleapis.com/drive/v3/files/1PdlQRrP7viZHB5CblPzBDKrm1Sy8L7C8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 
 
 ========================================================================================================================================================================
@@ -1651,26 +1765,6 @@ https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAng
 ===============================================================================================================================
 
 
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDUwYTNiMWQtZGQwMS00NGM0LTgxOWMtNTg2YzQxMzBlMmVlXkEyXkFqcGdeQXVyNjQ5NjgyMjE@._V1_.jpg",Alas Pati: Hutan Mati
-https://www.googleapis.com/drive/v3/files/1G98uOa7PYfDU85L8-s9g9l2Fc_0kYism?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Pengabdi Setan 2: Communion
-https://www.googleapis.com/drive/v3/files/1mfQnIUv-i-QfAQkbVI-2m9jipstBaaPO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩" tvg-logo="https://pbs.twimg.com/media/DU_5NS5U0AAsRkf.jpg",Titisan Setan 2 
-https://www.googleapis.com/drive/v3/files/1URK_VslCvMuz7VmUzqW5-0ClKB-d40FI?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suster Keramas
-https://www.googleapis.com/drive/v3/files/13xjDgOGOB8BvLxIMS2lJQ9CCSYaTpKfk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Suzzanna: Bernapas Dalam Kubur
-https://www.googleapis.com/drive/v3/files/1flFN2SuVqGkovnP8InCYAT25Gs4PPh3L?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",40 Hari Bangkitnya Pocong
-https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",The Returning
-https://www.googleapis.com/drive/v3/files/1tHP_UwvBNy42ZxkC1t-a_XhET0Mx6Hx8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Rumah Dara
-https://www.googleapis.com/drive/v3/files/1cois71zhOFOddq-LPZNRueM8xJ2hxIVa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Kabut
-https://www.googleapis.com/drive/v3/files/1Tkdasl51whYeYlwXWRAQ-XoUtW-qGoOt?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="🇮🇩 BIOSKOP HOROR 🇮🇩",Belenggu
-https://www.googleapis.com/drive/v3/files/1eGJ-9tT7_Xp8ulYNrPtbNagmGDCBfb0i?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 =============================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",6 Underground (2019) SUB INDO
@@ -2654,6 +2748,20 @@ https://filmovie.github.io/by/vods/squid.game.2021/epso3.m3u8
 https://filmovie.github.io/by/vods/squid.game.2021/eps4.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps5 squid game (2021) dubbing
 https://filmovie.github.io/by/vods/squid.game.2021/e411.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps6 squid game (2021) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/57ocC.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps7 squid game (2021) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/k7Zxt.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps8 squid game (2021) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/57icC.m3u8
+#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps9 squid game (2021) dubbing
+https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/5u4cC.m3u8
+
+
+
+
+
+
 ========================================================================================================================================================================
 #EXTINF:-1 type="movie" group-title="HBO MOVIE" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/041482X0-portrait.jpg",Taking On Taylor Swift 2023
 #KODIPROP:inputstreamaddon=inputstream.adaptive
