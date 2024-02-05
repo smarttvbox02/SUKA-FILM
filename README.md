@@ -1,4 +1,28 @@
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pintar Pintar Bodoh (1980) SUB INDO
+http://abf.filmbluray.id/u4hspqy
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pokoknya Beres (1983) SUB INDO
+http://abf.filmbluray.id/zxfzjhm
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Tahu Diri Dong (1984) SUB INDO
+http://abf.filmbluray.id/u752m23
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Gantian Dong (1985) SUB INDO
+http://abf.filmbluray.id/rq99s97
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Depan Bisa Belakang Bisa (1987) SUB INDO
+http://abf.filmbluray.id/zobm5cs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bisa Naik Bisa Turun (1991) SUB INDO
+http://abf.filmbluray.id/94cu9o0
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bebas Aturan Main (1993) SUB INDO
+http://abf.filmbluray.id/qn276o5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Salah Masuk (1993) SUB INDO
+http://abf.filmbluray.id/o6gedd9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pencet Sana Pencet Sini (1994) SUB INDO
+http://abf.filmbluray.id/wxvxwdc
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Saya Duluan Dong (1994) SUB INDO
+http://abf.filmbluray.id/w26tyv5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Warkop DKI Reborn (2019) SUB INDO
+http://abf.filmbluray.id/zcricf6
 
 ==================================================================================================================================================================
 #EXTINF:-1 tvg-id="iron man" tvg-logo="https://i.ibb.co/QnSWpQK/ironman.jpg" group-title="MOVIE",Iron Man (4K)
