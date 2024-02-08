@@ -37,7 +37,11 @@ https://www.googleapis.com/drive/v3/files/1z_nqnmq7JGcAmXTIyYmeknS26CPIBlOd?alt=
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZlS9I5PftyUTazS9G3dw-8kGuSscbrE-lA&usqp=CAU" group-title="🇮🇩FILM INDO🇮🇩",Potret Mimpi Buruk
 https://www.googleapis.com/drive/v3/files/118qyQVDVp1fM5BDoPnWYpB0Y-FXL_w5l?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYzNhNGY1YjItMDhmOS00ODc0LWI0NTYtNGM3ODdmODM1ZjdhXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_.jpg" group-title="🇮🇩FILM INDO🇮🇩",Dilan 1991 (2019)
+https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Dilan%201991%20(2019)%20NF%20WEB-DL%20[HD].mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://cds.bet/wp-content/uploads/2020/06/tRs5EYnviBBn79lQwGW2JLZp93v-150x225.jpg" group-title="🇮🇩FILM INDO🇮🇩",Milea : Suara dari Dilan (2020)
+https://index.wahyudin.workers.dev/0:/Punya%20Wahyudin%20Piyul/Film%20Indonesia/Milea:%20Suara%20dari%20Dilan%20(2020)%20NF%20WEB-DL%20[HD].mp4
 
 
 
@@ -191,9 +195,29 @@ https://www.googleapis.com/drive/v3/files/1BH3fKMygPonozus81_qFtQYEjx3Dd-ba?alt=
 http://37.26.86.39:48768/movies/traintobusan.mp4
 #EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/81D5xBlnTAdJs19dbkfw8eK0oWA.jpg" group-title="MOVIE", Thunderbolt (1995) jackie chan
 https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ilp63.m3u8
-#EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="MOVIE", Spider-Man (2002)
+#EXTINF: -1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg" group-title="MOVIE", Spider-Man 
 https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/ilp78.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="https://image.tmdb.org/t/p/w185/ejrD1lkCIQX26TO8k4gePsFpcyX.jpg", The Conjuring 
+https://www.googleapis.com/drive/v3/files/1FPodPsHIAzBfPsCvsV8Z90oNZxrBFr9s?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="https://image.tmdb.org/t/p/w185/ejrD1lkCIQX26TO8k4gePsFpcyX.jpg", The Conjuring 2 
+https://www.googleapis.com/drive/v3/files/1C70igAl5plQlFs3C6J1egC_E-5Zl2wff?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="https://image.tmdb.org/t/p/w185/ejrD1lkCIQX26TO8k4gePsFpcyX.jpg", The Conjuring 3
+https://www.googleapis.com/drive/v3/files/18LuzgJaaWDas7KL2_Iy1ncpZy6ZCEXG8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="https://image.tmdb.org/t/p/w185/8CYSvYTw9tbFynivdcBcoqRWPGM.jpg", John Wick: Chapter 1 
+https://www.googleapis.com/drive/v3/files/1VXCX8rkyI1mEqWCVy7XEI7HvHAa5ravl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="https://image.tmdb.org/t/p/w185/8CYSvYTw9tbFynivdcBcoqRWPGM.jpg", John Wick: Chapter 2 
+https://www.googleapis.com/drive/v3/files/1vWzy_YtmBOv8naazwhHsXGzzq73rfFnx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MOVIE" tvg-logo="https://image.tmdb.org/t/p/w185/8CYSvYTw9tbFynivdcBcoqRWPGM.jpg", John Wick: Chapter 3 
+https://www.googleapis.com/drive/v3/files/1jSYEVdC3-E4RX5yah2nbKyMWUULbVlcc?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/5r5RWODOpkopNizwn99b9qVD6KJ.jpg" group-title="MOVIE", Bolts & Blip_Battle of the Lunar League (2012) dubbing
 https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/iyY4p.m3u8
 #EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/pqyY7IEWkCWNZ7EuRStQaJITEta.jpg" group-title="MOVIE", The Cat Returns (2002) dubbing
