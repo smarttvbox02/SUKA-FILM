@@ -10585,12 +10585,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5c9110ceba74fe65548
 #KODIPROP:inputstream.adaptive.license_key=3f8107436bdaabc4577833df9d4b3a3e:44abec86b8cfcf07a1edb365d02486c3
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/64374d81d940521074ce4be9_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBO MOVIE"  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/009370X0-portrait.jpg",E.T. The Extra-Terrestrial 1982
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=51ef5e4b3a295f028b6166bf398bb72a:12ad0351250eb945d96be5a87278ef5a
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60d134fe16b55f4d934ea521_hbovodhd/dash0/IDN_index.mpd
 
 #EXTINF:-1 type="movie" group-title="HBO MOVIE"  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/014842X0-portrait.jpg",Fort Apache, The Bronx 1981
 #KODIPROP:inputstreamaddon=inputstream.adaptive
