@@ -1,27 +1,27 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pintar Pintar Bodoh (1980) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pintar Pintar Bodoh 
 http://abf.filmbluray.id/u4hspqy
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pokoknya Beres (1983) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pokoknya Beres 
 http://abf.filmbluray.id/zxfzjhm
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Tahu Diri Dong (1984) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Tahu Diri Dong 
 http://abf.filmbluray.id/u752m23
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Gantian Dong (1985) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Gantian Dong 
 http://abf.filmbluray.id/rq99s97
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Depan Bisa Belakang Bisa (1987) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Depan Bisa Belakang Bisa 
 http://abf.filmbluray.id/zobm5cs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bisa Naik Bisa Turun (1991) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bisa Naik Bisa Turun 
 http://abf.filmbluray.id/94cu9o0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bebas Aturan Main (1993) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Bebas Aturan Main 
 http://abf.filmbluray.id/qn276o5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Salah Masuk (1993) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Salah Masuk 
 http://abf.filmbluray.id/o6gedd9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pencet Sana Pencet Sini (1994) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Pencet Sana Pencet Sini 
 http://abf.filmbluray.id/wxvxwdc
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Saya Duluan Dong (1994) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Saya Duluan Dong 
 http://abf.filmbluray.id/w26tyv5
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Warkop DKI Reborn (2019) SUB INDO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBnd3T3x/20230807-011353.png" group-title="Warkop DKI",Warkop DKI Reborn 
 http://abf.filmbluray.id/zcricf6
 #EXTINF:-1 tvg-logo="https://cdn.textstudio.com/output/sample/normal/4/9/6/5/series-logo-570-5694.webp" group-title="Warkop DKI",Makin Lama Makin Asyik
 https://www.googleapis.com/drive/v3/files/1pPqGqc_aFQuAGB87cgKBkLaXvM76e_f1?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -176,6 +176,95 @@ http://abf.filmbluray.id/39v93kw
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.jeded.com/i/ant-man-and-the-wasp.116462.jpg",Ant-Man and The Wasp 
 http://abf.filmbluray.id/9mmhxus
+
+#EXTINF:-1 tvg-id="" tvg-name="Batman v Superman: Dawn of Justice" tvg-logo="http://repo.ottshow.net/slika/dc/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="Marvel & DC **VIP**",Batman v Superman: Dawn of Justice
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Man of Steel" tvg-logo="http://repo.ottshow.net/slika/dc/ek4NbgkaC1mDbiJmTOSZYzSEFMo.jpg" group-title="Marvel & DC **VIP**",Man of Steel
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman Returns" tvg-logo="http://repo.ottshow.net/slika/dc/ijSsWy2RWxTJzw3UMwFbXkjr5ny.jpg" group-title="Marvel & DC **VIP**",Superman Returns
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman IV: The Quest for Peace" tvg-logo="http://repo.ottshow.net/slika/dc/95zlQnGPbt7egI2HaDWri0ZqOSV.jpg" group-title="Marvel & DC **VIP**",Superman IV: The Quest for Peace
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman III" tvg-logo="http://repo.ottshow.net/slika/dc/jyUk4HG6Kk85k0FdjB9dmatqkRZ.jpg" group-title="Marvel & DC **VIP**",Superman III
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman II" tvg-logo="http://repo.ottshow.net/slika/dc/jw0tYFCbzjBN8SIhvRC2kdh7pzh.jpg" group-title="Marvel & DC **VIP**",Superman II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Superman" tvg-logo="http://repo.ottshow.net/slika/dc/aIuTzeGQNSkZEdBzsZrT9yr8Jkf.jpg" group-title="Marvel & DC **VIP**",Superman
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Green Lantern" tvg-logo="http://repo.ottshow.net/slika/dc/kH6L3BJSXUhAZDlVBjQCBeqO898.jpg" group-title="Marvel & DC **VIP**",Green Lantern
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catwoman" tvg-logo="http://repo.ottshow.net/slika/dc/pvnPgukFyEKgCzyOxyLiwyZ8T1C.jpg" group-title="Marvel & DC **VIP**",Catwoman
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman 1984" tvg-logo="http://repo.ottshow.net/slika/dc/9WxMYf8obcS8O8mv6W0PcoQdzcm.jpg" group-title="Marvel & DC **VIP**",Wonder Woman 1984
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman" tvg-logo="http://repo.ottshow.net/slika/dc/v51eUcRsKD1xBrDPEeD4D2fXYwh.jpg" group-title="Marvel & DC **VIP**",Wonder Woman
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight Rises" tvg-logo="http://repo.ottshow.net/slika/dc/s6Kf3qHvRKjnZjyVj7YcbhTHrxi.jpg" group-title="Marvel & DC **VIP**",The Dark Knight Rises
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Knight" tvg-logo="http://repo.ottshow.net/slika/dc/eP5NL7ZlGoW9tE9qnCdHpOLH1Ke.jpg" group-title="Marvel & DC **VIP**",The Dark Knight
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Begins" tvg-logo="http://repo.ottshow.net/slika/dc/aGdng8Ic4ONpcepU3bVXPSLmNd3.jpg" group-title="Marvel & DC **VIP**",Batman Begins
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman & Robin" tvg-logo="http://repo.ottshow.net/slika/dc/bsg0mrxUKyJoL4oSGP5mlhEsqp.jpg" group-title="Marvel & DC **VIP**",Batman & Robin
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Forever" tvg-logo="http://repo.ottshow.net/slika/dc/mzzNBVwTiiY94xAXDMWJpNPW2US.jpg" group-title="Marvel & DC **VIP**",Batman Forever
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34223.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Returns" tvg-logo="http://repo.ottshow.net/slika/dc/mnihMYFydSUDm5LMnavkaaZqYKp.jpg" group-title="Marvel & DC **VIP**",Batman Returns
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34222.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="http://repo.ottshow.net/slika/dc/jUhGHv4YihieVjhU2TmFaBsZ4Xg.jpg" group-title="Marvel & DC **VIP**",Batman
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34221.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Suicide Squad" tvg-logo="http://repo.ottshow.net/slika/dc/vzMQEGJjmzCG3pbv3YMeTjRj8QE.jpg" group-title="Marvel & DC **VIP**",Suicide Squad
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shazam!" tvg-logo="http://repo.ottshow.net/slika/dc/xoJ2TExRHwrEdcuLglbQskgW5Q9.jpg" group-title="Marvel & DC **VIP**",Shazam!
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="http://repo.ottshow.net/slika/marvel/deadpool2.jpg" group-title="Marvel & DC **VIP**",Deadpool 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: The Winter Soldier" tvg-logo="http://repo.ottshow.net/slika/marvel/captain%20amerika%20the%20winter.jpg" group-title="Marvel & DC **VIP**",Captain America: The Winter Soldier
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool" tvg-logo="http://repo.ottshow.net/slika/marvel/Deadpool.jpg" group-title="Marvel & DC **VIP**",Deadpool
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange" tvg-logo="http://repo.ottshow.net/slika/marvel/doctor.jpg" group-title="Marvel & DC **VIP**",Doctor Strange
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="http://repo.ottshow.net/slika/marvel/Black%20panter.jpg" group-title="Marvel & DC **VIP**",Black Panther
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/28812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk" tvg-logo="http://repo.ottshow.net/slika/marvel/Hulk%20nevjerovatni.jpg" group-title="Marvel & DC **VIP**",The Incredible Hulk
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man" tvg-logo="http://repo.ottshow.net/slika/marvel/ant%20man.jpg" group-title="Marvel & DC **VIP**",Ant-Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp" tvg-logo="http://repo.ottshow.net/slika/marvel/Anti%20wasp.jpg" group-title="Marvel & DC **VIP**",Ant-Man and the Wasp
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far from Home" tvg-logo="http://repo.ottshow.net/slika/marvel/Dalko%20od%20kuce%20spider%20man.jpg" group-title="Marvel & DC **VIP**",Spider-Man: Far from Home
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming" tvg-logo="http://repo.ottshow.net/slika/marvel/spider%20man%20povratak%20kuci.jpg" group-title="Marvel & DC **VIP**",Spider-Man: Homecoming
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man" tvg-logo="http://repo.ottshow.net/slika/marvel/spiderman.jpg" group-title="Marvel & DC **VIP**",The Amazing Spider-Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man 2" tvg-logo="http://repo.ottshow.net/slika/marvel/Amazing%20Spider%20man%202.jpg" group-title="Marvel & DC **VIP**",The Amazing Spider-Man 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain Marvel" tvg-logo="http://repo.ottshow.net/slika/marvel/captAIN%20marvel.jpg" group-title="Marvel & DC **VIP**",Captain Marvel
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: Civil War" tvg-logo="http://repo.ottshow.net/slika/marvel/captain%20america.jpg" group-title="Marvel & DC **VIP**",Captain America: Civil War
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/29134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 1" tvg-logo="http://repo.ottshow.net/slika/marvel/galaxy.jpg" group-title="Marvel & DC **VIP**",Guardians of the Galaxy Vol. 1
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy vol.2" tvg-logo="http://repo.ottshow.net/slika/marvel/galaxy%202.jpg" group-title="Marvel & DC **VIP**",Guardians of the Galaxy vol.2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Avengers" tvg-logo="http://repo.ottshow.net/slika/marvel/avengares.jpg" group-title="Marvel & DC **VIP**",The Avengers
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War" tvg-logo="http://repo.ottshow.net/slika/marvel/Inifnity%20war.jpg" group-title="Marvel & DC **VIP**",Avengers: Infinity War
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame" tvg-logo="http://repo.ottshow.net/slika/marvel/avengares%20end%20game.jpg" group-title="Marvel & DC **VIP**",Avengers: Endgame
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man" tvg-logo="http://repo.ottshow.net/slika/marvel/iron%20man.jpg" group-title="Marvel & DC **VIP**",Iron Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2" tvg-logo="http://repo.ottshow.net/slika/marvel/iron%20man%202.jpg" group-title="Marvel & DC **VIP**",Iron Man 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3" tvg-logo="http://repo.ottshow.net/slika/marvel/iron%20man%203.jpg" group-title="Marvel & DC **VIP**",Iron Man 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="http://repo.ottshow.net/slika/marvel/thor.jpg" group-title="Marvel & DC **VIP**",Thor
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30057.mp4
+
+
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/041243X0-landscape.jpg" group-title="MOVIE",The Nun II
 #KODIPROP:inputstreamaddon=inputstream.adaptive
