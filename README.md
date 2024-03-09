@@ -263,7 +263,554 @@ http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30567.mp4
 http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30568.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="http://repo.ottshow.net/slika/marvel/thor.jpg" group-title="Marvel & DC **VIP**",Thor
 http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30057.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="http://repo.ottshow.net/slika/marvel/Black%20panter.jpg" group-title="Marvel & DC **VIP**",Black Panther
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/28812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Hulk" tvg-logo="http://repo.ottshow.net/slika/marvel/Hulk%20nevjerovatni.jpg" group-title="Marvel & DC **VIP**",The Incredible Hulk
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man" tvg-logo="http://repo.ottshow.net/slika/marvel/ant%20man.jpg" group-title="Marvel & DC **VIP**",Ant-Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man and the Wasp" tvg-logo="http://repo.ottshow.net/slika/marvel/Anti%20wasp.jpg" group-title="Marvel & DC **VIP**",Ant-Man and the Wasp
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Far from Home" tvg-logo="http://repo.ottshow.net/slika/marvel/Dalko%20od%20kuce%20spider%20man.jpg" group-title="Marvel & DC **VIP**",Spider-Man: Far from Home
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Homecoming" tvg-logo="http://repo.ottshow.net/slika/marvel/spider%20man%20povratak%20kuci.jpg" group-title="Marvel & DC **VIP**",Spider-Man: Homecoming
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man" tvg-logo="http://repo.ottshow.net/slika/marvel/spiderman.jpg" group-title="Marvel & DC **VIP**",The Amazing Spider-Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Spider-Man 2" tvg-logo="http://repo.ottshow.net/slika/marvel/Amazing%20Spider%20man%202.jpg" group-title="Marvel & DC **VIP**",The Amazing Spider-Man 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain Marvel" tvg-logo="http://repo.ottshow.net/slika/marvel/captAIN%20marvel.jpg" group-title="Marvel & DC **VIP**",Captain Marvel
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America: Civil War" tvg-logo="http://repo.ottshow.net/slika/marvel/captain%20america.jpg" group-title="Marvel & DC **VIP**",Captain America: Civil War
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/29134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy Vol. 1" tvg-logo="http://repo.ottshow.net/slika/marvel/galaxy.jpg" group-title="Marvel & DC **VIP**",Guardians of the Galaxy Vol. 1
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians of the Galaxy vol.2" tvg-logo="http://repo.ottshow.net/slika/marvel/galaxy%202.jpg" group-title="Marvel & DC **VIP**",Guardians of the Galaxy vol.2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Avengers" tvg-logo="http://repo.ottshow.net/slika/marvel/avengares.jpg" group-title="Marvel & DC **VIP**",The Avengers
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Infinity War" tvg-logo="http://repo.ottshow.net/slika/marvel/Inifnity%20war.jpg" group-title="Marvel & DC **VIP**",Avengers: Infinity War
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avengers: Endgame" tvg-logo="http://repo.ottshow.net/slika/marvel/avengares%20end%20game.jpg" group-title="Marvel & DC **VIP**",Avengers: Endgame
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man" tvg-logo="http://repo.ottshow.net/slika/marvel/iron%20man.jpg" group-title="Marvel & DC **VIP**",Iron Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 2" tvg-logo="http://repo.ottshow.net/slika/marvel/iron%20man%202.jpg" group-title="Marvel & DC **VIP**",Iron Man 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iron Man 3" tvg-logo="http://repo.ottshow.net/slika/marvel/iron%20man%203.jpg" group-title="Marvel & DC **VIP**",Iron Man 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor" tvg-logo="http://repo.ottshow.net/slika/marvel/thor.jpg" group-title="Marvel & DC **VIP**",Thor
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: The Dark World" tvg-logo="http://repo.ottshow.net/slika/marvel/thor%20the%20dark%20world.jpg" group-title="Marvel & DC **VIP**",Thor: The Dark World
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Ragnarok" tvg-logo="http://repo.ottshow.net/slika/marvel/Thor%20Rangarok.jpg" group-title="Marvel & DC **VIP**",Thor: Ragnarok
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2021-Dune" tvg-logo="https://image.tmdb.org/t/p/w500/y6060XXjUhKx6A8IHPz1TKuDPrb.jpg" group-title="Oskarovci **VIP**",2021-Dune
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2020-Nomadland" tvg-logo="http://repo.ottshow.net/slika/oskar/nomadland.jpg" group-title="Oskarovci **VIP**",2020-Nomadland
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2019-Parasite" tvg-logo="http://repo.ottshow.net/slika/oskar/446.jpg" group-title="Oskarovci **VIP**",2019-Parasite
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2018-Green Book" tvg-logo="http://repo.ottshow.net/slika/oskar/Green%20Book.jpg" group-title="Oskarovci **VIP**",2018-Green Book
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2017-The Shape of Water" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Shape%20of%20Water.jpg" group-title="Oskarovci **VIP**",2017-The Shape of Water
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2016-Moonlight" tvg-logo="http://repo.ottshow.net/slika/oskar/Moonlight.jpg" group-title="Oskarovci **VIP**",2016-Moonlight
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2015-Spotlight" tvg-logo="http://repo.ottshow.net/slika/oskar/Spotlight.jpg" group-title="Oskarovci **VIP**",2015-Spotlight
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2014-Birdman" tvg-logo="http://repo.ottshow.net/slika/oskar/Birdman.jpg" group-title="Oskarovci **VIP**",2014-Birdman
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2013-12 Years a Slave" tvg-logo="http://repo.ottshow.net/slika/oskar/12%20Years%20a%20Slave.jpg" group-title="Oskarovci **VIP**",2013-12 Years a Slave
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2012-Argo" tvg-logo="http://repo.ottshow.net/slika/oskar/Argo.jpg" group-title="Oskarovci **VIP**",2012-Argo
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2011-The Artist" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Artist.jpg" group-title="Oskarovci **VIP**",2011-The Artist
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2010-The King's Speech" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20King's%20Speech.jpg" group-title="Oskarovci **VIP**",2010-The King's Speech
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2009-The Hurt Locker" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Hurt%20Locker.jpg" group-title="Oskarovci **VIP**",2009-The Hurt Locker
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2008-Slumdog Millionaire" tvg-logo="http://repo.ottshow.net/slika/oskar/Slumdog%20Millionaire.jpg" group-title="Oskarovci **VIP**",2008-Slumdog Millionaire
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2007-No Country for Old Men" tvg-logo="http://repo.ottshow.net/slika/oskar/No%20Country%20for%20Old%20Men.jpg" group-title="Oskarovci **VIP**",2007-No Country for Old Men
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2006-The Departed" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Departed.jpg" group-title="Oskarovci **VIP**",2006-The Departed
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2005-Crash" tvg-logo="http://repo.ottshow.net/slika/oskar/Crash.jpg" group-title="Oskarovci **VIP**",2005-Crash
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2004-Million Dollar Baby" tvg-logo="http://repo.ottshow.net/slika/oskar/Million%20Dollar%20Baby.jpg" group-title="Oskarovci **VIP**",2004-Million Dollar Baby
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2003-The Lord of the Rings: The Return of the King" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003).jpg" group-title="Oskarovci **VIP**",2003-The Lord of the Rings: The Return of the King
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2002-Chicago" tvg-logo="http://repo.ottshow.net/slika/oskar/Chicago.jpg" group-title="Oskarovci **VIP**",2002-Chicago
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2001-No Man's Land (BONUS)" tvg-logo="http://repo.ottshow.net/slika/oskar/regtt4z.jpg" group-title="Oskarovci **VIP**",2001-No Man's Land (BONUS)
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2001-A Beautiful Mind" tvg-logo="http://repo.ottshow.net/slika/oskar/A%20Beautiful%20Mind.jpg" group-title="Oskarovci **VIP**",2001-A Beautiful Mind
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2000-Gladiator" tvg-logo="http://repo.ottshow.net/slika/oskar/Gladiator.jpg" group-title="Oskarovci **VIP**",2000-Gladiator
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1999-American Beauty" tvg-logo="http://repo.ottshow.net/slika/oskar/American%20Beauty.jpg" group-title="Oskarovci **VIP**",1999-American Beauty
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1998-Shakespeare in Love" tvg-logo="http://repo.ottshow.net/slika/oskar/Shakespeare%20in%20Love.jpg" group-title="Oskarovci **VIP**",1998-Shakespeare in Love
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1997-Titanic" tvg-logo="http://repo.ottshow.net/slika/oskar/Titanic.jpg" group-title="Oskarovci **VIP**",1997-Titanic
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1996-The English Patient" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20English%20Patient.jpg" group-title="Oskarovci **VIP**",1996-The English Patient
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1995-Braveheart" tvg-logo="http://repo.ottshow.net/slika/oskar/Braveheart.jpg" group-title="Oskarovci **VIP**",1995-Braveheart
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1994-Forrest Gump" tvg-logo="http://repo.ottshow.net/slika/oskar/Forrest%20Gump.jpg" group-title="Oskarovci **VIP**",1994-Forrest Gump
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1993-Schindler's List" tvg-logo="http://repo.ottshow.net/slika/oskar/Schindler%e2%80%99s%20List.jpg" group-title="Oskarovci **VIP**",1993-Schindler's List
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1992-Unforgiven" tvg-logo="http://repo.ottshow.net/slika/oskar/Unforgiven.jpg" group-title="Oskarovci **VIP**",1992-Unforgiven
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1991-The Silence of the Lambs" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Silence%20of%20the%20Lambs.jpg" group-title="Oskarovci **VIP**",1991-The Silence of the Lambs
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1990-Dances with Wolves" tvg-logo="http://repo.ottshow.net/slika/oskar/Dances%20With%20Wolves.jpg" group-title="Oskarovci **VIP**",1990-Dances with Wolves
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1989-Driving Miss Daisy" tvg-logo="http://repo.ottshow.net/slika/oskar/Driving%20Miss%20Daisy.jpg" group-title="Oskarovci **VIP**",1989-Driving Miss Daisy
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1988-Rain Man" tvg-logo="http://repo.ottshow.net/slika/oskar/Rain%20Man.jpg" group-title="Oskarovci **VIP**",1988-Rain Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1987-The Last Emperor" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Last%20Emperor.jpg" group-title="Oskarovci **VIP**",1987-The Last Emperor
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1986-Platoon" tvg-logo="http://repo.ottshow.net/slika/oskar/Platoon.jpg" group-title="Oskarovci **VIP**",1986-Platoon
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1985-Out of Africa" tvg-logo="http://repo.ottshow.net/slika/oskar/Out%20of%20Africa.jpg" group-title="Oskarovci **VIP**",1985-Out of Africa
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1984-Amadeus" tvg-logo="http://repo.ottshow.net/slika/oskar/Amadeus.jpg" group-title="Oskarovci **VIP**",1984-Amadeus
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1983-Terms of Endearment" tvg-logo="http://repo.ottshow.net/slika/oskar/Terms%20of%20Endearment.jpg" group-title="Oskarovci **VIP**",1983-Terms of Endearment
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1982-Gandhi" tvg-logo="http://repo.ottshow.net/slika/oskar/Gandhi.jpg" group-title="Oskarovci **VIP**",1982-Gandhi
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1981-Chariots of Fire" tvg-logo="http://repo.ottshow.net/slika/oskar/Chariots%20of%20Fire.jpg" group-title="Oskarovci **VIP**",1981-Chariots of Fire
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1980-Ordinary People" tvg-logo="http://repo.ottshow.net/slika/oskar/Ordinary%20People.jpg" group-title="Oskarovci **VIP**",1980-Ordinary People
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1979-Kramer vs. Kramer" tvg-logo="http://repo.ottshow.net/slika/oskar/Kramer%20vs.%20Kramer.jpg" group-title="Oskarovci **VIP**",1979-Kramer vs. Kramer
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1978-The Deer Hunter" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Deer%20Hunter.jpg" group-title="Oskarovci **VIP**",1978-The Deer Hunter
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1977-Annie Hall" tvg-logo="http://repo.ottshow.net/slika/oskar/Annie%20Hall.jpg" group-title="Oskarovci **VIP**",1977-Annie Hall
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1976-Rocky" tvg-logo="http://repo.ottshow.net/slika/oskar/Rocky.jpg" group-title="Oskarovci **VIP**",1976-Rocky
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1975-One Flew Over the Cuckoo's Nest" tvg-logo="http://repo.ottshow.net/slika/oskar/One%20Flew%20over%20the%20Cuckoo's%20Nest.jpg" group-title="Oskarovci **VIP**",1975-One Flew Over the Cuckoo's Nest
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1974-The Godfather: Part II" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Godfather%20Part%20II.jpg" group-title="Oskarovci **VIP**",1974-The Godfather: Part II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1973-The Sting" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Sting.jpg" group-title="Oskarovci **VIP**",1973-The Sting
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1972-The Godfather" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Godfather.jpg" group-title="Oskarovci **VIP**",1972-The Godfather
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1971-The French Connection" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20French%20Connection.jpg" group-title="Oskarovci **VIP**",1971-The French Connection
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1970-Patton" tvg-logo="http://repo.ottshow.net/slika/oskar/Patton.jpg" group-title="Oskarovci **VIP**",1970-Patton
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1969-Midnight Cowboy" tvg-logo="http://repo.ottshow.net/slika/oskar/Midnight%20Cowboy.jpg" group-title="Oskarovci **VIP**",1969-Midnight Cowboy
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1968-Oliver!" tvg-logo="http://repo.ottshow.net/slika/oskar/Oliver.jpg" group-title="Oskarovci **VIP**",1968-Oliver!
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1967-A Man for All Seasons" tvg-logo="http://repo.ottshow.net/slika/oskar/A%20Man%20for%20All%20Seasons.jpg" group-title="Oskarovci **VIP**",1967-A Man for All Seasons
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1966-In the Heat of the Night" tvg-logo="http://repo.ottshow.net/slika/oskar/In%20the%20Heat%20of%20the%20Night.jpg" group-title="Oskarovci **VIP**",1966-In the Heat of the Night
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1965-The Sound of Music" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Sound%20of%20Music.jpg" group-title="Oskarovci **VIP**",1965-The Sound of Music
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1964-My Fair Lady" tvg-logo="http://repo.ottshow.net/slika/oskar/My%20Fair%20Lady.jpg" group-title="Oskarovci **VIP**",1964-My Fair Lady
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1963-Tom Jones" tvg-logo="http://repo.ottshow.net/slika/oskar/Tom%20Jones.jpg" group-title="Oskarovci **VIP**",1963-Tom Jones
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1962-Lawrence of Arabia" tvg-logo="http://repo.ottshow.net/slika/oskar/Lawrence%20of%20Arabia.jpg" group-title="Oskarovci **VIP**",1962-Lawrence of Arabia
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1961-West Side Story" tvg-logo="http://repo.ottshow.net/slika/oskar/West%20Side%20Story.jpg" group-title="Oskarovci **VIP**",1961-West Side Story
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1960-The Apartment" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Apartment.jpg" group-title="Oskarovci **VIP**",1960-The Apartment
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1959-Ben-Hur" tvg-logo="http://repo.ottshow.net/slika/oskar/Ben-Hur.jpg" group-title="Oskarovci **VIP**",1959-Ben-Hur
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1958-Gigi" tvg-logo="http://repo.ottshow.net/slika/oskar/Gigi.jpg" group-title="Oskarovci **VIP**",1958-Gigi
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1957-The Bridge on the River Kwai" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Bridge%20on%20the%20River%20Kwai.jpg" group-title="Oskarovci **VIP**",1957-The Bridge on the River Kwai
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1956-Around the World in 80 Days" tvg-logo="http://repo.ottshow.net/slika/oskar/Around%20the%20World%20in%2080%20Days.jpg" group-title="Oskarovci **VIP**",1956-Around the World in 80 Days
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1955-Marty" tvg-logo="http://repo.ottshow.net/slika/oskar/Marty.jpg" group-title="Oskarovci **VIP**",1955-Marty
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1954-On the Waterfront" tvg-logo="http://repo.ottshow.net/slika/oskar/On%20the%20Waterfront.jpg" group-title="Oskarovci **VIP**",1954-On the Waterfront
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1953-From Here to Eternity" tvg-logo="http://repo.ottshow.net/slika/oskar/From%20Here%20to%20Eternity.jpg" group-title="Oskarovci **VIP**",1953-From Here to Eternity
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1952-The Greatest Show on Earth" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Greatest%20Show%20on%20Earth.jpg" group-title="Oskarovci **VIP**",1952-The Greatest Show on Earth
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1951-An American in Paris" tvg-logo="http://repo.ottshow.net/slika/oskar/An%20American%20in%20Paris.jpg" group-title="Oskarovci **VIP**",1951-An American in Paris
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1950-All About Eve" tvg-logo="http://repo.ottshow.net/slika/oskar/All%20About%20Eve.jpg" group-title="Oskarovci **VIP**",1950-All About Eve
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1949-All the King's Men" tvg-logo="http://repo.ottshow.net/slika/oskar/All%20the%20Kings%20Men.jpg" group-title="Oskarovci **VIP**",1949-All the King's Men
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1948-Hamlet" tvg-logo="http://repo.ottshow.net/slika/oskar/Hamlet.jpg" group-title="Oskarovci **VIP**",1948-Hamlet
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1947-Gentleman's Agreement" tvg-logo="http://repo.ottshow.net/slika/oskar/Gentleman's%20Agreement.jpg" group-title="Oskarovci **VIP**",1947-Gentleman's Agreement
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1946-The Best Years of Our Lives" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Best%20Years%20of%20Our%20Lives.jpg" group-title="Oskarovci **VIP**",1946-The Best Years of Our Lives
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1945-The Lost Weekend" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Lost%20Weekend.jpg" group-title="Oskarovci **VIP**",1945-The Lost Weekend
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1944-Going My Way" tvg-logo="http://repo.ottshow.net/slika/oskar/Going%20My%20Way.jpg" group-title="Oskarovci **VIP**",1944-Going My Way
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1943-Casablanca" tvg-logo="http://repo.ottshow.net/slika/oskar/Casablanca.jpg" group-title="Oskarovci **VIP**",1943-Casablanca
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1942-Mrs. Miniver" tvg-logo="http://repo.ottshow.net/slika/oskar/Mrs.%20Miniver.jpg" group-title="Oskarovci **VIP**",1942-Mrs. Miniver
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1941-How Green Was My Valley" tvg-logo="http://repo.ottshow.net/slika/oskar/How%20Green%20Was%20My%20Valley.jpg" group-title="Oskarovci **VIP**",1941-How Green Was My Valley
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1940-Rebecca" tvg-logo="http://repo.ottshow.net/slika/oskar/Rebecca.jpg" group-title="Oskarovci **VIP**",1940-Rebecca
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1939-Gone with the Wind" tvg-logo="http://repo.ottshow.net/slika/oskar/Gone%20with%20the%20Wind.jpg" group-title="Oskarovci **VIP**",1939-Gone with the Wind
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1938-You Can't Take It with You" tvg-logo="http://repo.ottshow.net/slika/oskar/You%20Can't%20Take%20It%20with%20You.jpg" group-title="Oskarovci **VIP**",1938-You Can't Take It with You
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1937-The Life of Emile Zola" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Life%20of%20Emile%20Zola.jpg" group-title="Oskarovci **VIP**",1937-The Life of Emile Zola
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1936-The Great Ziegfeld" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Great%20Ziegfeld.jpg" group-title="Oskarovci **VIP**",1936-The Great Ziegfeld
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1935-Mutiny on the Bounty" tvg-logo="http://repo.ottshow.net/slika/oskar/Mutiny%20on%20the%20Bounty.jpg" group-title="Oskarovci **VIP**",1935-Mutiny on the Bounty
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1934-It Happened One Night" tvg-logo="http://repo.ottshow.net/slika/oskar/It%20Happened%20One%20Night.jpg" group-title="Oskarovci **VIP**",1934-It Happened One Night
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1933-Cavalcade" tvg-logo="http://repo.ottshow.net/slika/oskar/Cavalcade.jpg" group-title="Oskarovci **VIP**",1933-Cavalcade
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1932-Grand Hotel" tvg-logo="http://repo.ottshow.net/slika/oskar/Grand%20Hotel.jpg" group-title="Oskarovci **VIP**",1932-Grand Hotel
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1931-Cimarron" tvg-logo="http://repo.ottshow.net/slika/oskar/Cimarron.jpg" group-title="Oskarovci **VIP**",1931-Cimarron
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1930-All Quiet on the Western Front" tvg-logo="http://repo.ottshow.net/slika/oskar/All%20Quiet%20on%20the%20Western%20Front.jpg" group-title="Oskarovci **VIP**",1930-All Quiet on the Western Front
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1929-The Broadway Melody" tvg-logo="http://repo.ottshow.net/slika/oskar/The%20Broadway%20Melody.jpg" group-title="Oskarovci **VIP**",1929-The Broadway Melody
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1928-Wings" tvg-logo="http://repo.ottshow.net/slika/oskar/Wings.jpg" group-title="Oskarovci **VIP**",1928-Wings
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1927-Sunrise: A Song of Two Humans" tvg-logo="http://repo.ottshow.net/slika/oskar/jtr.jpg" group-title="Oskarovci **VIP**",1927-Sunrise: A Song of Two Humans
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast X" tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Trilogije **VIP**",Fast X
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/73994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Rise of the Beasts" tvg-logo="https://image.tmdb.org/t/p/w500/woNCjzliS54e23E3QRuYRRBIzm3.jpg" group-title="Trilogije **VIP**",Transformers: Rise of the Beasts
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/74743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the Caribbean: At World's End" tvg-logo="https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg" group-title="Trilogije **VIP**",Pirates of the Caribbean: At World's End
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/77649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream" tvg-logo="https://image.tmdb.org/t/p/w500/aXAByjBN8UhaYvotqRCwa5MsMGu.jpg" group-title="Trilogije **VIP**",Scream
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 2" tvg-logo="https://image.tmdb.org/t/p/w500/mumarnp1ZBHFdmt2q6x9ELuC3x0.jpg" group-title="Trilogije **VIP**",Scream 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 3" tvg-logo="https://image.tmdb.org/t/p/w500/geD86M58Zkv6O6lLbA1tHllH8B4.jpg" group-title="Trilogije **VIP**",Scream 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream 4" tvg-logo="https://image.tmdb.org/t/p/w500/tcrI37K98TVopLbcZBa55mWhLT1.jpg" group-title="Trilogije **VIP**",Scream 4
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream" tvg-logo="https://image.tmdb.org/t/p/w500/13JmHFitiroWh1bGmBuW9iFBcCW.jpg" group-title="Trilogije **VIP**",Scream
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/40497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI" tvg-logo="https://image.tmdb.org/t/p/w500/qq6Vjk7x8WnuII5rBu68EutZs5P.jpg" group-title="Trilogije **VIP**",Scream VI
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/71586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy: Tomb Of The Dragon Emperor" tvg-logo="http://images.ottshow.net/images/53hrZvxiV3HgG6pdhuMeErIc7Hg_big.jpg" group-title="Trilogije **VIP**",The Mummy: Tomb Of The Dragon Emperor
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/17416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy Resurrected" tvg-logo="http://images.ottshow.net/images/nVPbuqzGTJCXzycYT4yOuducdm0_big.jpg" group-title="Trilogije **VIP**",The Mummy Resurrected
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/18064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy Returns" tvg-logo="http://repo.ottshow.net/slika/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg" group-title="Trilogije **VIP**",The Mummy Returns
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy" tvg-logo="http://repo.ottshow.net/slika/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg" group-title="Trilogije **VIP**",The Mummy
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="http://repo.ottshow.net/slika/ePyN2nX9t8SOl70eRW47Q29zUFO.jpg" group-title="Trilogije **VIP**",Tomb Raider
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider - The Cradle of Life" tvg-logo="https://image.tmdb.org/t/p/w500/vzWqkXbqs3EEMi3jgFpiRPgFGlG.jpg" group-title="Trilogije **VIP**",Lara Croft: Tomb Raider - The Cradle of Life
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lara Croft: Tomb Raider" tvg-logo="http://repo.ottshow.net/slika/o8Ha4o1pKGuoLko4A4lNUN1MXss.jpg" group-title="Trilogije **VIP**",Lara Croft: Tomb Raider
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raiders of the Lost Ark" tvg-logo="https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" group-title="Trilogije **VIP**",Raiders of the Lost Ark
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/26764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones And The Kingdom Of The Crystal Skull" tvg-logo="http://images.ottshow.net/images/qY1x6v5daMDTr904G3y84WVgpfC_big.jpg" group-title="Trilogije **VIP**",Indiana Jones And The Kingdom Of The Crystal Skull
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/17700.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones And The Temple Of Doom" tvg-logo="http://images.ottshow.net/images/f2nTRKk2zGdUTE7tLJ5EGGSuKA6_big.jpg" group-title="Trilogije **VIP**",Indiana Jones And The Temple Of Doom
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/17698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween Ends" tvg-logo="https://image.tmdb.org/t/p/w500/gH7Y2zriU5hTEhRQrcECddpk7xc.jpg" group-title="Trilogije **VIP**",Halloween Ends
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/63854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween Kills" tvg-logo="https://image.tmdb.org/t/p/w500/6h1w9BEpowfycya8xgnfmM4X9iZ.jpg" group-title="Trilogije **VIP**",Halloween Kills
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 2018" tvg-logo="http://repo.ottshow.net/slika/mpUdfqog61BquIF6rrlPIvmEDJOJEF.png" group-title="Trilogije **VIP**",Halloween 2018
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 2007" tvg-logo="https://image.tmdb.org/t/p/w500/kX0tl6NyfLw1N2vegNEVO0SNZAg.jpg" group-title="Trilogije **VIP**",Halloween 2007
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: Resurrection" tvg-logo="http://repo.ottshow.net/slika/hieKmujmEk74qTbv0h0H1BWRyXOff7.png" group-title="Trilogije **VIP**",Halloween: Resurrection
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween II" tvg-logo="http://repo.ottshow.net/slika/MDMmsHNvOZ5nLHkoCAf0P7r7uKhR63.png" group-title="Trilogije **VIP**",Halloween II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween H20: 20 Years Later" tvg-logo="http://repo.ottshow.net/slika/3L2QeQq7dJY6jzx0OXki4q4yfurqwI.png" group-title="Trilogije **VIP**",Halloween H20: 20 Years Later
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: The Curse of Michael Myers" tvg-logo="https://image.tmdb.org/t/p/w500/k3epVpkN417H3cux0OGfnc8vwQk.jpg" group-title="Trilogije **VIP**",Halloween: The Curse of Michael Myers
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 5: The Revenge of Michael Myers" tvg-logo="http://repo.ottshow.net/slika/M35dvDrb7JqSjx6yXtA2IW6tj9enIi.png" group-title="Trilogije **VIP**",Halloween 5: The Revenge of Michael Myers
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 4: The Return of Michael Myers" tvg-logo="http://repo.ottshow.net/slika/QtywOKS2K9IM9pFbRPdP8KTzKzAhbZ.png" group-title="Trilogije **VIP**",Halloween 4: The Return of Michael Myers
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween III: Season of the Witch" tvg-logo="http://repo.ottshow.net/slika/O5AwTKhtTp1ETYk14RkQZmCPlMoyGw.png" group-title="Trilogije **VIP**",Halloween III: Season of the Witch
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween II" tvg-logo="http://repo.ottshow.net/slika/T2ElaSBO9Asx2kd3cxmRZjsdiORrTo.png" group-title="Trilogije **VIP**",Halloween II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halloween" tvg-logo="https://image.tmdb.org/t/p/w500/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg" group-title="Trilogije **VIP**",Halloween
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/37848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 4: The Finale" tvg-logo="http://repo.ottshow.net/slika/b5cz6BoyHrgBnhfDHOW5hXRWbln.jpg" group-title="Trilogije **VIP**",Ip Man 4: The Finale
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 3" tvg-logo="https://image.tmdb.org/t/p/w500/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg" group-title="Trilogije **VIP**",Ip Man 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man 2" tvg-logo="http://repo.ottshow.net/slika/5FCY2ueDzU6b39byAGb3NRvr0zG.jpg" group-title="Trilogije **VIP**",Ip Man 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man" tvg-logo="https://image.tmdb.org/t/p/w500/ggTTUXZg7trvAhsVj3eyd65bAnh.jpg" group-title="Trilogije **VIP**",Ip Man
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Mockingjay - Part 2" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Agp56qlfdcrvtmwgNcORrVnV2EA.jpg" group-title="Trilogije **VIP**",The Hunger Games: Mockingjay - Part 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Mockingjay - Part 1" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o6CVAJU3bj0UBlB2p38ekU5kwxF.jpg" group-title="Trilogije **VIP**",The Hunger Games: Mockingjay - Part 1
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games: Catching Fire" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uio5Soku69zkKbfLxZkl0ZRyq8I.jpg" group-title="Trilogije **VIP**",The Hunger Games: Catching Fire
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hunger Games" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18AhV9TtIQsY0U2YVf3B2mZuc6Z.jpg" group-title="Trilogije **VIP**",The Hunger Games
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: The Last Knight" tvg-logo="http://repo.ottshow.net/slika/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="Trilogije **VIP**",Transformers: The Last Knight
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Age of Extinction" tvg-logo="http://repo.ottshow.net/slika/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg" group-title="Trilogije **VIP**",Transformers: Age of Extinction
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Dark of the Moon" tvg-logo="http://repo.ottshow.net/slika/yUqm7eke9oL0ZmKJfgIJLs8WNuJ.jpg" group-title="Trilogije **VIP**",Transformers: Dark of the Moon
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers: Revenge of the Fallen" tvg-logo="http://repo.ottshow.net/slika/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg" group-title="Trilogije **VIP**",Transformers: Revenge of the Fallen
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers" tvg-logo="http://repo.ottshow.net/slika/6eehp9I54syN3x753XMqjKz8M3F.jpg" group-title="Trilogije **VIP**",Transformers
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan: The Extractors" tvg-logo="https://image.tmdb.org/t/p/w500/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="Trilogije **VIP**",Escape Plan: The Extractors
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan 2: Hades" tvg-logo="http://repo.ottshow.net/slika/Aqhl55vpzxNFqVfc2DpedUsR39L.jpg" group-title="Trilogije **VIP**",Escape Plan 2: Hades
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape Plan" tvg-logo="https://image.tmdb.org/t/p/w500/zdnChkdppJjXl8lvwRz8vn6cs2s.jpg" group-title="Trilogije **VIP**",Escape Plan
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hobbit: The Battle of the Five Armies" tvg-logo="http://repo.ottshow.net/slika/xT98tLqatZPQApyRmlPL12LtiWp.jpg" group-title="Trilogije **VIP**",The Hobbit: The Battle of the Five Armies
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hobbit: The Desolation of Smaug" tvg-logo="https://image.tmdb.org/t/p/w500/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg" group-title="Trilogije **VIP**",The Hobbit: The Desolation of Smaug
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hobbit: An Unexpected Journey" tvg-logo="https://image.tmdb.org/t/p/w500/67DAaVjjFG7qyml1bu34PV17FKS.jpg" group-title="Trilogije **VIP**",The Hobbit: An Unexpected Journey
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Supremacy" tvg-logo="http://repo.ottshow.net/slika/7IYGiDrquvX3q7e9PV6Pejs6b2g.jpg" group-title="Trilogije **VIP**",The Bourne Supremacy
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Ultimatum" tvg-logo="http://repo.ottshow.net/slika/xqf7mzA77LmMJByvwxRLNdw5pz4.jpg" group-title="Trilogije **VIP**",The Bourne Ultimatum
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bourne Identity" tvg-logo="http://repo.ottshow.net/slika/vN6jGCuzefysLVFrzK3Vs6xAdu1.jpg" group-title="Trilogije **VIP**",The Bourne Identity
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Before Midnight" tvg-logo="http://repo.ottshow.net/slika/6wTw6762kAVTkyQWoHRUuUiRpBp.jpg" group-title="Trilogije **VIP**",Before Midnight
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Before Sunrise" tvg-logo="http://repo.ottshow.net/slika/5FP9hBWkklH9xfhOPQJxA91781Q.jpg" group-title="Trilogije **VIP**",Before Sunrise
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Before Sunset" tvg-logo="http://repo.ottshow.net/slika/gycdE1ARByGQcK4fYR2mgpU6OO.jpg" group-title="Trilogije **VIP**",Before Sunset
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx: Return of Xander Cage" tvg-logo="http://repo.ottshow.net/slika/hba8zREJpP1AYhaXgb2oJLQeO0K.jpg" group-title="Trilogije **VIP**",xXx: Return of Xander Cage
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx: State of the Union" tvg-logo="http://repo.ottshow.net/slika/MM1r8HQUn6VG0Njr8S6cmXHyvJ.jpg" group-title="Trilogije **VIP**",xXx: State of the Union
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="xXx" tvg-logo="http://repo.ottshow.net/slika/86BnliVDBo2TjKmrgQTJIPHxAKd.jpg" group-title="Trilogije **VIP**",xXx
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naked Gun 33½: The Final Insult" tvg-logo="http://repo.ottshow.net/slika/p0AYsdgkudR9P5fNV5AjzbwQt8W.jpg" group-title="Trilogije **VIP**",Naked Gun 33½: The Final Insult
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Naked Gun 2½: The Smell of Fear" tvg-logo="http://repo.ottshow.net/slika/u1ENZkgm2YItXk6xrzGWPQuAaXS.jpg" group-title="Trilogije **VIP**",The Naked Gun 2½: The Smell of Fear
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Naked Gun: From the Files of Police Squad!" tvg-logo="http://repo.ottshow.net/slika/m0jCuotD5USCscYJwxymbtS0tc2.jpg" group-title="Trilogije **VIP**",The Naked Gun: From the Files of Police Squad!
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/35735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2014" tvg-logo="https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg" group-title="Trilogije **VIP**",RoboCop 2014
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 3" tvg-logo="https://image.tmdb.org/t/p/w500/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg" group-title="Trilogije **VIP**",RoboCop 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop 2" tvg-logo="https://image.tmdb.org/t/p/w500/uL3Ab6SOcN35ZTF2XrE1NzFwXdl.jpg" group-title="Trilogije **VIP**",RoboCop 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RoboCop" tvg-logo="https://image.tmdb.org/t/p/w500/hHtOgGb3NihlyRATHlKPaFApbrd.jpg" group-title="Trilogije **VIP**",RoboCop
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/34067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Fallout" tvg-logo="https://image.tmdb.org/t/p/w500/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg" group-title="Trilogije **VIP**",Mission: Impossible - Fallout
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Rogue Nation" tvg-logo="https://image.tmdb.org/t/p/w500/oUDKymEL932AeHyl4A4ee8zuBLF.jpg" group-title="Trilogije **VIP**",Mission: Impossible - Rogue Nation
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible - Ghost Protocol" tvg-logo="https://image.tmdb.org/t/p/w500/7GCKNRbzcA4rJXAKoE8KS9IDnZP.jpg" group-title="Trilogije **VIP**",Mission: Impossible - Ghost Protocol
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible III" tvg-logo="https://image.tmdb.org/t/p/w500/5l0hS4A119jCA1A02XsFZHq1uRD.jpg" group-title="Trilogije **VIP**",Mission: Impossible III
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible II" tvg-logo="https://image.tmdb.org/t/p/w500/1VMWLpk9VXyYcEZ8w3uUhp0OF1v.jpg" group-title="Trilogije **VIP**",Mission: Impossible II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mission: Impossible" tvg-logo="https://image.tmdb.org/t/p/w500/sbrqw55DfVs08mW9JWNPMFgUSmW.jpg" group-title="Trilogije **VIP**",Mission: Impossible
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/33342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond" tvg-logo="https://image.tmdb.org/t/p/w500/65NVDW2LnHt2ko3m8ACxFo8E21f.jpg" group-title="Trilogije **VIP**",Star Trek Beyond
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Into Darkness" tvg-logo="https://image.tmdb.org/t/p/w500/7XrRkhMa9lQ71RszzSyVrJVvhyS.jpg" group-title="Trilogije **VIP**",Star Trek Into Darkness
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Nemesis" tvg-logo="https://image.tmdb.org/t/p/w500/cldAwhvBmOv9jrd3bXWuqRHoXyq.jpg" group-title="Trilogije **VIP**",Star Trek: Nemesis
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Insurrection" tvg-logo="https://image.tmdb.org/t/p/w500/xQCMAHeg5M9HpDIqanYbWdr4brB.jpg" group-title="Trilogije **VIP**",Star Trek: Insurrection
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: First Contact" tvg-logo="https://image.tmdb.org/t/p/w500/vrC1lkTktFQ4AqBfqf4PXoDDLcw.jpg" group-title="Trilogije **VIP**",Star Trek: First Contact
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: Generations" tvg-logo="https://image.tmdb.org/t/p/w500/rHsCYDGHFUarGh5k987b0EFU6kC.jpg" group-title="Trilogije **VIP**",Star Trek: Generations
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek VI: The Undiscovered Country" tvg-logo="https://image.tmdb.org/t/p/w500/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg" group-title="Trilogije **VIP**",Star Trek VI: The Undiscovered Country
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek V: The Final Frontier" tvg-logo="https://image.tmdb.org/t/p/w500/uiXr41VLYsuug3CZbFrKLSNahuZ.jpg" group-title="Trilogije **VIP**",Star Trek V: The Final Frontier
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek IV: The Voyage Home" tvg-logo="https://image.tmdb.org/t/p/w500/xY5TzGXJOB3L9rhZ1MbbPyVlW5J.jpg" group-title="Trilogije **VIP**",Star Trek IV: The Voyage Home
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek III: The Search for Spock" tvg-logo="https://image.tmdb.org/t/p/w500/yqEj0oPfKBMCz7YcCARHDgH7VFm.jpg" group-title="Trilogije **VIP**",Star Trek III: The Search for Spock
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek II: The Wrath of Khan" tvg-logo="https://image.tmdb.org/t/p/w500/uPyLsKl8Z0LOoxeaFXsY5MxhR5s.jpg" group-title="Trilogije **VIP**",Star Trek II: The Wrath of Khan
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek: The Motion Picture" tvg-logo="https://image.tmdb.org/t/p/w500/ffo56udrkF28ICTv3Xx1S9X6Dw4.jpg" group-title="Trilogije **VIP**",Star Trek: The Motion Picture
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lethal Weapon 4" tvg-logo="https://image.tmdb.org/t/p/w500/qc0GVMhZk44icQdynIin0xkE9YZ.jpg" group-title="Trilogije **VIP**",Lethal Weapon 4
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lethal Weapon 3" tvg-logo="https://image.tmdb.org/t/p/w500/hSwdrrNmfFFJKOPKQfoKQNWzXXy.jpg" group-title="Trilogije **VIP**",Lethal Weapon 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lethal Weapon 2" tvg-logo="https://image.tmdb.org/t/p/w500/ujPZAuLSt98r5Kc3VXtHBTyRAQu.jpg" group-title="Trilogije **VIP**",Lethal Weapon 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lethal Weapon" tvg-logo="https://image.tmdb.org/t/p/w500/sspUjQHRfhz4ogdzCIau0zIl525.jpg" group-title="Trilogije **VIP**",Lethal Weapon
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa" tvg-logo="https://image.tmdb.org/t/p/w500/kriSNwerSbYIiAVYqEWH3QjD4IY.jpg" group-title="Trilogije **VIP**",Rocky Balboa
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky V" tvg-logo="https://image.tmdb.org/t/p/w500/cGbQZyTvivmC6UhmoSB1OBoLY3B.jpg" group-title="Trilogije **VIP**",Rocky V
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky IV" tvg-logo="https://image.tmdb.org/t/p/w500/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg" group-title="Trilogije **VIP**",Rocky IV
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky III" tvg-logo="https://image.tmdb.org/t/p/w500/lklrplDDuALhY3k8IDFdRqtpZPk.jpg" group-title="Trilogije **VIP**",Rocky III
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky II" tvg-logo="https://image.tmdb.org/t/p/w500/a9UbfUELZHj96tBVWnKrDrtnQcr.jpg" group-title="Trilogije **VIP**",Rocky II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rocky" tvg-logo="https://image.tmdb.org/t/p/w500/i5xiwdSsrecBvO7mIfAJixeEDSg.jpg" group-title="Trilogije **VIP**",Rocky
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: Breaking Dawn - Part 2" tvg-logo="https://image.tmdb.org/t/p/w500/jHE7WUf3FDod8vw3O3twh0JVZun.jpg" group-title="Trilogije **VIP**",The Twilight Saga: Breaking Dawn - Part 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: Breaking Dawn - Part 1" tvg-logo="https://image.tmdb.org/t/p/w500/dSSzv6JrlwS48pBeTNSswLJXOYF.jpg" group-title="Trilogije **VIP**",The Twilight Saga: Breaking Dawn - Part 1
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: Eclipse" tvg-logo="https://image.tmdb.org/t/p/w500/sOpCY4by0bkEu9LbVXVCOpWWKzF.jpg" group-title="Trilogije **VIP**",The Twilight Saga: Eclipse
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Twilight Saga: New Moon" tvg-logo="https://image.tmdb.org/t/p/w500/j5jM5pq78ObAXX1WhTsb115EkLl.jpg" group-title="Trilogije **VIP**",The Twilight Saga: New Moon
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Twilight" tvg-logo="https://image.tmdb.org/t/p/w500/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg" group-title="Trilogije **VIP**",Twilight
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/32096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander: V The Source" tvg-logo="https://image.tmdb.org/t/p/w500/wt5p1WkBu7Ma3Jfyb6rGLs9ouvj.jpg" group-title="Trilogije **VIP**",Highlander: V The Source
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander: IV Endgame" tvg-logo="https://image.tmdb.org/t/p/w500/agMGPfzc1UJFEYCp6KmhJRuKNkW.jpg" group-title="Trilogije **VIP**",Highlander: IV Endgame
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander III: The Sorcerer" tvg-logo="https://image.tmdb.org/t/p/w500/4lVKy9bsVw78EFhd4yHTDwgBr0U.jpg" group-title="Trilogije **VIP**",Highlander III: The Sorcerer
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander II: The Quickening" tvg-logo="https://image.tmdb.org/t/p/w500/qxKeykPNGbKAK0DJijMUaZ5cVPo.jpg" group-title="Trilogije **VIP**",Highlander II: The Quickening
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Highlander I" tvg-logo="https://image.tmdb.org/t/p/w500/8Z8dptJEypuLoOQro1WugD855YE.jpg" group-title="Trilogije **VIP**",Highlander I
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hangover Part III" tvg-logo="http://repo.ottshow.net/slika/vtxuPWkdllLNLVyGjKYa267ntuH.jpg" group-title="Trilogije **VIP**",The Hangover Part III
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hangover Part II" tvg-logo="http://repo.ottshow.net/slika/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg" group-title="Trilogije **VIP**",The Hangover Part II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Hangover" tvg-logo="http://repo.ottshow.net/slika/jjCPcxw7QCmFPYM1t3BThdEawJK.jpg" group-title="Trilogije **VIP**",The Hangover
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men In Black" tvg-logo="http://images.ottshow.net/images/f24UVKq3UiQWLqGWdqjwkzgB8j8_big.jpg" group-title="Trilogije **VIP**",Men In Black
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/17231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men In Black 2" tvg-logo="http://images.ottshow.net/images/qWjRfBwr4VculczswwojXgoU0mq_big.jpg" group-title="Trilogije **VIP**",Men In Black 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/17230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men In Black 3" tvg-logo="http://images.ottshow.net/images/l9hrvXyGq19f6jPRZhSVRibTMwW_big.jpg" group-title="Trilogije **VIP**",Men In Black 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/17229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men In Black International" tvg-logo="http://images.ottshow.net/images/dPrUPFcgLfNbmDL8V69vcrTyEfb_big.jpg" group-title="Trilogije **VIP**",Men In Black International
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/24762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War for the Planet of the Apes" tvg-logo="https://image.tmdb.org/t/p/w500/ijQHiImv16vNSeZQsmih04kwn0C.jpg" group-title="Trilogije **VIP**",War for the Planet of the Apes
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dawn of the Planet of the Apes" tvg-logo="https://image.tmdb.org/t/p/w500/ie14Sm0hRI5f7Te2KIfU64NyCPr.jpg" group-title="Trilogije **VIP**",Dawn of the Planet of the Apes
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rise of the Planet of the Apes" tvg-logo="https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg" group-title="Trilogije **VIP**",Rise of the Planet of the Apes
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-No Time to Die" tvg-logo="https://image.tmdb.org/t/p/w500/ou8z8eCAkvy8PQ2I1vsVmglZ4vi.jpg" group-title="Trilogije **VIP**",007-No Time to Die
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/38159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Spectre" tvg-logo="http://repo.ottshow.net/slika/672kUEMtTHcaVYSVY4eiHEliHFa.jpg" group-title="Trilogije **VIP**",007-Spectre
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Skyfall" tvg-logo="http://repo.ottshow.net/slika/izrHg2UzxG3YXTBcKFaUbYp9LWA.jpg" group-title="Trilogije **VIP**",007-Skyfall
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Quantum of Solace" tvg-logo="http://repo.ottshow.net/slika/5BzOOL7zknsZSUeJwSa9kGuzHCR.jpg" group-title="Trilogije **VIP**",007-Quantum of Solace
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Casino Royale" tvg-logo="http://repo.ottshow.net/slika/wmRTS3WrXRi8GJdpDae1NifYNwx.jpg" group-title="Trilogije **VIP**",007-Casino Royale
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Die Another Day" tvg-logo="http://repo.ottshow.net/slika/bZmGqOhMhaLn8AoFMvFDct4tbrL.jpg" group-title="Trilogije **VIP**",007-Die Another Day
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-The World Is Not Enough" tvg-logo="http://repo.ottshow.net/slika/uzHuGbDwubzhOt68DjQq8JPVVaJ.jpg" group-title="Trilogije **VIP**",007-The World Is Not Enough
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Tomorrow Never Dies" tvg-logo="http://repo.ottshow.net/slika/yWXNZHE4k4jlQhGhBEiLwYa2rIt.jpg" group-title="Trilogije **VIP**",007-Tomorrow Never Dies
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-GoldenEye" tvg-logo="http://repo.ottshow.net/slika/bFzjdy6ucvNlXmJwoSoYfufV6lP.jpg" group-title="Trilogije **VIP**",007-GoldenEye
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-The Living Daylights" tvg-logo="http://repo.ottshow.net/slika/4qfEjHgXZSfWu6STDFhNVcgIexH.jpg" group-title="Trilogije **VIP**",007-The Living Daylights
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-A View to a Kill" tvg-logo="http://repo.ottshow.net/slika/ieMTbSdYJJ7RZIW0X02NbwIAxMl.jpg" group-title="Trilogije **VIP**",007-A View to a Kill
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Never Say Never Again" tvg-logo="http://repo.ottshow.net/slika/51S3M8Q8YML._SY445_.jpg" group-title="Trilogije **VIP**",007-Never Say Never Again
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Octopussy" tvg-logo="http://repo.ottshow.net/slika/cFDNFEBhnFIN5EVUM2RyHuY8Ipz.jpg" group-title="Trilogije **VIP**",007-Octopussy
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-For Your Eyes Only" tvg-logo="http://repo.ottshow.net/slika/p1577_p_v10_aa.jpg" group-title="Trilogije **VIP**",007-For Your Eyes Only
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonraker" tvg-logo="https://image.tmdb.org/t/p/w500/6LrJdXNmu5uHOVALZxVYd44Lva0.jpg" group-title="Trilogije **VIP**",Moonraker
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Live and Let Die" tvg-logo="http://repo.ottshow.net/slika/A1P93E02UaL._SL1500_.jpg" group-title="Trilogije **VIP**",007-Live and Let Die
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Diamonds Are Forever" tvg-logo="http://repo.ottshow.net/slika/uajiHcFX5sOhYB2tBuWkmizbtuU.jpg" group-title="Trilogije **VIP**",007-Diamonds Are Forever
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-On Her Majesty's Secret Service" tvg-logo="http://repo.ottshow.net/slika/916cWxvaCoL._AC_SY445_.jpg" group-title="Trilogije **VIP**",007-On Her Majesty's Secret Service
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-You Only Live Twice" tvg-logo="http://repo.ottshow.net/slika/51P6bPmLKKL._SY445_.jpg" group-title="Trilogije **VIP**",007-You Only Live Twice
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Thunderball" tvg-logo="https://assets.mi6-hq.com/sections/movies/dvdcovers/tb.jpg" group-title="Trilogije **VIP**",007-Thunderball
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Goldfinger" tvg-logo="http://repo.ottshow.net/slika/1b1a037f992b847df4951b5315692862.jpg" group-title="Trilogije **VIP**",007-Goldfinger
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-From Russia with Love" tvg-logo="http://repo.ottshow.net/slika/xTle7ThbHKQgQYKcyKZ02gfSYIe.jpg" group-title="Trilogije **VIP**",007-From Russia with Love
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="007-Dr. No" tvg-logo="http://repo.ottshow.net/slika/E0J8HxoDFA8f9TS5c6e6thsszz.jpg" group-title="Trilogije **VIP**",007-Dr. No
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/31892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brzi i žestoki 9" tvg-logo="https://image.tmdb.org/t/p/w500/5IXhQH7a0mYsnli6h5mGGQeWn2I.jpg" group-title="Trilogije **VIP**",Brzi i žestoki 9
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/36015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious Presents: Hobbs & Shaw" tvg-logo="http://repo.ottshow.net/slika/qRyy2UmjC5ur9bDi3kpNNRCc5nc.jpg" group-title="Trilogije **VIP**",Fast & Furious Presents: Hobbs & Shaw
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fate of the Furious" tvg-logo="http://repo.ottshow.net/slika/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg" group-title="Trilogije **VIP**",The Fate of the Furious
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious 6" tvg-logo="https://image.tmdb.org/t/p/w500/n31VRDodbaZxkrZmmzyYSFNVpW5.jpg" group-title="Trilogije **VIP**",Fast & Furious 6
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast Five" tvg-logo="https://image.tmdb.org/t/p/w500/7F6MH7NDhMU3x3RQtPqXEjN2qg0.jpg" group-title="Trilogije **VIP**",Fast Five
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious" tvg-logo="https://image.tmdb.org/t/p/w500/pk8TyMix5QtQ1ND5MROfIPvx4XJ.jpg" group-title="Trilogije **VIP**",Fast & Furious
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious: Tokyo Drift" tvg-logo="http://repo.ottshow.net/slika/g5pxxYlRJU7bG6ijgDbewXonmSY.jpg" group-title="Trilogije **VIP**",The Fast and the Furious: Tokyo Drift
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2 Fast 2 Furious" tvg-logo="https://image.tmdb.org/t/p/w500/osgUUpwst1TEaSDTBrrTE6KuCbW.jpg" group-title="Trilogije **VIP**",2 Fast 2 Furious
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fast and the Furious" tvg-logo="http://repo.ottshow.net/slika/5En3O5t9LG8PfRaNs3vKfMdjQ1B.jpg" group-title="Trilogije **VIP**",The Fast and the Furious
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Expendables 3" tvg-logo="http://repo.ottshow.net/slika/6MD1qPgEdvOfPCJkA1dq0SdOz2.jpg" group-title="Trilogije **VIP**",The Expendables 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Expendables 2" tvg-logo="https://image.tmdb.org/t/p/w500/6BxsfzRVjyt3D3KAyz3xgYKBxf7.jpg" group-title="Trilogije **VIP**",The Expendables 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Expendables" tvg-logo="https://image.tmdb.org/t/p/w500/8tb3x0rYBGkgOTh1dCXPpmikp1V.jpg" group-title="Trilogije **VIP**",The Expendables
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Transporter Refueled" tvg-logo="https://image.tmdb.org/t/p/w500/6H83DqxVRlSoRUyUrAtn0zbg5VH.jpg" group-title="Trilogije **VIP**",The Transporter Refueled
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transporter 3" tvg-logo="https://image.tmdb.org/t/p/w500/ngpLhUccj6mlvAVpiIa7jUcFxhT.jpg" group-title="Trilogije **VIP**",Transporter 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transporter 2" tvg-logo="https://image.tmdb.org/t/p/w500/8pRuchsAKi90PNyDbzUvyvqF8LV.jpg" group-title="Trilogije **VIP**",Transporter 2
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Transporter" tvg-logo="https://image.tmdb.org/t/p/w500/v3QIFUWgtVN4wejVuDZowuyJ20W.jpg" group-title="Trilogije **VIP**",The Transporter
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pusher 3" tvg-logo="https://image.tmdb.org/t/p/w500/1Uem8i51uivMGRmajCEmmNCBEmu.jpg" group-title="Trilogije **VIP**",Pusher 3
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pusher II" tvg-logo="https://image.tmdb.org/t/p/w500/3SVBUoHpyvBFljxRyQrwPbUCFzf.jpg" group-title="Trilogije **VIP**",Pusher II
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pusher" tvg-logo="https://image.tmdb.org/t/p/w500/8z2avGSJmoFdKNYaktA7QWe7m2C.jpg" group-title="Trilogije **VIP**",Pusher
+http://ottshow.net:80/movie/zanoviPane2024/zanoviPanel2024/30449.mp4
 
 
 #EXTINF:0 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/originald/041243X0-landscape.jpg" group-title="MOVIE",The Nun II
