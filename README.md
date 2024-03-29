@@ -117,7 +117,1402 @@ https://www.googleapis.com/drive/v3/files/11P-9J4UtFB7CNMrB6uP9IEy3M0Aslfca?alt=
 
 
 ==================================================================================================================================================
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jennifer Lopez" group-title="24/7",24/7 Jennifer Lopez
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790307&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Julia Roberts" group-title="24/7",24/7 Julia Roberts
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790306&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Phineas a Ferb" group-title="24/7",24/7 Phineas a Ferb
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790305&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sunderland 'Til I Die" group-title="24/7",24/7 Sunderland 'Til I Die
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790304&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wheeler Dealers" group-title="24/7",24/7 Wheeler Dealers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790303&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 House of the Dragon" group-title="24/7",24/7 House of the Dragon
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790302&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Game On" group-title="24/7",24/7 Game On
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790301&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mrs Brown's Boys (Specials)" group-title="24/7",24/7 Mrs Brown's Boys (Specials)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790300&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" group-title="24/7",24/7 Fear the Walking Dead
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790299&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Goodnight Sweetheart" group-title="24/7",24/7 Goodnight Sweetheart
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790298&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hale & Pace" group-title="24/7",24/7 Hale & Pace
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790297&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead: Dead City" group-title="24/7",24/7 The Walking Dead: Dead City
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790296&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bottom" group-title="24/7",24/7 Bottom
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790295&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Goodness Gracious Me" group-title="24/7",24/7 Goodness Gracious Me
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790294&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Twin Peaks" group-title="24/7",24/7 Twin Peaks
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790293&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ross Kemp On Gangs" group-title="24/7",24/7 Ross Kemp On Gangs
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790292&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan" group-title="24/7",24/7 Jackie Chan
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790291&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Nicolas Cage" group-title="24/7",24/7 Nicolas Cage
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790290&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Strain" group-title="24/7",24/7 The Strain
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790289&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Christmas Movies" group-title="24/7",24/7 Christmas Movies
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790288&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Steven Seagal" group-title="24/7",24/7 Steven Seagal
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790287&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jean-Claude Van Damme" group-title="24/7",24/7 Jean-Claude Van Damme
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790286&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Red Dwarf (Specials)" group-title="24/7",24/7 Red Dwarf (Specials)
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790285&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Undateables" group-title="24/7",24/7 The Undateables
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790284&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" group-title="24/7",24/7 Power Rangers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790283&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Mouth" group-title="24/7",24/7 Big Mouth
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790282&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 101 Dalmatians" group-title="24/7",24/7 101 Dalmatians
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790281&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mel Gibson" group-title="24/7",24/7 Mel Gibson
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790280&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The West Wing" group-title="24/7",24/7 The West Wing
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790279&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Robin Williams" group-title="24/7",24/7 Robin Williams
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790278&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Brickleberry" group-title="24/7",24/7 Brickleberry
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790277&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 All Creatures Great and Small" group-title="24/7",24/7 All Creatures Great and Small
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790276&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chris Rock" group-title="24/7",24/7 Chris Rock
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790275&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pitch Perfect" group-title="24/7",24/7 Pitch Perfect
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790274&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Once Upon a Time" group-title="24/7",24/7 Once Upon a Time
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790273&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sabrina, The Teenage Witch" group-title="24/7",24/7 Sabrina, The Teenage Witch
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790272&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Lion Guard" group-title="24/7",24/7 The Lion Guard
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790271&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Insanity Fitness" group-title="24/7",24/7 Insanity Fitness
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790270&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Drunk History" group-title="24/7",24/7 Drunk History
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790269&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Schitt's Creek" group-title="24/7",24/7  Schitt's Creek
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790268&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hoarders" group-title="24/7",24/7 Hoarders
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790267&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Top Boy" group-title="24/7",24/7 Top Boy
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790266&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" group-title="24/7",24/7 Johnny Bravo
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790265&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lizzie McGuire" group-title="24/7",24/7 Lizzie McGuire
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790264&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Miranda" group-title="24/7",24/7 Miranda
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790263&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Men Behaving Badly" group-title="24/7",24/7 Men Behaving Badly
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790262&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Brooklyn Nine-Nine" group-title="24/7",24/7 Brooklyn Nine-Nine
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790261&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 How I Met Your Mother" group-title="24/7",24/7 How I Met Your Mother
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790260&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Treehouse Masters" group-title="24/7",24/7 Treehouse Masters
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790259&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Octonauts" group-title="24/7",24/7 Octonauts
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790258&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 American Pie" group-title="24/7",24/7 American Pie
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790257&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo, Where Are You!" group-title="24/7",24/7 Scooby-Doo, Where Are You!
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790256&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Robson's Extreme Fishing Challenge" group-title="24/7",24/7  Robson's Extreme Fishing Challenge
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790255&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peter Rabbit" group-title="24/7",24/7 Peter Rabbit
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790254&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jason Bateman" group-title="24/7",24/7 Jason Bateman
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790253&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gavin & Stacey" group-title="24/7",24/7 Gavin & Stacey
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790252&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stargate SG-1" group-title="24/7",24/7 Stargate SG-1
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790251&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Secret of Skinwalker Ranch" group-title="24/7",24/7 The Secret of Skinwalker Ranch
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790250&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stargate Atlantis" group-title="24/7",24/7 Stargate Atlantis
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790249&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stargate Universe" group-title="24/7",24/7 Stargate Universe
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790248&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Sex and the City" group-title="24/7",24/7  Sex and the City
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790247&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fringe" group-title="24/7",24/7 Fringe
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790246&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 House of Cards" group-title="24/7",24/7 House of Cards
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790245&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Crocodile Hunter" group-title="24/7",24/7  The Crocodile Hunter
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790244&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Curse of Oak Island" group-title="24/7",24/7 The Curse of Oak Island
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790243&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Darling Buds of May" group-title="24/7",24/7 The Darling Buds of May
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790242&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Manifest" group-title="24/7",24/7 Manifest
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790241&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 At Home with the Furys" group-title="24/7",24/7 At Home with the Furys
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790240&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mad Men" group-title="24/7",24/7 Mad Men
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790239&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teachers" group-title="24/7",24/7 Teachers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790238&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rizzoli & Isles" group-title="24/7",24/7 Rizzoli & Isles
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790237&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" group-title="24/7",24/7 Chernobyl
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790236&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Everybody Loves Raymond" group-title="24/7",24/7 Everybody Loves Raymond
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790235&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Terminator: The Sarah Connor Chronicles" group-title="24/7",24/7 Terminator: The Sarah Connor Chronicles
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790234&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Grimm" group-title="24/7",24/7 Grimm
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790233&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hill Street Blues" group-title="24/7",24/7 Hill Street Blues
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790232&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Wonder Years" group-title="24/7",24/7 The Wonder Years
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790231&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Book II: Ghost" group-title="24/7",24/7 Power Book II: Ghost
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790230&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Auf Wiedersehen, Pet" group-title="24/7",24/7 Auf Wiedersehen, Pet
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790229&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 All in the Family" group-title="24/7",24/7 All in the Family
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790228&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Inbetweeners" group-title="24/7",24/7 The Inbetweeners
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790227&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Prodigy" group-title="24/7",24/7 Star Trek: Prodigy
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790226&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dad's Army" group-title="24/7",24/7 Dad's Army
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790225&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The O.C." group-title="24/7",24/7  The O.C.
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790224&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Middle" group-title="24/7",24/7 The Middle
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790223&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Bernie Mac Show" group-title="24/7",24/7 The Bernie Mac Show
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790222&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Peep Show" group-title="24/7",24/7  Peep Show
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790221&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mentalist" group-title="24/7",24/7 The Mentalist
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790220&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fortitude" group-title="24/7",24/7 Fortitude
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790219&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Honeymooners" group-title="24/7",24/7 The Honeymooners
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790218&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gossip Girl" group-title="24/7",24/7 Gossip Girl
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790217&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Parks and Recreation" group-title="24/7",24/7 Parks and Recreation
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790216&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Extant" group-title="24/7",24/7 Extant
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790215&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 9-1-1: Lone Star" group-title="24/7",24/7 9-1-1: Lone Star
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790214&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 8 Simple Rules" group-title="24/7",24/7 8 Simple Rules
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790213&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doc Martin" group-title="24/7",24/7 Doc Martin
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790212&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Dinnerladies" group-title="24/7",24/7  Dinnerladies
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790211&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hotel Hell" group-title="24/7",24/7 Hotel Hell
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790210&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gimme Gimme Gimme" group-title="24/7",24/7 Gimme Gimme Gimme
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790209&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Absolutely Fabulous" group-title="24/7",24/7 Absolutely Fabulous
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790208&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Night Shift" group-title="24/7",24/7 The Night Shift
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790207&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Moaning of Life" group-title="24/7",24/7  The Moaning of Life
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790206&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stella" group-title="24/7",24/7 Stella
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790205&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Munsters" group-title="24/7",24/7 The Munsters
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790204&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Vicar of Dibley" group-title="24/7",24/7 The Vicar of Dibley
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790203&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Finding Carter" group-title="24/7",24/7  Finding Carter
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790202&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" group-title="24/7",24/7 Danny Phantom
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790201&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 15 Storeys High" group-title="24/7",24/7 15 Storeys High
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790200&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Flash Forward" group-title="24/7",24/7 Flash Forward
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790199&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Westworld" group-title="24/7",24/7 Westworld
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790198&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chucky" group-title="24/7",24/7 Chucky
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790197&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CoComelon" group-title="24/7",24/7 CoComelon
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790196&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" group-title="24/7",24/7 Chicago Fire
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790195&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lost" group-title="24/7",24/7 Lost
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790194&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 House M.D" group-title="24/7",24/7 House M.D
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790193&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mission Impossible" group-title="24/7",24/7 Mission Impossible
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790192&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Buffy the Vampire Slayer" group-title="24/7",24/7 Buffy the Vampire Slayer
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790191&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sanford and Son" group-title="24/7",24/7 Sanford and Son
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790190&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" group-title="24/7",24/7 Ben 10
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790189&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Tudors" group-title="24/7",24/7 The Tudors
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790188&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Shield" group-title="24/7",24/7 The Shield
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790187&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mike & Molly" group-title="24/7",24/7 Mike & Molly
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790186&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24" group-title="24/7",24/7 24
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790185&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 How to Get Away with Murder" group-title="24/7",24/7 How to Get Away with Murder
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790184&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Deadwood" group-title="24/7",24/7  Deadwood
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790183&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  'Allo 'Allo!" group-title="24/7",24/7  'Allo 'Allo!
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790182&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Curious George" group-title="24/7",24/7 Curious George
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790181&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 My Wife and Kids" group-title="24/7",24/7 My Wife and Kids
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790180&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Person of Interest" group-title="24/7",24/7  Person of Interest
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790179&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ballers" group-title="24/7",24/7 Ballers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790178&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ocean's" group-title="24/7",24/7 Ocean's
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790177&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bruce Lee" group-title="24/7",24/7 Bruce Lee
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790176&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alien" group-title="24/7",24/7 Alien
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790175&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Sails" group-title="24/7",24/7 Black Sails
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790174&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jurassic Park" group-title="24/7",24/7 Jurassic Park
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790173&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Iron Man" group-title="24/7",24/7 Iron Man
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790172&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Smokey and the Bandit" group-title="24/7",24/7 Smokey and the Bandit
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790171&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Inspector Gadget" group-title="24/7",24/7 Inspector Gadget
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790170&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 24 Hours in A&E" group-title="24/7",24/7 24 Hours in A&E
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790169&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jack Ryan" group-title="24/7",24/7 Jack Ryan
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790168&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Adam Sandler" group-title="24/7",24/7 Adam Sandler
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790167&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Pink Panther" group-title="24/7",24/7 The Pink Panther
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790166&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Avengers" group-title="24/7",24/7 Avengers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790165&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Aladdin" group-title="24/7",24/7 Aladdin
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790164&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Benidorm" group-title="24/7",24/7 Benidorm
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790163&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Mr. Robot" group-title="24/7",24/7  Mr. Robot
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790162&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Expendables" group-title="24/7",24/7 The Expendables
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790161&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lord of the Rings" group-title="24/7",24/7 Lord of the Rings
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790160&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Hunger Games" group-title="24/7",24/7 The Hunger Games
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790159&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Sandra Bullock" group-title="24/7",24/7  Sandra Bullock
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790158&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Speed" group-title="24/7",24/7 Speed
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790157&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Planet of the Apes" group-title="24/7",24/7  Planet of the Apes
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790156&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pretty Little Liars" group-title="24/7",24/7 Pretty Little Liars
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790155&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Top Gun" group-title="24/7",24/7 Top Gun
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790154&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Karate Kid" group-title="24/7",24/7 The Karate Kid
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790153&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Taxi" group-title="24/7",24/7 Taxi
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790152&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Nanny McPhee" group-title="24/7",24/7 Nanny McPhee
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790151&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ghostbusters" group-title="24/7",24/7 Ghostbusters
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790150&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Friday" group-title="24/7",24/7  Friday
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790149&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman" group-title="24/7",24/7 Batman
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790148&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Austin Powers" group-title="24/7",24/7 Austin Powers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790147&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  A Nightmare on Elm Street" group-title="24/7",24/7  A Nightmare on Elm Street
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790146&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Insidious" group-title="24/7",24/7 Insidious
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790145&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Spider-Man" group-title="24/7",24/7  Spider-Man
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790144&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lethal Weapon" group-title="24/7",24/7 Lethal Weapon
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790143&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 X-Men" group-title="24/7",24/7 X-Men
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790142&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Miami Vice" group-title="24/7",24/7 Miami Vice
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790141&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kenan & Kel" group-title="24/7",24/7 Kenan & Kel
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790140&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick and Morty" group-title="24/7",24/7 Rick and Morty
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790139&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Chronicles of Narnia" group-title="24/7",24/7 The Chronicles of Narnia
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790138&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rush Hour" group-title="24/7",24/7 Rush Hour
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790137&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Indiana Jones" group-title="24/7",24/7  Indiana Jones
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790136&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Godfather" group-title="24/7",24/7 The Godfather
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790135&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Hangover" group-title="24/7",24/7 The Hangover
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790134&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Discovery" group-title="24/7",24/7 Star Trek: Discovery
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790133&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Outlander" group-title="24/7",24/7 Outlander
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790132&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Enterprise" group-title="24/7",24/7 Star Trek: Enterprise
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790131&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Broadchurch" group-title="24/7",24/7 Broadchurch
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790130&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seinfeld" group-title="24/7",24/7 Seinfeld
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790129&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 I Dream of Jeannie" group-title="24/7",24/7 I Dream of Jeannie
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790128&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dickinson" group-title="24/7",24/7 Dickinson
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790127&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" group-title="24/7",24/7 Breaking Bad
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790126&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The X-Files" group-title="24/7",24/7  The X-Files
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790125&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yellowstone" group-title="24/7",24/7 Yellowstone
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790124&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 James Bond Latest" group-title="24/7",24/7 James Bond Latest
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790123&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PJ Masks" group-title="24/7",24/7 PJ Masks
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790122&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The 100" group-title="24/7",24/7 The 100
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790121&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones" group-title="24/7",24/7 Game of Thrones
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790120&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dexter's Laboratory" group-title="24/7",24/7 Dexter's Laboratory
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790119&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Will Smith" group-title="24/7",24/7 Will Smith
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790118&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Remington Steele" group-title="24/7",24/7 Remington Steele
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790117&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Young Sheldon" group-title="24/7",24/7 Young Sheldon
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790116&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Liam Neeson" group-title="24/7",24/7 Liam Neeson
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790115&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: The Next Generation" group-title="24/7",24/7 Star Trek: The Next Generation
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790114&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Grand Tour" group-title="24/7",24/7 The Grand Tour
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790113&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scrubs" group-title="24/7",24/7 Scrubs
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790112&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hogan's Heroes" group-title="24/7",24/7 Hogan's Heroes
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790111&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The A-Team" group-title="24/7",24/7 The A-Team
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790110&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sons of Anarchy" group-title="24/7",24/7 Sons of Anarchy
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790109&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers" group-title="24/7",24/7 Transformers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790108&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pam & Tommy" group-title="24/7",24/7 Pam & Tommy
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790107&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 An Idiot Abroad" group-title="24/7",24/7 An Idiot Abroad
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790106&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Fresh Prince of Bel-Air" group-title="24/7",24/7 The Fresh Prince of Bel-Air
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790105&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Weeds" group-title="24/7",24/7 Weeds
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790104&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  The Simpsons" group-title="24/7",24/7  The Simpsons
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790103&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Heartbeat" group-title="24/7",24/7 Heartbeat
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790102&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rules of Engagement" group-title="24/7",24/7 Rules of Engagement
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790101&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Phoenix Nights" group-title="24/7",24/7 Phoenix Nights
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790100&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gotham Knights" group-title="24/7",24/7 Gotham Knights
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790099&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dream Team" group-title="24/7",24/7 Dream Team
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790098&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dynasties" group-title="24/7",24/7 Dynasties
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790097&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Hanks" group-title="24/7",24/7 Tom Hanks
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790096&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paul Smith" group-title="24/7",24/7 Paul Smith
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790095&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Power" group-title="24/7",24/7 Power
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790094&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Orange Is the New Black" group-title="24/7",24/7 Orange Is the New Black
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790093&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ghost Whisperer" group-title="24/7",24/7 Ghost Whisperer
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790092&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Two Pints of Lager and a Packet of Crisps" group-title="24/7",24/7 Two Pints of Lager and a Packet of Crisps
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790091&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Rockford Files" group-title="24/7",24/7 The Rockford Files
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790090&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Isle of Man TT" group-title="24/7",24/7  Isle of Man TT
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790089&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Kojak" group-title="24/7",24/7 Kojak
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790088&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Vampire Diaries" group-title="24/7",24/7 The Vampire Diaries
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790087&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 True Detective" group-title="24/7",24/7 True Detective
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790086&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Poldark" group-title="24/7",24/7 Poldark
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790085&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shrek" group-title="24/7",24/7 Shrek
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790084&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tulsa King" group-title="24/7",24/7 Tulsa King
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790083&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Marvel's Agent Carter" group-title="24/7",24/7 Marvel's Agent Carter
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790082&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sylvester Stallone" group-title="24/7",24/7 Sylvester Stallone
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790081&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" group-title="24/7",24/7 Narcos
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790080&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Police Academy" group-title="24/7",24/7 Police Academy
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790079&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peter Kay's Car Share" group-title="24/7",24/7 Peter Kay's Car Share
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790078&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Better Call Saul" group-title="24/7",24/7 Better Call Saul
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790077&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lucifer" group-title="24/7",24/7 Lucifer
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790076&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" group-title="24/7",24/7 LazyTown
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790075&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 On the Buses" group-title="24/7",24/7 On the Buses
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790074&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Arnold Schwarzenegger" group-title="24/7",24/7 Arnold Schwarzenegger
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790073&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Only Fools and Horses" group-title="24/7",24/7 Only Fools and Horses
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790072&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dwayne Johnson" group-title="24/7",24/7 Dwayne Johnson
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790071&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cheers" group-title="24/7",24/7 Cheers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790070&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Forensic Files II" group-title="24/7",24/7 Forensic Files II
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790069&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jim Carrey" group-title="24/7",24/7 Jim Carrey
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790068&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Banshee" group-title="24/7",24/7  Banshee
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790067&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead" group-title="24/7",24/7 The Walking Dead
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790066&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 You" group-title="24/7",24/7 You
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790065&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Wire" group-title="24/7",24/7 The Wire
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790064&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sherlock" group-title="24/7",24/7 Sherlock
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790063&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Mirror" group-title="24/7",24/7 Black Mirror
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790062&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra Kai" group-title="24/7",24/7 Cobra Kai
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790061&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rab C Nesbitt" group-title="24/7",24/7 Rab C Nesbitt
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790060&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Pirates of the Caribbean" group-title="24/7",24/7  Pirates of the Caribbean
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790059&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blaze and the Monster Machines" group-title="24/7",24/7 Blaze and the Monster Machines
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790058&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jake and the Never Land Pirates" group-title="24/7",24/7 Jake and the Never Land Pirates
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790057&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fawlty Towers" group-title="24/7",24/7 Fawlty Towers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790056&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 13 Reasons Why" group-title="24/7",24/7 13 Reasons Why
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790055&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends" group-title="24/7",24/7 Friends
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790054&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peaky Blinders" group-title="24/7",24/7 Peaky Blinders
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790053&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" group-title="24/7",24/7 Stranger Things
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790052&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" group-title="24/7",24/7 South Park
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790051&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Suits" group-title="24/7",24/7 Suits
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790050&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" group-title="24/7",24/7 Curb Your Enthusiasm
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790049&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 This Country" group-title="24/7",24/7 This Country
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790048&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gypsy Bare Knuckle Fights" group-title="24/7",24/7 Gypsy Bare Knuckle Fights
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790047&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy" group-title="24/7",24/7 Family Guy
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790046&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. Pimple Popper" group-title="24/7",24/7 Dr. Pimple Popper
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790045&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse Clubhouse" group-title="24/7",24/7 Mickey Mouse Clubhouse
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790044&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Father Ted" group-title="24/7",24/7 Father Ted
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790043&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Sopranos" group-title="24/7",24/7 The Sopranos
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790042&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ray Donovan" group-title="24/7",24/7 Ray Donovan
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790041&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Still Open All Hours" group-title="24/7",24/7 Still Open All Hours
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790040&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Clint Eastwood" group-title="24/7",24/7 Clint Eastwood
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790039&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Naked Attraction" group-title="24/7",24/7 Naked Attraction
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790038&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Killing Eve" group-title="24/7",24/7  Killing Eve
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790037&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Royle Family" group-title="24/7",24/7 The Royle Family
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790036&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gangs of London" group-title="24/7",24/7 Gangs of London
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790035&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jason Statham" group-title="24/7",24/7 Jason Statham
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790034&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Downton Abbey" group-title="24/7",24/7 Downton Abbey
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790033&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Frasier" group-title="24/7",24/7 Frasier
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790032&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Homeland" group-title="24/7",24/7 Homeland
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790031&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fauda" group-title="24/7",24/7 Fauda
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790030&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Magnum, P.I." group-title="24/7",24/7 Magnum, P.I.
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790029&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Justice League" group-title="24/7",24/7 Justice League
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790028&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pawn Stars" group-title="24/7",24/7 Pawn Stars
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790027&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ramsay's Kitchen Nightmares" group-title="24/7",24/7 Ramsay's Kitchen Nightmares
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790026&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Britain" group-title="24/7",24/7 Little Britain
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790025&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Man About the House" group-title="24/7",24/7 Man About the House
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790024&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Love Thy Neighbour" group-title="24/7",24/7 Love Thy Neighbour
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790023&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Teletubbies" group-title="24/7",24/7 Teletubbies
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790022&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SpongeBob SquarePants" group-title="24/7",24/7 SpongeBob SquarePants
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790021&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora the Explorer" group-title="24/7",24/7 Dora the Explorer
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790020&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Office UK" group-title="24/7",24/7 The Office UK
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790019&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Thomas the Tank Engine" group-title="24/7",24/7 Thomas the Tank Engine
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790018&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Prison Break" group-title="24/7",24/7 Prison Break
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790017&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Blue Planet" group-title="24/7",24/7 The Blue Planet
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790016&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Queen of the South" group-title="24/7",24/7 Queen of the South
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790015&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friday Night Dinner" group-title="24/7",24/7 Friday Night Dinner
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790014&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Derek" group-title="24/7",24/7 Derek
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790013&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mrs Brown's Boys" group-title="24/7",24/7 Mrs Brown's Boys
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790012&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patrol" group-title="24/7",24/7  Paw Patrol
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790011&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fast & Furious" group-title="24/7",24/7 Fast & Furious
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790010&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" group-title="24/7",24/7 Peppa Pig
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790009&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry" group-title="24/7",24/7 Tom and Jerry
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790008&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Honey I Shrunk the Kids" group-title="24/7",24/7 Honey I Shrunk the Kids
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790007&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Thin Blue Line" group-title="24/7",24/7 The Thin Blue Line
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790006&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Band of Brothers" group-title="24/7",24/7 Band of Brothers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790005&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Brassic" group-title="24/7",24/7 Brassic
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790004&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Beverly Hills Cop" group-title="24/7",24/7 Beverly Hills Cop
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790003&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dog the Bounty Hunter" group-title="24/7",24/7 Dog the Bounty Hunter
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Knight Rider" group-title="24/7",24/7 Knight Rider
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790001&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Die Hard" group-title="24/7",24/7 Die Hard
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790000&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 One Foot in the Grave" group-title="24/7",24/7 One Foot in the Grave
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789999&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Marvel" group-title="24/7",24/7 Marvel
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789998&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rocky" group-title="24/7",24/7 Rocky
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RoboCop" group-title="24/7",24/7 RoboCop
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789996&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Toy Story" group-title="24/7",24/7 Toy Story
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789995&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 21 Jump Street" group-title="24/7",24/7 21 Jump Street
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789994&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" group-title="24/7",24/7 Harry Potter
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789993&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jason Bourne" group-title="24/7",24/7 Jason Bourne
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789992&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Little House on the Prairie" group-title="24/7",24/7 Little House on the Prairie
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789991&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 James Bond Classic" group-title="24/7",24/7 James Bond Classic
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789990&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean" group-title="24/7",24/7 Mr. Bean
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789989&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 In The Night Garden" group-title="24/7",24/7 In The Night Garden
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789988&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Men in Black" group-title="24/7",24/7 Men in Black
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789987&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bad Girls" group-title="24/7",24/7 Bad Girls
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789986&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Horrid Henry" group-title="24/7",24/7 Horrid Henry
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789985&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Homes Under the Hammer" group-title="24/7",24/7 Homes Under the Hammer
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789984&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7  Pokemon" group-title="24/7",24/7  Pokemon
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789983&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FUBAR" group-title="24/7",24/7 FUBAR
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789982&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Wars" group-title="24/7",24/7 Star Wars
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789981&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shameless" group-title="24/7",24/7 Shameless
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789980&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Cosby Show" group-title="24/7",24/7 The Cosby Show
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789979&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Partridge Family" group-title="24/7",24/7 The Partridge Family
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789978&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Airwolf" group-title="24/7",24/7 Airwolf
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789977&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Impractical Jokers" group-title="24/7",24/7 Impractical Jokers
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789976&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bless This House" group-title="24/7",24/7 Bless This House
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789975&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bluey" group-title="24/7",24/7 Bluey
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789974&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Dick Van Dyke Show" group-title="24/7",24/7 The Dick Van Dyke Show
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789973&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Twilight" group-title="24/7",24/7 Twilight
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789972&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Red Dwarf" group-title="24/7",24/7 Red Dwarf
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789971&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama" group-title="24/7",24/7 Futurama
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789970&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Young Ones" group-title="24/7",24/7 The Young Ones
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789969&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Car S.O.S." group-title="24/7",24/7 Car S.O.S.
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789968&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Baywatch" group-title="24/7",24/7 Baywatch
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789967&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Still Game" group-title="24/7",24/7 Still Game
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789966&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Sesame Street" group-title="24/7",24/7 Sesame Street
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789965&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jaws" group-title="24/7",24/7 Jaws
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789964&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hell's Kitchen" group-title="24/7",24/7 Hell's Kitchen
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789963&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bear in the Big Blue House" group-title="24/7",24/7 Bear in the Big Blue House
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789962&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fireman Sam" group-title="24/7",24/7 Fireman Sam
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789961&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Can't Pay? We'll Take It Away!" group-title="24/7",24/7 Can't Pay? We'll Take It Away!
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789960&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha and The Bear" group-title="24/7",24/7 Masha and The Bear
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789959&extension=ts
 
 
 
