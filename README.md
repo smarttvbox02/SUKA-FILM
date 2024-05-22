@@ -17,8 +17,114 @@ https://www.dropbox.com/scl/fi/1n257sa62wak14t8lu6tp/PIKON-__-EPS-73-720P_HD.mp4
 #EXTINF:-1 tvg-logo="https://scontent.fmlg5-1.fna.fbcdn.net/v/t39.30808-6/278334782_102716199080592_8817128080672965712_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEn5hNKsHiaKmGV4t7IEFLsRiJeLdg3ewpGIl4t2Dd7CiTgz84UCnYXwhW0xCeVr5HPp3upIFPWmfST90kOUJYD&_nc_ohc=qpsfUeEm0CoQ7kNvgFY7sbK&_nc_ht=scontent.fmlg5-1.fna&oh=00_AfD9rFvT1fbXEUBe7iHFyq1QnXXwkSDry6JdLtqyJO1q2A&oe=663286F6" group-title="WOKO CHANNEL",RONDA-SAHUR
 https://www.dropbox.com/scl/fi/z09xe55ak4hgktd5yeci1/RONDA-SAHUR-PAKAI-SOUND-SYSTEM-__-GOLEK-TAKJIL-DI-TADARUSAN-__-EPS-1-720P_HD.mp4?rlkey=l7ppjrih6us6ml24rtygtf9i6&dl=1
 
+=============================================================================================================
 
 
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CJVWnw6/Mana-Tahaaan-1979.jpg" group-title="WarKop DKI", Warkop DKI Reborn 4
+https://koceng.nofendraedi.workers.dev/WK4.mp4
+
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/CJVWnw6/Mana-Tahaaan-1979.jpg" group-title="WarKop DKI", Mana Tahaaan… (1979)
+https://hadeh.pitoyoabdi.workers.dev/Mana%20Tahan%20(1979).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DtMGyYs/Gengsi-Dong-1980.jpg" group-title="WarKop DKI", Gengsi Dong (1980)
+https://hadeh.pitoyoabdi.workers.dev/Gengsi%20Dong%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/xG2Z1hP/Pintar-Pintar-Bodoh-1980.jpg" group-title="WarKop DKI", Pintar Pintar Bodoh (1980) 
+https://hadeh.pitoyoabdi.workers.dev/Pintar%20Pintar%20Bodoh%20(1980).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/c1cCZ3Q/Ge-Er-Gede-Rasa-1980.jpg" group-title="WarKop DKI", GeEr – Gede Rasa (1980)
+https://hadeh.pitoyoabdi.workers.dev/geer-gede-rasa-1980.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2KgGTqt/Manusia-6-000-000-Dollar-1981.jpg" group-title="WarKop DKI", Manusia 6.000.000 Dollar (1981)
+https://hadeh.pitoyoabdi.workers.dev/Manusia%206%20Juta%20Dolar.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/LCXTcrn/IQ-Jongkok-1981.jpg" group-title="WarKop DKI", IQ Jongkok (1981)
+https://hadeh.pitoyoabdi.workers.dev/IQ%20Jongkok%20(1981).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/kx1Ps5L/Setan-Kredit-1981.jpg" group-title="WarKop DKI", Setan Kredit (1981)
+https://hadeh.pitoyoabdi.workers.dev/Setan.Kredit.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/BgJcF32/Dongkrak-Antik-1982.jpg" group-title="WarKop DKI", Dongkrak Antik (1982)
+https://hadeh.pitoyoabdi.workers.dev/Dongkrak%20Antik%20(1982).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/7nwGy3D/Chips-1982.jpg" group-title="WarKop DKI", Chips (1982) 
+https://hadeh.pitoyoabdi.workers.dev/CHIPS.1982.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/J2mrDzv/Maju-Kena-Mundur-Kena-1983.jpg" group-title="WarKop DKI", Maju Kena Mundur Kena (1983) 
+https://hadeh.pitoyoabdi.workers.dev/Maju.Kena.Mundur.Kena.1983.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/JQhFTX6/Pokoknya-Beres-1983.jpg" group-title="WarKop DKI", Pokoknya Beres (1983)
+https://hadeh.pitoyoabdi.workers.dev/Pokoknya%20beres%20(1983).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/M86wDjF/Itu-Bisa-Diatur-1984.jpg" group-title="WarKop DKI", Itu Bisa Diatur (1984)
+https://hadeh.pitoyoabdi.workers.dev/Itu%20Bisa%20Diatur%20(1984).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gJHfjQ8/Tahu-Diri-Dong-1984.jpg" group-title="WarKop DKI", Tahu Diri Dong (1984)
+https://hadeh.pitoyoabdi.workers.dev/tahu-diri-dong-1984.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/nPNgFrD/Kesempatan-Dalam-Kesempitan-1985.jpg" group-title="WarKop DKI", Kesempatan Dalam Kesempitan (1985) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Kesempatan%20Dalam%20Kesempitan%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/3rLJ1Rt/Gantian-Dong-1985.jpg" group-title="WarKop DKI", Gantian Dong (1985)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Gantian%20Dong%20(1985).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/gvYrfGB/Atas-Boleh-Bawah-Boleh-1986.jpg" group-title="WarKop DKI", Atas Boleh Bawah Boleh (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Atas.Boleh.Bawah.Boleh.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/DGZ8cxv/Sama-Juga-Bohong-1986.jpg" group-title="WarKop DKI", Sama Juga Bohong (1986)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sama.Juga.Bohong.1986.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/khrxjFp/Depan-Bisa-Belakang-Bisa-1987.jpg" group-title="WarKop DKI", Depan Bisa Belakang Bisa (1987)
+https://hadeh.pitoyoabdi.workers.dev/Depan.Bisa.Belakang.Bisa.1987.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/vV4sSM2/Makin-Lama-Makin-Asyik-1987.jpg" group-title="WarKop DKI", Makin Lama Makin Asyik (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Makin%20Lama%20Makin%20Asyik%20(1987).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/NsZw7YG/Saya-Suka-Kamu-Punya-1987.jpg" group-title="WarKop DKI", Saya Suka Kamu Punya (1987)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya.Suka.Kamu.Punya.1987.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/TBf9ZtS/Jodoh-Boleh-Diatur-1988.jpg" group-title="WarKop DKI", Jodoh Boleh Diatur (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Jodoh%20Boleh%20Diatur%20(1988).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/1qR5YHs/Malu-Malu-Mau-1988.jpg" group-title="WarKop DKI", Malu-Malu Mau (1988)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Malu.Malu.Mau.1988.mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/cX8wRLZ/Godain-Kita-Dong-1989.jpg" group-title="WarKop DKI", Godain Kita Dong (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Godain%20Kita%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mbqHrCM/Sabar-Dulu-Doong-1989.jpg" group-title="WarKop DKI", Sabar Dulu Doong…! (1989)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sabar%20Dulu%20Dong%20(1989).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/R01JKV9/Mana-Bisa-Tahan-1990.jpg" group-title="WarKop DKI", Mana Bisa Tahan (1990)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Mana%20bisa%20tahan%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/mGLqWr0/Sudah-Pasti-Tahan-1991.jpg" group-title="WarKop DKI", Sudah Pasti Tahan (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Sudah%20Pasti%20Tahan%20(1991).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/zrLrZZf/Bisa-Naik-Bisa-Turun-1991.jpg" group-title="WarKop DKI", Bisa Naik Bisa Turun (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bisa.Naik.Bisa.Turun.1992.mkv
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/72RnJp0/Lupa-Aturan-Main-1991.jpg" group-title="WarKop DKI", Lupa Aturan Main (1991)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Lupa%20Aturan%20Main%20(1990).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/t886WQ5/Masuk-Kena-Keluar-Kena-1992.jpg" group-title="WarKop DKI", Masuk Kena Keluar Kena (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Masuk%20Kena%20Keluar%20Kena%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/27qNJNT/Salah-Masuk-1992.jpg" group-title="WarKop DKI", Salah Masuk (1992)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Salah%20Masuk%20(1992).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/8cdZwgg/Bebas-Aturan-Main-1993.jpg" group-title="WarKop DKI", Bebas Aturan Main (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bebas%20Aturan%20Main%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/2nWKQTY/Bagi-Bagi-Dong-1993.jpg" group-title="WarKop DKI", Bagi-Bagi Dong (1993)
+https://hadeh.pitoyoabdi.workers.dev/saringan/Bagi-Bagi%20Dong%20(1993).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/b2YrZmZ/Saya-Duluan-Dong-1994.jpg" group-title="WarKop DKI", Saya Duluan Dong (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Saya%20Duluan%20Dong%20(1994).mp4
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/L9VHFh7/Pencet-Sana-Pencet-Sini-1994.jpg" group-title="WarKop DKI", Pencet Sana Pencet Sini (1994) 
+https://hadeh.pitoyoabdi.workers.dev/saringan/Pencet%20Sana%20Pencet%20Sini%20(1994).mp4
 
 
 
@@ -5146,7 +5252,7 @@ http://abf.filmbluray.id/z1kddn4
 http://abf.filmbluray.id/5y8idvr
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD III  SUB INDO
 http://abf.filmbluray.id/00lsnw3
-===============================================================================================================================#
+===============================================================================================================================
 #EXTINF:-1 tvg-id="" tvg-name="Broker (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulGCgWnidH9LJTRL9rMV23cLtQb.jpg" group-title="MIXED VOD",Broker (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/672.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Kung-Fu Zohra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHTgTqZCQN5kd22QlyZMpPcFU3s.jpg" group-title="MIXED VOD",Kung-Fu Zohra (2022)
@@ -5157,8 +5263,7 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/678.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/679.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg" group-title="MIXED VOD",Jurassic World Dominion (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RRR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="TAMIL/INDIA",RRR (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/664.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Code Name Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt53jhcegkYu2hKcE4tAdnbpBzt.jpg" group-title="MIXED VOD",Code Name Banshee (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/657.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Woodland Grey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M9tPA9Y6SsdcHSpc08pt0a0lYA.jpg" group-title="MIXED VOD",Woodland Grey (2021)
@@ -5171,11 +5276,7 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/659.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/660.mp4
 #EXTINF:-1 tvg-id="" tvg-name="American Carnage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQmwQqtT2KEfg5IO5u8lexZoCAR.jpg" group-title="MIXED VOD",American Carnage (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Makmum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCoq0Lvk1Mq7bxyLnEodLkjp2XH.jpg" group-title="MALAY VOD",Makmum (2019)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Makmum 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNe8NIiCkUFaAnHvnolOocl6hlm.jpg" group-title="MALAY VOD",Makmum 2 (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="MIXED VOD",Doctor Strange in the Multiverse of Madness (2022)
+
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/648.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ip Man: The Awakening (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vhdyGrpPMKXsuFBZzxmave94F.jpg" group-title="MIXED VOD",Ip Man: The Awakening (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/646.mp4
@@ -5273,16 +5374,12 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/489.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/490.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Evil at the Door (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ldFrM4VkzYRIMmKLzJmQEmJsyK.jpg" group-title="MIXED VOD",Evil at the Door (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Man Called Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg" group-title="MALAY VOD",A Man Called Hero (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/492.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Deep Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="MIXED VOD",Deep Water (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/519.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpUBoMASmCxKsdNwX0XCTXvHzbF.jpg" group-title="MIXED VOD",Panama (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Crab (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg" group-title="MALAY VOD",Black Crab (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kampong Pisang Berbuah Dua Kali (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVnuaEGbYiDnWm7uP0GqRonHzN.jpg" group-title="MALAY VOD",Kampong Pisang Berbuah Dua Kali (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/508.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Seed (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KDm1MEARoQAUauqfdBuCpbjbsj.jpg" group-title="MIXED VOD",The Seed (2022)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/522.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Measure of Revenge (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1db5P1cTOfBHqiku1r9ye8aojru.jpg" group-title="MIXED VOD",Measure of Revenge (2022)
@@ -5345,8 +5442,7 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/463.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/462.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg" group-title="MIXED VOD",Red Notice (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jaga-Jaga Senariounion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RhST0UuxMD2zlR0J7ug1zyAhI2.jpg" group-title="MALAY VOD",Jaga-Jaga Senariounion (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/572.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="SAS: Rise Of Black Swan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg" group-title="MIXED VOD",SAS: Rise Of Black Swan (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/461.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Night Raiders (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioynPIDL7fZ4pTj1Yt5oOBdBgO6.jpg" group-title="MIXED VOD",Night Raiders (2021)
@@ -5361,8 +5457,7 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/451.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/453.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Curse of Turandot (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqwiJHZvbzxNGWsnEtwPakkkOOq.jpg" group-title="MIXED VOD",The Curse of Turandot (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sooryavanshi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8p3mhjyLjHKtaAv8tFKfvEBtir0.jpg" group-title="TAMIL/INDIA",Sooryavanshi (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/457.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="No Time to Die (2021)(Sub Malay)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="MIXED VOD",No Time to Die (2021)(Sub Malay)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/441.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The King's Man (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg" group-title="MIXED VOD",The King's Man (2021)
@@ -5395,18 +5490,10 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/405.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/393.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Intrusion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" group-title="MIXED VOD",Intrusion (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/391.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Watcher (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8525wOLex8AYI2OJNtHPQvrGZuL.jpg" group-title="MALAY VOD",The Watcher (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/392.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Crazy Tsunami (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w3But4MZLwVjXuh43yKcVZzgfk.jpg" group-title="MIXED VOD",Crazy Tsunami (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/390.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bell Bottom (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSY5LBwNdpMReaZjGBbcB1kvrHU.jpg" group-title="TAMIL/INDIA",Bell Bottom (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/387.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bhoot Police (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="TAMIL/INDIA",Bhoot Police (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/388.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Priest (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EGaC5OlAyIDxD22Eb3ovBKb8Oh.jpg" group-title="TAMIL/INDIA",The Priest (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/389.mp4
-#EXTINF:-1 tvg-id="" tvg-name="KG Latah Kuarantin" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzhlOWU2NTItZGM4OS00NTI3LWFjOWEtYTJiZDc2YTFmZDk4XkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX1080_.jpg" group-title="MALAY VOD",KG Latah Kuarantin
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/381.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Don't Breathe 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg" group-title="MIXED VOD",Don't Breathe 2 (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/373.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Snake Eyes: G.I. Joe Origins (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="MIXED VOD",Snake Eyes: G.I. Joe Origins (2021)
@@ -5417,8 +5504,7 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/363.mkv
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/356.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hitman's Wife's Bodyguard (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg" group-title="MIXED VOD",Hitman's Wife's Bodyguard (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/357.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Narappa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEZDTXGoTsw9cLzLii6NUIuvpQ6.jpg" group-title="TAMIL/INDIA",Narappa (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/355.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Unstoppable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDi4Rw2K35n6PCV3RCWSFlVLC6.jpg" group-title="MIXED VOD",Unstoppable (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/354.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The East (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEuiWovZ8ltmf2cDSKKbYZJXwHx.jpg" group-title="MIXED VOD",The East (2020)
@@ -5437,34 +5523,7 @@ https://link.zozotv.xyz:443/movie/rozila969/abc12345/329.mp4
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/331.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Tides (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6kcvbwGH9lcLRc6HC6tHx34KPE.jpg" group-title="MIXED VOD",Tides (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/332.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jangan Takut: Kau Takut Aku Pun Takut (2021)×" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHKWaxzd8KAliDnYY3Pj8umRZE2.jpg" group-title="MALAY VOD",Jangan Takut: Kau Takut Aku Pun Takut (2021)×
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Sabda Kekasih (2021)" tvg-logo="https://i.ibb.co/PGsdgjJ/Hnet-com-image-1.jpg" group-title="MALAY VOD",Sabda Kekasih (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Masuk Jawi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dC0x7Bb5Q6vg3aHSKlHs7p15Hxu.jpg" group-title="MALAY VOD",Masuk Jawi (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arwah Pak Mat, Lif & AJK (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BTVet1HEpYDJoaz1CG5fasxExb.jpg" group-title="MALAY VOD",Arwah Pak Mat, Lif & AJK (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Seandainya Kau Ada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCp6QOmJokIi2dAP1BzbgaJEcFf.jpg" group-title="MALAY VOD",Seandainya Kau Ada (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dekatnya Cinta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eAu16fyNslL93edVinbFNU9HjY.jpg" group-title="MALAY VOD",Dekatnya Cinta (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kampong Pisang Musikal Raya Istimewa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cus8hc9UBt9EdyDOZ0Hiv83NRU7.jpg" group-title="MALAY VOD",Kampong Pisang Musikal Raya Istimewa (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/211.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18 Puasa Di Kampong Pisang (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPSZCJr2Hom3DRVCuto1rVrh2h.jpg" group-title="MALAY VOD",18 Puasa Di Kampong Pisang (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/213.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hantu Bonceng 2.0 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0QNXgTSfPxH45rTVO2LF29uYZt.jpg" group-title="MALAY VOD",Hantu Bonceng 2.0 (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="10 Tips Tipu Bini (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcPt0wIkXyuDV2ZjrDs1Hk79KAj.jpg" group-title="MALAY VOD",10 Tips Tipu Bini (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Petaka (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enLzyVqjCId8H7WSKxn0miFVRI4.jpg" group-title="MALAY VOD",Petaka (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sebelum Iblis Menjemput - Ayat 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2eF7XX8Xgjsu5Td4eMVNf1F888.jpg" group-title="MALAY VOD",Sebelum Iblis Menjemput - Ayat 2 (2020)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/221.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Asih 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2nJZIGQ934KjmenXXHWynGHnXD.jpg" group-title="MALAY VOD",Asih 2 (2020)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vittalwadi (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAXEN7fh5iaU69nBiQU2HXt7bb.jpg" group-title="TAMIL/INDIA",Vittalwadi (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/305.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="Settlers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg" group-title="MIXED VOD",Settlers (2021)
 https://link.zozotv.xyz:443/movie/rozila969/abc12345/307.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xipF6XqfSYV8DxLqfLN6aWlwuRp.jpg" group-title="MIXED VOD",The Tomorrow War (2021)
