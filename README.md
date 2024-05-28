@@ -1065,1411 +1065,7 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c7a6d940521074d
 #KODIPROP:inputstream.adaptive.license_key=4eafab1b948ff059028a793c178d84df:bacd1e0debd6a4af98e2e53a4f07aadc
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6482bcb1d940521074d55b02_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-#EXTINF:-1 type="movie" group-title="HBO MOVIE" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/039487X0-portrait.jpg",Easter Sunday 2022
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=418d192d5955a5057da4ba235823465f:fe4232105f2a44fd1c6a4811046c8d25
-https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6455c3d6d940521074d125a9_hbovodhd/dash0/IDN_DOLBY_index.mpd
 
-
-==================================================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jennifer Lopez" group-title="24/7",24/7 Jennifer Lopez
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790307&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Julia Roberts" group-title="24/7",24/7 Julia Roberts
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790306&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Phineas a Ferb" group-title="24/7",24/7 Phineas a Ferb
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790305&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sunderland 'Til I Die" group-title="24/7",24/7 Sunderland 'Til I Die
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790304&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Wheeler Dealers" group-title="24/7",24/7 Wheeler Dealers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790303&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 House of the Dragon" group-title="24/7",24/7 House of the Dragon
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790302&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Game On" group-title="24/7",24/7 Game On
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790301&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mrs Brown's Boys (Specials)" group-title="24/7",24/7 Mrs Brown's Boys (Specials)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790300&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fear the Walking Dead" group-title="24/7",24/7 Fear the Walking Dead
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790299&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Goodnight Sweetheart" group-title="24/7",24/7 Goodnight Sweetheart
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790298&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hale & Pace" group-title="24/7",24/7 Hale & Pace
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790297&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead: Dead City" group-title="24/7",24/7 The Walking Dead: Dead City
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790296&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bottom" group-title="24/7",24/7 Bottom
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790295&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Goodness Gracious Me" group-title="24/7",24/7 Goodness Gracious Me
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790294&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Twin Peaks" group-title="24/7",24/7 Twin Peaks
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790293&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ross Kemp On Gangs" group-title="24/7",24/7 Ross Kemp On Gangs
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790292&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jackie Chan" group-title="24/7",24/7 Jackie Chan
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790291&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Nicolas Cage" group-title="24/7",24/7 Nicolas Cage
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790290&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Strain" group-title="24/7",24/7 The Strain
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790289&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Christmas Movies" group-title="24/7",24/7 Christmas Movies
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790288&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Steven Seagal" group-title="24/7",24/7 Steven Seagal
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790287&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jean-Claude Van Damme" group-title="24/7",24/7 Jean-Claude Van Damme
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790286&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Red Dwarf (Specials)" group-title="24/7",24/7 Red Dwarf (Specials)
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790285&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Undateables" group-title="24/7",24/7 The Undateables
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790284&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Rangers" group-title="24/7",24/7 Power Rangers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790283&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Mouth" group-title="24/7",24/7 Big Mouth
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790282&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 101 Dalmatians" group-title="24/7",24/7 101 Dalmatians
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790281&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mel Gibson" group-title="24/7",24/7 Mel Gibson
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790280&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The West Wing" group-title="24/7",24/7 The West Wing
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790279&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Robin Williams" group-title="24/7",24/7 Robin Williams
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790278&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Brickleberry" group-title="24/7",24/7 Brickleberry
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790277&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 All Creatures Great and Small" group-title="24/7",24/7 All Creatures Great and Small
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790276&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chris Rock" group-title="24/7",24/7 Chris Rock
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790275&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pitch Perfect" group-title="24/7",24/7 Pitch Perfect
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790274&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Once Upon a Time" group-title="24/7",24/7 Once Upon a Time
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790273&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sabrina, The Teenage Witch" group-title="24/7",24/7 Sabrina, The Teenage Witch
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790272&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Lion Guard" group-title="24/7",24/7 The Lion Guard
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790271&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Insanity Fitness" group-title="24/7",24/7 Insanity Fitness
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790270&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Drunk History" group-title="24/7",24/7 Drunk History
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790269&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Schitt's Creek" group-title="24/7",24/7  Schitt's Creek
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790268&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hoarders" group-title="24/7",24/7 Hoarders
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790267&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Top Boy" group-title="24/7",24/7 Top Boy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790266&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" group-title="24/7",24/7 Johnny Bravo
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790265&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lizzie McGuire" group-title="24/7",24/7 Lizzie McGuire
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790264&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Miranda" group-title="24/7",24/7 Miranda
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790263&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Men Behaving Badly" group-title="24/7",24/7 Men Behaving Badly
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790262&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Brooklyn Nine-Nine" group-title="24/7",24/7 Brooklyn Nine-Nine
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790261&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 How I Met Your Mother" group-title="24/7",24/7 How I Met Your Mother
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790260&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Treehouse Masters" group-title="24/7",24/7 Treehouse Masters
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790259&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Octonauts" group-title="24/7",24/7 Octonauts
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790258&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 American Pie" group-title="24/7",24/7 American Pie
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790257&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby-Doo, Where Are You!" group-title="24/7",24/7 Scooby-Doo, Where Are You!
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790256&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Robson's Extreme Fishing Challenge" group-title="24/7",24/7  Robson's Extreme Fishing Challenge
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790255&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peter Rabbit" group-title="24/7",24/7 Peter Rabbit
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790254&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jason Bateman" group-title="24/7",24/7 Jason Bateman
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790253&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gavin & Stacey" group-title="24/7",24/7 Gavin & Stacey
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790252&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stargate SG-1" group-title="24/7",24/7 Stargate SG-1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790251&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Secret of Skinwalker Ranch" group-title="24/7",24/7 The Secret of Skinwalker Ranch
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790250&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stargate Atlantis" group-title="24/7",24/7 Stargate Atlantis
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790249&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stargate Universe" group-title="24/7",24/7 Stargate Universe
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790248&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Sex and the City" group-title="24/7",24/7  Sex and the City
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790247&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fringe" group-title="24/7",24/7 Fringe
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790246&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 House of Cards" group-title="24/7",24/7 House of Cards
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790245&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  The Crocodile Hunter" group-title="24/7",24/7  The Crocodile Hunter
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790244&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Curse of Oak Island" group-title="24/7",24/7 The Curse of Oak Island
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790243&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Darling Buds of May" group-title="24/7",24/7 The Darling Buds of May
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790242&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Manifest" group-title="24/7",24/7 Manifest
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790241&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 At Home with the Furys" group-title="24/7",24/7 At Home with the Furys
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790240&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mad Men" group-title="24/7",24/7 Mad Men
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790239&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Teachers" group-title="24/7",24/7 Teachers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790238&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rizzoli & Isles" group-title="24/7",24/7 Rizzoli & Isles
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790237&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" group-title="24/7",24/7 Chernobyl
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790236&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Everybody Loves Raymond" group-title="24/7",24/7 Everybody Loves Raymond
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790235&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Terminator: The Sarah Connor Chronicles" group-title="24/7",24/7 Terminator: The Sarah Connor Chronicles
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790234&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Grimm" group-title="24/7",24/7 Grimm
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790233&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hill Street Blues" group-title="24/7",24/7 Hill Street Blues
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790232&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Wonder Years" group-title="24/7",24/7 The Wonder Years
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790231&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Power Book II: Ghost" group-title="24/7",24/7 Power Book II: Ghost
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790230&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Auf Wiedersehen, Pet" group-title="24/7",24/7 Auf Wiedersehen, Pet
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790229&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 All in the Family" group-title="24/7",24/7 All in the Family
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790228&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Inbetweeners" group-title="24/7",24/7 The Inbetweeners
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790227&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Prodigy" group-title="24/7",24/7 Star Trek: Prodigy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790226&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dad's Army" group-title="24/7",24/7 Dad's Army
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790225&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  The O.C." group-title="24/7",24/7  The O.C.
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790224&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Middle" group-title="24/7",24/7 The Middle
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790223&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Bernie Mac Show" group-title="24/7",24/7 The Bernie Mac Show
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790222&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Peep Show" group-title="24/7",24/7  Peep Show
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790221&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mentalist" group-title="24/7",24/7 The Mentalist
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790220&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fortitude" group-title="24/7",24/7 Fortitude
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790219&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Honeymooners" group-title="24/7",24/7 The Honeymooners
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790218&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gossip Girl" group-title="24/7",24/7 Gossip Girl
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790217&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Parks and Recreation" group-title="24/7",24/7 Parks and Recreation
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790216&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Extant" group-title="24/7",24/7 Extant
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790215&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 9-1-1: Lone Star" group-title="24/7",24/7 9-1-1: Lone Star
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790214&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 8 Simple Rules" group-title="24/7",24/7 8 Simple Rules
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790213&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doc Martin" group-title="24/7",24/7 Doc Martin
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790212&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Dinnerladies" group-title="24/7",24/7  Dinnerladies
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790211&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hotel Hell" group-title="24/7",24/7 Hotel Hell
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790210&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gimme Gimme Gimme" group-title="24/7",24/7 Gimme Gimme Gimme
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790209&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Absolutely Fabulous" group-title="24/7",24/7 Absolutely Fabulous
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790208&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Night Shift" group-title="24/7",24/7 The Night Shift
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790207&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  The Moaning of Life" group-title="24/7",24/7  The Moaning of Life
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790206&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stella" group-title="24/7",24/7 Stella
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790205&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Munsters" group-title="24/7",24/7 The Munsters
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790204&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Vicar of Dibley" group-title="24/7",24/7 The Vicar of Dibley
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790203&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Finding Carter" group-title="24/7",24/7  Finding Carter
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790202&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Danny Phantom" group-title="24/7",24/7 Danny Phantom
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790201&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 15 Storeys High" group-title="24/7",24/7 15 Storeys High
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790200&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Flash Forward" group-title="24/7",24/7 Flash Forward
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790199&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Westworld" group-title="24/7",24/7 Westworld
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790198&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chucky" group-title="24/7",24/7 Chucky
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790197&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 CoComelon" group-title="24/7",24/7 CoComelon
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790196&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" group-title="24/7",24/7 Chicago Fire
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790195&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lost" group-title="24/7",24/7 Lost
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790194&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 House M.D" group-title="24/7",24/7 House M.D
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790193&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mission Impossible" group-title="24/7",24/7 Mission Impossible
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790192&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Buffy the Vampire Slayer" group-title="24/7",24/7 Buffy the Vampire Slayer
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790191&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sanford and Son" group-title="24/7",24/7 Sanford and Son
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790190&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ben 10" group-title="24/7",24/7 Ben 10
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790189&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Tudors" group-title="24/7",24/7 The Tudors
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790188&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Shield" group-title="24/7",24/7 The Shield
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790187&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mike & Molly" group-title="24/7",24/7 Mike & Molly
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790186&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 24" group-title="24/7",24/7 24
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790185&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 How to Get Away with Murder" group-title="24/7",24/7 How to Get Away with Murder
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790184&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Deadwood" group-title="24/7",24/7  Deadwood
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790183&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  'Allo 'Allo!" group-title="24/7",24/7  'Allo 'Allo!
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790182&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Curious George" group-title="24/7",24/7 Curious George
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790181&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 My Wife and Kids" group-title="24/7",24/7 My Wife and Kids
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790180&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Person of Interest" group-title="24/7",24/7  Person of Interest
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790179&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ballers" group-title="24/7",24/7 Ballers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790178&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ocean's" group-title="24/7",24/7 Ocean's
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790177&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bruce Lee" group-title="24/7",24/7 Bruce Lee
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790176&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Alien" group-title="24/7",24/7 Alien
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790175&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Sails" group-title="24/7",24/7 Black Sails
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790174&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jurassic Park" group-title="24/7",24/7 Jurassic Park
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790173&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Iron Man" group-title="24/7",24/7 Iron Man
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790172&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Smokey and the Bandit" group-title="24/7",24/7 Smokey and the Bandit
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790171&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Inspector Gadget" group-title="24/7",24/7 Inspector Gadget
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790170&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 24 Hours in A&E" group-title="24/7",24/7 24 Hours in A&E
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790169&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jack Ryan" group-title="24/7",24/7 Jack Ryan
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790168&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Adam Sandler" group-title="24/7",24/7 Adam Sandler
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790167&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Pink Panther" group-title="24/7",24/7 The Pink Panther
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790166&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Avengers" group-title="24/7",24/7 Avengers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790165&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Aladdin" group-title="24/7",24/7 Aladdin
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790164&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Benidorm" group-title="24/7",24/7 Benidorm
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790163&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Mr. Robot" group-title="24/7",24/7  Mr. Robot
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790162&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Expendables" group-title="24/7",24/7 The Expendables
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790161&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lord of the Rings" group-title="24/7",24/7 Lord of the Rings
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790160&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Hunger Games" group-title="24/7",24/7 The Hunger Games
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790159&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Sandra Bullock" group-title="24/7",24/7  Sandra Bullock
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790158&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Speed" group-title="24/7",24/7 Speed
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790157&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Planet of the Apes" group-title="24/7",24/7  Planet of the Apes
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790156&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pretty Little Liars" group-title="24/7",24/7 Pretty Little Liars
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790155&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Top Gun" group-title="24/7",24/7 Top Gun
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790154&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Karate Kid" group-title="24/7",24/7 The Karate Kid
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790153&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Taxi" group-title="24/7",24/7 Taxi
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790152&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Nanny McPhee" group-title="24/7",24/7 Nanny McPhee
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790151&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ghostbusters" group-title="24/7",24/7 Ghostbusters
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790150&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Friday" group-title="24/7",24/7  Friday
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790149&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman" group-title="24/7",24/7 Batman
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790148&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Austin Powers" group-title="24/7",24/7 Austin Powers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790147&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  A Nightmare on Elm Street" group-title="24/7",24/7  A Nightmare on Elm Street
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790146&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Insidious" group-title="24/7",24/7 Insidious
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790145&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Spider-Man" group-title="24/7",24/7  Spider-Man
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790144&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lethal Weapon" group-title="24/7",24/7 Lethal Weapon
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790143&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 X-Men" group-title="24/7",24/7 X-Men
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790142&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Miami Vice" group-title="24/7",24/7 Miami Vice
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790141&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kenan & Kel" group-title="24/7",24/7 Kenan & Kel
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790140&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rick and Morty" group-title="24/7",24/7 Rick and Morty
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790139&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Chronicles of Narnia" group-title="24/7",24/7 The Chronicles of Narnia
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790138&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rush Hour" group-title="24/7",24/7 Rush Hour
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790137&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Indiana Jones" group-title="24/7",24/7  Indiana Jones
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790136&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Godfather" group-title="24/7",24/7 The Godfather
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790135&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Hangover" group-title="24/7",24/7 The Hangover
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790134&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Discovery" group-title="24/7",24/7 Star Trek: Discovery
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790133&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Outlander" group-title="24/7",24/7 Outlander
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790132&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: Enterprise" group-title="24/7",24/7 Star Trek: Enterprise
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790131&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Broadchurch" group-title="24/7",24/7 Broadchurch
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790130&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Seinfeld" group-title="24/7",24/7 Seinfeld
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790129&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 I Dream of Jeannie" group-title="24/7",24/7 I Dream of Jeannie
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790128&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dickinson" group-title="24/7",24/7 Dickinson
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790127&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" group-title="24/7",24/7 Breaking Bad
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790126&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  The X-Files" group-title="24/7",24/7  The X-Files
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790125&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Yellowstone" group-title="24/7",24/7 Yellowstone
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790124&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 James Bond Latest" group-title="24/7",24/7 James Bond Latest
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790123&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 PJ Masks" group-title="24/7",24/7 PJ Masks
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790122&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The 100" group-title="24/7",24/7 The 100
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790121&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Game of Thrones" group-title="24/7",24/7 Game of Thrones
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790120&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dexter's Laboratory" group-title="24/7",24/7 Dexter's Laboratory
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790119&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Will Smith" group-title="24/7",24/7 Will Smith
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790118&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Remington Steele" group-title="24/7",24/7 Remington Steele
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790117&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Young Sheldon" group-title="24/7",24/7 Young Sheldon
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790116&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Liam Neeson" group-title="24/7",24/7 Liam Neeson
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790115&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Trek: The Next Generation" group-title="24/7",24/7 Star Trek: The Next Generation
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790114&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Grand Tour" group-title="24/7",24/7 The Grand Tour
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790113&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Scrubs" group-title="24/7",24/7 Scrubs
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790112&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hogan's Heroes" group-title="24/7",24/7 Hogan's Heroes
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790111&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The A-Team" group-title="24/7",24/7 The A-Team
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790110&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sons of Anarchy" group-title="24/7",24/7 Sons of Anarchy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790109&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers" group-title="24/7",24/7 Transformers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790108&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pam & Tommy" group-title="24/7",24/7 Pam & Tommy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790107&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 An Idiot Abroad" group-title="24/7",24/7 An Idiot Abroad
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790106&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Fresh Prince of Bel-Air" group-title="24/7",24/7 The Fresh Prince of Bel-Air
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790105&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Weeds" group-title="24/7",24/7 Weeds
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790104&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  The Simpsons" group-title="24/7",24/7  The Simpsons
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790103&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Heartbeat" group-title="24/7",24/7 Heartbeat
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790102&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rules of Engagement" group-title="24/7",24/7 Rules of Engagement
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790101&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Phoenix Nights" group-title="24/7",24/7 Phoenix Nights
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790100&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gotham Knights" group-title="24/7",24/7 Gotham Knights
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790099&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dream Team" group-title="24/7",24/7 Dream Team
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790098&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dynasties" group-title="24/7",24/7 Dynasties
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790097&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Hanks" group-title="24/7",24/7 Tom Hanks
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790096&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Paul Smith" group-title="24/7",24/7 Paul Smith
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790095&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Power" group-title="24/7",24/7 Power
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790094&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Orange Is the New Black" group-title="24/7",24/7 Orange Is the New Black
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790093&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ghost Whisperer" group-title="24/7",24/7 Ghost Whisperer
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790092&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Two Pints of Lager and a Packet of Crisps" group-title="24/7",24/7 Two Pints of Lager and a Packet of Crisps
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790091&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Rockford Files" group-title="24/7",24/7 The Rockford Files
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790090&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Isle of Man TT" group-title="24/7",24/7  Isle of Man TT
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790089&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Kojak" group-title="24/7",24/7 Kojak
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790088&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Vampire Diaries" group-title="24/7",24/7 The Vampire Diaries
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790087&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 True Detective" group-title="24/7",24/7 True Detective
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790086&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Poldark" group-title="24/7",24/7 Poldark
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790085&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shrek" group-title="24/7",24/7 Shrek
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790084&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tulsa King" group-title="24/7",24/7 Tulsa King
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790083&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Marvel's Agent Carter" group-title="24/7",24/7 Marvel's Agent Carter
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790082&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sylvester Stallone" group-title="24/7",24/7 Sylvester Stallone
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790081&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" group-title="24/7",24/7 Narcos
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790080&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Police Academy" group-title="24/7",24/7 Police Academy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790079&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peter Kay's Car Share" group-title="24/7",24/7 Peter Kay's Car Share
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790078&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Better Call Saul" group-title="24/7",24/7 Better Call Saul
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790077&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Lucifer" group-title="24/7",24/7 Lucifer
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790076&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 LazyTown" group-title="24/7",24/7 LazyTown
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790075&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 On the Buses" group-title="24/7",24/7 On the Buses
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790074&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Arnold Schwarzenegger" group-title="24/7",24/7 Arnold Schwarzenegger
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790073&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Only Fools and Horses" group-title="24/7",24/7 Only Fools and Horses
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790072&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dwayne Johnson" group-title="24/7",24/7 Dwayne Johnson
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790071&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cheers" group-title="24/7",24/7 Cheers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790070&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Forensic Files II" group-title="24/7",24/7 Forensic Files II
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790069&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jim Carrey" group-title="24/7",24/7 Jim Carrey
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790068&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Banshee" group-title="24/7",24/7  Banshee
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790067&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Walking Dead" group-title="24/7",24/7 The Walking Dead
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790066&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 You" group-title="24/7",24/7 You
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790065&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Wire" group-title="24/7",24/7 The Wire
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790064&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sherlock" group-title="24/7",24/7 Sherlock
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790063&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Mirror" group-title="24/7",24/7 Black Mirror
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790062&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra Kai" group-title="24/7",24/7 Cobra Kai
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rab C Nesbitt" group-title="24/7",24/7 Rab C Nesbitt
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790060&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Pirates of the Caribbean" group-title="24/7",24/7  Pirates of the Caribbean
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790059&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Blaze and the Monster Machines" group-title="24/7",24/7 Blaze and the Monster Machines
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790058&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jake and the Never Land Pirates" group-title="24/7",24/7 Jake and the Never Land Pirates
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790057&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fawlty Towers" group-title="24/7",24/7 Fawlty Towers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790056&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 13 Reasons Why" group-title="24/7",24/7 13 Reasons Why
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790055&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends" group-title="24/7",24/7 Friends
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790054&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peaky Blinders" group-title="24/7",24/7 Peaky Blinders
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790053&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Stranger Things" group-title="24/7",24/7 Stranger Things
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790052&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" group-title="24/7",24/7 South Park
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790051&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Suits" group-title="24/7",24/7 Suits
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790050&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Curb Your Enthusiasm" group-title="24/7",24/7 Curb Your Enthusiasm
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790049&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 This Country" group-title="24/7",24/7 This Country
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790048&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gypsy Bare Knuckle Fights" group-title="24/7",24/7 Gypsy Bare Knuckle Fights
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790047&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Family Guy" group-title="24/7",24/7 Family Guy
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790046&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. Pimple Popper" group-title="24/7",24/7 Dr. Pimple Popper
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790045&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse Clubhouse" group-title="24/7",24/7 Mickey Mouse Clubhouse
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790044&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Father Ted" group-title="24/7",24/7 Father Ted
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790043&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Sopranos" group-title="24/7",24/7 The Sopranos
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790042&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ray Donovan" group-title="24/7",24/7 Ray Donovan
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790041&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Still Open All Hours" group-title="24/7",24/7 Still Open All Hours
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790040&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Clint Eastwood" group-title="24/7",24/7 Clint Eastwood
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790039&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Naked Attraction" group-title="24/7",24/7 Naked Attraction
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790038&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Killing Eve" group-title="24/7",24/7  Killing Eve
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790037&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Royle Family" group-title="24/7",24/7 The Royle Family
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790036&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gangs of London" group-title="24/7",24/7 Gangs of London
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790035&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jason Statham" group-title="24/7",24/7 Jason Statham
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790034&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Downton Abbey" group-title="24/7",24/7 Downton Abbey
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790033&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Frasier" group-title="24/7",24/7 Frasier
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790032&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Homeland" group-title="24/7",24/7 Homeland
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790031&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fauda" group-title="24/7",24/7 Fauda
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790030&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Magnum, P.I." group-title="24/7",24/7 Magnum, P.I.
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790029&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Justice League" group-title="24/7",24/7 Justice League
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790028&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pawn Stars" group-title="24/7",24/7 Pawn Stars
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790027&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ramsay's Kitchen Nightmares" group-title="24/7",24/7 Ramsay's Kitchen Nightmares
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790026&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Little Britain" group-title="24/7",24/7 Little Britain
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790025&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Man About the House" group-title="24/7",24/7 Man About the House
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790024&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Love Thy Neighbour" group-title="24/7",24/7 Love Thy Neighbour
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790023&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Teletubbies" group-title="24/7",24/7 Teletubbies
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790022&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 SpongeBob SquarePants" group-title="24/7",24/7 SpongeBob SquarePants
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790021&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dora the Explorer" group-title="24/7",24/7 Dora the Explorer
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790020&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Office UK" group-title="24/7",24/7 The Office UK
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790019&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thomas the Tank Engine" group-title="24/7",24/7 Thomas the Tank Engine
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790018&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Prison Break" group-title="24/7",24/7 Prison Break
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790017&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Blue Planet" group-title="24/7",24/7 The Blue Planet
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790016&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Queen of the South" group-title="24/7",24/7 Queen of the South
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790015&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Friday Night Dinner" group-title="24/7",24/7 Friday Night Dinner
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790014&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Derek" group-title="24/7",24/7 Derek
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790013&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mrs Brown's Boys" group-title="24/7",24/7 Mrs Brown's Boys
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790012&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Paw Patrol" group-title="24/7",24/7  Paw Patrol
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790011&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fast & Furious" group-title="24/7",24/7 Fast & Furious
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790010&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig" group-title="24/7",24/7 Peppa Pig
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790009&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom and Jerry" group-title="24/7",24/7 Tom and Jerry
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790008&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Honey I Shrunk the Kids" group-title="24/7",24/7 Honey I Shrunk the Kids
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790007&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Thin Blue Line" group-title="24/7",24/7 The Thin Blue Line
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790006&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Band of Brothers" group-title="24/7",24/7 Band of Brothers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790005&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Brassic" group-title="24/7",24/7 Brassic
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790004&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Beverly Hills Cop" group-title="24/7",24/7 Beverly Hills Cop
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790003&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dog the Bounty Hunter" group-title="24/7",24/7 Dog the Bounty Hunter
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790002&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Knight Rider" group-title="24/7",24/7 Knight Rider
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790001&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Die Hard" group-title="24/7",24/7 Die Hard
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1790000&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 One Foot in the Grave" group-title="24/7",24/7 One Foot in the Grave
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789999&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Marvel" group-title="24/7",24/7 Marvel
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789998&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Rocky" group-title="24/7",24/7 Rocky
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789997&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 RoboCop" group-title="24/7",24/7 RoboCop
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789996&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Toy Story" group-title="24/7",24/7 Toy Story
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789995&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 21 Jump Street" group-title="24/7",24/7 21 Jump Street
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789994&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter" group-title="24/7",24/7 Harry Potter
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789993&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jason Bourne" group-title="24/7",24/7 Jason Bourne
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789992&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Little House on the Prairie" group-title="24/7",24/7 Little House on the Prairie
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789991&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 James Bond Classic" group-title="24/7",24/7 James Bond Classic
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789990&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean" group-title="24/7",24/7 Mr. Bean
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789989&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 In The Night Garden" group-title="24/7",24/7 In The Night Garden
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789988&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Men in Black" group-title="24/7",24/7 Men in Black
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789987&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bad Girls" group-title="24/7",24/7 Bad Girls
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789986&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Horrid Henry" group-title="24/7",24/7 Horrid Henry
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789985&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Homes Under the Hammer" group-title="24/7",24/7 Homes Under the Hammer
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789984&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7  Pokemon" group-title="24/7",24/7  Pokemon
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789983&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 FUBAR" group-title="24/7",24/7 FUBAR
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789982&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Star Wars" group-title="24/7",24/7 Star Wars
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789981&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Shameless" group-title="24/7",24/7 Shameless
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789980&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Cosby Show" group-title="24/7",24/7 The Cosby Show
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789979&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Partridge Family" group-title="24/7",24/7 The Partridge Family
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789978&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Airwolf" group-title="24/7",24/7 Airwolf
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789977&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Impractical Jokers" group-title="24/7",24/7 Impractical Jokers
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789976&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bless This House" group-title="24/7",24/7 Bless This House
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789975&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bluey" group-title="24/7",24/7 Bluey
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789974&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Dick Van Dyke Show" group-title="24/7",24/7 The Dick Van Dyke Show
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789973&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Twilight" group-title="24/7",24/7 Twilight
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789972&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Red Dwarf" group-title="24/7",24/7 Red Dwarf
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789971&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama" group-title="24/7",24/7 Futurama
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789970&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The Young Ones" group-title="24/7",24/7 The Young Ones
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789969&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Car S.O.S." group-title="24/7",24/7 Car S.O.S.
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789968&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Baywatch" group-title="24/7",24/7 Baywatch
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789967&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Still Game" group-title="24/7",24/7 Still Game
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789966&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Sesame Street" group-title="24/7",24/7 Sesame Street
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789965&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Jaws" group-title="24/7",24/7 Jaws
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789964&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hell's Kitchen" group-title="24/7",24/7 Hell's Kitchen
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789963&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bear in the Big Blue House" group-title="24/7",24/7 Bear in the Big Blue House
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789962&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fireman Sam" group-title="24/7",24/7 Fireman Sam
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789961&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Can't Pay? We'll Take It Away!" group-title="24/7",24/7 Can't Pay? We'll Take It Away!
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789960&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha and The Bear" group-title="24/7",24/7 Masha and The Bear
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:CF:29:A7&stream=1789959&extension=ts
 
 
 
@@ -5253,353 +3849,4824 @@ http://abf.filmbluray.id/5y8idvr
 #EXTINF:-1 tvg-logo="https://i-burger.bunkr.ru/Wak-haji-vod-rHPUHaJT.png?download=true" group-title="VOD",VOD III  SUB INDO
 http://abf.filmbluray.id/00lsnw3
 ===============================================================================================================================
-#EXTINF:-1 tvg-id="" tvg-name="Broker (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulGCgWnidH9LJTRL9rMV23cLtQb.jpg" group-title="MIXED VOD",Broker (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kung-Fu Zohra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHTgTqZCQN5kd22QlyZMpPcFU3s.jpg" group-title="MIXED VOD",Kung-Fu Zohra (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wrong Place (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mxNku6g2JmGmKTGGEOpU4lvVWM.jpg" group-title="MIXED VOD",Wrong Place (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Witch: Part 2. The Other One (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YTuscJXmr9Iua62amCgGSU8PDW.jpg" group-title="MIXED VOD",The Witch: Part 2. The Other One (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg" group-title="MIXED VOD",Jurassic World Dominion (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/665.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Code Name Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt53jhcegkYu2hKcE4tAdnbpBzt.jpg" group-title="MIXED VOD",Code Name Banshee (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Woodland Grey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M9tPA9Y6SsdcHSpc08pt0a0lYA.jpg" group-title="MIXED VOD",Woodland Grey (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Forest (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JsAHnDolJDCid4vCUO0JsSy997.jpg" group-title="MIXED VOD",Virgin Forest (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mid-Century (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFy1wkDPs3tiFxZBXpOfUaOn9uz.jpg" group-title="MIXED VOD",Mid-Century (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Men (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg" group-title="MIXED VOD",Men (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="American Carnage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQmwQqtT2KEfg5IO5u8lexZoCAR.jpg" group-title="MIXED VOD",American Carnage (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/661.mp4
-
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: The Awakening (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vhdyGrpPMKXsuFBZzxmave94F.jpg" group-title="MIXED VOD",Ip Man: The Awakening (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 Bullets (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuFPxoFopAjFUz4oIMUzpzeTA8I.jpg" group-title="MIXED VOD",9 Bullets (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rooftop (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxqI0d9BbYSQVG3K87XEX4XsE2P.jpg" group-title="MIXED VOD",Rooftop (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rising Boas in a Girl's School (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR7gW2Oj8Qku5m82SvWfwTbwopM.jpg" group-title="MIXED VOD",Rising Boas in a Girl's School (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Siege of Robin Hood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hLfrdvZNaF8iUk5n4wVQ7C9w6P.jpg" group-title="MIXED VOD",The Siege of Robin Hood (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg" group-title="MIXED VOD",Spiderhead (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Attack on Finland (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llItP3ncQG7mTsMXGUvxkDtXkhB.jpg" group-title="MIXED VOD",Attack on Finland (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Interceptor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBKNAfANo4e3rzJtb7aHfYNd7b3.jpg" group-title="MIXED VOD",Interceptor (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mojin: The Secret Coffin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FD3DUWeXIneZgRLxxEm8AiQ8Zt.jpg" group-title="MIXED VOD",Mojin: The Secret Coffin (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blind War" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FD3DUWeXIneZgRLxxEm8AiQ8Zt.jpg" group-title="MIXED VOD",Blind War
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Unbearable Weight of Massive Talent (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JzPuj4lNQv0wmd38u0ee1dxzhn.jpg" group-title="MIXED VOD",The Unbearable Weight of Massive Talent (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="White Elephant (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4U32ULTfEz2c456ukx5HCPDVQQ7.jpg" group-title="MIXED VOD",White Elephant (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Last Seen Alive (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzQ9YUXH9Tfj8MDU66i4wSFrBvt.jpg" group-title="MIXED VOD",Last Seen Alive (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eraser: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWE48knKsaPGqVoANXoWraiub2d.jpg" group-title="MIXED VOD",Eraser: Reborn (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emergency (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1OVtVtcC7KQlsueXCwBSRaAR1o.jpg" group-title="MIXED VOD",Emergency (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Baby Blues (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0hASMPoTlwqw4gD0CZLI6SbVuY.jpg" group-title="MIXED VOD",Baby Blues (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ben & Jody (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTFsONSTWoFFXZD9ojLLYgGg4TB.jpg" group-title="MIXED VOD",Ben & Jody (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wolf Hound (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sMnY4fEVAfdadhANhGnNckxsmx.jpg" group-title="MIXED VOD",Wolf Hound (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Overnight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95zIxo8qFRpsDyBm0KztVezBn4f.jpg" group-title="MIXED VOD",The Overnight (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg" group-title="MIXED VOD",Uncharted (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts: The Secrets of Dumbledore (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg" group-title="MIXED VOD",Fantastic Beasts: The Secrets of Dumbledore (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="MIXED VOD",Sonic the Hedgehog 2 (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ambulance (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT5ynZ0UR6HFfWQSRf2uKtqCyWD.jpg" group-title="MIXED VOD",Ambulance (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moonfall (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="MIXED VOD",Moonfall (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Moonshot (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="MIXED VOD",Moonshot (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="K.G.F: Chapter 1 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg" group-title="TAMIL/INDIA",K.G.F: Chapter 1 (2018)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="K.G.F: Chapter 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27aj5OW1AkFTCb7vlWUaTpDjUwb.jpg" group-title="TAMIL/INDIA",K.G.F: Chapter 2 (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blacklight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" group-title="MIXED VOD",Blacklight (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg" group-title="MIXED VOD",Morbius (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Escape the Field (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qDumKWwi3YZacMI9u2UoPHWVDi.jpg" group-title="MIXED VOD",Escape the Field (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="You Won't Be Alone (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45W9ViL5ilurSLVzBEybYXHrxEJ.jpg" group-title="MIXED VOD",You Won't Be Alone (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Site (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jegNcphmFVmQiApURN1V6k3z7oU.jpg" group-title="MIXED VOD",Black Site (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="You Are Not My Mother (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg" group-title="MIXED VOD",You Are Not My Mother (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Our Father (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uxxdvQebVbdD1AZfGff9CMmcQH.jpg" group-title="MIXED VOD",Our Father (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Last Mark (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg" group-title="MIXED VOD",The Last Mark (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Room 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4M0n5kfToiU9TIf22bccSbNugG.jpg" group-title="MIXED VOD",Room 203 (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Aviary (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6HUQcOQsgkFFO8xCITfxQz6ivc.jpg" group-title="MIXED VOD",The Aviary (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Twin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9NTnzSFuzZQLONda4IMTHHXnuh.jpg" group-title="MIXED VOD",The Twin (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Girl on a Bulldozer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YNpBRuAMIp5Z7YrRdxyugNZ8vU.jpg" group-title="MIXED VOD",The Girl on a Bulldozer (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="MIXED VOD",The Batman (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eternals (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6qUu00iIIkXX13szFy7d0CyNcg.jpg" group-title="MIXED VOD",Eternals (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cyrano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg" group-title="MIXED VOD",Cyrano (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cek Ombak (Melulu) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9LAB05hE02Ulto0QGr9iA1aB5.jpg" group-title="MALAY VOD",Cek Ombak (Melulu) (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Commando (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvCVaas7FkRV8uvyIJl1ANdT28k.jpg" group-title="MIXED VOD",The Commando (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZNHR1upJKF3eTzdgl5V8s8a4C3.jpg" group-title="MIXED VOD",Scream (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Long Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLHGciBl5kwUVJCUj8xKtDqkP7V.jpg" group-title="MIXED VOD",The Long Night (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fistful of Vengeance (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cccEF9QZgV9bLWyupJO41HSrOV.jpg" group-title="MIXED VOD",Fistful of Vengeance (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Evil at the Door (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ldFrM4VkzYRIMmKLzJmQEmJsyK.jpg" group-title="MIXED VOD",Evil at the Door (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/491.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Deep Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="MIXED VOD",Deep Water (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qpUBoMASmCxKsdNwX0XCTXvHzbF.jpg" group-title="MIXED VOD",Panama (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/520.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="The Seed (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/KDm1MEARoQAUauqfdBuCpbjbsj.jpg" group-title="MIXED VOD",The Seed (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Measure of Revenge (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1db5P1cTOfBHqiku1r9ye8aojru.jpg" group-title="MIXED VOD",Measure of Revenge (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Romeo & Juliet Killers (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYCAOJqUkAgNFnH672j1RwVufiX.jpg" group-title="MIXED VOD",Romeo & Juliet Killers (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Tiger Rising (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEukzqPoCpbrXLGslT8qdTuyRKZ.jpg" group-title="MIXED VOD",The Tiger Rising (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Titanic 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C0GAAnpydkjDAMvr2BNslggKU3.jpg" group-title="MIXED VOD",Titanic 666 (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agent Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg" group-title="MIXED VOD",Agent Game (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="All the Old Knives (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg" group-title="MIXED VOD",All the Old Knives (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Barbarians (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GQH7czsea1iEPmBbcbTzF5x1sF.jpg" group-title="MIXED VOD",Barbarians (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Every Last Secret (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caxblp2Jz2VJTvQvGMpU6UTAWS9.jpg" group-title="MIXED VOD",Every Last Secret (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Death on the Nile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg" group-title="MIXED VOD",Death on the Nile (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragon Knight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkGFADykBtfPfTv7YJooxTH52ph.jpg" group-title="MIXED VOD",Dragon Knight (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="In the Forest (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWKTaGN9WMcKHKAir9POsKm4vEo.jpg" group-title="MIXED VOD",In the Forest (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Ice Age Adventures of Buck Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="MIXED VOD",The Ice Age Adventures of Buck Wild (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Tai Chi Master (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1ZNHtlrbAugGS5RJOOhSfPpRos.jpg" group-title="MIXED VOD",The Tai Chi Master (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Thursday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptOVJ3cJ8dEWsVynKhvgtGDjU1v.jpg" group-title="TAMIL/INDIA",A Thursday (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Confession (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjbyvoEMBhU0BDE1KrGOLA1OC2d.jpg" group-title="MIXED VOD",Confession (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Sky Is Everywhere (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg" group-title="MIXED VOD",The Sky Is Everywhere (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Looop Lapeta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onGdT8sYi89drvSJyEJnft97rOq.jpg" group-title="TAMIL/INDIA",Looop Lapeta (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Advent Calendar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/psaYUHDotafhVNAE1pZN2GkRXJY.jpg" group-title="MIXED VOD",The Advent Calendar (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rumah Madu ku Berhantu (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RbCkzy7HTbvsdCpNQxp1SyUKw5.jpg" group-title="MALAY VOD",Rumah Madu ku Berhantu (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Resident Evil: Welcome to Raccoon City (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sR3iV0Jt080jgvPBtJhs3Tta1y9.jpg" group-title="MIXED VOD",Resident Evil: Welcome to Raccoon City (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters: Afterlife (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQZxAA6PPWa2Lk9NgcO3m6QDlXQ.jpg" group-title="MIXED VOD",Ghostbusters: Afterlife (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fortress (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m76LAg0MchIcIW9i4yXsQPGQJJF.jpg" group-title="MIXED VOD",Fortress (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Don't Look Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg" group-title="MIXED VOD",Don't Look Up (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Atrangi Re (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHPFZLf2jPZSgFiqzPsSWqPmUMd.jpg" group-title="MIXED VOD",Atrangi Re (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Advent Calendar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8DgENsVjheP7g1n0ap84VCc116i.jpg" group-title="MIXED VOD",Advent Calendar (2019)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Door into Summer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RCRt3PT6tV0ns56kNseUSr6CNW.jpg" group-title="MIXED VOD",The Door into Summer (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Seal Team (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg" group-title="MIXED VOD",Seal Team (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Antlers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMch3tiexw3FdOEeZxMWVel61Xg.jpg" group-title="MIXED VOD",Antlers (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="MIXED VOD",Spider-Man: No Way Home (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Red Notice (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg" group-title="MIXED VOD",Red Notice (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/460.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="SAS: Rise Of Black Swan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg" group-title="MIXED VOD",SAS: Rise Of Black Swan (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Night Raiders (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioynPIDL7fZ4pTj1Yt5oOBdBgO6.jpg" group-title="MIXED VOD",Night Raiders (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Reminiscence (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" group-title="MIXED VOD",Reminiscence (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dune (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="MIXED VOD",Dune (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hideout (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckAui0w734hvNsHxfL9zZfpGefN.jpg" group-title="MIXED VOD",Hideout (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nightbooks" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E4MmNmMzgtOTI2YS00MzhjLTlmOWItZTkxNWRkYTY2NDcwXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg" group-title="MIXED VOD",Nightbooks
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Curse of Turandot (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqwiJHZvbzxNGWsnEtwPakkkOOq.jpg" group-title="MIXED VOD",The Curse of Turandot (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/455.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="No Time to Die (2021)(Sub Malay)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" group-title="MIXED VOD",No Time to Die (2021)(Sub Malay)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The King's Man (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg" group-title="MIXED VOD",The King's Man (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="MIXED VOD",The Matrix Resurrections (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="(BR)Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="MIXED VOD",(BR)Spider-Man: No Way Home (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Shang-Chi and the Legend of the Ten Rings (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="MIXED VOD",Shang-Chi and the Legend of the Ten Rings (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="MIXED VOD",Venom: Let There Be Carnage (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Apache Junction (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYkElIUzn9NkVFufpc2oSQlfVsS.jpg" group-title="MIXED VOD",Apache Junction (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/402.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heroes Return (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2eKB73Y14vmlR3odzt2or89j85.jpg" group-title="MIXED VOD",Heroes Return (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/403.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Time Is Up (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dxWHyMY4HoXH8LiEhYlga2OtK5B.jpg" group-title="MIXED VOD",Time Is Up (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/404.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Peter Rabbit 2: The Runaway (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cycDz68DtTjJrDJ1fV8EBq2Xdpb.jpg" group-title="MIXED VOD",Peter Rabbit 2: The Runaway (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/296.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Widow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg" group-title="MIXED VOD",Black Widow (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/301.mp4
-#EXTINF:-1 tvg-id="" tvg-name="River (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3uDFq30KZhosZ5BzRs3RnDzdtSK.jpg" group-title="MIXED VOD",River (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/333.mp4
-#EXTINF:-1 tvg-id="" tvg-name="King of The New Beggars" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2P1uPfPwz4C8dzLrvbyeenZXtC.jpg" group-title="MIXED VOD",King of The New Beggars
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="My Little Pony: A New Generation (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzq5XRGgm6NDMOW1idUvbpGqEkv.jpg" group-title="MIXED VOD",My Little Pony: A New Generation (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/405.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Free Guy (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg" group-title="MIXED VOD",Free Guy (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/393.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intrusion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6ozTBflWXlBje0uxJv4m6s4HTq.jpg" group-title="MIXED VOD",Intrusion (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/391.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Crazy Tsunami (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w3But4MZLwVjXuh43yKcVZzgfk.jpg" group-title="MIXED VOD",Crazy Tsunami (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/390.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Don't Breathe 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRMfgGFRAZIlvwVWy8DYJdLTpvN.jpg" group-title="MIXED VOD",Don't Breathe 2 (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Snake Eyes: G.I. Joe Origins (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIXF0sQGXOxQhbaEaKOi2VYlIL0.jpg" group-title="MIXED VOD",Snake Eyes: G.I. Joe Origins (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/362.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hutang 2D" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjM3NTEzYWEtODExZC00YzgwLWI3YzItZThlNTMxNmM3MTVjXkEyXkFqcGdeQXVyODc1ODUxNjE@._V1_FMjpg_UX318_.jpg" group-title="MALAY VOD",Hutang 2D
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="No Sudden Move (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34BmdJkdvRweC3xJJFlOFQ2IbYc.jpg" group-title="MIXED VOD",No Sudden Move (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/356.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hitman's Wife's Bodyguard (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg" group-title="MIXED VOD",Hitman's Wife's Bodyguard (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/357.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Unstoppable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDi4Rw2K35n6PCV3RCWSFlVLC6.jpg" group-title="MIXED VOD",Unstoppable (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/354.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The East (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEuiWovZ8ltmf2cDSKKbYZJXwHx.jpg" group-title="MIXED VOD",The East (2020)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/353.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Suicide Squad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg" group-title="MIXED VOD",The Suicide Squad (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/349.mp4
-#EXTINF:-1 tvg-id="" tvg-name="F9 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg" group-title="MIXED VOD",F9 (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mat Bond Malaya (2021)" tvg-logo="https://i.ibb.co/C8wgCGg/bond.png" group-title="MALAY VOD",Mat Bond Malaya (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/347.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jungle Cruise (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg" group-title="MIXED VOD",Jungle Cruise (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/348.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Malik (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLSOpgy8K7UEjFZTTCmRXsBBJNo.jpg" group-title="TAMIL/INDIA",Malik (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/329.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dark Spell (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bvACviwht2USmNG54wbXMEndBf.jpg" group-title="MIXED VOD",Dark Spell (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/331.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tides (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6kcvbwGH9lcLRc6HC6tHx34KPE.jpg" group-title="MIXED VOD",Tides (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/332.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Settlers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBUYDwiJVDcnjPneOitVetJk2Rt.jpg" group-title="MIXED VOD",Settlers (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/307.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Tomorrow War (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xipF6XqfSYV8DxLqfLN6aWlwuRp.jpg" group-title="MIXED VOD",The Tomorrow War (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ripper Untold (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpELyqPFcAhpyaCRFnoUEpQrqZU.jpg" group-title="MIXED VOD",Ripper Untold (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rurouni Kenshin: The Final (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bbEASVf9XWtfxWiuWUMY3uyhTb.jpg" group-title="MIXED VOD",Rurouni Kenshin: The Final (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jungle Run (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qz8G0DcgLUkJSbLU5YpzQYlOnb.jpg" group-title="MIXED VOD",Jungle Run (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Ice Road (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg" group-title="MIXED VOD",The Ice Road (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Misfits (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPOyYnCkRbWAEem85N3VFpQODf5.jpg" group-title="MIXED VOD",The Misfits (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Spiral: From the Book of Saw (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcyKve7nXRFgRyms9M1bndNkKOx.jpg" group-title="MIXED VOD",Spiral: From the Book of Saw (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="MIXED VOD",Infinite (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Great White (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbFG87LLTuPT8MZHRxofYvDnelc.jpg" group-title="MIXED VOD",Great White (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Recall (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VdCj7o8DsDz66MYwX3iV2Stia3.jpg" group-title="MIXED VOD",Recall (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Conjuring: The Devil Made Me Do It (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbSuFiJbbBWCkyCCKIMfuDCA4yV.jpg" group-title="MIXED VOD",The Conjuring: The Devil Made Me Do It (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/238.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mortal Kombat (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkayOAUBUu4mMvyNf9iHSUiPjF1.jpg" group-title="MIXED VOD",Mortal Kombat (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RED (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmZhOGE2OTMtYTViOS00NzBjLThjYmMtZWEwYTdjZTE5NTJkXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="TAMIL/INDIA",RED (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="400 Bullets (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/burp795vripHCoq8VAT0Dm5SPE.jpg" group-title="MIXED VOD",400 Bullets (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Marksman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vcDalR50RWa309vBH1NLmG2rjQ.jpg" group-title="MIXED VOD",The Marksman (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Outside the Wire (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XYLiMxHAaCsoyrVo38LBWMw2p8.jpg" group-title="MIXED VOD",Outside the Wire (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Zack Snyder's Justice League (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg" group-title="MIXED VOD",Zack Snyder's Justice League (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Vault (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSlazQmwqtlRIbmZ72xBGr0MEFH.jpg" group-title="MIXED VOD",The Vault (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Night of the Kings (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lkY6Agn4sucxm2VHrPBk7pQah7m.jpg" group-title="MIXED VOD",Night of the Kings (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Flashback (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prffYgzc7xYWXBiFoFfsgzgrNfj.jpg" group-title="MIXED VOD",Flashback (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/291.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cold Case (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lodKsWEcNNlEPbE461pD2c2SuG.jpg" group-title="TAMIL/INDIA",Cold Case (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/293.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Munich: The Edge of War (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg" group-title="MIXED VOD",Munich: The Edge of War (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ron's Gone Wrong (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M0uwPgwvPONdFG0jk8TPK09xJU.jpg" group-title="MIXED VOD",Ron's Gone Wrong (2021)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Man From Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="MIXED VOD",The Man From Toronto (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Section 8 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G1wHQNITyfiABp2fgytpiFMHf9.jpg" group-title="MIXED VOD",Section 8 (2022)
-https://link.zozotv.xyz:443/movie/rozila969/abc12345/735.mp4
-
-
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps1 squid game (2021) dubbing
-https://filmovie.github.io/tiviku/squid.game.(2021).dubb/squid.game.(2021).dubb.e1.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps2 squid game (2021) dubbing
-https://filmovie.github.io/by/vods/squid.game.2021/squid2.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps3 squid game (2021) dubbing
-https://filmovie.github.io/by/vods/squid.game.2021/epso3.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps4 squid game (2021) dubbing
-https://filmovie.github.io/by/vods/squid.game.2021/eps4.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps5 squid game (2021) dubbing
-https://filmovie.github.io/by/vods/squid.game.2021/e411.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps6 squid game (2021) dubbing
-https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/57ocC.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps7 squid game (2021) dubbing
-https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/k7Zxt.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps8 squid game (2021) dubbing
-https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/57icC.m3u8
-#EXTINF: -1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg" group-title="squid game (2021) dubbing", eps9 squid game (2021) dubbing
-https://filmovie.github.io/dpZ64Aa/i85FtikK9rZ/5u4cC.m3u8
-
-
-
-
+#EXTINF:0 CUID="90" tvg-name="Crossfire (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/e5Flo1Z9YD75Q9tLlKpNy3dpzvv.jpg" group-title="Action",Crossfire (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8608.m3u8
+#EXTINF:0 CUID="116" tvg-name="Transformers: Rise of the Beasts (2023)" tvg-logo="http://103.127.208.209:25461/images/4a3bfc1d4cf90986f99a87f4789de343.jpg" group-title="Action",Transformers: Rise of the Beasts (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8634.m3u8
+#EXTINF:0 CUID="1" tvg-name="The Squad: Home Run (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kGclAzPJobEy7qg7LNuFI9grNoh.jpg" group-title="Action",The Squad: Home Run (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8944.m3u8
+#EXTINF:0 CUID="32" tvg-name="Black Lotus (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/y3AeW200hqGLxoPyHMDHpzudylz.jpg" group-title="Action",Black Lotus (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8549.m3u8
+#EXTINF:0 CUID="56" tvg-name="The Best Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg" group-title="Action",The Best Man (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8574.m3u8
+#EXTINF:0 CUID="500" tvg-name="Operation Fortune: Ruse de Guerre (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uo7vWfQUlVwueYTDRicXOJa8Oow.jpg" group-title="Action",Operation Fortune: Ruse de Guerre (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9095.m3u8
+#EXTINF:0 CUID="499" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="Action",Sayen (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9094.m3u8
+#EXTINF:0 CUID="492" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rzRb63TldOKdKydCvWJM8B6EkPM.jpg" group-title="Action",65 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9087.m3u8
+#EXTINF:0 CUID="491" tvg-name="Righteous Thieves (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zZKTYOTe5hYIVxM8JvKljjONJm4.jpg" group-title="Action",Righteous Thieves (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9086.m3u8
+#EXTINF:0 CUID="485" tvg-name="The Park (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hR1jdCw0A9czgsbp45TASkjjBhA.jpg" group-title="Action",The Park (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9080.m3u8
+#EXTINF:0 CUID="470" tvg-name="Khun Pan 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5WrRrKkBhgyj0IOeFdklJ1SdwX2.jpg" group-title="Action",Khun Pan 3 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9063.m3u8
+#EXTINF:0 CUID="465" tvg-name="Ant-Man and the Wasp: Quantumania (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qnqGbB22YJ7dSs4o6M7exTpNxPz.jpg" group-title="Action",Ant-Man and the Wasp: Quantumania (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9057.m3u8
+#EXTINF:0 CUID="461" tvg-name="The Assassin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dnZJ82cp148EZyOvlGevIembqnp.jpg" group-title="Action",The Assassin (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9053.m3u8
+#EXTINF:0 CUID="450" tvg-name="Assassin Club (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="Action",Assassin Club (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9038.m3u8
+#EXTINF:0 CUID="449" tvg-name="The Unborn Soul (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i2p70Ffn3OUpSzy375VZJKc5O5L.jpg" group-title="Action",The Unborn Soul (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9036.m3u8
+#EXTINF:0 CUID="448" tvg-name="The Locksmith (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg" group-title="Action",The Locksmith (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9034.m3u8
+#EXTINF:0 CUID="446" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="Action",Little Dixie (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9032.m3u8
+#EXTINF:0 CUID="437" tvg-name="Detective Knight: Independence (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="Action",Detective Knight: Independence (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9017.m3u8
+#EXTINF:0 CUID="436" tvg-name="Transfusion (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg" group-title="Action",Transfusion (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9016.m3u8
+#EXTINF:0 CUID="434" tvg-name="The Wandering Earth II (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hr7SKKj6QpfS32dF0HCmVi6R7J4.jpg" group-title="Action",The Wandering Earth II (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9014.m3u8
+#EXTINF:0 CUID="432" tvg-name="Pathaan (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/luQFzuHn6IeRdgmXf1DfrYDPO5l.jpg" group-title="Action",Pathaan (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9012.m3u8
+#EXTINF:0 CUID="430" tvg-name="Teen Wolf: The Movie (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="Action",Teen Wolf: The Movie (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9010.m3u8
+#EXTINF:0 CUID="427" tvg-name="The Point Men (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/clqjSOghnY9OxmqkrdS9nHMnKEz.jpg" group-title="Action",The Point Men (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9006.m3u8
+#EXTINF:0 CUID="425" tvg-name="Sakra (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jGKCpt3zzbGZbgoza6HCvecqElM.jpg" group-title="Action",Sakra (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9004.m3u8
+#EXTINF:0 CUID="422" tvg-name="Bad City (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zjWAjosdXELkaqCnlc1s8FQtIZL.jpg" group-title="Action",Bad City (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9001.m3u8
+#EXTINF:0 CUID="415" tvg-name="The Price We Pay (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5G2vYBHjgeu7xpDBt77JOeTNShK.jpg" group-title="Action",The Price We Pay (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8994.m3u8
+#EXTINF:0 CUID="414" tvg-name="Sniper: Vengeance (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wivMrTwPGMiya5oxQHuWmjyC17r.jpg" group-title="Action",Sniper: Vengeance (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8993.m3u8
+#EXTINF:0 CUID="411" tvg-name="Gunfight at Rio Bravo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/92hYmHw1XpMEF7yZUzjOzcO4zmC.jpg" group-title="Action",Gunfight at Rio Bravo (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8990.m3u8
+#EXTINF:0 CUID="410" tvg-name="Night Train (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gRWWO0dqCRG6K8ZtRNVf8xrb1Ng.jpg" group-title="Action",Night Train (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8989.m3u8
+#EXTINF:0 CUID="407" tvg-name="Phantom (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/o67fuhbwvAZ26PwnOj5v8uyqy5x.jpg" group-title="Action",Phantom (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8986.m3u8
+#EXTINF:0 CUID="403" tvg-name="The Old Way (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" group-title="Action",The Old Way (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8982.m3u8
+#EXTINF:0 CUID="396" tvg-name="Plane (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qi9r5xBgcc9KTxlOLjssEbDgO0J.jpg" group-title="Action",Plane (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8975.m3u8
+#EXTINF:0 CUID="394" tvg-name="Circle Line (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i2F9mk8ssi6hVHwYiV3DbxDfRq.jpg" group-title="Action",Circle Line (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8973.m3u8
+#EXTINF:0 CUID="391" tvg-name="The Family Plan (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/a6syn9qcU4a54Lmi3JoIr1XvhFU.jpg" group-title="Action",The Family Plan (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8970.m3u8
+#EXTINF:0 CUID="384" tvg-name="Malbatt: Misi Bakara (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8WJAr188uDyQfbt9sxX09z4pMrf.jpg" group-title="Action",Malbatt: Misi Bakara (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8963.m3u8
+#EXTINF:0 CUID="380" tvg-name="Fast Charlie (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/w0rYX6dDvcz1ASO4MAKPviaAj2x.jpg" group-title="Action",Fast Charlie (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8959.m3u8
+#EXTINF:0 CUID="367" tvg-name="Silent Night (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nJCP1ZNTPKlZ7S0Kv3gbmuraAT4.jpg" group-title="Action",Silent Night (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8943.m3u8
+#EXTINF:0 CUID="348" tvg-name="Believer 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/g9aDZSqH5KmsHbMurhni5d2wq6q.jpg" group-title="Action",Believer 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8924.m3u8
+#EXTINF:0 CUID="331" tvg-name="Rumble Through the Dark (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/19UbYIT9WEQS5qSD3BREDxVXk8g.jpg" group-title="Action",Rumble Through the Dark (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8907.m3u8
+#EXTINF:0 CUID="325" tvg-name="Freelance (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7Bd4EUOqQDKZXA6Od5gkfzRNb0.jpg" group-title="Action",Freelance (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8901.m3u8
+#EXTINF:0 CUID="324" tvg-name="Knuckle Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3mQ8tK7xpx95nq0RslW91RPbB5Y.jpg" group-title="Action",Knuckle Girl (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8900.m3u8
+#EXTINF:0 CUID="322" tvg-name="Wingwomen (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/atatNvrn7kBvkARD2YodyYkKicr.jpg" group-title="Action",Wingwomen (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8898.m3u8
+#EXTINF:0 CUID="313" tvg-name="Brave Citizen (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6Ea5i6APeTfm4hHh6dg5Z733JVS.jpg" group-title="Action",Brave Citizen (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8887.m3u8
+#EXTINF:0 CUID="305" tvg-name="Jigen Daisuke (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rBeAZ1YiwVQSdeiHCWzGtJhKvbV.jpg" group-title="Action",Jigen Daisuke (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8879.m3u8
+#EXTINF:0 CUID="300" tvg-name="Desperation Road (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tPyj6Gii1HrnzCbJXEF7JdSFkQ8.jpg" group-title="Action",Desperation Road (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8874.m3u8
+#EXTINF:0 CUID="295" tvg-name="Ballerina (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qBxMhcmNnFniuDAZTKEHcSgKtsn.jpg" group-title="Action",Ballerina (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8869.m3u8
+#EXTINF:0 CUID="282" tvg-name="The Creator (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg" group-title="Action",The Creator (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8856.m3u8
+#EXTINF:0 CUID="279" tvg-name="Dark Asset (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hfxqsC8Bz2wMZmXKwEZqKyJiScT.jpg" group-title="Action",Dark Asset (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8853.m3u8
+#EXTINF:0 CUID="274" tvg-name="Under the Light (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gESv9WPvbmbOwO50vT6yF2OuWwF.jpg" group-title="Action",Under the Light (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8848.m3u8
+#EXTINF:0 CUID="271" tvg-name="Muzzle (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/AsM1H8DfaNo7bRu4q76MaVRRbIY.jpg" group-title="Action",Muzzle (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8845.m3u8
+#EXTINF:0 CUID="270" tvg-name="Head Count (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4gQb5y4NzsW4D5j8jZ7FyoysrDI.jpg" group-title="Action",Head Count (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8844.m3u8
+#EXTINF:0 CUID="267" tvg-name="The Retirement Plan (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kv4n3xgRWtkldaD4kyy1FvpW6bO.jpg" group-title="Action",The Retirement Plan (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8841.m3u8
+#EXTINF:0 CUID="263" tvg-name="Expend4bles (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg" group-title="Action",Expend4bles (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8837.m3u8
+#EXTINF:0 CUID="257" tvg-name="Overhaul (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6yx14lSACNJ2zRoYyXqecf3QNgr.jpg" group-title="Action",Overhaul (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8831.m3u8
+#EXTINF:0 CUID="253" tvg-name="Freestyle (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8jwbiJB8Am1N9OsqaJs9vrGerlG.jpg" group-title="Action",Freestyle (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8827.m3u8
+#EXTINF:0 CUID="244" tvg-name="King of Killers (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/x5AreOAgkTBzUSL58o4jsYortw2.jpg" group-title="Action",King of Killers (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8818.m3u8
+#EXTINF:0 CUID="242" tvg-name="The Equalizer 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg" group-title="Action",The Equalizer 3 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8816.m3u8
+#EXTINF:0 CUID="238" tvg-name="Jawan (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bilZfvrrM1YEICmj5DYVEGmGxod.jpg" group-title="Action",Jawan (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8812.m3u8
+#EXTINF:0 CUID="229" tvg-name="Retribution (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oUmmY7QWWn7OhKlcPOnirHJpP1F.jpg" group-title="Action",Retribution (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8803.m3u8
+#EXTINF:0 CUID="228" tvg-name="Gran Turismo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg" group-title="Action",Gran Turismo (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8802.m3u8
+#EXTINF:0 CUID="219" tvg-name="Kill Shot (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8tmVuix29w6RH2T09D0crzXMQj1.jpg" group-title="Action",Kill Shot (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8793.m3u8
+#EXTINF:0 CUID="216" tvg-name="Blue Beetle (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg" group-title="Action",Blue Beetle (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8790.m3u8
+#EXTINF:0 CUID="214" tvg-name="The Engineer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/t2WBlN3YCzieAezM3n3Oh20Ue2s.jpg" group-title="Action",The Engineer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8788.m3u8
+#EXTINF:0 CUID="209" tvg-name="Mob Land (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mcz8oi9oCgq1wkA3Wz2kluE94pE.jpg" group-title="Action",Mob Land (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8783.m3u8
+#EXTINF:0 CUID="208" tvg-name="Meg 2: The Trench (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="Action",Meg 2: The Trench (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8782.m3u8
+#EXTINF:0 CUID="202" tvg-name="Heart of Stone (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vB8o2p4ETnrfiWEgVxHmHWP9yRl.jpg" group-title="Action",Heart of Stone (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8776.m3u8
+#EXTINF:0 CUID="200" tvg-name="The White Storm 3: Heaven or Hell (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kPjZsEni0KF0IXGXh0kaxNESdGE.jpg" group-title="Action",The White Storm 3: Heaven or Hell (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8774.m3u8
+#EXTINF:0 CUID="199" tvg-name="Sympathy for the Devil (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/afGdVMa80LMs6ibLP22CwM5uI4e.jpg" group-title="Action",Sympathy for the Devil (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8773.m3u8
+#EXTINF:0 CUID="198" tvg-name="Hidden Strike (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="Action",Hidden Strike (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8772.m3u8
+#EXTINF:0 CUID="197" tvg-name="Kingdom III: The Flame of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/60eYZkkksgKeeAV8fAAKQslZZnH.jpg" group-title="Action",Kingdom III: The Flame of Destiny (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8771.m3u8
+#EXTINF:0 CUID="192" tvg-name="Soulcatcher (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/l1f9JSPjCfNftigEii1SDK1g2b3.jpg" group-title="Action",Soulcatcher (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8766.m3u8
+#EXTINF:0 CUID="189" tvg-name="Smugglers (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dJqOQTOwnBkFuLoqFwMefBDCVIG.jpg" group-title="Action",Smugglers (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8763.m3u8
+#EXTINF:0 CUID="184" tvg-name="The Baker (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ApRW9CPK83fF4KCXPR00KCzXOjL.jpg" group-title="Action",The Baker (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8758.m3u8
+#EXTINF:0 CUID="182" tvg-name="Shrapnel (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gsRDrAML7hJC8ZCgRQobHIrzbxR.jpg" group-title="Action",Shrapnel (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8756.m3u8
+#EXTINF:0 CUID="179" tvg-name="Sons of Summer" tvg-logo="https://image.tmdb.org/t/p/w780/d69N1b1bPBBUwo9YQ6M2WKotLpm.jpg" group-title="Action",Sons of Summer
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8753.m3u8
+#EXTINF:0 CUID="178" tvg-name="The Channel (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg" group-title="Action",The Channel (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8752.m3u8
+#EXTINF:0 CUID="174" tvg-name="Creation of the Gods I: Kingdom of Storms (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kUKEwAoWe4Uyt8sFmtp5S86rlBk.jpg" group-title="Action",Creation of the Gods I: Kingdom of Storms (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8748.m3u8
+#EXTINF:0 CUID="165" tvg-name="Dead Man's Hand (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vbQ3ZWDSDM84sdl9QWnyuNl6feF.jpg" group-title="Action",Dead Man's Hand (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8739.m3u8
+#EXTINF:0 CUID="163" tvg-name="97 Minutes (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eYGyR8xF8emNs9AJAJSyLXu56kR.jpg" group-title="Action",97 Minutes (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8737.m3u8
+#EXTINF:0 CUID="161" tvg-name="Mission: Impossible - Dead Reckoning Part One (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/NNxYkU70HPurnNCSiCjYAmacwm.jpg" group-title="Action",Mission: Impossible - Dead Reckoning Part One (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8735.m3u8
+#EXTINF:0 CUID="154" tvg-name="Warhorse One (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jP2ik17jvKiV5sGEknMFbZv7WAe.jpg" group-title="Action",Warhorse One (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8728.m3u8
+#EXTINF:0 CUID="153" tvg-name="Sound of Freedom (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg" group-title="Action",Sound of Freedom (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8727.m3u8
+#EXTINF:0 CUID="148" tvg-name="The Out-Laws (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5dliMQ2ODbGNoq0hlefdnuXQxMw.jpg" group-title="Action",The Out-Laws (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8722.m3u8
+#EXTINF:0 CUID="146" tvg-name="Resident Evil: Death Island (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qayga07ICNDswm0cMJ8P3VwklFZ.jpg" group-title="Action",Resident Evil: Death Island (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8720.m3u8
+#EXTINF:0 CUID="140" tvg-name="iNumber Number: Jozi Gold (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7uJkLigRamfHerFSkfFOCMqH0pi.jpg" group-title="Action",iNumber Number: Jozi Gold (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8714.m3u8
+#EXTINF:0 CUID="135" tvg-name="Confidential Informant (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/p3MqxGqMdq4eqzWN6H7ugEdYv1W.jpg" group-title="Action",Confidential Informant (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8709.m3u8
+#EXTINF:0 CUID="132" tvg-name="Extraction 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg" group-title="Action",Extraction 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8706.m3u8
+#EXTINF:0 CUID="129" tvg-name="The Flash (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg" group-title="Action",The Flash (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8703.m3u8
+#EXTINF:0 CUID="127" tvg-name="Surrounded (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iVVvlosgMU6aePXavihV3L3V3D6.jpg" group-title="Action",Surrounded (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8701.m3u8
+#EXTINF:0 CUID="126" tvg-name="The Childe (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ydC8ubFXQfkPJDhkduMhbE9mTz7.jpg" group-title="Action",The Childe (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8644.m3u8
+#EXTINF:0 CUID="119" tvg-name="Medellin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jKFOQ5LNQuIWGLdB2WhVlSUcS6F.jpg" group-title="Action",Medellin (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8637.m3u8
+#EXTINF:0 CUID="111" tvg-name="Kandahar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lCanGgsqF4xD2WA5NF8PWeT3IXd.jpg" group-title="Action",Kandahar (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8629.m3u8
+#EXTINF:0 CUID="107" tvg-name="Mojave Diamonds" tvg-logo="https://image.tmdb.org/t/p/w780/8JagLPH3wc2BDvsUkJfie3mEodN.jpg" group-title="Action",Mojave Diamonds
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8625.m3u8
+#EXTINF:0 CUID="106" tvg-name="The Roundup: No Way Out (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/w5ZzelrldWr7CmOTSiwagoe5Vl9.jpg" group-title="Action",The Roundup: No Way Out (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8624.m3u8
+#EXTINF:0 CUID="100" tvg-name="The Wild (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sxqzaOto1qyUseSg6YpIP9Su5lp.jpg" group-title="Action",The Wild (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8618.m3u8
+#EXTINF:0 CUID="99" tvg-name="Born to Fly (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/VpqbGLrYGkLCYbAo3cbCIRdJEh.jpg" group-title="Action",Born to Fly (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8617.m3u8
+#EXTINF:0 CUID="97" tvg-name="Polite Society (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lv1WqAo2ulQy9aSOG7ikR44p8RR.jpg" group-title="Action",Polite Society (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8615.m3u8
+#EXTINF:0 CUID="89" tvg-name="The Mother (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vnRthEZz16Q9VWcP5homkHxyHoy.jpg" group-title="Action",The Mother (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8607.m3u8
+#EXTINF:0 CUID="88" tvg-name="Crater (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg" group-title="Action",Crater (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8606.m3u8
+#EXTINF:0 CUID="84" tvg-name="Fast X (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Action",Fast X (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8602.m3u8
+#EXTINF:0 CUID="69" tvg-name="Mercy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qw7FkjLxsDj5vmBk04L2dkiJopo.jpg" group-title="Action",Mercy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8587.m3u8
+#EXTINF:0 CUID="65" tvg-name="Sisu (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ygO9lowFMXWymATCrhoQXd6gCEh.jpg" group-title="Action",Sisu (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8583.m3u8
+#EXTINF:0 CUID="63" tvg-name="Snag (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nhj4Q39qMSk6X5Ly9j9Yqyjrg5A.jpg" group-title="Action",Snag (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8581.m3u8
+#EXTINF:0 CUID="62" tvg-name="AKA (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/exKj9XSFWLajZ6NI60Gxsj1qNuE.jpg" group-title="Action",AKA (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8580.m3u8
+#EXTINF:0 CUID="59" tvg-name="One Ranger (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/puffdkze3GZmQHu2Hy8t1XdOYtM.jpg" group-title="Action",One Ranger (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8577.m3u8
+#EXTINF:0 CUID="50" tvg-name="Ghosted (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/liLN69YgoovHVgmlHJ876PKi5Yi.jpg" group-title="Action",Ghosted (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8568.m3u8
+#EXTINF:0 CUID="44" tvg-name="The Last Kingdom: Seven Kings Must Die (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qcNDxDzd5OW9wE3c8nWxCBQoBrM.jpg" group-title="Action",The Last Kingdom: Seven Kings Must Die (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8562.m3u8
+#EXTINF:0 CUID="41" tvg-name="Mighty Morphin Power Rangers: Once & Always (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg" group-title="Action",Mighty Morphin Power Rangers: Once & Always (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8559.m3u8
+#EXTINF:0 CUID="39" tvg-name="Supercell (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gbGHezV6yrhua0KfAgwrknSOiIY.jpg" group-title="Action",Supercell (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8557.m3u8
+#EXTINF:0 CUID="34" tvg-name="Breakout (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/if4ri8tSSLPoqCWW2XypnYRO0Dy.jpg" group-title="Action",Breakout (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8551.m3u8
+#EXTINF:0 CUID="23" tvg-name="Ride On (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ukFo9pwVJ5mzTgmFCanYsYC4roF.jpg" group-title="Action",Ride On (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8540.m3u8
+#EXTINF:0 CUID="19" tvg-name="One Day as a Lion (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cxSKca4dNlk7O7PMiEYT203vlIw.jpg" group-title="Action",One Day as a Lion (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8536.m3u8
+#EXTINF:0 CUID="726" tvg-name="Drawing Sword：Fighting Ghost Cry (2022)" tvg-logo="http://103.127.208.209:25461/images/f8f452413a7779b2fe9b10d3062ad87e.jpg" group-title="Action",Drawing Sword：Fighting Ghost Cry (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7095.m3u8
+#EXTINF:0 CUID="778" tvg-name="Panama (2022)" tvg-logo="http://103.127.208.209:25461/images/d56456df919fb55d08fb44e4de44f983.jpg" group-title="Action",Panama (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7149.m3u8
+#EXTINF:0 CUID="810" tvg-name="Eraser: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lWE48knKsaPGqVoANXoWraiub2d.jpg" group-title="Action",Eraser: Reborn (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7184.m3u8
+#EXTINF:0 CUID="807" tvg-name="B Cut (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kvLmGVPRJBlQvsAT5AGyVlIrOj0.jpg" group-title="Action",B Cut (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7181.m3u8
+#EXTINF:0 CUID="802" tvg-name="The Medicine King Coffin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vbiijFSUmIGXidv7b6Ap1rjHmDC.jpg" group-title="Action",The Medicine King Coffin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7176.m3u8
+#EXTINF:0 CUID="799" tvg-name="The Lost City (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/neMZH82Stu91d3iqvLdNQfqPPyl.jpg" group-title="Action",The Lost City (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7171.m3u8
+#EXTINF:0 CUID="798" tvg-name="Everything Everywhere All at Once (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg" group-title="Action",Everything Everywhere All at Once (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7170.m3u8
+#EXTINF:0 CUID="793" tvg-name="Hot Blooded (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/81D9Cvl8JbMJixD9ii9puwqyXK4.jpg" group-title="Action",Hot Blooded (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7164.m3u8
+#EXTINF:0 CUID="781" tvg-name="Black Crab (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mcIYHZYwUbvhvUt8Lb5nENJ7AlX.jpg" group-title="Action",Black Crab (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7152.m3u8
+#EXTINF:0 CUID="753" tvg-name="Slash/Back (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg" group-title="Action",Slash/Back (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7124.m3u8
+#EXTINF:0 CUID="742" tvg-name="Death Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/j9nVLvOv2Sz3KekD7elwGZII8F9.jpg" group-title="Action",Death Hunt (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7112.m3u8
+#EXTINF:0 CUID="739" tvg-name="Kung-Fu Zohra (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uHTgTqZCQN5kd22QlyZMpPcFU3s.jpg" group-title="Action",Kung-Fu Zohra (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7109.m3u8
+#EXTINF:0 CUID="735" tvg-name="A Day to Die (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8Kce1utfytAG5m1PbtVoDzmDZJH.jpg" group-title="Action",A Day to Die (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7104.m3u8
+#EXTINF:0 CUID="733" tvg-name="The Red Sparrow (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eMVthRclFCSjrBhh3rGwxgHitbo.jpg" group-title="Action",The Red Sparrow (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7102.m3u8
+#EXTINF:0 CUID="724" tvg-name="The Pirates: The Last Royal Treasure (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/d5oMUBCuDntOJBOertQ7aTSAGmP.jpg" group-title="Action",The Pirates: The Last Royal Treasure (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7093.m3u8
+#EXTINF:0 CUID="722" tvg-name="The Last Mark (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg" group-title="Action",The Last Mark (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7091.m3u8
+#EXTINF:0 CUID="720" tvg-name="Gasoline Alley (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vEIsTAAjZxlSuwfXkQreUfL57IU.jpg" group-title="Action",Gasoline Alley (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7089.m3u8
+#EXTINF:0 CUID="718" tvg-name="Restless (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cv0AonfuCDrt1sfR8HRopODEbul.jpg" group-title="Action",Restless (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7087.m3u8
+#EXTINF:0 CUID="716" tvg-name="Desperate Riders (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg" group-title="Action",Desperate Riders (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7085.m3u8
+#EXTINF:0 CUID="713" tvg-name="The Prototype (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gGDDRopgIQhemPJ04eI0r0FfmIt.jpg" group-title="Action",The Prototype (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7082.m3u8
+#EXTINF:0 CUID="707" tvg-name="The Mystery of Lop Nur (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aiPmEv3XxITXvVtNklCf7YdtqLZ.jpg" group-title="Action",The Mystery of Lop Nur (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7076.m3u8
+#EXTINF:0 CUID="701" tvg-name="Pursuit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oUU6blOmIu155vfIgzML3ZSsDrB.jpg" group-title="Action",Pursuit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7070.m3u8
+#EXTINF:0 CUID="700" tvg-name="Boxing Champion Mother (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wNpEK1LTmBzzbtmegGI357cFsF.jpg" group-title="Action",Boxing Champion Mother (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7069.m3u8
+#EXTINF:0 CUID="697" tvg-name="Uncharted (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg" group-title="Action",Uncharted (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7066.m3u8
+#EXTINF:0 CUID="694" tvg-name="Fistful of Vengeance (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3cccEF9QZgV9bLWyupJO41HSrOV.jpg" group-title="Action",Fistful of Vengeance (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7063.m3u8
+#EXTINF:0 CUID="683" tvg-name="New Kung Fu Cult Master 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ttaWp5iGyoErtJkZZZeXwI8QN73.jpg" group-title="Action",New Kung Fu Cult Master 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7050.m3u8
+#EXTINF:0 CUID="670" tvg-name="Blacklight (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8jIyu2UfEsCYlxg2vFUaHeALeoD.jpg" group-title="Action",Blacklight (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7035.m3u8
+#EXTINF:0 CUID="668" tvg-name="FIR (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="Action",FIR (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7033.m3u8
+#EXTINF:0 CUID="659" tvg-name="The Mystic Nine: Begonia from Qingshan (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cVWYG9W7jNaElA4U7naT6o9JhdF.jpg" group-title="Action",The Mystic Nine: Begonia from Qingshan (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7024.m3u8
+#EXTINF:0 CUID="651" tvg-name="Looop Lapeta (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/onGdT8sYi89drvSJyEJnft97rOq.jpg" group-title="Action",Looop Lapeta (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7016.m3u8
+#EXTINF:0 CUID="642" tvg-name="The Prey: Legend of Karnoctus (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b4WRdvY6a7bcAjsS4joNPjq2DPm.jpg" group-title="Action",The Prey: Legend of Karnoctus (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7006.m3u8
+#EXTINF:0 CUID="640" tvg-name="12 Hours (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9EqUsKYHWk7XrXEyCMzxc93L6oR.jpg" group-title="Action",12 Hours (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7004.m3u8
+#EXTINF:0 CUID="638" tvg-name="Too Cool to Kill (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yN2VMJrgyklapBOn2EXmH8DQKck.jpg" group-title="Action",Too Cool to Kill (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7002.m3u8
+#EXTINF:0 CUID="633" tvg-name="The Spy Who Never Dies (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xhVglqsfTPKP75VT3ChK85RQafX.jpg" group-title="Action",The Spy Who Never Dies (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6997.m3u8
+#EXTINF:0 CUID="625" tvg-name="New Kung Fu Cult Master (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ttaWp5iGyoErtJkZZZeXwI8QN73.jpg" group-title="Action",New Kung Fu Cult Master (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6988.m3u8
+#EXTINF:0 CUID="621" tvg-name="Pure Japanese (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7irmPdUauvgUEcyM5O3GhDlOhjd.jpg" group-title="Action",Pure Japanese (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6984.m3u8
+#EXTINF:0 CUID="614" tvg-name="A Man Called Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zYeRnmIpuJwatUIKz1XzNPJUqL8.jpg" group-title="Action",A Man Called Hero (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6977.m3u8
+#EXTINF:0 CUID="612" tvg-name="The Tai Chi Master (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fK1pTyGlv1OfwuPNUo7tnTNvZ9q.jpg" group-title="Action",The Tai Chi Master (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6975.m3u8
+#EXTINF:0 CUID="611" tvg-name="Emergency Declaration (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h7kaQG5MbraSLibOuTpo0gtMxRz.jpg" group-title="Action",Emergency Declaration (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6974.m3u8
+#EXTINF:0 CUID="609" tvg-name="WarHunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9HFFwZOTBB7IPFmn9E0MXdWave3.jpg" group-title="Action",WarHunt (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6972.m3u8
+#EXTINF:0 CUID="602" tvg-name="The Mysterious Story of Longyun Town (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qxWXo0kTaTtMCWtZylWHTG4dPvG.jpg" group-title="Action",The Mysterious Story of Longyun Town (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6962.m3u8
+#EXTINF:0 CUID="580" tvg-name="Gold (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ejXBuNLvK4kZ7YcqeKqUWnCxdJq.jpg" group-title="Action",Gold (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6891.m3u8
+#EXTINF:0 CUID="576" tvg-name="Special Delivery (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iFUBAfMDlFOck29BEwS1awH5TB3.jpg" group-title="Action",Special Delivery (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6887.m3u8
+#EXTINF:0 CUID="571" tvg-name="Rusty Blade (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fU7p6paKaMI0bXNlOmdw5yywp4d.jpg" group-title="Action",Rusty Blade (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6880.m3u8
+#EXTINF:0 CUID="569" tvg-name="The Commando (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mC66fsuzlYHSoZwb6y6emSCaRv5.jpg" group-title="Action",The Commando (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6878.m3u8
+#EXTINF:0 CUID="566" tvg-name="The 355 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k26FYPVrLRHYnv5ZbMsIHFsjdIM.jpg" group-title="Action",The 355 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6874.m3u8
+#EXTINF:0 CUID="547" tvg-name="Shotgun Wedding (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg" group-title="Action",Shotgun Wedding (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6851.m3u8
+#EXTINF:0 CUID="540" tvg-name="Assassin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7N0BJPs616SSwE4hVs0jjWuiy5k.jpg" group-title="Action",Assassin (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9138.m3u8
+#EXTINF:0 CUID="536" tvg-name="Kill Boksoon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/taYgn3RRpCGlTGdaGQvnSIOzXFy.jpg" group-title="Action",Kill Boksoon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9134.m3u8
+#EXTINF:0 CUID="535" tvg-name="Fist of the Condor (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/odpaGY2lG32NG4GL2PuGPt7UUTy.jpg" group-title="Action",Fist of the Condor (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9133.m3u8
+#EXTINF:0 CUID="515" tvg-name="Bear Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dhI6jXu1KCCeDD2v3JEdg1huYbA.jpg" group-title="Action",Bear Man (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9112.m3u8
+#EXTINF:0 CUID="512" tvg-name="Furies (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/z1yAyLZ8WipVOdtyLoCKnUqREZK.jpg" group-title="Action",Furies (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9109.m3u8
+#EXTINF:0 CUID="511" tvg-name="John Wick: Chapter 4 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="Action",John Wick: Chapter 4 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9107.m3u8
+#EXTINF:0 CUID="507" tvg-name="The Siege (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6aSo9FepBA6zNEHgA3bgqt3UaOk.jpg" group-title="Action",The Siege (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9102.m3u8
+#EXTINF:0 CUID="937" tvg-name="Legend Of Koxinga (2022)" tvg-logo="http://103.127.208.209:25461/images/1ef740b0e8b692ab53782bfd82e64d9f.jpg" group-title="Action",Legend Of Koxinga (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7319.m3u8
+#EXTINF:0 CUID="1094" tvg-name="Di Renjie and Fire Unicorn (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gfFwH1M5EltlO0EzEVFwI0BS6xd.jpg" group-title="Action",Di Renjie and Fire Unicorn (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7504.m3u8
+#EXTINF:0 CUID="1101" tvg-name="Hansan: Rising Dragon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vH76IrIrZLHmO0WOD4U7nxBHgkR.jpg" group-title="Action",Hansan: Rising Dragon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7512.m3u8
+#EXTINF:0 CUID="1288" tvg-name="Dead for a Dollar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg" group-title="Action",Dead for a Dollar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7707.m3u8
+#EXTINF:0 CUID="1275" tvg-name="Athena (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/s8B0GsFEebd0DW2spykLMxnc1Kn.jpg" group-title="Action",Athena (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7694.m3u8
+#EXTINF:0 CUID="1274" tvg-name="Lou (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/djM2s4wSaATn4jVB33cV05PEbV7.jpg" group-title="Action",Lou (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7693.m3u8
+#EXTINF:0 CUID="1272" tvg-name="Section 8 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3G1wHQNITyfiABp2fgytpiFMHf9.jpg" group-title="Action",Section 8 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7691.m3u8
+#EXTINF:0 CUID="1262" tvg-name="Project Wolf Hunting (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dniWicB6fa7NvpGbguxWlNPMc5f.jpg" group-title="Action",Project Wolf Hunting (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7681.m3u8
+#EXTINF:0 CUID="1256" tvg-name="Hell Dogs (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2V1WlBuYcTjkXNS3i3IPvT4xQJN.jpg" group-title="Action",Hell Dogs (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7675.m3u8
+#EXTINF:0 CUID="1255" tvg-name="Typhoon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lg884X1BLuR5ueAFZNiRWyIEzwc.jpg" group-title="Action",Typhoon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7674.m3u8
+#EXTINF:0 CUID="1250" tvg-name="The Woman King (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/438QXt1E3WJWb3PqNniK0tAE5c1.jpg" group-title="Action",The Woman King (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7669.m3u8
+#EXTINF:0 CUID="1246" tvg-name="Deleted (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vPi3p9OoAzxjhOTgz3HLgODDRb0.jpg" group-title="Action",Deleted (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7665.m3u8
+#EXTINF:0 CUID="1243" tvg-name="Strange Door and Dark Blade (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6YZdgdOKUEt9MQdLSTOi7aGlwU7.jpg" group-title="Action",Strange Door and Dark Blade (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7662.m3u8
+#EXTINF:0 CUID="1240" tvg-name="Wire Room (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b9ykj4v8ykjRoGB7SpI1OuxblNU.jpg" group-title="Action",Wire Room (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7659.m3u8
+#EXTINF:0 CUID="1232" tvg-name="Battlefield: Fall of The World (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jJL2KJNUxxm7SIRBFN56j6Th5ES.jpg" group-title="Action",Battlefield: Fall of The World (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7650.m3u8
+#EXTINF:0 CUID="1230" tvg-name="High & Low The Worst X (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vvBldMlCmq7WDI6eoWIHSAe1JfE.jpg" group-title="Action",High & Low The Worst X (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7648.m3u8
+#EXTINF:0 CUID="1228" tvg-name="Medieval (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg" group-title="Action",Medieval (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7645.m3u8
+#EXTINF:0 CUID="1222" tvg-name="Confidential Assignment 2: International (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wvJOS9e9b0GXfNni98dYZujPLC8.jpg" group-title="Action",Confidential Assignment 2: International (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7639.m3u8
+#EXTINF:0 CUID="1206" tvg-name="The Up Rank (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ihPpDZSR6SpB0DGrTwRGsX66El3.jpg" group-title="Action",The Up Rank (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7623.m3u8
+#EXTINF:0 CUID="1194" tvg-name="Seoul Vibe (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/txaOvJ6HURmqFbpVtJezWNWqaR4.jpg" group-title="Action",Seoul Vibe (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7611.m3u8
+#EXTINF:0 CUID="1187" tvg-name="Bullet Proof (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cj6YmTAU7Jvn3w6d2NfjQzpX7Pw.jpg" group-title="Action",Bullet Proof (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7604.m3u8
+#EXTINF:0 CUID="1186" tvg-name="Sitio Diablo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/g1mLMD6lK7cza05zlKzXJrgcd4S.jpg" group-title="Action",Sitio Diablo (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7603.m3u8
+#EXTINF:0 CUID="1184" tvg-name="Warriors of Future (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2l9LbxBSkJseoxYcIJjclnmxyq.jpg" group-title="Action",Warriors of Future (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7601.m3u8
+#EXTINF:0 CUID="1182" tvg-name="...Watch Out, We're Mad (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ohiRHcLgqtpg82Keglufvlp8xuu.jpg" group-title="Action",...Watch Out, We're Mad (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7599.m3u8
+#EXTINF:0 CUID="1173" tvg-name="Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="Action",Beast (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7590.m3u8
+#EXTINF:0 CUID="1169" tvg-name="Ten Tigers of Guangdong: Invincible Iron Fist (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fAtIxPI8VtifA25CmYxV8x7YR6q.jpg" group-title="Action",Ten Tigers of Guangdong: Invincible Iron Fist (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7585.m3u8
+#EXTINF:0 CUID="1161" tvg-name="Day Shift (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bI7lGR5HuYlENlp11brKUAaPHuO.jpg" group-title="Action",Day Shift (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7575.m3u8
+#EXTINF:0 CUID="1152" tvg-name="Queen of Triads 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/emtwF23HCwasrEXlxboaQFdNOdG.jpg" group-title="Action",Queen of Triads 3 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7566.m3u8
+#EXTINF:0 CUID="1147" tvg-name="Hunt (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zVMyvNowgbsBAL6O6esWfRpAcOb.jpg" group-title="Action",Hunt (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7561.m3u8
+#EXTINF:0 CUID="1141" tvg-name="Sniper: Rogue Mission (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jSL5TqroJsDAIgBdELBwby1uhf1.jpg" group-title="Action",Sniper: Rogue Mission (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7554.m3u8
+#EXTINF:0 CUID="1140" tvg-name="Secret Headquarters (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg" group-title="Action",Secret Headquarters (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7553.m3u8
+#EXTINF:0 CUID="1139" tvg-name="Carter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5fHE4pgAOpebZKj9Wsk4aasLxkM.jpg" group-title="Action",Carter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7552.m3u8
+#EXTINF:0 CUID="1138" tvg-name="Prey (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg" group-title="Action",Prey (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7551.m3u8
+#EXTINF:0 CUID="1134" tvg-name="Stowaway (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8ZfKo5349nEssW0n2wqNf4vPtbZ.jpg" group-title="Action",Stowaway (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7546.m3u8
+#EXTINF:0 CUID="1127" tvg-name="Bullet Train (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg" group-title="Action",Bullet Train (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7539.m3u8
+#EXTINF:0 CUID="1123" tvg-name="Detective Dee and Resurrection from the Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3KjGPWyQ9aDdWVuqfPHbQWkTi0q.jpg" group-title="Action",Detective Dee and Resurrection from the Dead (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7535.m3u8
+#EXTINF:0 CUID="1116" tvg-name="Detective Dee and Nine Dragon Coffin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zmsQSRtscNrkrkC9Aydqync7V73.jpg" group-title="Action",Detective Dee and Nine Dragon Coffin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7528.m3u8
+#EXTINF:0 CUID="1114" tvg-name="The Moderator (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aB6aJkoFhYUmWEQaoxv67ZEgZOF.jpg" group-title="Action",The Moderator (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7526.m3u8
+#EXTINF:0 CUID="1110" tvg-name="Dead Zone (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hN8w1ftoH7yyfwgE9VBdGRkipbZ.jpg" group-title="Action",Dead Zone (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7522.m3u8
+#EXTINF:0 CUID="1090" tvg-name="The Gray Man (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5Eom3JsXgQlCj6QIsGCwXkX7wyH.jpg" group-title="Action",The Gray Man (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7500.m3u8
+#EXTINF:0 CUID="1089" tvg-name="Alienoid (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg" group-title="Action",Alienoid (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7498.m3u8
+#EXTINF:0 CUID="1074" tvg-name="The Hidden Fox (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lwQyH6yID8VqYfcmvZLIaV0Jkjp.jpg" group-title="Action",The Hidden Fox (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7482.m3u8
+#EXTINF:0 CUID="1070" tvg-name="The Killer: A Girl Who Deserves To Die (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5IQqdtTq1wH5YJynx86Ysi4sDVt.jpg" group-title="Action",The Killer: A Girl Who Deserves To Die (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7478.m3u8
+#EXTINF:0 CUID="1059" tvg-name="Flashover (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/svmCmybIlMOpyN8zWkIo0DOwEZ.jpg" group-title="Action",Flashover (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7464.m3u8
+#EXTINF:0 CUID="1058" tvg-name="Detective vs. Sleuths (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sNAeYA5EZ7ouoHnVxQ0vMbfgiEi.jpg" group-title="Action",Detective vs. Sleuths (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7463.m3u8
+#EXTINF:0 CUID="1057" tvg-name="Thor: Love and Thunder (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pIkRyD18kl4FhoCNQuWxWu5cBLM.jpg" group-title="Action",Thor: Love and Thunder (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7462.m3u8
+#EXTINF:0 CUID="1045" tvg-name="Day Zero (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ai7qo5yqXnNM1Wx9bAwvkmGrceP.jpg" group-title="Action",Day Zero (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7448.m3u8
+#EXTINF:0 CUID="1044" tvg-name="Code Name Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/YLv9S84WyPZ5uxty989Duhzi5u.jpg" group-title="Action",Code Name Banshee (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7447.m3u8
+#EXTINF:0 CUID="1042" tvg-name="Biyak (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/seZtPp9OFX92mN9mD7u6bc3ugUx.jpg" group-title="Action",Biyak (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7445.m3u8
+#EXTINF:0 CUID="1040" tvg-name="The Princess (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9pCoqX24a6rE981fY1O3PmhiwrB.jpg" group-title="Action",The Princess (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7443.m3u8
+#EXTINF:0 CUID="1039" tvg-name="Sniper Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zZ2VWaorznCNwJL3T9MBSHcutj4.jpg" group-title="Action",Sniper Hero (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7442.m3u8
+#EXTINF:0 CUID="1035" tvg-name="Blasted (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yWlBvsPl9y2h03padhD2tIG0rqy.jpg" group-title="Action",Blasted (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7437.m3u8
+#EXTINF:0 CUID="1029" tvg-name="Civet Cat for Crown Prince (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/e7Tpm2AfEkJVely8CoU6t8tczp8.jpg" group-title="Action",Civet Cat for Crown Prince (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7427.m3u8
+#EXTINF:0 CUID="1025" tvg-name="Catch The Dragon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5mUxqfy5E7O6U0sfhj0ERmV1lpX.jpg" group-title="Action",Catch The Dragon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7422.m3u8
+#EXTINF:0 CUID="1015" tvg-name="Blowback (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fHQHC32dhom8u0OxC2hs2gYQh0M.jpg" group-title="Action",Blowback (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7407.m3u8
+#EXTINF:0 CUID="1010" tvg-name="The Witch: Part 2. The Other One (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/icQM4lMTEUVYPrSOV3BH9LZjvmY.jpg" group-title="Action",The Witch: Part 2. The Other One (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7402.m3u8
+#EXTINF:0 CUID="1000" tvg-name="Terror on the Prairie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rPWaktPt50BwkYHmYM62sDrdnjR.jpg" group-title="Action",Terror on the Prairie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7388.m3u8
+#EXTINF:0 CUID="983" tvg-name="Last Seen Alive (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qvqyDj34Uivokf4qIvK4bH0m0qF.jpg" group-title="Action",Last Seen Alive (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7369.m3u8
+#EXTINF:0 CUID="979" tvg-name="White Elephant (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lG56H40Y1BuHSPoWtEgDJsSgDBZ.jpg" group-title="Action",White Elephant (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7365.m3u8
+#EXTINF:0 CUID="962" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/62HCnUTziyWcpDaBO2i1DX17ljH.jpg" group-title="Action",Top Gun: Maverick (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7345.m3u8
+#EXTINF:0 CUID="953" tvg-name="Detective Dee and Deadly Fragrance (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/p16MvOHuToMxFJxPMbAnWfOpgea.jpg" group-title="Action",Detective Dee and Deadly Fragrance (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7336.m3u8
+#EXTINF:0 CUID="942" tvg-name="Fullmetal Alchemist: The Revenge of Scar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/c5OwwBNyJkwyroIOIJL9IiRjydR.jpg" group-title="Action",Fullmetal Alchemist: The Revenge of Scar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7324.m3u8
+#EXTINF:0 CUID="939" tvg-name="The Assistant (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zJpJkVgezsR7dp6KQwyxtGIAOZv.jpg" group-title="Action",The Assistant (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7321.m3u8
+#EXTINF:0 CUID="936" tvg-name="The Roundup (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tqHXCshqysM6DPnXeFIR74fNdKw.jpg" group-title="Action",The Roundup (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7318.m3u8
+#EXTINF:0 CUID="935" tvg-name="Vendetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bvhmqU6GUkigo6SSYL3ttkBhNER.jpg" group-title="Action",Vendetta (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7316.m3u8
+#EXTINF:0 CUID="934" tvg-name="King of Snipers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/r5C85R0Bc6RL51PnPv2HIvpSMJ7.jpg" group-title="Action",King of Snipers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7315.m3u8
+#EXTINF:0 CUID="928" tvg-name="Song of the Assassins (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eiegtcllHRlBkN9qcCQqj2dki0O.jpg" group-title="Action",Song of the Assassins (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7309.m3u8
+#EXTINF:0 CUID="926" tvg-name="Shin Ultraman (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8e4WjXrOY7WH94jlhBeoYCYUVwj.jpg" group-title="Action",Shin Ultraman (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7305.m3u8
+#EXTINF:0 CUID="914" tvg-name="The Takedown (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eGIxXsf3DXYejb0C62bfJVSPSM8.jpg" group-title="Action",The Takedown (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7292.m3u8
+#EXTINF:0 CUID="911" tvg-name="Thar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2PK1WRr8dOF7FG5G4VCal4GcnPT.jpg" group-title="Action",Thar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7289.m3u8
+#EXTINF:0 CUID="910" tvg-name="The Curious Case of Tianjin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lWHaG2OSNOuthT90b7nWCDg5jTO.jpg" group-title="Action",The Curious Case of Tianjin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7288.m3u8
+#EXTINF:0 CUID="909" tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="Action",Doctor Strange in the Multiverse of Madness (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7287.m3u8
+#EXTINF:0 CUID="901" tvg-name="Blind War (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/A2yMog0dicQ0dFuD7VF7LcE8TMz.jpg" group-title="Action",Blind War (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7278.m3u8
+#EXTINF:0 CUID="900" tvg-name="Driven (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg" group-title="Action",Driven (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7277.m3u8
+#EXTINF:0 CUID="896" tvg-name="Corrective Measures (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg" group-title="Action",Corrective Measures (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7273.m3u8
+#EXTINF:0 CUID="895" tvg-name="Memory (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4Q1n3TwieoULnuaztu9aFjqHDTI.jpg" group-title="Action",Memory (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7272.m3u8
+#EXTINF:0 CUID="886" tvg-name="Silverton Siege (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5HruMN0vvl84AqD7sCDXFNO4RhP.jpg" group-title="Action",Silverton Siege (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7263.m3u8
+#EXTINF:0 CUID="881" tvg-name="9 Bullets (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cuFPxoFopAjFUz4oIMUzpzeTA8I.jpg" group-title="Action",9 Bullets (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7258.m3u8
+#EXTINF:0 CUID="879" tvg-name="Hostile Territory (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pSgLSxoAG1Dt91dUSwnaKETmseW.jpg" group-title="Action",Hostile Territory (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7256.m3u8
+#EXTINF:0 CUID="877" tvg-name="The Northman (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg" group-title="Action",The Northman (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7254.m3u8
+#EXTINF:0 CUID="874" tvg-name="The Unbearable Weight of Massive Talent (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aqhLeieyTpTUKPOfZ3jzo2La0Mq.jpg" group-title="Action",The Unbearable Weight of Massive Talent (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7251.m3u8
+#EXTINF:0 CUID="867" tvg-name="The Labyrinth (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/A4PAdPE28qcg6FVQPBxgOEqY2cw.jpg" group-title="Action",The Labyrinth (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7244.m3u8
+#EXTINF:0 CUID="853" tvg-name="K.G.F: Chapter 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aN30pwRBhRo1NS6ILAz3ejxXb0g.jpg" group-title="Action",K.G.F: Chapter 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7229.m3u8
+#EXTINF:0 CUID="850" tvg-name="My True Friends The Begining (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hhLsuQ866KJ3I7CA5DHWH8a9xfb.jpg" group-title="Action",My True Friends The Begining (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7226.m3u8
+#EXTINF:0 CUID="849" tvg-name="Reign of Chaos (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nTMmpvR9TyV631tpFr4FtYxG0FC.jpg" group-title="Action",Reign of Chaos (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7225.m3u8
+#EXTINF:0 CUID="848" tvg-name="Maoshan Heavenly Master (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/c8yLmpZ4cXi1Hrjrx5x1UUHsg3K.jpg" group-title="Action",Maoshan Heavenly Master (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7224.m3u8
+#EXTINF:0 CUID="844" tvg-name="Yaksha: Ruthless Operations (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/whZ8OkI7W8cBOmtoiFyb72Ekt3U.jpg" group-title="Action",Yaksha: Ruthless Operations (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7220.m3u8
+#EXTINF:0 CUID="842" tvg-name="Agent Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg" group-title="Action",Agent Game (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7218.m3u8
+#EXTINF:0 CUID="841" tvg-name="Ambulance (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg" group-title="Action",Ambulance (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7217.m3u8
+#EXTINF:0 CUID="840" tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="Action",Sonic the Hedgehog 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7216.m3u8
+#EXTINF:0 CUID="835" tvg-name="Fast & Feel Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Action",Fast & Feel Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7210.m3u8
+#EXTINF:0 CUID="825" tvg-name="The Contractor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="Action",The Contractor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7200.m3u8
+#EXTINF:0 CUID="824" tvg-name="Boon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/i4zcFYC4ILkvlBl37eHdNYSYvJW.jpg" group-title="Action",Boon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7199.m3u8
+#EXTINF:0 CUID="820" tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" group-title="Action",Morbius (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7194.m3u8
+#EXTINF:0 CUID="815" tvg-name="Hunting Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/etc6HKBEhNySNnYU2nRgbSeIyoW.jpg" group-title="Action",Hunting Ava Bravo (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7189.m3u8
+#EXTINF:0 CUID="1616" tvg-name="Attack on Finland (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg" group-title="Action",Attack on Finland (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6837.m3u8
+#EXTINF:0 CUID="1601" tvg-name="All the Old Knives (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/g4tMniKxol1TBJrHlAtiDjjlx4Q.jpg" group-title="Action",All the Old Knives (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6822.m3u8
+#EXTINF:0 CUID="1599" tvg-name="Bull (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/oapxWncDc5ztrge3ycpvaZIMcf3.jpg" group-title="Action",Bull (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6820.m3u8
+#EXTINF:0 CUID="1598" tvg-name="The Survivor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg" group-title="Action",The Survivor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6819.m3u8
+#EXTINF:0 CUID="1589" tvg-name="Asking For It (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9Ka0pXKStmgFMzvymXcSEtSocjp.jpg" group-title="Action",Asking For It (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6809.m3u8
+#EXTINF:0 CUID="1580" tvg-name="The Burning Sea (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/1bB7uV5ljDWKG2m5Z4cgWwDMAeY.jpg" group-title="Action",The Burning Sea (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6800.m3u8
+#EXTINF:0 CUID="1569" tvg-name="La Soga: Salvation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wRk6hwsEIIO0BqGH8FIc1Zbf7Wv.jpg" group-title="Action",La Soga: Salvation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6789.m3u8
+#EXTINF:0 CUID="1560" tvg-name="Supercool (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/3NV278UG4Z8wOWpKFHz6I7D7Nda.jpg" group-title="Action",Supercool (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6780.m3u8
+#EXTINF:0 CUID="1558" tvg-name="Wyrmwood: Apocalypse (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5FejR8s7E1BYkWRFZ9sPTNHKkxT.jpg" group-title="Action",Wyrmwood: Apocalypse (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6778.m3u8
+#EXTINF:0 CUID="1518" tvg-name="As Good as Dead" tvg-logo="https://image.tmdb.org/t/p/w780/qqQPxxRQqfLrq0ubfDQCwhJHZ91.jpg" group-title="Action",As Good as Dead
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7966.m3u8
+#EXTINF:0 CUID="1517" tvg-name="High Heat" tvg-logo="https://image.tmdb.org/t/p/w780/mmD0NVdhiRiCu64YKem5GK5PSfy.jpg" group-title="Action",High Heat
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7965.m3u8
+#EXTINF:0 CUID="1513" tvg-name="Gold Run" tvg-logo="https://image.tmdb.org/t/p/w780/6E4LopmCMUXcMLIv7o3jw1xQrgJ.jpg" group-title="Action",Gold Run
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7961.m3u8
+#EXTINF:0 CUID="1508" tvg-name="Repeater (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jy4RmGsdP2Vz1BLqgA8mLOA4ulv.jpg" group-title="Action",Repeater (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7956.m3u8
+#EXTINF:0 CUID="1505" tvg-name="Gentleman (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vi1kuAVMNiDVMcwMKe9EjEJgavU.jpg" group-title="Action",Gentleman (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7953.m3u8
+#EXTINF:0 CUID="1498" tvg-name="Detective Knight: Redemption (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/acCIjyszhmit8k5eWVGNTustYRK.jpg" group-title="Action",Detective Knight: Redemption (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7946.m3u8
+#EXTINF:0 CUID="1491" tvg-name="Christmas Carol (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fX9g1AE1JIqjX3LPPKVjcmHs6fd.jpg" group-title="Action",Christmas Carol (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7939.m3u8
+#EXTINF:0 CUID="1488" tvg-name="Renegades (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hx4nxhesaagsvJNhRw2fTobg8o.jpg" group-title="Action",Renegades (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7936.m3u8
+#EXTINF:0 CUID="1483" tvg-name="Violent Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/e8CpMgdyihz9Td7amQDqubPuzfN.jpg" group-title="Action",Violent Night (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7931.m3u8
+#EXTINF:0 CUID="1471" tvg-name="My Name Is Vendetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7l3war94J4tRyWUiLAGokr3ViF2.jpg" group-title="Action",My Name Is Vendetta (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7918.m3u8
+#EXTINF:0 CUID="1463" tvg-name="Mad Heidi (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tVooOemwuIuOYsBKgHolI9zC81X.jpg" group-title="Action",Mad Heidi (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7910.m3u8
+#EXTINF:0 CUID="1459" tvg-name="Lesson Plan (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wawP3mOUeRBrAtnbPwWK5eFaMdV.jpg" group-title="Action",Lesson Plan (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7906.m3u8
+#EXTINF:0 CUID="1449" tvg-name="The Violence Action (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zMxhCIqLvDpi3JpnKdMV2drI1hB.jpg" group-title="Action",The Violence Action (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7882.m3u8
+#EXTINF:0 CUID="1440" tvg-name="Diabolik - Ginko Attacks (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg" group-title="Action",Diabolik - Ginko Attacks (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7873.m3u8
+#EXTINF:0 CUID="1437" tvg-name="Decibel (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ljYKxRapo7GakbePM8DlObfwqyg.jpg" group-title="Action",Decibel (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7870.m3u8
+#EXTINF:0 CUID="1432" tvg-name="R.I.P.D. 2: Rise of the Damned (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg" group-title="Action",R.I.P.D. 2: Rise of the Damned (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7865.m3u8
+#EXTINF:0 CUID="1430" tvg-name="Paradise City (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xdmmd437QdjcCls8yCQxrH5YYM4.jpg" group-title="Action",Paradise City (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7863.m3u8
+#EXTINF:0 CUID="1424" tvg-name="Black Panther: Wakanda Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sv1xJUazXeYqALzczSZ3O6nkH75.jpg" group-title="Action",Black Panther: Wakanda Forever (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7857.m3u8
+#EXTINF:0 CUID="1422" tvg-name="Lost Bullet 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uAeZI1JJbLPq7Bu5dziH7emHeu7.jpg" group-title="Action",Lost Bullet 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7855.m3u8
+#EXTINF:0 CUID="1413" tvg-name="Overdose (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" group-title="Action",Overdose (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7846.m3u8
+#EXTINF:0 CUID="1408" tvg-name="Shadow Master (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/67ZsRKbItt6B1yHlsJKgfPWOyuJ.jpg" group-title="Action",Shadow Master (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7841.m3u8
+#EXTINF:0 CUID="1403" tvg-name="The System (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5v3grtPk3QSdjDP8ggpylA3hgIy.jpg" group-title="Action",The System (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7836.m3u8
+#EXTINF:0 CUID="1400" tvg-name="The Takeover (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/g7rdcofib7HqdlDP1LT7Hmf1f2o.jpg" group-title="Action",The Takeover (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7833.m3u8
+#EXTINF:0 CUID="1393" tvg-name="Dampyr (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xdWjqmX4x0ObKIPqkr8Vptj99AZ.jpg" group-title="Action",Dampyr (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7826.m3u8
+#EXTINF:0 CUID="1373" tvg-name="Remember (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/x496Ip0weJYfsEX23eNyzG4MjXV.jpg" group-title="Action",Remember (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7805.m3u8
+#EXTINF:0 CUID="1365" tvg-name="Detective Knight: Rogue (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg" group-title="Action",Detective Knight: Rogue (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7794.m3u8
+#EXTINF:0 CUID="1362" tvg-name="Black Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg" group-title="Action",Black Adam (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7790.m3u8
+#EXTINF:0 CUID="1350" tvg-name="Accident Man: Hitman's Holiday (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8XF5EIDUOZv1p9orukdyERvv2Qn.jpg" group-title="Action",Accident Man: Hitman's Holiday (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7778.m3u8
+#EXTINF:0 CUID="1332" tvg-name="Pabuya (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/at6IW12IjSEzHw6im71Z67Ep07f.jpg" group-title="Action",Pabuya (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7758.m3u8
+#EXTINF:0 CUID="1322" tvg-name="Werewolf by Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg" group-title="Action",Werewolf by Night (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7747.m3u8
+#EXTINF:0 CUID="1315" tvg-name="Sanctioning Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5NPSFsKbv6zB3tgC5mm6kNmxlFK.jpg" group-title="Action",Sanctioning Evil (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7738.m3u8
+#EXTINF:0 CUID="92" tvg-name="The Little Mermaid (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg" group-title="Adventure",The Little Mermaid (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8610.m3u8
+#EXTINF:0 CUID="445" tvg-name="True Spirit (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/B7m21gukMeVK3NAuk1PLCo9C8p.jpg" group-title="Adventure",True Spirit (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9031.m3u8
+#EXTINF:0 CUID="413" tvg-name="Dog Gone (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eYWdLZCS9W1Xli9bynzFSddLx02.jpg" group-title="Adventure",Dog Gone (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8992.m3u8
+#EXTINF:0 CUID="358" tvg-name="The Naughty Nine (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/e0lSKnfAB0p2FJ5roEwjAyy0EA0.jpg" group-title="Adventure",The Naughty Nine (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8934.m3u8
+#EXTINF:0 CUID="332" tvg-name="The Marvels (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg" group-title="Adventure",The Marvels (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8908.m3u8
+#EXTINF:0 CUID="276" tvg-name="The Wonderful Story of Henry Sugar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fDUywEHwHh6nsLnVXAdPN9m4ZUG.jpg" group-title="Adventure",The Wonderful Story of Henry Sugar (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8850.m3u8
+#EXTINF:0 CUID="159" tvg-name="Mr. Car and the Knights Templar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/xEAXVe0BzW4K9Ky6eTo4CJwzJ8P.jpg" group-title="Adventure",Mr. Car and the Knights Templar (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8733.m3u8
+#EXTINF:0 CUID="155" tvg-name="Indiana Jones and the Dial of Destiny (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg" group-title="Adventure",Indiana Jones and the Dial of Destiny (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8729.m3u8
+#EXTINF:0 CUID="134" tvg-name="Asterix & Obelix: The Middle Kingdom (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sDrF8Z2GaRQjYzDuusEABohmMir.jpg" group-title="Adventure",Asterix & Obelix: The Middle Kingdom (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8708.m3u8
+#EXTINF:0 CUID="80" tvg-name="The Secret Kingdom (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dteXMzVY53GBHUgrR7vigAartsP.jpg" group-title="Adventure",The Secret Kingdom (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8598.m3u8
+#EXTINF:0 CUID="79" tvg-name="Guardians of the Galaxy Vol. 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg" group-title="Adventure",Guardians of the Galaxy Vol. 3 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8597.m3u8
+#EXTINF:0 CUID="71" tvg-name="Knights of the Zodiac (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qW4crfED8mpNDadSmMdi7ZDzhXF.jpg" group-title="Adventure",Knights of the Zodiac (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8589.m3u8
+#EXTINF:0 CUID="22" tvg-name="The Portable Door (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/49NQGuvaMWYeAD22h135tFd2Grs.jpg" group-title="Adventure",The Portable Door (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8539.m3u8
+#EXTINF:0 CUID="17" tvg-name="Chupa (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg" group-title="Adventure",Chupa (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8534.m3u8
+#EXTINF:0 CUID="2" tvg-name="The Three Musketeers: D'Artagnan" tvg-logo="https://image.tmdb.org/t/p/w780/hfExJPcbBtDeFDEb7I1By72Drlr.jpg" group-title="Adventure",The Three Musketeers: D'Artagnan
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9132.m3u8
+#EXTINF:0 CUID="805" tvg-name="The Mercator Trail (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bWx2ET0ts7L8pXWBpPjeaz63a1I.jpg" group-title="Adventure",The Mercator Trail (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7179.m3u8
+#EXTINF:0 CUID="803" tvg-name="Dragon Knight (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zkGFADykBtfPfTv7YJooxTH52ph.jpg" group-title="Adventure",Dragon Knight (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7177.m3u8
+#EXTINF:0 CUID="784" tvg-name="The Legend of Kunlun (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vxtMstBRyoQYABjepeygEsJqAQT.jpg" group-title="Adventure",The Legend of Kunlun (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7155.m3u8
+#EXTINF:0 CUID="750" tvg-name="The Adam Project (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wFjboE0aFZNbVOF05fzrka9Fqyx.jpg" group-title="Adventure",The Adam Project (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7121.m3u8
+#EXTINF:0 CUID="741" tvg-name="Fighting Darksider (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fEgPzmDmvrVUwYoXxDq0QFitLE8.jpg" group-title="Adventure",Fighting Darksider (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7111.m3u8
+#EXTINF:0 CUID="725" tvg-name="Against the Ice (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" group-title="Adventure",Against the Ice (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7094.m3u8
+#EXTINF:0 CUID="703" tvg-name="The Ledge (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/S99eCSnRFfeZJmDaIGIZF58H7w.jpg" group-title="Adventure",The Ledge (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7072.m3u8
+#EXTINF:0 CUID="698" tvg-name="A Fairy Tale After All (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uXq56XNfgRgBdCW65K6goiMUr3o.jpg" group-title="Adventure",A Fairy Tale After All (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7067.m3u8
+#EXTINF:0 CUID="654" tvg-name="Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/y9xS5NQTBnFjDoXhSFQeGxlmkoM.jpg" group-title="Adventure",Hero (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7019.m3u8
+#EXTINF:0 CUID="644" tvg-name="The Tiger Rising (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mEukzqPoCpbrXLGslT8qdTuyRKZ.jpg" group-title="Adventure",The Tiger Rising (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7008.m3u8
+#EXTINF:0 CUID="643" tvg-name="The Other Side of Darkness (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/Y2DIUcN0YMSb65OtIhnw0LhIsx.jpg" group-title="Adventure",The Other Side of Darkness (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7007.m3u8
+#EXTINF:0 CUID="610" tvg-name="The King's Daughter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zwRf07ECh7nV7xlahKzN5wFYhGx.jpg" group-title="Adventure",The King's Daughter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6973.m3u8
+#EXTINF:0 CUID="573" tvg-name="The Lost Treasure (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6tNldk2zPUzXVKkU9aeirM9Wotu.jpg" group-title="Adventure",The Lost Treasure (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6884.m3u8
+#EXTINF:0 CUID="856" tvg-name="Fantastic Beasts: The Secrets of Dumbledore (2022)" tvg-logo="http://103.127.208.209:25461/images/389dfec22b46c6c6d40a89d7c0a84d0d.jpg" group-title="Adventure",Fantastic Beasts: The Secrets of Dumbledore (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7232.m3u8
+#EXTINF:0 CUID="1103" tvg-name="The Beast Below (2022)" tvg-logo="http://103.127.208.209:25461/images/63616396583e4d901fa4131cc1fce565.jpg" group-title="Adventure",The Beast Below (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7514.m3u8
+#EXTINF:0 CUID="1301" tvg-name="Come Back Home (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bonniuYCOIYxzyoiFCfShSnjzgp.jpg" group-title="Adventure",Come Back Home (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7723.m3u8
+#EXTINF:0 CUID="1295" tvg-name="Vesper (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/etvK8ni1adjXU8obDpdUxTTQT6n.jpg" group-title="Adventure",Vesper (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7715.m3u8
+#EXTINF:0 CUID="1225" tvg-name="Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg" group-title="Adventure",Pinocchio (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7642.m3u8
+#EXTINF:0 CUID="1217" tvg-name="Ghoster (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yWZuwxOsGyiqJy3j4YB1sFWpFxW.jpg" group-title="Adventure",Ghoster (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7634.m3u8
+#EXTINF:0 CUID="1189" tvg-name="Three Thousand Years of Longing (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wdiUSKO0kebySOrHBVoDp7CLHIO.jpg" group-title="Adventure",Three Thousand Years of Longing (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7606.m3u8
+#EXTINF:0 CUID="1064" tvg-name="Snow Monster 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gORZuEUy4xhgN6IDEZhaRJUIbqT.jpg" group-title="Adventure",Snow Monster 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7470.m3u8
+#EXTINF:0 CUID="1033" tvg-name="The Man from Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="Adventure",The Man from Toronto (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7435.m3u8
+#EXTINF:0 CUID="995" tvg-name="Jurassic World Dominion (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg" group-title="Adventure",Jurassic World Dominion (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7381.m3u8
+#EXTINF:0 CUID="994" tvg-name="777 Charlie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qArPmXH0aWsT3SEtYl8XrU2Oz48.jpg" group-title="Adventure",777 Charlie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7380.m3u8
+#EXTINF:0 CUID="985" tvg-name="Interceptor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg" group-title="Adventure",Interceptor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7371.m3u8
+#EXTINF:0 CUID="982" tvg-name="Double Threat (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/v5a3Gzc0WYQNpUdLhMgkqKGCkhq.jpg" group-title="Adventure",Double Threat (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7368.m3u8
+#EXTINF:0 CUID="966" tvg-name="Infinite Storm (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4B34NKfHCFVHriYfKhbsunHYl4x.jpg" group-title="Adventure",Infinite Storm (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7352.m3u8
+#EXTINF:0 CUID="919" tvg-name="The Adventures of Maid Marian (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oPXzCV01ysDmnmpJOkiVqaZQ5QR.jpg" group-title="Adventure",The Adventures of Maid Marian (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7297.m3u8
+#EXTINF:0 CUID="916" tvg-name="The Monkey King: The Legend Begins (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4EaMMsKs0g6gucK9dJwo1B5BOGn.jpg" group-title="Adventure",The Monkey King: The Legend Begins (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7294.m3u8
+#EXTINF:0 CUID="906" tvg-name="Longling Insect Valley (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vxSjTwzPv9sR3puyEXb3dAmqhmF.jpg" group-title="Adventure",Longling Insect Valley (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7283.m3u8
+#EXTINF:0 CUID="870" tvg-name="The Legend of Zu (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sNoeIbH1usm86m5GSuJWU9HLWtd.jpg" group-title="Adventure",The Legend of Zu (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7247.m3u8
+#EXTINF:0 CUID="819" tvg-name="Dakota (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/j3eUOPUoDwkupwTPTDk6ESqrzGt.jpg" group-title="Adventure",Dakota (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7193.m3u8
+#EXTINF:0 CUID="1555" tvg-name="The Wolf and the Lion (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg" group-title="Adventure",The Wolf and the Lion (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6774.m3u8
+#EXTINF:0 CUID="1553" tvg-name="Lotawana (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/wSV8DF6NmN0Sxmx2K8P46zLcXQ6.jpg" group-title="Adventure",Lotawana (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6772.m3u8
+#EXTINF:0 CUID="1405" tvg-name="Enola Holmes 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg" group-title="Adventure",Enola Holmes 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7838.m3u8
+#EXTINF:0 CUID="1392" tvg-name="Blackout (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zsE1gbwpeWKr12altKrB6iUyO79.jpg" group-title="Adventure",Blackout (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7825.m3u8
+#EXTINF:0 CUID="1356" tvg-name="The School for Good and Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6oZeEu1GDILdwezmZ5e2xWISf1C.jpg" group-title="Adventure",The School for Good and Evil (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7784.m3u8
+#EXTINF:0 CUID="1355" tvg-name="Belle and Sebastian: Next Generation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8yRDnNMonoERrHoi3qJ31cwsQyG.jpg" group-title="Adventure",Belle and Sebastian: Next Generation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7783.m3u8
+#EXTINF:0 CUID="1349" tvg-name="The Curse of Bridge Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg" group-title="Adventure",The Curse of Bridge Hollow (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7777.m3u8
+#EXTINF:0 CUID="1339" tvg-name="Tibetan Raiders (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xxfsXyWQE5dpL469QLkArLL7vS6.jpg" group-title="Adventure",Tibetan Raiders (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7767.m3u8
+#EXTINF:0 CUID="1334" tvg-name="Guardians of Time (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hpbpga8Rkwgku5HlxgsGnOoWlvY.jpg" group-title="Adventure",Guardians of Time (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7760.m3u8
+#EXTINF:0 CUID="1325" tvg-name="Catherine Called Birdy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/a6welBP7DtjHDsr6fwT5IuCS33f.jpg" group-title="Adventure",Catherine Called Birdy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7750.m3u8
+#EXTINF:0 CUID="31" tvg-name="Suzume (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oNbCAM3UVJamxRFd5hUt686aqb2.jpg" group-title="Animasi",Suzume (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8548.m3u8
+#EXTINF:0 CUID="483" tvg-name="Doraemon: Nobita's Sky Utopia (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uux6M8z3hxLDkq8LXSzq8528mrq.jpg" group-title="Animasi",Doraemon: Nobita's Sky Utopia (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9078.m3u8
+#EXTINF:0 CUID="435" tvg-name="Deep Sea (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9deAmNHD1MwAJ8IXvqr2Y3B21Di.jpg" group-title="Animasi",Deep Sea (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9015.m3u8
+#EXTINF:0 CUID="392" tvg-name="Chicken Run: Dawn of the Nugget (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uR03YFvc7rZg8Yb1uOKekIS084A.jpg" group-title="Animasi",Chicken Run: Dawn of the Nugget (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8971.m3u8
+#EXTINF:0 CUID="381" tvg-name="Merry Little Batman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2J70guF8wcErbYbRgZUBcvShgI1.jpg" group-title="Animasi",Merry Little Batman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8960.m3u8
+#EXTINF:0 CUID="379" tvg-name="Diary of a Wimpy Kid Christmas: Cabin Fever (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eLwfFQFX5XKGIbRCVfRx6IlO7aJ.jpg" group-title="Animasi",Diary of a Wimpy Kid Christmas: Cabin Fever (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8958.m3u8
+#EXTINF:0 CUID="363" tvg-name="Leo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg" group-title="Animasi",Leo (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8939.m3u8
+#EXTINF:0 CUID="360" tvg-name="The Velveteen Rabbit (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg" group-title="Animasi",The Velveteen Rabbit (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8936.m3u8
+#EXTINF:0 CUID="347" tvg-name="Trolls Band Together (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bkpPTZUdq31UGDovmszsg2CchiI.jpg" group-title="Animasi",Trolls Band Together (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8923.m3u8
+#EXTINF:0 CUID="233" tvg-name="The Monkey King (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg" group-title="Animasi",The Monkey King (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8807.m3u8
+#EXTINF:0 CUID="215" tvg-name="LEGO Disney Princess: The Castle Quest (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/q17tXNROOslj7uCGicKNlIf9Rx6.jpg" group-title="Animasi",LEGO Disney Princess: The Castle Quest (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8789.m3u8
+#EXTINF:0 CUID="193" tvg-name="Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg" group-title="Animasi",Teenage Mutant Ninja Turtles: Mutant Mayhem (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8767.m3u8
+#EXTINF:0 CUID="169" tvg-name="Justice League: Warworld (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg" group-title="Animasi",Justice League: Warworld (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8743.m3u8
+#EXTINF:0 CUID="156" tvg-name="Ruby Gillman, Teenage Kraken (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8ChIb3WzYAcza1vrXR56v510MWk.jpg" group-title="Animasi",Ruby Gillman, Teenage Kraken (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8730.m3u8
+#EXTINF:0 CUID="128" tvg-name="Elemental (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg" group-title="Animasi",Elemental (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8702.m3u8
+#EXTINF:0 CUID="123" tvg-name="Spider-Man: Across the Spider-Verse (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="Animasi",Spider-Man: Across the Spider-Verse (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8641.m3u8
+#EXTINF:0 CUID="3" tvg-name="Mummies (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qVdrYN8qu7xUtsdEFeGiIVIaYd.jpg" group-title="Animasi",Mummies (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9068.m3u8
+#EXTINF:0 CUID="590" tvg-name="Hotel Transylvania: Transformania (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg" group-title="Animasi",Hotel Transylvania: Transformania (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6902.m3u8
+#EXTINF:0 CUID="768" tvg-name="Jujutsu Kaisen 0 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/23oJaeBh0FDk2mQ2P240PU9Xxfh.jpg" group-title="Animasi",Jujutsu Kaisen 0 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7139.m3u8
+#EXTINF:0 CUID="749" tvg-name="Turning Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg" group-title="Animasi",Turning Red (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7120.m3u8
+#EXTINF:0 CUID="704" tvg-name="Me and My Winter Games (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jo5H01cbir3GgDyGfkISXmm3mrl.jpg" group-title="Animasi",Me and My Winter Games (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7073.m3u8
+#EXTINF:0 CUID="656" tvg-name="Catwoman: Hunted (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iu01cvxs3eLQzra3YNF1pbpXIZa.jpg" group-title="Animasi",Catwoman: Hunted (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7021.m3u8
+#EXTINF:0 CUID="634" tvg-name="Tom and Jerry Cowboy Up! (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/muIaHotSaSUQr0KZCIJOYQEe7y2.jpg" group-title="Animasi",Tom and Jerry Cowboy Up! (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6998.m3u8
+#EXTINF:0 CUID="630" tvg-name="The Ice Age Adventures of Buck Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zzXFM4FKDG7l1ufrAkwQYv2xvnh.jpg" group-title="Animasi",The Ice Age Adventures of Buck Wild (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6994.m3u8
+#EXTINF:0 CUID="545" tvg-name="The Amazing Maurice (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ydhZeUjbzVEFclUpMhLfDZSavUY.jpg" group-title="Animasi",The Amazing Maurice (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6849.m3u8
+#EXTINF:0 CUID="520" tvg-name="The Magician's Elephant (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="Animasi",The Magician's Elephant (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9117.m3u8
+#EXTINF:0 CUID="1098" tvg-name="Green Lantern: Beware My Power (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jU8Y6JXoj163MmOCzrT9C85MRTC.jpg" group-title="Animasi",Green Lantern: Beware My Power (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7508.m3u8
+#EXTINF:0 CUID="1279" tvg-name="Mortal Kombat Legends: Snow Blind (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jtsq5Vc4auAguReZqCUvRGHUWuq.jpg" group-title="Animasi",Mortal Kombat Legends: Snow Blind (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7698.m3u8
+#EXTINF:0 CUID="1191" tvg-name="Tad, the Lost Explorer and the Emerald Tablet (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jvIVl8zdNSOAJImw1elQEzxStMN.jpg" group-title="Animasi",Tad, the Lost Explorer and the Emerald Tablet (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7608.m3u8
+#EXTINF:0 CUID="1170" tvg-name="Dragon Ball Super: Super Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pi0iZOEHeA3ih4p1IwAG4x2DZNH.jpg" group-title="Animasi",Dragon Ball Super: Super Hero (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7586.m3u8
+#EXTINF:0 CUID="1162" tvg-name="Goodbye Monster (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jZvYqkvjUAshzDCCf46wfFHbXnU.jpg" group-title="Animasi",Goodbye Monster (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7576.m3u8
+#EXTINF:0 CUID="1146" tvg-name="Pil's Adventures (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg" group-title="Animasi",Pil's Adventures (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7559.m3u8
+#EXTINF:0 CUID="1137" tvg-name="LEGO Star Wars Summer Vacation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2SatEFCs04oFRqkZuY1fODYXeFI.jpg" group-title="Animasi",LEGO Star Wars Summer Vacation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7550.m3u8
+#EXTINF:0 CUID="1136" tvg-name="Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rSmTqtb7gICeRwvsEmq0uJxR4XU.jpg" group-title="Animasi",Rise of the Teenage Mutant Ninja Turtles: The Movie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7549.m3u8
+#EXTINF:0 CUID="1131" tvg-name="Luck (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1HOYvwGFioUFL58UVvDRG6beEDm.jpg" group-title="Animasi",Luck (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7543.m3u8
+#EXTINF:0 CUID="1109" tvg-name="DC League of Super-Pets (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qpPMewlugFaejXjz4YNDnpTniFX.jpg" group-title="Animasi",DC League of Super-Pets (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7521.m3u8
+#EXTINF:0 CUID="1086" tvg-name="Rainbow Sea Fly High (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/s6Q7dsbI6tMj4SYi22SKREYHiqs.jpg" group-title="Animasi",Rainbow Sea Fly High (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7494.m3u8
+#EXTINF:0 CUID="1077" tvg-name="Paws of Fury: The Legend of Hank (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vccE9bBa9mgghFpkWzU1fQqmOKB.jpg" group-title="Animasi",Paws of Fury: The Legend of Hank (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7485.m3u8
+#EXTINF:0 CUID="1075" tvg-name="Marcel the Shell with Shoes On (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jaYmP4Ct8YLnxWAW2oYkUjeXtzm.jpg" group-title="Animasi",Marcel the Shell with Shoes On (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7483.m3u8
+#EXTINF:0 CUID="1054" tvg-name="The Sea Beast (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1bB7uV5ljDWKG2m5Z4cgWwDMAeY.jpg" group-title="Animasi",The Sea Beast (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7459.m3u8
+#EXTINF:0 CUID="1043" tvg-name="Minions: The Rise of Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg" group-title="Animasi",Minions: The Rise of Gru (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7446.m3u8
+#EXTINF:0 CUID="1024" tvg-name="Beavis and Butt-Head Do the Universe (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg" group-title="Animasi",Beavis and Butt-Head Do the Universe (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7420.m3u8
+#EXTINF:0 CUID="1011" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg" group-title="Animasi",Lightyear (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7403.m3u8
+#EXTINF:0 CUID="999" tvg-name="King Tweety (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg" group-title="Animasi",King Tweety (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7387.m3u8
+#EXTINF:0 CUID="996" tvg-name="Chickenhare and the Hamster of Darkness (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg" group-title="Animasi",Chickenhare and the Hamster of Darkness (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7383.m3u8
+#EXTINF:0 CUID="963" tvg-name="The Bob's Burgers Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/AvV2nHEDQMWuRqAUrpcx2fB97CB.jpg" group-title="Animasi",The Bob's Burgers Movie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7347.m3u8
+#EXTINF:0 CUID="950" tvg-name="Chip 'n Dale: Rescue Rangers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg" group-title="Animasi",Chip 'n Dale: Rescue Rangers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7333.m3u8
+#EXTINF:0 CUID="918" tvg-name="Ghost in the Shell: SAC_2045 Sustainable War (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kNTvGWDTxb2spAp9SRLNfOo7kCM.jpg" group-title="Animasi",Ghost in the Shell: SAC_2045 Sustainable War (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7296.m3u8
+#EXTINF:0 CUID="912" tvg-name="Marmaduke (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gg6lddIpfuE2zyn8fLn1lC9xUYV.jpg" group-title="Animasi",Marmaduke (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7290.m3u8
+#EXTINF:0 CUID="904" tvg-name="Constantine: The House of Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kqYDoEb9PxLXM2ccoHInMMJalti.jpg" group-title="Animasi",Constantine: The House of Mystery (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7281.m3u8
+#EXTINF:0 CUID="903" tvg-name="Poupelle of Chimney Town (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tIMpbHUgN303akVFwo674FBr21n.jpg" group-title="Animasi",Poupelle of Chimney Town (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7280.m3u8
+#EXTINF:0 CUID="878" tvg-name="The Bad Guys (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7qop80YfuO0BwJa1uXk1DXUUEwv.jpg" group-title="Animasi",The Bad Guys (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7255.m3u8
+#EXTINF:0 CUID="1431" tvg-name="Tom and Jerry: Snowman's Land(2022)" tvg-logo="https://image.tmdb.org/t/p/w780/memqWrs4zmLgMBfzTfebrOXbytG.jpg" group-title="Animasi",Tom and Jerry: Snowman's Land(2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7864.m3u8
+#EXTINF:0 CUID="1602" tvg-name="My Sweet Monster (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/xIbEHAqwK5N7PJJYmbwmxuvC7fL.jpg" group-title="Animasi",My Sweet Monster (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6823.m3u8
+#EXTINF:0 CUID="1585" tvg-name="Doraemon: Nobita's Little Star Wars 2021 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/48gKZioIDeUOI0afbYv3kh9u9RQ.jpg" group-title="Animasi",Doraemon: Nobita's Little Star Wars 2021 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6805.m3u8
+#EXTINF:0 CUID="1582" tvg-name="Rumble (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/fL7rh6Mzx87MbVl2aI4sYtxfhO5.jpg" group-title="Animasi",Rumble (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6802.m3u8
+#EXTINF:0 CUID="1524" tvg-name="Puss in Boots: The Last Wish (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="Animasi",Puss in Boots: The Last Wish (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7973.m3u8
+#EXTINF:0 CUID="1503" tvg-name="Night at the Museum: Kahmunrah Rises Again (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rEy4VFXn3fukXRhx8TnSZtOnlcm.jpg" group-title="Animasi",Night at the Museum: Kahmunrah Rises Again (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7951.m3u8
+#EXTINF:0 CUID="1489" tvg-name="The Boss Baby: Christmas Bonus (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg" group-title="Animasi",The Boss Baby: Christmas Bonus (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7937.m3u8
+#EXTINF:0 CUID="1487" tvg-name="Scrooge: A Christmas Carol (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg" group-title="Animasi",Scrooge: A Christmas Carol (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7935.m3u8
+#EXTINF:0 CUID="1485" tvg-name="Diary of a Wimpy Kid: Rodrick Rules (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k54R3ag1sLu93Wbfo4quw9sSFyj.jpg" group-title="Animasi",Diary of a Wimpy Kid: Rodrick Rules (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7933.m3u8
+#EXTINF:0 CUID="1476" tvg-name="Guillermo del Toro's Pinocchio (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg" group-title="Animasi",Guillermo del Toro's Pinocchio (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7923.m3u8
+#EXTINF:0 CUID="1456" tvg-name="Strange World (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg" group-title="Animasi",Strange World (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7903.m3u8
+#EXTINF:0 CUID="1429" tvg-name="My Father's Dragon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/docwOsWZuwJKQdwcYJtQPBcg6bm.jpg" group-title="Animasi",My Father's Dragon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7862.m3u8
+#EXTINF:0 CUID="1420" tvg-name="The Soccer Football Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg" group-title="Animasi",The Soccer Football Movie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7853.m3u8
+#EXTINF:0 CUID="1419" tvg-name="Aqua Teen Forever: Plantasm (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dzMfgDxEOfFdw6WIaoC94CayYWL.jpg" group-title="Animasi",Aqua Teen Forever: Plantasm (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7852.m3u8
+#EXTINF:0 CUID="1414" tvg-name="One Piece Film Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ogDXuVkO92GcETZfSofXXemw7gb.jpg" group-title="Animasi",One Piece Film Red (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7847.m3u8
+#EXTINF:0 CUID="1395" tvg-name="Wendell & Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/s7XxXJ7ponaLAkxiySRxox2Ssc4.jpg" group-title="Animasi",Wendell & Wild (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7828.m3u8
+#EXTINF:0 CUID="1380" tvg-name="Big Trip 2: Special Delivery (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dabXVfrAFfhDte8XVemom3mTJog.jpg" group-title="Animasi",Big Trip 2: Special Delivery (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7812.m3u8
+#EXTINF:0 CUID="91" tvg-name="About My Father (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg" group-title="Comedy",About My Father (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8609.m3u8
+#EXTINF:0 CUID="94" tvg-name="Hard Feelings (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/d2jU7XWkPjRN0LpakwShBH2FLZo.jpg" group-title="Comedy",Hard Feelings (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8612.m3u8
+#EXTINF:0 CUID="495" tvg-name="Champions (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yVgtsoXyTZBww7SWE4JE1U4Wcel.jpg" group-title="Comedy",Champions (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9090.m3u8
+#EXTINF:0 CUID="482" tvg-name="Hustler vs Scammer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dPdNle5qWz0SSN8PnTLI9B2BLkx.jpg" group-title="Comedy",Hustler vs Scammer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9077.m3u8
+#EXTINF:0 CUID="473" tvg-name="We Have a Ghost (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/xo0fgAUoEeVQ7KsKeMWypyglvnf.jpg" group-title="Comedy",We Have a Ghost (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9066.m3u8
+#EXTINF:0 CUID="472" tvg-name="Die Hart (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ff9iMXJjtRdm58nRzM88sNr5CTu.jpg" group-title="Comedy",Die Hart (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9065.m3u8
+#EXTINF:0 CUID="467" tvg-name="All the Places (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1mdYZDqYcRjD4yF8MCh8OPtXApI.jpg" group-title="Comedy",All the Places (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9060.m3u8
+#EXTINF:0 CUID="457" tvg-name="Marry My Dead Body (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bmOaSOo5wB7cMDhhp6Msnd4IsLZ.jpg" group-title="Comedy",Marry My Dead Body (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9049.m3u8
+#EXTINF:0 CUID="455" tvg-name="Magic Mike's Last Dance (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9a9pyJZRhUWUSBT8BQqWihtqbI8.jpg" group-title="Comedy",Magic Mike's Last Dance (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9047.m3u8
+#EXTINF:0 CUID="433" tvg-name="Tid Noi: More Than True Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/LT1sIbDsttUlaU8p65XfNXdSwB.jpg" group-title="Comedy",Tid Noi: More Than True Love (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9013.m3u8
+#EXTINF:0 CUID="431" tvg-name="Maybe I Do (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vj649F5QB3OQbTKqpMX3UiCkp5q.jpg" group-title="Comedy",Maybe I Do (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9011.m3u8
+#EXTINF:0 CUID="402" tvg-name="The Nightingale of Bursa (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7Ar20IXj63Ac2MEcZOHt7EC4fsM.jpg" group-title="Comedy",The Nightingale of Bursa (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8981.m3u8
+#EXTINF:0 CUID="400" tvg-name="House Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/KiyKR9m6h01eIvGObGmpt16U3F.jpg" group-title="Comedy",House Party (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8979.m3u8
+#EXTINF:0 CUID="397" tvg-name="A Man Called Otto (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/130H1gap9lFfiTF9iDrqNIkFvC9.jpg" group-title="Comedy",A Man Called Otto (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8976.m3u8
+#EXTINF:0 CUID="395" tvg-name="Switch (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ddmOMoFWMpXJSU0YFddBU7d6kWT.jpg" group-title="Comedy",Switch (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8974.m3u8
+#EXTINF:0 CUID="385" tvg-name="A Vampire in the Family (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wM0kMyH7YIWm8UFfnJnCyij0XUu.jpg" group-title="Comedy",A Vampire in the Family (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8964.m3u8
+#EXTINF:0 CUID="383" tvg-name="Thank You, I'm Sorry (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uGnFNjzi1hXZ7CiywbOERUh1KAE.jpg" group-title="Comedy",Thank You, I'm Sorry (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8962.m3u8
+#EXTINF:0 CUID="377" tvg-name="World's First Christmas (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jiJBmfxciWm9PFJgvOfOs8GM4ok.jpg" group-title="Comedy",World's First Christmas (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8956.m3u8
+#EXTINF:0 CUID="371" tvg-name="Family Switch (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fnRUCA0fjEb3kuIaTGogL7425IC.jpg" group-title="Comedy",Family Switch (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8948.m3u8
+#EXTINF:0 CUID="368" tvg-name="Candy Cane Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg" group-title="Comedy",Candy Cane Lane (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8945.m3u8
+#EXTINF:0 CUID="362" tvg-name="Genie (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ykkVuQgvjrVWiEe7TvUQZOrLUgC.jpg" group-title="Comedy",Genie (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8938.m3u8
+#EXTINF:0 CUID="361" tvg-name="Dream Scenario (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eMaAi8wTI5wON8pp33w3BDuGyZ8.jpg" group-title="Comedy",Dream Scenario (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8937.m3u8
+#EXTINF:0 CUID="353" tvg-name="Wedding Games (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/er8Th8giuf7KHfv5G5HV5ewSCat.jpg" group-title="Comedy",Wedding Games (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8929.m3u8
+#EXTINF:0 CUID="350" tvg-name="Best. Christmas. Ever! (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yNPgjXeeb7vdNI7AQB5SWkkk6si.jpg" group-title="Comedy",Best. Christmas. Ever! (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8926.m3u8
+#EXTINF:0 CUID="344" tvg-name="All-Time High (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg" group-title="Comedy",All-Time High (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8920.m3u8
+#EXTINF:0 CUID="338" tvg-name="Bottoms (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jeyTQrNEpyE1LZIgVlswYh3sc34.jpg" group-title="Comedy",Bottoms (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8914.m3u8
+#EXTINF:0 CUID="334" tvg-name="The Holdovers (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/VHSzNBTwxV8vh7wylo7O9CLdac.jpg" group-title="Comedy",The Holdovers (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8910.m3u8
+#EXTINF:0 CUID="320" tvg-name="Quiz Lady (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8w7kbE95X6Qu0dWA1ZULifcbKcQ.jpg" group-title="Comedy",Quiz Lady (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8896.m3u8
+#EXTINF:0 CUID="319" tvg-name="Sick Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oBwvNA03OQ2VXbtySYXPWRuWAGx.jpg" group-title="Comedy",Sick Girl (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8895.m3u8
+#EXTINF:0 CUID="311" tvg-name="The Day of the Dead Is Cancelled (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/xM1yX980L50kjyGuvhykkz4utry.jpg" group-title="Comedy",The Day of the Dead Is Cancelled (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8885.m3u8
+#EXTINF:0 CUID="303" tvg-name="The Burial (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9ssNSfNKpzZwhbFsnW3wa82m2sG.jpg" group-title="Comedy",The Burial (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8877.m3u8
+#EXTINF:0 CUID="287" tvg-name="Do Not Disturb (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/AdcXd3zgbtoo2EDn3ymp35gdZoH.jpg" group-title="Comedy",Do Not Disturb (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8861.m3u8
+#EXTINF:0 CUID="283" tvg-name="Dumb Money (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/e9u7luSxFKOZgPTB9XHFnPArGdP.jpg" group-title="Comedy",Dumb Money (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8857.m3u8
+#EXTINF:0 CUID="281" tvg-name="Poison (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/IQG49DUJw5DsgcNbW0NfagiDOs.jpg" group-title="Comedy",Poison (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8855.m3u8
+#EXTINF:0 CUID="269" tvg-name="Flora and Son (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pq2p8ovf8PZps2HafvJaLrZK8gS.jpg" group-title="Comedy",Flora and Son (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8843.m3u8
+#EXTINF:0 CUID="249" tvg-name="Theater Camp (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2osbLk1MMt9qjXPKSB2hMcBUyrw.jpg" group-title="Comedy",Theater Camp (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8823.m3u8
+#EXTINF:0 CUID="235" tvg-name="My Big Fat Greek Wedding 3 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/irEqWPmDqCuzsItzefFxX3xWpL8.jpg" group-title="Comedy",My Big Fat Greek Wedding 3 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8809.m3u8
+#EXTINF:0 CUID="227" tvg-name="You Are So Not Invited to My Bat Mitzvah (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ukpifWBW2xEmMtJX4bCpoNpWEr2.jpg" group-title="Comedy",You Are So Not Invited to My Bat Mitzvah (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8801.m3u8
+#EXTINF:0 CUID="226" tvg-name="Vacation Friends 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg" group-title="Comedy",Vacation Friends 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8800.m3u8
+#EXTINF:0 CUID="220" tvg-name="Red, White & Royal Blue (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uffOY4W354o9RTRmercFyVvl56Z.jpg" group-title="Comedy",Red, White & Royal Blue (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8794.m3u8
+#EXTINF:0 CUID="218" tvg-name="Honeysweet (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mTky1oglU5YLxs6QRzPcJFpOG9g.jpg" group-title="Comedy",Honeysweet (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8792.m3u8
+#EXTINF:0 CUID="217" tvg-name="Miguel Wants to Fight (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/xaeQ0aWve7rNbrht4a3l3onM9qQ.jpg" group-title="Comedy",Miguel Wants to Fight (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8791.m3u8
+#EXTINF:0 CUID="211" tvg-name="Head to Head (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cviUizb4Wil59E9tE7cu6IC2IpG.jpg" group-title="Comedy",Head to Head (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8785.m3u8
+#EXTINF:0 CUID="210" tvg-name="Zom 100: Bucket List of the Dead (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg" group-title="Comedy",Zom 100: Bucket List of the Dead (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8784.m3u8
+#EXTINF:0 CUID="207" tvg-name="Corner Office (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uQGuwchKhdYk1mlJ2G95nxwRaCG.jpg" group-title="Comedy",Corner Office (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8781.m3u8
+#EXTINF:0 CUID="203" tvg-name="Jules (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg" group-title="Comedy",Jules (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8777.m3u8
+#EXTINF:0 CUID="188" tvg-name="The Murderer" tvg-logo="https://image.tmdb.org/t/p/w780/ocATTZMysSFBJiod5qNECDv5eJr.jpg" group-title="Comedy",The Murderer
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8762.m3u8
+#EXTINF:0 CUID="183" tvg-name="Haunted Mansion (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8Im6DknDVxRiGXc5t8rVOJyzuNx.jpg" group-title="Comedy",Haunted Mansion (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8757.m3u8
+#EXTINF:0 CUID="181" tvg-name="The Slumber Party (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2jjOBcKJYb5FRTcsqL6yRtAY3Wr.jpg" group-title="Comedy",The Slumber Party (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8755.m3u8
+#EXTINF:0 CUID="173" tvg-name="They Cloned Tyrone (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hnzXoDaK346U4ByfvQenu2DZnTg.jpg" group-title="Comedy",They Cloned Tyrone (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8747.m3u8
+#EXTINF:0 CUID="171" tvg-name="Barbie (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg" group-title="Comedy",Barbie (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8745.m3u8
+#EXTINF:0 CUID="168" tvg-name="Miss Shampoo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cEchXQKoxn0487Onhkxq0q63c06.jpg" group-title="Comedy",Miss Shampoo (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8742.m3u8
+#EXTINF:0 CUID="166" tvg-name="Joy Ride (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lTZ3r9NBdbrR6NA90v3hFYqd6TC.jpg" group-title="Comedy",Joy Ride (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8740.m3u8
+#EXTINF:0 CUID="150" tvg-name="Gold Brick (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yBnY6elyOlEk6bKfxEoaHFaqwai.jpg" group-title="Comedy",Gold Brick (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8724.m3u8
+#EXTINF:0 CUID="139" tvg-name="No Hard Feelings (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/d2jU7XWkPjRN0LpakwShBH2FLZo.jpg" group-title="Comedy",No Hard Feelings (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8713.m3u8
+#EXTINF:0 CUID="125" tvg-name="Asteroid City (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qdq40gRS8xKnpFt5V75t6lUHgpx.jpg" group-title="Comedy",Asteroid City (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8643.m3u8
+#EXTINF:0 CUID="115" tvg-name="You Do You (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg" group-title="Comedy",You Do You (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8633.m3u8
+#EXTINF:0 CUID="114" tvg-name="The Wonder Weeks (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/blGdfZPiv4CXViqbfXNcWiplABz.jpg" group-title="Comedy",The Wonder Weeks (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8632.m3u8
+#EXTINF:0 CUID="113" tvg-name="White Men Can't Jump (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i83Ykng2HVY5EF043zMmeQdLUQY.jpg" group-title="Comedy",White Men Can't Jump (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8631.m3u8
+#EXTINF:0 CUID="112" tvg-name="The Machine (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/x9dGI7LIOMMlFzyIBUta1svft2Y.jpg" group-title="Comedy",The Machine (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8630.m3u8
+#EXTINF:0 CUID="105" tvg-name="Mixed by Erry (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tCTqW2YLxx6gqrPFTlMswvDunuQ.jpg" group-title="Comedy",Mixed by Erry (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8623.m3u8
+#EXTINF:0 CUID="77" tvg-name="Mother’s Day is Cancelled (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/j741ip55NOzabrllOXHJv2vpag7.jpg" group-title="Comedy",Mother’s Day is Cancelled (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8595.m3u8
+#EXTINF:0 CUID="68" tvg-name="Dream (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i1oEkQjxV4Q1EL7T4lbMfxMZdde.jpg" group-title="Comedy",Dream (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8586.m3u8
+#EXTINF:0 CUID="57" tvg-name="Beau Is Afraid (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wgVkkjigF31r1nZV80uV0xNIoun.jpg" group-title="Comedy",Beau Is Afraid (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8575.m3u8
+#EXTINF:0 CUID="53" tvg-name="One More Time (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dLWDiTJWKgPuyQuuD0zDRhwU2y4.jpg" group-title="Comedy",One More Time (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8571.m3u8
+#EXTINF:0 CUID="46" tvg-name="Phenomena (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dhk14s8ogQkbf6re3HLKV2UBHjx.jpg" group-title="Comedy",Phenomena (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8564.m3u8
+#EXTINF:0 CUID="45" tvg-name="My Apologies (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5G99uv3etazBakzqZLCa3O6ptOQ.jpg" group-title="Comedy",My Apologies (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8563.m3u8
+#EXTINF:0 CUID="40" tvg-name="Quasi (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/g6uFA7r4VqqQeW4u9YtktheRXUt.jpg" group-title="Comedy",Quasi (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8558.m3u8
+#EXTINF:0 CUID="28" tvg-name="Mafia Mamma (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hqFZqZFWWEDRCTtbTJqvrIitEKB.jpg" group-title="Comedy",Mafia Mamma (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8545.m3u8
+#EXTINF:0 CUID="27" tvg-name="Renfield (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jG83l0tDwoQj3hBAioIsJ5rTPHw.jpg" group-title="Comedy",Renfield (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8544.m3u8
+#EXTINF:0 CUID="4" tvg-name="80 for Brady (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="Comedy",80 for Brady (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9035.m3u8
+#EXTINF:0 CUID="584" tvg-name="Sex Appeal (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg" group-title="Comedy",Sex Appeal (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6895.m3u8
+#EXTINF:0 CUID="595" tvg-name="When You Finish Saving the World (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg" group-title="Comedy",When You Finish Saving the World (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6944.m3u8
+#EXTINF:0 CUID="808" tvg-name="All Hail (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9zVyqx5WKb0iCkk46wDUxuwAiMR.jpg" group-title="Comedy",All Hail (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7182.m3u8
+#EXTINF:0 CUID="806" tvg-name="Rise (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg" group-title="Comedy",Rise (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7180.m3u8
+#EXTINF:0 CUID="779" tvg-name="Without Saying Goodbye (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/11SOeFmUEHahuyMOxxT1wdJ3iJs.jpg" group-title="Comedy",Without Saying Goodbye (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7150.m3u8
+#EXTINF:0 CUID="745" tvg-name="Valley of the Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/avokvOwhjVR9GgISsSSgb2A343G.jpg" group-title="Comedy",Valley of the Dead (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7115.m3u8
+#EXTINF:0 CUID="736" tvg-name="The Invisible Thread (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fxEgIeFjAxVqqySDsYmI2uZcV46.jpg" group-title="Comedy",The Invisible Thread (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7105.m3u8
+#EXTINF:0 CUID="732" tvg-name="Kung Fu Hairdresser (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pZLEfY26i07cJUAP3AZFVAW2Wi4.jpg" group-title="Comedy",Kung Fu Hairdresser (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7101.m3u8
+#EXTINF:0 CUID="719" tvg-name="Tyler Perry's A Madea Homecoming (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lOGPhJ5hrvcRFernsAfuwdiqwur.jpg" group-title="Comedy",Tyler Perry's A Madea Homecoming (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7088.m3u8
+#EXTINF:0 CUID="714" tvg-name="Big Gold Brick (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg" group-title="Comedy",Big Gold Brick (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7083.m3u8
+#EXTINF:0 CUID="710" tvg-name="The Duke (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vxqFcrVDPDfI60e8f1EKxpj0QvH.jpg" group-title="Comedy",The Duke (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7079.m3u8
+#EXTINF:0 CUID="699" tvg-name="Dog (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zHQy4h36WwuCetKS7C3wcT1hkgA.jpg" group-title="Comedy",Dog (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7068.m3u8
+#EXTINF:0 CUID="696" tvg-name="Boy Bastos (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qr6coRbZoXqebZdwrimDta4hXqn.jpg" group-title="Comedy",Boy Bastos (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7065.m3u8
+#EXTINF:0 CUID="692" tvg-name="Leonora addio (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kKzk1ARlCDubcSpcGUa4G2tMNXM.jpg" group-title="Comedy",Leonora addio (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7061.m3u8
+#EXTINF:0 CUID="680" tvg-name="I Want You Back (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/AtCGLuDaft5PuELnxaFJf2gxbBd.jpg" group-title="Comedy",I Want You Back (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7047.m3u8
+#EXTINF:0 CUID="678" tvg-name="Tall Girl 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg" group-title="Comedy",Tall Girl 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7045.m3u8
+#EXTINF:0 CUID="669" tvg-name="Badhaai Do (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2IOCys56t4iOMj9ZoVZ7zmi2RHL.jpg" group-title="Comedy",Badhaai Do (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7034.m3u8
+#EXTINF:0 CUID="647" tvg-name="Book of Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aU4cUkmn8CqnBYlYgE2sHlZ2AGy.jpg" group-title="Comedy",Book of Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7011.m3u8
+#EXTINF:0 CUID="613" tvg-name="Death of a Telemarketer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/shp21GCcILK1Y4O5YJ8p76ae62m.jpg" group-title="Comedy",Death of a Telemarketer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6976.m3u8
+#EXTINF:0 CUID="600" tvg-name="Entropy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/l0E7NpVWCgroNWAMPeOnGhpX427.jpg" group-title="Comedy",Entropy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6957.m3u8
+#EXTINF:0 CUID="562" tvg-name="Four to Dinner (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oYCNbQH7QjilbVrcfIkBi1RxsrE.jpg" group-title="Comedy",Four to Dinner (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6869.m3u8
+#EXTINF:0 CUID="556" tvg-name="Chief Daddy 2: Going for Broke (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mCOhpT4thaUTPbBvFKYibgpNnCy.jpg" group-title="Comedy",Chief Daddy 2: Going for Broke (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6862.m3u8
+#EXTINF:0 CUID="549" tvg-name="The Price of Family (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rXDkYdshRGF3jwjxoDpzc4RPa18.jpg" group-title="Comedy",The Price of Family (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6854.m3u8
+#EXTINF:0 CUID="537" tvg-name="Murder Mystery 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/s1VzVhXlqsevi8zeCMG9A16nEUf.jpg" group-title="Comedy",Murder Mystery 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9135.m3u8
+#EXTINF:0 CUID="526" tvg-name="The Ordinaries (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iRMpYF1R4xIYf91onrohg6ucono.jpg" group-title="Comedy",The Ordinaries (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9123.m3u8
+#EXTINF:0 CUID="523" tvg-name="Hachiko (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3g5oG4bQCC4sk9DkVQACK89fa7Y.jpg" group-title="Comedy",Hachiko (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9120.m3u8
+#EXTINF:0 CUID="521" tvg-name="Dungeons & Dragons: Honor Among Thieves (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/v7UF7ypAqjsFZFdjksjQ7IUpXdn.jpg" group-title="Comedy",Dungeons & Dragons: Honor Among Thieves (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9118.m3u8
+#EXTINF:0 CUID="514" tvg-name="Red, White & Brass (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uffOY4W354o9RTRmercFyVvl56Z.jpg" group-title="Comedy",Red, White & Brass (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9111.m3u8
+#EXTINF:0 CUID="501" tvg-name="Shazam! Fury of the Gods (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/A3ZbZsmsvNGdprRi2lKgGEeVLEH.jpg" group-title="Comedy",Shazam! Fury of the Gods (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9096.m3u8
+#EXTINF:0 CUID="1104" tvg-name="A Cut Above (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/exoAst6FMT7vCxumMmhJxVHbtnq.jpg" group-title="Comedy",A Cut Above (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7516.m3u8
+#EXTINF:0 CUID="1108" tvg-name="Not Okay (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zhkgYQoRO91zmROJQLVdf0JzYJ7.jpg" group-title="Comedy",Not Okay (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7520.m3u8
+#EXTINF:0 CUID="1128" tvg-name="Easter Sunday (2022)" tvg-logo="http://103.127.208.209:25461/images/2a0db51d96639c2089184ffc5f390a14.jpg" group-title="Comedy",Easter Sunday (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7540.m3u8
+#EXTINF:0 CUID="1294" tvg-name="Rainbow (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7RVajiBhqJVwKIhUqSnRWBWhZA5.jpg" group-title="Comedy",Rainbow (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7713.m3u8
+#EXTINF:0 CUID="1289" tvg-name="Bros (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/op02Hv5i4Z049nGJYmk6BScRqHO.jpg" group-title="Comedy",Bros (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7708.m3u8
+#EXTINF:0 CUID="1284" tvg-name="Honest Candidate 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/twEdG9NGbnSOZxEm7e0BF6h5FL5.jpg" group-title="Comedy",Honest Candidate 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7703.m3u8
+#EXTINF:0 CUID="1268" tvg-name="Triangle of Sadness (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k9eLozCgCed5FGTSdHu0bBElAV8.jpg" group-title="Comedy",Triangle of Sadness (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7687.m3u8
+#EXTINF:0 CUID="1259" tvg-name="Do Revenge (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dZdsm8Z8irM3da7f7U1V3opk3sv.jpg" group-title="Comedy",Do Revenge (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7678.m3u8
+#EXTINF:0 CUID="1258" tvg-name="I Used to Be Famous (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hJMnsf6vzgoNx0bv3uh3PTCjmks.jpg" group-title="Comedy",I Used to Be Famous (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7677.m3u8
+#EXTINF:0 CUID="1223" tvg-name="About Fate (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fabZkaVHYJ67KbZx7oFoitauX34.jpg" group-title="Comedy",About Fate (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7640.m3u8
+#EXTINF:0 CUID="1207" tvg-name="Honk for Jesus. Save Your Soul. (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gC5HfzG2xUbqSPaXPdqTiE94c79.jpg" group-title="Comedy",Honk for Jesus. Save Your Soul. (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7624.m3u8
+#EXTINF:0 CUID="1205" tvg-name="Fenced In (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nSMgZAwQK9c7iMl3ZkAbvQZInIC.jpg" group-title="Comedy",Fenced In (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7622.m3u8
+#EXTINF:0 CUID="1195" tvg-name="Me Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bkjPoisqAavXUvtoirxTEcLLQyI.jpg" group-title="Comedy",Me Time (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7612.m3u8
+#EXTINF:0 CUID="1183" tvg-name="6/45 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/AifHZptVzkzLLfk2tedIQixqrgV.jpg" group-title="Comedy",6/45 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7600.m3u8
+#EXTINF:0 CUID="1172" tvg-name="Babysitter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rWTIfTpZsoMS96TxOwbffg4n9fz.jpg" group-title="Comedy",Babysitter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7589.m3u8
+#EXTINF:0 CUID="1120" tvg-name="Buba (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sOznYqIAxPT1JnHy3Qy0M9HhdxQ.jpg" group-title="Comedy",Buba (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7532.m3u8
+#EXTINF:0 CUID="1113" tvg-name="The Entitled (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nJMru27zbwolphYGEvzqYkMmm0e.jpg" group-title="Comedy",The Entitled (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7525.m3u8
+#EXTINF:0 CUID="1111" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg" group-title="Comedy",Honor Society (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7523.m3u8
+#EXTINF:0 CUID="1079" tvg-name="Z-O-M-B-I-E-S 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2QxbpQgzmTQjezu9YOeBk8JFzKg.jpg" group-title="Comedy",Z-O-M-B-I-E-S 3 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7487.m3u8
+#EXTINF:0 CUID="1076" tvg-name="Mrs. Harris Goes to Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2SV7RYEqiPr3LpTaI33eUtYn09c.jpg" group-title="Comedy",Mrs. Harris Goes to Paris (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7484.m3u8
+#EXTINF:0 CUID="1022" tvg-name="My Perfect Roommate (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/d3i1ZB2pstUAJn8n1KzobcmbtZd.jpg" group-title="Comedy",My Perfect Roommate (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7416.m3u8
+#EXTINF:0 CUID="1019" tvg-name="Monkey King: The Bottomless Hole (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sPhteSJUGElygNr6Lmyy1lBTAOn.jpg" group-title="Comedy",Monkey King: The Bottomless Hole (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7412.m3u8
+#EXTINF:0 CUID="1012" tvg-name="Jerry & Marge Go Large (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/s2Tegfa5IOUkFx988FgTFZth189.jpg" group-title="Comedy",Jerry & Marge Go Large (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7404.m3u8
+#EXTINF:0 CUID="1001" tvg-name="Incredible But True (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yBLlwTXweDzBKgEbYz5ZVTRQaZX.jpg" group-title="Comedy",Incredible But True (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7391.m3u8
+#EXTINF:0 CUID="990" tvg-name="Hustle (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xWic7kPq13oRxYjbGLApXCnc7pz.jpg" group-title="Comedy",Hustle (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7376.m3u8
+#EXTINF:0 CUID="984" tvg-name="Hollywood Stargirl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/evtEicfLBzftNuLylTnO4DEU1UP.jpg" group-title="Comedy",Hollywood Stargirl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7370.m3u8
+#EXTINF:0 CUID="965" tvg-name="Emergency (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b1OVtVtcC7KQlsueXCwBSRaAR1o.jpg" group-title="Comedy",Emergency (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7351.m3u8
+#EXTINF:0 CUID="946" tvg-name="Good Mourning (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sCKD2tbldX3jDtsOVU2QVGTw6Ua.jpg" group-title="Comedy",Good Mourning (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7328.m3u8
+#EXTINF:0 CUID="941" tvg-name="A Perfect Pairing (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h65lLhYEfRGOWVZzwX9n7vYOixf.jpg" group-title="Comedy",A Perfect Pairing (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7323.m3u8
+#EXTINF:0 CUID="938" tvg-name="Toscana (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k9JHEiBkMsqCR5vKREjdOvz91u6.jpg" group-title="Comedy",Toscana (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7320.m3u8
+#EXTINF:0 CUID="931" tvg-name="Senior Year (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg" group-title="Comedy",Senior Year (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7312.m3u8
+#EXTINF:0 CUID="923" tvg-name="Not Dark Under The Light (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7aIROM0Qiy8rZCmZbHMB3SPkMvr.jpg" group-title="Comedy",Not Dark Under The Light (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7302.m3u8
+#EXTINF:0 CUID="905" tvg-name="40 Years Young (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rHD5BquWEciEUNJtuCHjr35cxzn.jpg" group-title="Comedy",40 Years Young (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7282.m3u8
+#EXTINF:0 CUID="898" tvg-name="Rumspringa (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tPmr7R2Zq66SXhFcXZiFSJ0Afx8.jpg" group-title="Comedy",Rumspringa (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7275.m3u8
+#EXTINF:0 CUID="876" tvg-name="Unplugging (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tFL9lRtVUEmsVcggoag0u4H14mJ.jpg" group-title="Comedy",Unplugging (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7253.m3u8
+#EXTINF:0 CUID="872" tvg-name="Sexual Drive (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/48YKqDVRjZJLL7lAukWKoRjRfbh.jpg" group-title="Comedy",Sexual Drive (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7249.m3u8
+#EXTINF:0 CUID="845" tvg-name="Metal Lords (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/r97txZRmBb75SGsIAWqmplWJnO3.jpg" group-title="Comedy",Metal Lords (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7221.m3u8
+#EXTINF:0 CUID="827" tvg-name="The Bubble (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/edYk5TSowZIDv138bCpF5ls3XI5.jpg" group-title="Comedy",The Bubble (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7202.m3u8
+#EXTINF:0 CUID="1617" tvg-name="The Sacred Spirit (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/eJa3nYAaL9hzTG94jXNLUXKJgJH.jpg" group-title="Comedy",The Sacred Spirit (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6840.m3u8
+#EXTINF:0 CUID="1591" tvg-name="Meskina (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/1qP4A0ivvWzGJjeOkQ7tBHW1eOE.jpg" group-title="Comedy",Meskina (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6811.m3u8
+#EXTINF:0 CUID="1584" tvg-name="My Wonderful Life (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg" group-title="Comedy",My Wonderful Life (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6804.m3u8
+#EXTINF:0 CUID="1577" tvg-name="Official Competition (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/xvsiRSy1kIwlySogzOxkCFrJWYx.jpg" group-title="Comedy",Official Competition (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6797.m3u8
+#EXTINF:0 CUID="1568" tvg-name="King Knight (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vFulLzFGn695lpY0VGlndStR07x.jpg" group-title="Comedy",King Knight (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6788.m3u8
+#EXTINF:0 CUID="1535" tvg-name="This Is Not a Comedy (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/1IEMKTCbD5euj7De0S0cB4FsMp3.jpg" group-title="Comedy",This Is Not a Comedy (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6744.m3u8
+#EXTINF:0 CUID="1532" tvg-name="A Night at the Kindergarten (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/r6tDFLtLzlzkm27OOOsdjlK58wD.jpg" group-title="Comedy",A Night at the Kindergarten (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7981.m3u8
+#EXTINF:0 CUID="1531" tvg-name="7 Women and a Murder (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iz2tpJJgSDBS646VYhmNkUmot4l.jpg" group-title="Comedy",7 Women and a Murder (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7980.m3u8
+#EXTINF:0 CUID="1527" tvg-name="Babylon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg" group-title="Comedy",Babylon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7976.m3u8
+#EXTINF:0 CUID="1526" tvg-name="Glass Onion: A Knives Out Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg" group-title="Comedy",Glass Onion: A Knives Out Mystery (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7975.m3u8
+#EXTINF:0 CUID="1522" tvg-name="A Not So Merry Christmas" tvg-logo="https://image.tmdb.org/t/p/w780/xdZ5BIkQTGjZgCacdQQy7qNnoQ2.jpg" group-title="Comedy",A Not So Merry Christmas
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7971.m3u8
+#EXTINF:0 CUID="1521" tvg-name="Desconectados" tvg-logo="https://image.tmdb.org/t/p/w780/8Wad2HeJg4Y67dFRGC6oGKqLJWO.jpg" group-title="Comedy",Desconectados
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7970.m3u8
+#EXTINF:0 CUID="1520" tvg-name="The Honeymoon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vyT1SavljB1WLDutl0Bj0P1sCCj.jpg" group-title="Comedy",The Honeymoon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7968.m3u8
+#EXTINF:0 CUID="1512" tvg-name="Who Killed Santa? A Murderville Murder Mystery" tvg-logo="https://image.tmdb.org/t/p/w780/uO0EJVJmy2RC0YRgcvu8ETFBUZO.jpg" group-title="Comedy",Who Killed Santa? A Murderville Murder Mystery
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7960.m3u8
+#EXTINF:0 CUID="1501" tvg-name="It's a Wonderful Binge (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hU9ouAPcg2LG7n85WUxjKwPq2y4.jpg" group-title="Comedy",It's a Wonderful Binge (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7949.m3u8
+#EXTINF:0 CUID="1500" tvg-name="Spoiler Alert (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg" group-title="Comedy",Spoiler Alert (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7948.m3u8
+#EXTINF:0 CUID="1480" tvg-name="Darby and the Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/v1mtYW0qShlS3YFy10D8GqTk6LI.jpg" group-title="Comedy",Darby and the Dead (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7928.m3u8
+#EXTINF:0 CUID="1469" tvg-name="Men of Plastic (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b9fHfSZcd8cxJwOuhpU5Kx1QlFH.jpg" group-title="Comedy",Men of Plastic (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7916.m3u8
+#EXTINF:0 CUID="1455" tvg-name="Who's a Good Boy? (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k3ZbQQh7TlerTTWrH6Ua2l8J08p.jpg" group-title="Comedy",Who's a Good Boy? (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7902.m3u8
+#EXTINF:0 CUID="1450" tvg-name="Spirited (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h3zAzTMs5EP3cKusOxFNGSFE1WI.jpg" group-title="Comedy",Spirited (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7883.m3u8
+#EXTINF:0 CUID="1436" tvg-name="Off Track (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4yV6DjHg9ALJaopXlktvXphh9xR.jpg" group-title="Comedy",Off Track (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7869.m3u8
+#EXTINF:0 CUID="1425" tvg-name="Thai Massage (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rYPis1a03mHIIUXDScAKLHvEfBO.jpg" group-title="Comedy",Thai Massage (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7858.m3u8
+#EXTINF:0 CUID="1412" tvg-name="The Banshees of Inisherin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg" group-title="Comedy",The Banshees of Inisherin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7845.m3u8
+#EXTINF:0 CUID="1387" tvg-name="Classico (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zq7B2VrFcBZa6YyMHV9C1iggmWm.jpg" group-title="Comedy",Classico (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7820.m3u8
+#EXTINF:0 CUID="444" tvg-name="Infiesto (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4ZINmjqs326uS9tzihiLQu6LMO2.jpg" group-title="Crime",Infiesto (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9030.m3u8
+#EXTINF:0 CUID="401" tvg-name="The Trade (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8UPVtbRkgaSA8E6B65q1uQLm0xK.jpg" group-title="Crime",The Trade (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8980.m3u8
+#EXTINF:0 CUID="398" tvg-name="Amor Emanuelle (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6PiDoN6Mtc9Zo5qnVc5VUOtFmNI.jpg" group-title="Crime",Amor Emanuelle (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8977.m3u8
+#EXTINF:0 CUID="393" tvg-name="Finestkind (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/90D6sXfbXKhDpd4S1cHICdAe8VD.jpg" group-title="Crime",Finestkind (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8972.m3u8
+#EXTINF:0 CUID="376" tvg-name="All Souls (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9QUZXrfokqrW6yJBYPgGD1cN0JO.jpg" group-title="Crime",All Souls (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8954.m3u8
+#EXTINF:0 CUID="372" tvg-name="Northern Shade (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/y9QaP507ScoH0zu4J9x6QkNXYbl.jpg" group-title="Crime",Northern Shade (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8950.m3u8
+#EXTINF:0 CUID="335" tvg-name="The Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/e7Jvsry47JJQruuezjU2X1Z6J77.jpg" group-title="Crime",The Killer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8911.m3u8
+#EXTINF:0 CUID="329" tvg-name="Pain Hustlers (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/m0gM9jE1KmCkXZRqkeNYEQZdVsZ.jpg" group-title="Crime",Pain Hustlers (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8905.m3u8
+#EXTINF:0 CUID="315" tvg-name="Killers of the Flower Moon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="Crime",Killers of the Flower Moon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8889.m3u8
+#EXTINF:0 CUID="285" tvg-name="Reptile (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/soIgqZBoTiTgMqUW0JtxsPWAilQ.jpg" group-title="Crime",Reptile (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8859.m3u8
+#EXTINF:0 CUID="260" tvg-name="Suka (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uPJuDvWfSmoTOLslzEn69L0iTYF.jpg" group-title="Crime",Suka (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8834.m3u8
+#EXTINF:0 CUID="250" tvg-name="Once Upon a Crime (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5FFpXoNpHdmx4hYEQOjtgotOH4b.jpg" group-title="Crime",Once Upon a Crime (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8824.m3u8
+#EXTINF:0 CUID="213" tvg-name="10 Days of a Bad Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fZhPy0pIxAiV3ZHGBsuAvR30Mgb.jpg" group-title="Crime",10 Days of a Bad Man (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8787.m3u8
+#EXTINF:0 CUID="152" tvg-name="Devils (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/TorAWfgF1ocshjviui1BiHv9IC.jpg" group-title="Crime",Devils (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8726.m3u8
+#EXTINF:0 CUID="136" tvg-name="Live Stream (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gyh5z0LYo6gyFx4s5G7rnMS4YTJ.jpg" group-title="Crime",Live Stream (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8710.m3u8
+#EXTINF:0 CUID="85" tvg-name="Limbo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1ytI3G3dT6j888ySOwYhpJHz8ED.jpg" group-title="Crime",Limbo (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8603.m3u8
+#EXTINF:0 CUID="25" tvg-name="How to Blow Up a Pipeline (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5HJF47ywTuxxouVdAHAZ7iPzB4T.jpg" group-title="Crime",How to Blow Up a Pipeline (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8542.m3u8
+#EXTINF:0 CUID="18" tvg-name="Gangs of Lagos (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nGwFsB6EXUCr21wzPgtP5juZPSv.jpg" group-title="Crime",Gangs of Lagos (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8535.m3u8
+#EXTINF:0 CUID="5" tvg-name="Hard Days (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zZFqGmhJMUiTuEJSneIbI7N5sCw.jpg" group-title="Crime",Hard Days (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8949.m3u8
+#EXTINF:0 CUID="588" tvg-name="Borrego (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kPzQtr5LTheO0mBodIeAXHgthYX.jpg" group-title="Crime",Borrego (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6900.m3u8
+#EXTINF:0 CUID="589" tvg-name="The Surprise Visit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/a3J0t376OE1Vk3jKN67viY31s5.jpg" group-title="Crime",The Surprise Visit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6901.m3u8
+#EXTINF:0 CUID="809" tvg-name="Crawlspace (2022)" tvg-logo="http://103.127.208.209:25461/images/22d76ff6bb27cd1d6b9f107c054b9c0d.jpg" group-title="Crime",Crawlspace (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7183.m3u8
+#EXTINF:0 CUID="795" tvg-name="The Last Client (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oUhZzMpHAMgdRgLbsvBIqhY7fKe.jpg" group-title="Crime",The Last Client (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7166.m3u8
+#EXTINF:0 CUID="780" tvg-name="Windfall (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/njBc0nNdl9QbsfMwyRqJkmW4NQO.jpg" group-title="Crime",Windfall (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7151.m3u8
+#EXTINF:0 CUID="774" tvg-name="The Outfit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lZa5EB6PVJBT5mxhgZS5ftqdAm6.jpg" group-title="Crime",The Outfit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7145.m3u8
+#EXTINF:0 CUID="712" tvg-name="Romeo & Juliet Killers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qTyR9BDP4OCRMYUhHBYszRpFXE1.jpg" group-title="Crime",Romeo & Juliet Killers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7081.m3u8
+#EXTINF:0 CUID="691" tvg-name="Una Femmina: The Code of Silence (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/roTBjInRUJXSboCXSBjpbEjCRzo.jpg" group-title="Crime",Una Femmina: The Code of Silence (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7060.m3u8
+#EXTINF:0 CUID="689" tvg-name="Man's Creed (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1ozVHJnIuUIDP8xUcsLiZKQ8fLX.jpg" group-title="Crime",Man's Creed (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7058.m3u8
+#EXTINF:0 CUID="666" tvg-name="Krime Story. Love Story (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3ZJnShv2gx7MOn2wqmc0qkHMCXW.jpg" group-title="Crime",Krime Story. Love Story (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7031.m3u8
+#EXTINF:0 CUID="661" tvg-name="Kimi (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg" group-title="Crime",Kimi (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7026.m3u8
+#EXTINF:0 CUID="629" tvg-name="Clean (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kRpKJstAW7DsoPAEBW2Kk1uD9Q6.jpg" group-title="Crime",Clean (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6993.m3u8
+#EXTINF:0 CUID="607" tvg-name="Amandla (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qrT3Y0ERClIKCeq025L5rN1xgzr.jpg" group-title="Crime",Amandla (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6970.m3u8
+#EXTINF:0 CUID="606" tvg-name="Confession (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tjbyvoEMBhU0BDE1KrGOLA1OC2d.jpg" group-title="Crime",Confession (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6969.m3u8
+#EXTINF:0 CUID="578" tvg-name="How I Fell in Love with a Gangster (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/e8VV1S1dcFiUBzrbwEZ26uyL40U.jpg" group-title="Crime",How I Fell in Love with a Gangster (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6889.m3u8
+#EXTINF:0 CUID="577" tvg-name="Drug Hunter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k82GGrdKEajiR4y2UKvGs5ndX7i.jpg" group-title="Crime",Drug Hunter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6888.m3u8
+#EXTINF:0 CUID="561" tvg-name="The Policeman's Lineage (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xHlGNVO7xDQrJMOv38UMLawajKP.jpg" group-title="Crime",The Policeman's Lineage (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6868.m3u8
+#EXTINF:0 CUID="553" tvg-name="The Pale Blue Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg" group-title="Crime",The Pale Blue Eye (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6859.m3u8
+#EXTINF:0 CUID="552" tvg-name="The Sixth Secret (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rF7b0jjaqRfzAaIKpcdUBiMhJX7.jpg" group-title="Crime",The Sixth Secret (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6858.m3u8
+#EXTINF:0 CUID="1308" tvg-name="November (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yMqtCSzSAB9Aiw8yiuUKBoxEeAm.jpg" group-title="Crime",November (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7731.m3u8
+#EXTINF:0 CUID="1306" tvg-name="Togo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vBvHFU97cmep48zbl5X85gvXCn.jpg" group-title="Crime",Togo (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7729.m3u8
+#EXTINF:0 CUID="1304" tvg-name="Bandit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yph9PAbmjYPvyvbeZvdYIhCZHEu.jpg" group-title="Crime",Bandit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7726.m3u8
+#EXTINF:0 CUID="1263" tvg-name="The Perfumier (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ieivbB7SDenOGfqae0vZdJQfJA.jpg" group-title="Crime",The Perfumier (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7682.m3u8
+#EXTINF:0 CUID="1251" tvg-name="Confess, Fletch (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h2oyiPu7aql1s1mLDoKBNAH7p3B.jpg" group-title="Crime",Confess, Fletch (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7670.m3u8
+#EXTINF:0 CUID="1236" tvg-name="The Hanging Sun (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iVLavGCSjuHfWAfWZ3eAb0ztVP4.jpg" group-title="Crime",The Hanging Sun (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7655.m3u8
+#EXTINF:0 CUID="1199" tvg-name="I Came By (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pFB9jZDl52jBNbMPVSlISXD1ggS.jpg" group-title="Crime",I Came By (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7616.m3u8
+#EXTINF:0 CUID="1198" tvg-name="Breaking (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rKbgbzJbVM7MLjN7EwdO1QcIXCz.jpg" group-title="Crime",Breaking (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7615.m3u8
+#EXTINF:0 CUID="1177" tvg-name="Delia's Gone (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kmiH1ixna3TZXkwrZYbBkZcsQnD.jpg" group-title="Crime",Delia's Gone (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7594.m3u8
+#EXTINF:0 CUID="1171" tvg-name="Future Is a Lonely Place (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zKaJRF49l8oxH6pySahlwyoSh3X.jpg" group-title="Crime",Future Is a Lonely Place (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7587.m3u8
+#EXTINF:0 CUID="1160" tvg-name="Emily the Criminal (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg" group-title="Crime",Emily the Criminal (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7574.m3u8
+#EXTINF:0 CUID="1154" tvg-name="No Way Out (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w5ZzelrldWr7CmOTSiwagoe5Vl9.jpg" group-title="Crime",No Way Out (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7568.m3u8
+#EXTINF:0 CUID="1133" tvg-name="Limit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/96ZYNAVN5RhBJqkijYkgFjQA630.jpg" group-title="Crime",Limit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7545.m3u8
+#EXTINF:0 CUID="1130" tvg-name="Golden Escape (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u5ml4gox6r4WJ7Xn5ZAkgLC1VZw.jpg" group-title="Crime",Golden Escape (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7542.m3u8
+#EXTINF:0 CUID="1068" tvg-name="Holy Spider (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6ObJ4x7m1F5QRY06WzOxNJQHwGb.jpg" group-title="Crime",Holy Spider (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7475.m3u8
+#EXTINF:0 CUID="1061" tvg-name="In Dream (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/i1oEkQjxV4Q1EL7T4lbMfxMZdde.jpg" group-title="Crime",In Dream (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7467.m3u8
+#EXTINF:0 CUID="1060" tvg-name="Take the Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oGv1X9Wwyuz814qJaQeEuWDyIDI.jpg" group-title="Crime",Take the Night (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7465.m3u8
+#EXTINF:0 CUID="1006" tvg-name="Collision (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4zsihgkxMZ7MrflNCjkD3ySFJtc.jpg" group-title="Crime",Collision (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7397.m3u8
+#EXTINF:0 CUID="1002" tvg-name="Centauro (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wOx97MJOxEoR38aoya3lopyrlYC.jpg" group-title="Crime",Centauro (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7392.m3u8
+#EXTINF:0 CUID="991" tvg-name="Blaze (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hPrsnuigEuHsFIqCs71Cu78RdMj.jpg" group-title="Crime",Blaze (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7377.m3u8
+#EXTINF:0 CUID="989" tvg-name="Broker (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/17naIlhtWgE3Ai0k6PKpSNvxvSu.jpg" group-title="Crime",Broker (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7375.m3u8
+#EXTINF:0 CUID="970" tvg-name="The Wicked Wife (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uT01zpbIZ02YFcslr8JU8jsm59B.jpg" group-title="Crime",The Wicked Wife (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7356.m3u8
+#EXTINF:0 CUID="967" tvg-name="Breakout Brothers 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5L1Qx40k5nqDN3qF1yE6dgrG6dh.jpg" group-title="Crime",Breakout Brothers 3 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7353.m3u8
+#EXTINF:0 CUID="958" tvg-name="Nostalgia (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t0xCqVcXlq1rPpsF6M4kzpzKypR.jpg" group-title="Crime",Nostalgia (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7341.m3u8
+#EXTINF:0 CUID="932" tvg-name="The Last Victim (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lkMotc2mM4VuJmMPWUkZ8niEFbP.jpg" group-title="Crime",The Last Victim (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7313.m3u8
+#EXTINF:0 CUID="817" tvg-name="Dangerous Methods (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nESTpU381W00jyF51q2Jvse430Y.jpg" group-title="Crime",Dangerous Methods (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7191.m3u8
+#EXTINF:0 CUID="1610" tvg-name="The Getaway King (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/dfoudpFhAo5Mn8Sqyuu4Y006ITQ.jpg" group-title="Crime",The Getaway King (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6831.m3u8
+#EXTINF:0 CUID="1605" tvg-name="The Execution (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5I07Zvq1hSuOr6fgYlCui9SAYui.jpg" group-title="Crime",The Execution (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6826.m3u8
+#EXTINF:0 CUID="1586" tvg-name="Don't Go Too Far (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/jTM46OMnPgROWX9Gow8sBJMUnFt.jpg" group-title="Crime",Don't Go Too Far (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6806.m3u8
+#EXTINF:0 CUID="1571" tvg-name="Ted K (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg" group-title="Crime",Ted K (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6791.m3u8
+#EXTINF:0 CUID="1538" tvg-name="See for Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qk1ZERG6yhwAJqTobmDgw8jRL2C.jpg" group-title="Crime",See for Me (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6754.m3u8
+#EXTINF:0 CUID="1445" tvg-name="Sugar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cT9W7ihLuvv1X2FfR6GRrAfSwhZ.jpg" group-title="Crime",Sugar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7878.m3u8
+#EXTINF:0 CUID="1439" tvg-name="The Lost Lotteries (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gCZotD0ORsvyKP82EMWQlQTXFdD.jpg" group-title="Crime",The Lost Lotteries (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7872.m3u8
+#EXTINF:0 CUID="1433" tvg-name="Poker Face (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uUeLr12fYHvVPyjI3Hjr2fZ7NaK.jpg" group-title="Crime",Poker Face (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7866.m3u8
+#EXTINF:0 CUID="1388" tvg-name="Wild Is the Wind (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rITxQBtnMpneZf8QzH1dqONQocx.jpg" group-title="Crime",Wild Is the Wind (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7821.m3u8
+#EXTINF:0 CUID="1386" tvg-name="The Post-Truth World (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4pkOlAU5QUrx2C2AMDRc4buoZq5.jpg" group-title="Crime",The Post-Truth World (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7819.m3u8
+#EXTINF:0 CUID="1376" tvg-name="The Good Nurse (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rSq6cq0LCcbro10jbEaPTEb3WmW.jpg" group-title="Crime",The Good Nurse (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7808.m3u8
+#EXTINF:0 CUID="1375" tvg-name="Robbing Mussolini (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cbdHqb0kZTgF7jQbUw41KEYVInb.jpg" group-title="Crime",Robbing Mussolini (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7807.m3u8
+#EXTINF:0 CUID="1359" tvg-name="The Substitute (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jlhe2SKWqW3F7BEQl3sOkgXLtkW.jpg" group-title="Crime",The Substitute (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7787.m3u8
+#EXTINF:0 CUID="1357" tvg-name="The Stranger (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg" group-title="Crime",The Stranger (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7785.m3u8
+#EXTINF:0 CUID="302" tvg-name="The Devil on Trial (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qqPIhVKPHePyGqQxbo4gpznsJsA.jpg" group-title="Documentary",The Devil on Trial (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8876.m3u8
+#EXTINF:0 CUID="6" tvg-name="Johnny (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6UoWEfDbLm8q9VtrnLRp0ORzbNd.jpg" group-title="Documentary",Johnny (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9108.m3u8
+#EXTINF:0 CUID="623" tvg-name="Exploited (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4fuyUJCQkCGCgW6Zs3M8vxfr9F0.jpg" group-title="Documentary",Exploited (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6986.m3u8
+#EXTINF:0 CUID="1097" tvg-name="The Prodigal Son (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9ickK7UAYvemICk3jaibCCIOqEs.jpg" group-title="Documentary",The Prodigal Son (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7507.m3u8
+#EXTINF:0 CUID="974" tvg-name="Defiant(2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dy624FQajTdBJnzAU814oNV6T39.jpg" group-title="Documentary",Defiant(2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7360.m3u8
+#EXTINF:0 CUID="1280" tvg-name="Burial (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/c4D22vnat4DUm9a9TFPZ0abDEsc.jpg" group-title="Documentary",Burial (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7699.m3u8
+#EXTINF:0 CUID="1479" tvg-name="What remains (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kZdwkqAklIFkL3TiXrJyEMq0QUy.jpg" group-title="Documentary",What remains (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7927.m3u8
+#EXTINF:0 CUID="66" tvg-name="Big George Foreman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fdVd6thTstt0MQ4dUC1IXiOXpxv.jpg" group-title="Drama",Big George Foreman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8584.m3u8
+#EXTINF:0 CUID="494" tvg-name="The Devil's Deal (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/irVtwzIWb73NpcXDDhovu2wzsRj.jpg" group-title="Drama",The Devil's Deal (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9089.m3u8
+#EXTINF:0 CUID="480" tvg-name="Creed III (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg" group-title="Drama",Creed III (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9075.m3u8
+#EXTINF:0 CUID="479" tvg-name="Palm Trees and Power Lines (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jWiSF5VbFeeWZmx7rGgQCsFsLdW.jpg" group-title="Drama",Palm Trees and Power Lines (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9074.m3u8
+#EXTINF:0 CUID="477" tvg-name="Call Me Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bFryUqUKAJIgzIC8OeTzqm8td2.jpg" group-title="Drama",Call Me Chihiro (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9071.m3u8
+#EXTINF:0 CUID="475" tvg-name="Jesus Revolution (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/A3qqrl8lJvlpRCwkbUEADXzVaDC.jpg" group-title="Drama",Jesus Revolution (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9069.m3u8
+#EXTINF:0 CUID="469" tvg-name="Swallow (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/40Zrwud1EVxNvcjQkotZo7jmr4L.jpg" group-title="Drama",Swallow (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9062.m3u8
+#EXTINF:0 CUID="466" tvg-name="Hidden Blade (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lfa5ZVrhzYDPM9Ojnm1sPVQ7DSX.jpg" group-title="Drama",Hidden Blade (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9058.m3u8
+#EXTINF:0 CUID="462" tvg-name="Count (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sBD608VF4TcFHmP7SuC0OcvZQ0b.jpg" group-title="Drama",Count (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9054.m3u8
+#EXTINF:0 CUID="460" tvg-name="10 Days of a Good Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eQnY9isD2u7jdSkyfy8qjdMgQnT.jpg" group-title="Drama",10 Days of a Good Man (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9052.m3u8
+#EXTINF:0 CUID="458" tvg-name="You & Me & Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yRt7MGBElkLQOYRvLTT1b3B1rcp.jpg" group-title="Drama",You & Me & Me (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9050.m3u8
+#EXTINF:0 CUID="429" tvg-name="The Legend & Butterfly (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4f9ghI3utknpeBZSAzNuIKKATOA.jpg" group-title="Drama",The Legend & Butterfly (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9009.m3u8
+#EXTINF:0 CUID="420" tvg-name="Women Talking (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg" group-title="Drama",Women Talking (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8999.m3u8
+#EXTINF:0 CUID="419" tvg-name="The Son (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hYR2doH3arnX0Y6WULuBPbtaLjN.jpg" group-title="Drama",The Son (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8998.m3u8
+#EXTINF:0 CUID="405" tvg-name="Punch (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9XaWauCRrSrchGbsxlI3QgCr76t.jpg" group-title="Drama",Punch (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8984.m3u8
+#EXTINF:0 CUID="389" tvg-name="All Dirt Roads Taste of Salt (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/m1Rap5zhPUBctPcX8h7TBFJQth4.jpg" group-title="Drama",All Dirt Roads Taste of Salt (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8968.m3u8
+#EXTINF:0 CUID="387" tvg-name="Saltburn (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qjhahNLSZ705B5JP92YMEYPocPz.jpg" group-title="Drama",Saltburn (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8966.m3u8
+#EXTINF:0 CUID="378" tvg-name="Eileen (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gdGKBa3UVS5GMZsayqnfupBB5fb.jpg" group-title="Drama",Eileen (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8957.m3u8
+#EXTINF:0 CUID="374" tvg-name="The Last Rifleman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/47Qm5qPSq774Fva3TgmjqKrvtQj.jpg" group-title="Drama",The Last Rifleman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8952.m3u8
+#EXTINF:0 CUID="373" tvg-name="Familia (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5LyiadeCXEsoqmph0fZZhoCBWJa.jpg" group-title="Drama",Familia (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8951.m3u8
+#EXTINF:0 CUID="369" tvg-name="The Shepherd (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/f2YbkFMN27uqAWqmWZmfj3CE1tF.jpg" group-title="Drama",The Shepherd (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8946.m3u8
+#EXTINF:0 CUID="364" tvg-name="Dating Santa (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qD63nfBOHBesy6EOu5GT2AB0rCj.jpg" group-title="Drama",Dating Santa (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8940.m3u8
+#EXTINF:0 CUID="356" tvg-name="Elena Knows (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/AjAElsEROAhnRLFzob8eqTfvlN7.jpg" group-title="Drama",Elena Knows (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8932.m3u8
+#EXTINF:0 CUID="346" tvg-name="Rustin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg" group-title="Drama",Rustin (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8922.m3u8
+#EXTINF:0 CUID="343" tvg-name="The Queenstown Kings (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/58mHgWKwYaySV4y6sSsFVazUfOT.jpg" group-title="Drama",The Queenstown Kings (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8919.m3u8
+#EXTINF:0 CUID="341" tvg-name="NYAD (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg" group-title="Drama",NYAD (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8917.m3u8
+#EXTINF:0 CUID="326" tvg-name="12th Fail (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eebUPRI4Z5e1Z7Hev4JZAwMIFkX.jpg" group-title="Drama",12th Fail (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8902.m3u8
+#EXTINF:0 CUID="321" tvg-name="How to Have Sex (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rafwrzslLb203hQFIU8s0yRk0Qy.jpg" group-title="Drama",How to Have Sex (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8897.m3u8
+#EXTINF:0 CUID="312" tvg-name="Butcher's Crossing (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2KdkRsYuzYPlJMLrV39gdjY3WkS.jpg" group-title="Drama",Butcher's Crossing (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8886.m3u8
+#EXTINF:0 CUID="310" tvg-name="Fair Play (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tGgojtD6vJKYeCfktAhhA1pmH0n.jpg" group-title="Drama",Fair Play (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8884.m3u8
+#EXTINF:0 CUID="307" tvg-name="Ìjọ̀gbọ̀n (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pz3zXdxjI0avLUk0Y85s9aSo31I.jpg" group-title="Drama",Ìjọ̀gbọ̀n (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8881.m3u8
+#EXTINF:0 CUID="301" tvg-name="Crypto Boy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/SVbLd0L1L611hWYGxSqyFyGu1f.jpg" group-title="Drama",Crypto Boy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8875.m3u8
+#EXTINF:0 CUID="291" tvg-name="Once Upon a Star (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oLbJECxr8bHKe00hBVgf96KGnhq.jpg" group-title="Drama",Once Upon a Star (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8865.m3u8
+#EXTINF:0 CUID="277" tvg-name="Road to Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oOfq5tr7OdVnpIMmuzCmet6XBEo.jpg" group-title="Drama",Road to Boston (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8851.m3u8
+#EXTINF:0 CUID="275" tvg-name="Sweet Dreams (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/I7vES02YhR0gbaMcClZ5ayWi4x.jpg" group-title="Drama",Sweet Dreams (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8849.m3u8
+#EXTINF:0 CUID="266" tvg-name="A Million Miles Away (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kMI3tgxLAZbzGOVlorUBva0kriS.jpg" group-title="Drama",A Million Miles Away (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8840.m3u8
+#EXTINF:0 CUID="256" tvg-name="Street Flow 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/96I4OKRZICinYFCAvOnXznaCQcm.jpg" group-title="Drama",Street Flow 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8830.m3u8
+#EXTINF:0 CUID="234" tvg-name="The Abandoned (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/32DhJlTTmLeaPNQeh2oHuDNRmqF.jpg" group-title="Drama",The Abandoned (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8808.m3u8
+#EXTINF:0 CUID="230" tvg-name="Anatomy of a Fall (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kQs6keheMwCxJxrzV83VUwFtHkB.jpg" group-title="Drama",Anatomy of a Fall (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8804.m3u8
+#EXTINF:0 CUID="225" tvg-name="Bad Blood (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/czlIie6XLcaHERzXdNeRSFetvRC.jpg" group-title="Drama",Bad Blood (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8799.m3u8
+#EXTINF:0 CUID="224" tvg-name="Golda (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4SbxFDkhxZeAAN1zxgVJpdUB3V.jpg" group-title="Drama",Golda (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8798.m3u8
+#EXTINF:0 CUID="221" tvg-name="Inside Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wqbvzu1D60ZmhNdC6EI888Yrg7g.jpg" group-title="Drama",Inside Man (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8795.m3u8
+#EXTINF:0 CUID="212" tvg-name="Love, Sex and 30 Candles (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uWlIhEyFONDi4HNpmvjKG5zGzFR.jpg" group-title="Drama",Love, Sex and 30 Candles (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8786.m3u8
+#EXTINF:0 CUID="206" tvg-name="Concrete Utopia (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4l68KHxnPSow8MvnGUpjqLzJtLJ.jpg" group-title="Drama",Concrete Utopia (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8780.m3u8
+#EXTINF:0 CUID="205" tvg-name="Mutt (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/r62EYMhiSR9ExYutKJZKXmfMzzd.jpg" group-title="Drama",Mutt (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8779.m3u8
+#EXTINF:0 CUID="194" tvg-name="The Moon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg" group-title="Drama",The Moon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8768.m3u8
+#EXTINF:0 CUID="191" tvg-name="Ransomed" tvg-logo="https://image.tmdb.org/t/p/w780/rXGVc5a3sIFpER8oIZU3Bccv9HL.jpg" group-title="Drama",Ransomed
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8765.m3u8
+#EXTINF:0 CUID="170" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ptpr0kGAckfQkJeJIt8st5dglvd.jpg" group-title="Drama",Oppenheimer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8744.m3u8
+#EXTINF:0 CUID="162" tvg-name="The Starling Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ysgnrkXwfFCxaBwviG2yNvzpfw5.jpg" group-title="Drama",The Starling Girl (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8736.m3u8
+#EXTINF:0 CUID="149" tvg-name="The New Boy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2e9Wt1wEse6cWDMa9RGz740Orem.jpg" group-title="Drama",The New Boy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8723.m3u8
+#EXTINF:0 CUID="147" tvg-name="Seasons (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kz0jM9Uw15ElDXQSpfNQupZuLPI.jpg" group-title="Drama",Seasons (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8721.m3u8
+#EXTINF:0 CUID="138" tvg-name="Past Lives (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg" group-title="Drama",Past Lives (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8712.m3u8
+#EXTINF:0 CUID="120" tvg-name="An Unforgettable Year – Summer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg" group-title="Drama",An Unforgettable Year – Summer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8638.m3u8
+#EXTINF:0 CUID="117" tvg-name="My Fault (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/w46Vw536HwNnEzOa7J24YH9DPRS.jpg" group-title="Drama",My Fault (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8635.m3u8
+#EXTINF:0 CUID="108" tvg-name="Reality (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rTEYxSDo9aJTTbM0zuMMLgzJcUJ.jpg" group-title="Drama",Reality (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8626.m3u8
+#EXTINF:0 CUID="103" tvg-name="Shooting Stars (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zLQHNW0XVT7IWjUahBlpVSba3sC.jpg" group-title="Drama",Shooting Stars (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8621.m3u8
+#EXTINF:0 CUID="87" tvg-name="Jeanne du Barry (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6AXHh9H7XeUqxl8Ijp9ADkpxfM0.jpg" group-title="Drama",Jeanne du Barry (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8605.m3u8
+#EXTINF:0 CUID="86" tvg-name="Fanfic (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kY13qAaWf5BOzdN15LkM89vDiNY.jpg" group-title="Drama",Fanfic (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8604.m3u8
+#EXTINF:0 CUID="74" tvg-name="Royalteen: Princess Margrethe (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yZ6rd29u0Z4ICp4QVSXm1uQ7gjy.jpg" group-title="Drama",Royalteen: Princess Margrethe (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8592.m3u8
+#EXTINF:0 CUID="70" tvg-name="BlackBerry (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nQSvHZDuMlrZdm7ooMo8gb4CXhW.jpg" group-title="Drama",BlackBerry (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8588.m3u8
+#EXTINF:0 CUID="60" tvg-name="Giving Birth to a Butterfly (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/Ge2xVAtvGctwHg3tDMvSwen1zG.jpg" group-title="Drama",Giving Birth to a Butterfly (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8578.m3u8
+#EXTINF:0 CUID="38" tvg-name="Hunger (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/84HdTM39G2MzyTl8N9R0wVU9I5b.jpg" group-title="Drama",Hunger (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8555.m3u8
+#EXTINF:0 CUID="37" tvg-name="The Village (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/v7UvYtKfIVaHLaHwVgfalyrK7Ho.jpg" group-title="Drama",The Village (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8554.m3u8
+#EXTINF:0 CUID="36" tvg-name="Oh Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mFdsr5CYnmw8CPVfpBdM0KHAEQ6.jpg" group-title="Drama",Oh Belinda (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8553.m3u8
+#EXTINF:0 CUID="35" tvg-name="On a Wing and a Prayer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8GTJwaC2CeNa0Zg6QrPLwrfurpZ.jpg" group-title="Drama",On a Wing and a Prayer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8552.m3u8
+#EXTINF:0 CUID="7" tvg-name="Huesera: The Bone Woman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7NhG3NClQ1xrc3kEwTiwFht5Y3L.jpg" group-title="Drama",Huesera: The Bone Woman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9045.m3u8
+#EXTINF:0 CUID="598" tvg-name="The Midnight Maiden War (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4Pc0J2UESMEzUsYELvJZREjFLXg.jpg" group-title="Drama",The Midnight Maiden War (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6949.m3u8
+#EXTINF:0 CUID="801" tvg-name="Topside (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mcDGQ2nBftKijYVNFcm0rWsaPiU.jpg" group-title="Drama",Topside (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7175.m3u8
+#EXTINF:0 CUID="792" tvg-name="Feathers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/viI9MdMTYnBtXnaPkmsNe32FlyR.jpg" group-title="Drama",Feathers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7163.m3u8
+#EXTINF:0 CUID="791" tvg-name="Bruno Reidal: Confession of a Murderer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yHIrhCnG3PdlasQvKtLVTC5G5gb.jpg" group-title="Drama",Bruno Reidal: Confession of a Murderer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7162.m3u8
+#EXTINF:0 CUID="786" tvg-name="In Good Hands (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eymTgzHgYretvL5mT7pwznX4p34.jpg" group-title="Drama",In Good Hands (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7157.m3u8
+#EXTINF:0 CUID="785" tvg-name="Then Barbara Met Alan (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xvoaw0esKqnJw9qXKlcLYKWwP7y.jpg" group-title="Drama",Then Barbara Met Alan (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7156.m3u8
+#EXTINF:0 CUID="747" tvg-name="Gunin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yeXPmirosnOKSfihmBDhnOLNkLq.jpg" group-title="Drama",Gunin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7117.m3u8
+#EXTINF:0 CUID="744" tvg-name="The Kashmir Files (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k079zl4TcFVK0n5CypQeYqSkwdU.jpg" group-title="Drama",The Kashmir Files (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7114.m3u8
+#EXTINF:0 CUID="743" tvg-name="A Vanishing Fog (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dtRoqY40uERrgyEhtSHa6PlhXPg.jpg" group-title="Drama",A Vanishing Fog (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7113.m3u8
+#EXTINF:0 CUID="740" tvg-name="In Our Prime (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ypUHhgPyawYu2SeTHMmaYUZ9HaF.jpg" group-title="Drama",In Our Prime (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7110.m3u8
+#EXTINF:0 CUID="688" tvg-name="Small Body (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u1JvPuYJ2cUs1nnoLHFvnww2MJq.jpg" group-title="Drama",Small Body (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7057.m3u8
+#EXTINF:0 CUID="685" tvg-name="Fogaréu (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rmf3NS6HXc5xMB5ctDB3rtdaBE7.jpg" group-title="Drama",Fogaréu (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7052.m3u8
+#EXTINF:0 CUID="682" tvg-name="Fly! Skating Star (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qSakA3bQ8GDf4ze6dF4uBW3E13p.jpg" group-title="Drama",Fly! Skating Star (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7049.m3u8
+#EXTINF:0 CUID="626" tvg-name="The Painted Skin: New Legend of Liao Zhai (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hHvdpdViloOZTuuSGi8wBH9vC1d.jpg" group-title="Drama",The Painted Skin: New Legend of Liao Zhai (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6989.m3u8
+#EXTINF:0 CUID="624" tvg-name="Sundown (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/afnvTSzJu2O0VBUHCXw6qLV8l4i.jpg" group-title="Drama",Sundown (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6987.m3u8
+#EXTINF:0 CUID="622" tvg-name="La Abuela (The Grandmother) (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ri3KIjGp3Ek6iKUsTzMigmxTvdw.jpg" group-title="Drama",La Abuela (The Grandmother) (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6985.m3u8
+#EXTINF:0 CUID="619" tvg-name="Noise (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xODBcJ504eJ59V6yVbHGs2nsQuf.jpg" group-title="Drama",Noise (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6982.m3u8
+#EXTINF:0 CUID="616" tvg-name="Kingmaker (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/AkwAlOeqjh2IaXALDZszYEvZqFN.jpg" group-title="Drama",Kingmaker (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6979.m3u8
+#EXTINF:0 CUID="615" tvg-name="Found Wandering Lost (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5mfGsR8dc4tD2vl0VWsRImEcybM.jpg" group-title="Drama",Found Wandering Lost (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6978.m3u8
+#EXTINF:0 CUID="608" tvg-name="My Father's Violin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bwvoSRyXRRqtpvoHYhySQk2U4EM.jpg" group-title="Drama",My Father's Violin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6971.m3u8
+#EXTINF:0 CUID="601" tvg-name="Anatomy of Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nA5F2uam1bvA5O7sv6RkkwH4Gbh.jpg" group-title="Drama",Anatomy of Time (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6961.m3u8
+#EXTINF:0 CUID="572" tvg-name="Never Alone (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lBFwkGYizI2jZLRpfL1i1cBLZY3.jpg" group-title="Drama",Never Alone (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6883.m3u8
+#EXTINF:0 CUID="568" tvg-name="The Tender Bar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/m6Ej3F4tYTOHD26fvX1zN9bcEUg.jpg" group-title="Drama",The Tender Bar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6877.m3u8
+#EXTINF:0 CUID="563" tvg-name="Cassiopeia (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ucQSYPEkbOxXYzBMPBDSdz7RKmC.jpg" group-title="Drama",Cassiopeia (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6870.m3u8
+#EXTINF:0 CUID="546" tvg-name="A Human Position (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fxILmkDc6HelrAIFYjjw0jMIHGY.jpg" group-title="Drama",A Human Position (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6850.m3u8
+#EXTINF:0 CUID="544" tvg-name="Outside Noise (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4vkDOevGIG3Nou8cSj5SBMw2EmN.jpg" group-title="Drama",Outside Noise (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6847.m3u8
+#EXTINF:0 CUID="539" tvg-name="The Unheard (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nRW7jHeSMAsuSQyLDYIc04T9F.jpg" group-title="Drama",The Unheard (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9137.m3u8
+#EXTINF:0 CUID="534" tvg-name="Chevalier (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/p5f9WgN9ZQ0rEdc2ywfLp8uJTt8.jpg" group-title="Drama",Chevalier (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9131.m3u8
+#EXTINF:0 CUID="533" tvg-name="Rebound (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4l0Q1lAf4aV3h1LJQ00EpxVQefr.jpg" group-title="Drama",Rebound (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9130.m3u8
+#EXTINF:0 CUID="532" tvg-name="Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg" group-title="Drama",Air (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9129.m3u8
+#EXTINF:0 CUID="530" tvg-name="A Good Person" tvg-logo="https://image.tmdb.org/t/p/w780/6toz74j1OgbQrsZUjgr2Ohs1AsE.jpg" group-title="Drama",A Good Person
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9127.m3u8
+#EXTINF:0 CUID="529" tvg-name="Perfect Addiction (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3wkrRKMFRwCpjp1U27914oRbcqH.jpg" group-title="Drama",Perfect Addiction (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9126.m3u8
+#EXTINF:0 CUID="528" tvg-name="Heart (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uwyj1jdWv5EWBdWTLahv1EjhT58.jpg" group-title="Drama",Heart (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9125.m3u8
+#EXTINF:0 CUID="527" tvg-name="The Glorious My Revenge (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vKn174yOkPZWEU9NcZP1uvSv9tQ.jpg" group-title="Drama",The Glorious My Revenge (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9124.m3u8
+#EXTINF:0 CUID="525" tvg-name="His Only Son" tvg-logo="https://image.tmdb.org/t/p/w780/e85UDGmD9HmKcS0BOgoha029bkK.jpg" group-title="Drama",His Only Son
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9122.m3u8
+#EXTINF:0 CUID="524" tvg-name="A Thousand and One (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yW97MlBddOeiw17zUSf2iWvOmkr.jpg" group-title="Drama",A Thousand and One (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9121.m3u8
+#EXTINF:0 CUID="522" tvg-name="Acidman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qzd14POdi80yv6kQ7w4vHAGPGF5.jpg" group-title="Drama",Acidman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9119.m3u8
+#EXTINF:0 CUID="519" tvg-name="Noise (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/xODBcJ504eJ59V6yVbHGs2nsQuf.jpg" group-title="Drama",Noise (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9116.m3u8
+#EXTINF:0 CUID="518" tvg-name="In His Shadow (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ooyH5mGWvN3ZJOSqTBntlQ8Iail.jpg" group-title="Drama",In His Shadow (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9115.m3u8
+#EXTINF:0 CUID="513" tvg-name="¡Que viva México! (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ieyUpr5ES9QEz1cn4clCnBf9XJl.jpg" group-title="Drama",¡Que viva México! (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9110.m3u8
+#EXTINF:0 CUID="503" tvg-name="Mrs. Chatterjee Vs Norway (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uy26E04DxYdICergibgtAFIUuDo.jpg" group-title="Drama",Mrs. Chatterjee Vs Norway (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9098.m3u8
+#EXTINF:0 CUID="1100" tvg-name="The Whirlwind of Sword and Fairy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hSXkd1i5qNF3pTvmHypkc9S95b1.jpg" group-title="Drama",The Whirlwind of Sword and Fairy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7510.m3u8
+#EXTINF:0 CUID="1102" tvg-name="The Dragon Coffin of Penglai (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hnUJDZrGKxnetrFLSAwkBPCf0GT.jpg" group-title="Drama",The Dragon Coffin of Penglai (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7513.m3u8
+#EXTINF:0 CUID="1291" tvg-name="Girl Friday (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7isaQ0kCpOPevBBpagahMNYU8oI.jpg" group-title="Drama",Girl Friday (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7710.m3u8
+#EXTINF:0 CUID="1290" tvg-name="Sanctified (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gAkbyeCnrraLx6viWMuz1oZsdCM.jpg" group-title="Drama",Sanctified (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7709.m3u8
+#EXTINF:0 CUID="1286" tvg-name="God's Creatures (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4xjkwZ8EwDzZ3dsQRvyW1fntqXT.jpg" group-title="Drama",God's Creatures (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7705.m3u8
+#EXTINF:0 CUID="1283" tvg-name="Blonde (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mEeHqtnWOR44vLCutEFku2WK6ou.jpg" group-title="Drama",Blonde (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7702.m3u8
+#EXTINF:0 CUID="1270" tvg-name="Journey To The West: The Five Elements Mountains (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/q7CYwsMJb3v7lSfAFIflFEH85yN.jpg" group-title="Drama",Journey To The West: The Five Elements Mountains (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7689.m3u8
+#EXTINF:0 CUID="1244" tvg-name="The Catholic School (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/WTTXAtuyQY93oe1yetWYMGbO7K.jpg" group-title="Drama",The Catholic School (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7663.m3u8
+#EXTINF:0 CUID="1242" tvg-name="Broad Peak (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/trbZSMZHzRf7uAPieWwvQ81J0dr.jpg" group-title="Drama",Broad Peak (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7661.m3u8
+#EXTINF:0 CUID="1226" tvg-name="True Things (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jnvb7qfOS2VHHjDeRhzgVhN1ogG.jpg" group-title="Drama",True Things (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7643.m3u8
+#EXTINF:0 CUID="1212" tvg-name="The Forgiven (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bH7eN8VfKar0fDeAX1Vkryp7dYC.jpg" group-title="Drama",The Forgiven (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7629.m3u8
+#EXTINF:0 CUID="1208" tvg-name="The Festival of Troubadours (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hcIhpCOj4JdvWMyaXUDXOqf7Opj.jpg" group-title="Drama",The Festival of Troubadours (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7625.m3u8
+#EXTINF:0 CUID="1201" tvg-name="Under Her Control (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6AuWxKhfxDltvKMpXG4TblyBGNy.jpg" group-title="Drama",Under Her Control (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7618.m3u8
+#EXTINF:0 CUID="1200" tvg-name="The Five Devils (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eGk3tFSCdF48eEEFsEgV0UwCHqh.jpg" group-title="Drama",The Five Devils (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7617.m3u8
+#EXTINF:0 CUID="1179" tvg-name="The Great Illusionist 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wWB6Yk99gbOS48UHSPgWO8IIUVV.jpg" group-title="Drama",The Great Illusionist 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7596.m3u8
+#EXTINF:0 CUID="1176" tvg-name="Carmen (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oc07MMSumgytiBT1fVTuEMDjUQA.jpg" group-title="Drama",Carmen (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7593.m3u8
+#EXTINF:0 CUID="1167" tvg-name="Hunting Poison: The Lightning Strike (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tvPK9FyN6wCKmuzJknlbnkhRQQU.jpg" group-title="Drama",Hunting Poison: The Lightning Strike (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7582.m3u8
+#EXTINF:0 CUID="1163" tvg-name="Invisible Guard (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uxR7CqLRdQ2QuOPP9ymunPrRBCq.jpg" group-title="Drama",Invisible Guard (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7577.m3u8
+#EXTINF:0 CUID="1157" tvg-name="We Are Living Things (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bE7AG3PkbNiHkcxeW18AXyN86zZ.jpg" group-title="Drama",We Are Living Things (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7571.m3u8
+#EXTINF:0 CUID="1155" tvg-name="Rogue Agent (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4tOaGR6mzUAEQzIgWCeVoneRIkp.jpg" group-title="Drama",Rogue Agent (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7569.m3u8
+#EXTINF:0 CUID="1150" tvg-name="Grand Jeté (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/awpPWrE5kqIURHotysiR2yBg9Ty.jpg" group-title="Drama",Grand Jeté (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7564.m3u8
+#EXTINF:0 CUID="1144" tvg-name="Lycoris Radiata (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pqSPfaTHqqRb7zwetOd5tkPeMX5.jpg" group-title="Drama",Lycoris Radiata (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7557.m3u8
+#EXTINF:0 CUID="1143" tvg-name="The Queen of Kung Fu 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vekDYxWUxuHPDrrVD2BtTOOyTFn.jpg" group-title="Drama",The Queen of Kung Fu 3 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7556.m3u8
+#EXTINF:0 CUID="1121" tvg-name="Our Eternal Summer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bkh1TAL1NmNftt2NEYJf8d5qxNi.jpg" group-title="Drama",Our Eternal Summer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7533.m3u8
+#EXTINF:0 CUID="1082" tvg-name="Don't Make Me Go (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lUPrLn7g5x0jrPP5pZWMVGlQy2s.jpg" group-title="Drama",Don't Make Me Go (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7490.m3u8
+#EXTINF:0 CUID="1071" tvg-name="Prizefighter: The Life of Jem Belcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/x3PIk93PTbxT88ohfeb26L1VpZw.jpg" group-title="Drama",Prizefighter: The Life of Jem Belcher (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7479.m3u8
+#EXTINF:0 CUID="1063" tvg-name="For Jojo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cvRYsYZEadRlFJIOIWjEthikROm.jpg" group-title="Drama",For Jojo (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7469.m3u8
+#EXTINF:0 CUID="1056" tvg-name="Jewel (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/e3i8sjACOzE7wojqZhqIjBfnsk0.jpg" group-title="Drama",Jewel (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7461.m3u8
+#EXTINF:0 CUID="1050" tvg-name="Splendid Isolation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qr4oog9RsVo4sz8YvbhbbJO99UM.jpg" group-title="Drama",Splendid Isolation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7454.m3u8
+#EXTINF:0 CUID="1049" tvg-name="The Peacock’s Paradise (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bW8vv3pMNJMQ6AarzvNqRiIn80l.jpg" group-title="Drama",The Peacock’s Paradise (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7453.m3u8
+#EXTINF:0 CUID="1027" tvg-name="Elvis (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" group-title="Drama",Elvis (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7424.m3u8
+#EXTINF:0 CUID="1023" tvg-name="God of Trident: YangJian (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sGzdkowD2uEoTAPnGULMKx9xt4.jpg" group-title="Drama",God of Trident: YangJian (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7417.m3u8
+#EXTINF:0 CUID="1018" tvg-name="One Week Friends (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wjYcNLVwFpSAGAPKgo0NIwhfWJS.jpg" group-title="Drama",One Week Friends (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7411.m3u8
+#EXTINF:0 CUID="954" tvg-name="Godspeed (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/l1WMftsN7zhPtsUwFSHtLvzN8Pb.jpg" group-title="Drama",Godspeed (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7337.m3u8
+#EXTINF:0 CUID="951" tvg-name="Golden Spider City (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/97G0u7lVsYFNEdwuibukUTdoQJN.jpg" group-title="Drama",Golden Spider City (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7334.m3u8
+#EXTINF:0 CUID="925" tvg-name="The Quiet Girl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kc6GM4gThJpXHE28MuLofDOmRLJ.jpg" group-title="Drama",The Quiet Girl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7304.m3u8
+#EXTINF:0 CUID="924" tvg-name="They Carry Death (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/y2iszQRVYVf6M1FMbIgHWLMrt9C.jpg" group-title="Drama",They Carry Death (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7303.m3u8
+#EXTINF:0 CUID="908" tvg-name="Reclaim (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9W8BgtTZl44L95IMUls5uO2ulzV.jpg" group-title="Drama",Reclaim (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7285.m3u8
+#EXTINF:0 CUID="907" tvg-name="My Small Land (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7Ks8vISF2m3ApnkECGDyBseDLV.jpg" group-title="Drama",My Small Land (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7284.m3u8
+#EXTINF:0 CUID="899" tvg-name="A Mother's Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/okQWtLQ0YhBBm2KnCBardfH6l7U.jpg" group-title="Drama",A Mother's Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7276.m3u8
+#EXTINF:0 CUID="884" tvg-name="The Hill Where Lionesses Roar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eaidhZNvxCiHmjKGUQzGofqHYHP.jpg" group-title="Drama",The Hill Where Lionesses Roar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7261.m3u8
+#EXTINF:0 CUID="869" tvg-name="Pilgrims (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oA5TaytfAoGtta6yOQbzqGrkbW4.jpg" group-title="Drama",Pilgrims (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7246.m3u8
+#EXTINF:0 CUID="866" tvg-name="The World After Us (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aTbXAMKlCbWWXeFdZf66gBZGIh4.jpg" group-title="Drama",The World After Us (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7243.m3u8
+#EXTINF:0 CUID="865" tvg-name="Shanghai Knight (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vVNQStMlZS9mn2AKBEpadRunHgt.jpg" group-title="Drama",Shanghai Knight (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7242.m3u8
+#EXTINF:0 CUID="864" tvg-name="Man of God (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zvbyqV8CPMSiqaeOXteRXYg6CPI.jpg" group-title="Drama",Man of God (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7241.m3u8
+#EXTINF:0 CUID="863" tvg-name="Painted Skin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5F7FS2brRyRp2lSLEsuvuRBSsrt.jpg" group-title="Drama",Painted Skin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7240.m3u8
+#EXTINF:0 CUID="855" tvg-name="Father Stu (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg" group-title="Drama",Father Stu (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7231.m3u8
+#EXTINF:0 CUID="843" tvg-name="Dancing on Glass (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ppF495JNP6poCCEAm4xM1nJEZzD.jpg" group-title="Drama",Dancing on Glass (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7219.m3u8
+#EXTINF:0 CUID="839" tvg-name="Murina (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gK51yeJpaSFjQhBZdljYYiBXBTS.jpg" group-title="Drama",Murina (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7214.m3u8
+#EXTINF:0 CUID="838" tvg-name="Journey Of East (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aLphvD9RKuJHdQYIL7Ej45IbMXP.jpg" group-title="Drama",Journey Of East (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7213.m3u8
+#EXTINF:0 CUID="834" tvg-name="Stellar: A Magical Ride (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/adw4Lz30lzrEcVrNkLyUM38KNuc.jpg" group-title="Drama",Stellar: A Magical Ride (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7209.m3u8
+#EXTINF:0 CUID="831" tvg-name="Life After You (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vr7T6AgY5I287zcRUwWIYkm8sc0.jpg" group-title="Drama",Life After You (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7206.m3u8
+#EXTINF:0 CUID="818" tvg-name="As It's Remembered (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7uovEiMGicMmbRuNlFLVETXDpIK.jpg" group-title="Drama",As It's Remembered (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7192.m3u8
+#EXTINF:0 CUID="816" tvg-name="One Day, You Will Reach the Sea (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rAfDTOsvbJQKjgwaXAtRKdRTO6e.jpg" group-title="Drama",One Day, You Will Reach the Sea (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7190.m3u8
+#EXTINF:0 CUID="812" tvg-name="Elves in Changjiang River (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/v20OV4MCQ4AhLGCQaKEdhdbO99H.jpg" group-title="Drama",Elves in Changjiang River (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7186.m3u8
+#EXTINF:0 CUID="1612" tvg-name="Wet Sand (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mwrwVs31Oe9gUbwelRaWG2Xfyqx.jpg" group-title="Drama",Wet Sand (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6833.m3u8
+#EXTINF:0 CUID="1613" tvg-name="Poser (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/vLqGbBMeg46obPNQEKOursmmaxQ.jpg" group-title="Drama",Poser (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6834.m3u8
+#EXTINF:0 CUID="1614" tvg-name="Moneyboys (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/xW3xt3AKXVML2WcizhagF27YdzU.jpg" group-title="Drama",Moneyboys (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6835.m3u8
+#EXTINF:0 CUID="1615" tvg-name="Trees of Peace (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/2McwkzqZ5uOZsBOGEjCDRni8Qf7.jpg" group-title="Drama",Trees of Peace (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6836.m3u8
+#EXTINF:0 CUID="1609" tvg-name="Happening (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/4qYRf3QLnx5GmD8I1Df4xXoNRcL.jpg" group-title="Drama",Happening (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6830.m3u8
+#EXTINF:0 CUID="1606" tvg-name="The White Fortress (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hrWPMppiK0NdQiLOXJUVNRu1hMX.jpg" group-title="Drama",The White Fortress (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6827.m3u8
+#EXTINF:0 CUID="1604" tvg-name="The Turning Point (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/6CD90BQEDexEIMqIwMSnbJStF5x.jpg" group-title="Drama",The Turning Point (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6825.m3u8
+#EXTINF:0 CUID="1597" tvg-name="Human Factors (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/be2qSRbSSl03VvGBVA8yPdEhTXL.jpg" group-title="Drama",Human Factors (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6818.m3u8
+#EXTINF:0 CUID="1593" tvg-name="Softie (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/vEg8LQ2JmDxWodotVP1614bszdM.jpg" group-title="Drama",Softie (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6813.m3u8
+#EXTINF:0 CUID="1566" tvg-name="Taste (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/7ka0bqbESFtad8MfYWqDarxH3jM.jpg" group-title="Drama",Taste (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6786.m3u8
+#EXTINF:0 CUID="1565" tvg-name="Help (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/33Z4AmHQYUpMWiM0T1jYq3xPdKI.jpg" group-title="Drama",Help (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6785.m3u8
+#EXTINF:0 CUID="1554" tvg-name="Jockey (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/eMgskfX9BfG6i872hawQC17dPzr.jpg" group-title="Drama",Jockey (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6773.m3u8
+#EXTINF:0 CUID="1549" tvg-name="The Fallout (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/y94auaBWq1E7sun3ZpvBmQfGUW.jpg" group-title="Drama",The Fallout (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6768.m3u8
+#EXTINF:0 CUID="1547" tvg-name="Munich: The Edge of War (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1SOiUTDnwW9gU4GzSIsOCQUlHJF.jpg" group-title="Drama",Munich: The Edge of War (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6766.m3u8
+#EXTINF:0 CUID="1546" tvg-name="A Hero (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/b6760qS8pEb3elWp4e7KPQsGliC.jpg" group-title="Drama",A Hero (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6765.m3u8
+#EXTINF:0 CUID="1540" tvg-name="A Mouthful of Air (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/wuBA3LxAwlzo1a90PHredvnPfRg.jpg" group-title="Drama",A Mouthful of Air (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6758.m3u8
+#EXTINF:0 CUID="1537" tvg-name="Outside (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/m8TQ7CMBz4uDGLOjMaouOittPtn.jpg" group-title="Drama",Outside (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6749.m3u8
+#EXTINF:0 CUID="1534" tvg-name="Italian Studies (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qCyTok1FUiU1EMrrldg2lht1KWD.jpg" group-title="Drama",Italian Studies (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6743.m3u8
+#EXTINF:0 CUID="1533" tvg-name="Luzzu (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/qFz8Mna6oc8YAmK4jwZRAC79Mzl.jpg" group-title="Drama",Luzzu (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6740.m3u8
+#EXTINF:0 CUID="1528" tvg-name="Whitney Houston: I Wanna Dance with Somebody (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oodPJ3Op1pWBhnEFyw5fampRCWf.jpg" group-title="Drama",Whitney Houston: I Wanna Dance with Somebody (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7977.m3u8
+#EXTINF:0 CUID="1525" tvg-name="The Whale (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg" group-title="Drama",The Whale (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7974.m3u8
+#EXTINF:0 CUID="1515" tvg-name="BARDO, False Chronicle of a Handful of Truths (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3e6RA0CzFDC0pz5TqiRlbHcsc2n.jpg" group-title="Drama",BARDO, False Chronicle of a Handful of Truths (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7963.m3u8
+#EXTINF:0 CUID="1506" tvg-name="White Noise (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1a48bfLQm57ByADdw05uRMoFCZc.jpg" group-title="Drama",White Noise (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7954.m3u8
+#EXTINF:0 CUID="1481" tvg-name="The Inspection (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pvx7TwLXVDKD4jbDeAQ7w459zIY.jpg" group-title="Drama",The Inspection (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7929.m3u8
+#EXTINF:0 CUID="1478" tvg-name="Summering (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2UH9yHIqW8IQiDTPHEBTo7RknEL.jpg" group-title="Drama",Summering (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7926.m3u8
+#EXTINF:0 CUID="1470" tvg-name="A Man of Action (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gL6lwQE5WrdQrMiisjma0uIonpT.jpg" group-title="Drama",A Man of Action (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7917.m3u8
+#EXTINF:0 CUID="1468" tvg-name="Blood Karma (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mXEV9pZfvUqZzhw3qPe4Gm6Iaqp.jpg" group-title="Drama",Blood Karma (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7915.m3u8
+#EXTINF:0 CUID="1458" tvg-name="The Swimmers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2LSh1aWqk7z7dJk6dKNK2HNplSl.jpg" group-title="Drama",The Swimmers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7905.m3u8
+#EXTINF:0 CUID="1454" tvg-name="The Fabelmans (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg" group-title="Drama",The Fabelmans (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7901.m3u8
+#EXTINF:0 CUID="1444" tvg-name="She Said (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jG4UI2dbNWlWtTTupjeU3fRJ5Fn.jpg" group-title="Drama",She Said (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7877.m3u8
+#EXTINF:0 CUID="1434" tvg-name="Until Tomorrow (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pCY9A7lZHRdB44853CjDgJ7wOLl.jpg" group-title="Drama",Until Tomorrow (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7867.m3u8
+#EXTINF:0 CUID="1421" tvg-name="Autumn Beat (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/udMx3Fcfo5oM4CEPMX1HYbeU7HP.jpg" group-title="Drama",Autumn Beat (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7854.m3u8
+#EXTINF:0 CUID="1415" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg" group-title="Drama",Armageddon Time (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7848.m3u8
+#EXTINF:0 CUID="1411" tvg-name="Dear Zoe (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rqAhYRbOjgPSVzxKYXV9t6gm5fi.jpg" group-title="Drama",Dear Zoe (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7844.m3u8
+#EXTINF:0 CUID="1410" tvg-name="Causeway (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bUzKIqFIS05Ss31zRTfZfHJIgDP.jpg" group-title="Drama",Causeway (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7843.m3u8
+#EXTINF:0 CUID="1407" tvg-name="Living (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ftUdaxguhUoPAtwTkSLNglAaqfd.jpg" group-title="Drama",Living (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7840.m3u8
+#EXTINF:0 CUID="1402" tvg-name="Harka (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kat9dKLuugG31msC1XD8AwT2xIh.jpg" group-title="Drama",Harka (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7835.m3u8
+#EXTINF:0 CUID="1399" tvg-name="Close (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hjoSRso1ZslGWHowrVtBIfNT56b.jpg" group-title="Drama",Close (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7832.m3u8
+#EXTINF:0 CUID="1384" tvg-name="Northern Skies Over Empty Space (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hWBF80q3NijaPuOMDg1d4LSjLZJ.jpg" group-title="Drama",Northern Skies Over Empty Space (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7817.m3u8
+#EXTINF:0 CUID="1382" tvg-name="Cici (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hzB4hGHkW4NGnjhqTSyTj9AbgGO.jpg" group-title="Drama",Cici (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7814.m3u8
+#EXTINF:0 CUID="1368" tvg-name="Aftersun (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/evKz85EKouVbIr51zy5fOtpNRPg.jpg" group-title="Drama",Aftersun (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7797.m3u8
+#EXTINF:0 CUID="1328" tvg-name="Doll House (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hYGADLbf0I7VLe5i8pwjJ9dRYh4.jpg" group-title="Drama",Doll House (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7753.m3u8
+#EXTINF:0 CUID="1312" tvg-name="Good Deal (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nk0f02yupl6AAssJIv685giWZO9.jpg" group-title="Drama",Good Deal (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7735.m3u8
+#EXTINF:0 CUID="355" tvg-name="Elf Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/to0HRDQTk7ZceEjehm6TS9dNHqf.jpg" group-title="Family",Elf Me (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8931.m3u8
+#EXTINF:0 CUID="349" tvg-name="Dashing Through the Snow (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg" group-title="Family",Dashing Through the Snow (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8925.m3u8
+#EXTINF:0 CUID="261" tvg-name="Spy Kids: Armageddon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg" group-title="Family",Spy Kids: Armageddon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8835.m3u8
+#EXTINF:0 CUID="144" tvg-name="World's Best (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg" group-title="Family",World's Best (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8718.m3u8
+#EXTINF:0 CUID="61" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cN4Tb2WDhwJMlYLU9vKctunx4rg.jpg" group-title="Family",Peter Pan & Wendy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8579.m3u8
+#EXTINF:0 CUID="8" tvg-name="Chang Can Dunk (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ohaIkrTd47z43IuLlwwNg7bi96c.jpg" group-title="Family",Chang Can Dunk (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9106.m3u8
+#EXTINF:0 CUID="599" tvg-name="Blueback (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5cWXJJsPRuz85zAK7XXmu9Vfdu2.jpg" group-title="Family",Blueback (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6950.m3u8
+#EXTINF:0 CUID="782" tvg-name="Cheaper by the Dozen (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wD68dEtcKuboxd8bhbqiTTxn6cX.jpg" group-title="Family",Cheaper by the Dozen (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7153.m3u8
+#EXTINF:0 CUID="764" tvg-name="Rescued by Ruby (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tPlJEodEn0SSV4avo8KSawtlTlN.jpg" group-title="Family",Rescued by Ruby (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7135.m3u8
+#EXTINF:0 CUID="705" tvg-name="No Name and Dynamite (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7MVENxKbO925bTm6IUb4xtZ65NZ.jpg" group-title="Family",No Name and Dynamite (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7074.m3u8
+#EXTINF:0 CUID="686" tvg-name="Reel Monsters (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gn3Q9qAh763oJLtNh8ub01TD4hI.jpg" group-title="Family",Reel Monsters (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7054.m3u8
+#EXTINF:0 CUID="636" tvg-name="Nice View (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sSmKHZFQINR3gh5gVma41MQ6tIO.jpg" group-title="Family",Nice View (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7000.m3u8
+#EXTINF:0 CUID="631" tvg-name="Home Team (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zTwfMV1hm1DIrMo8BGyZKskhSPr.jpg" group-title="Family",Home Team (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6995.m3u8
+#EXTINF:0 CUID="1298" tvg-name="Hocus Pocus 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7ze7YNmUaX81ufctGqt0AgHxRtL.jpg" group-title="Family",Hocus Pocus 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7720.m3u8
+#EXTINF:0 CUID="1210" tvg-name="Ivy + Bean: Doomed to Dance (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zdWGcEpvfgsx07HlGUmmEzf51gt.jpg" group-title="Family",Ivy + Bean: Doomed to Dance (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7627.m3u8
+#EXTINF:0 CUID="1209" tvg-name="Ivy + Bean: The Ghost That Had to Go (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/izm0ZVZlv7d2k9UAJKbwratJkFb.jpg" group-title="Family",Ivy + Bean: The Ghost That Had to Go (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7626.m3u8
+#EXTINF:0 CUID="1158" tvg-name="13: The Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rqShG2kTbsVbgrgjfoEwawjR88N.jpg" group-title="Family",13: The Musical (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7572.m3u8
+#EXTINF:0 CUID="1087" tvg-name="Too Old for Fairy Tales (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mwT58VqFZyAeQbscfynxtroqaft.jpg" group-title="Family",Too Old for Fairy Tales (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7495.m3u8
+#EXTINF:0 CUID="1036" tvg-name="Family Camp (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kbldvA34IVNwfKv8aUumZBg0D5E.jpg" group-title="Family",Family Camp (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7438.m3u8
+#EXTINF:0 CUID="988" tvg-name="2037 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5wXh45jlBPYnVhobxJM1vUQ0wfS.jpg" group-title="Family",2037 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7374.m3u8
+#EXTINF:0 CUID="930" tvg-name="Sneakerella (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jJ07f8DTdeWnCKCwDzB4htLXKBN.jpg" group-title="Family",Sneakerella (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7311.m3u8
+#EXTINF:0 CUID="828" tvg-name="Iris Warriors (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4sjcxz0mxMbeqXlpbOjmpkP8nWz.jpg" group-title="Family",Iris Warriors (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7203.m3u8
+#EXTINF:0 CUID="826" tvg-name="Better Nate Than Ever (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gXyv8pAHhJGhTS1MkQf96VHUAVO.jpg" group-title="Family",Better Nate Than Ever (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7201.m3u8
+#EXTINF:0 CUID="1442" tvg-name="A Christmas Story Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5QeoDiiIFY9VF87Rm79WpCFZbwf.jpg" group-title="Family",A Christmas Story Christmas (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7875.m3u8
+#EXTINF:0 CUID="1511" tvg-name="Beauty and the Beast: A 30th Celebration (2022)" tvg-logo="http://103.127.208.209:25461/images/418639d8a938a35e46594b513ba51ccc.jpg" group-title="Family",Beauty and the Beast: A 30th Celebration (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7959.m3u8
+#EXTINF:0 CUID="1561" tvg-name="Playground (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/fdQWzaWON1pycbwWQl1xtIOD7Nx.jpg" group-title="Family",Playground (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6781.m3u8
+#EXTINF:0 CUID="1529" tvg-name="Roald Dahl's Matilda the Musical (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ga8R3OiOMMgSvZ4cOj8x7prUNYZ.jpg" group-title="Family",Roald Dahl's Matilda the Musical (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7978.m3u8
+#EXTINF:0 CUID="1509" tvg-name="Hotel Sinestra (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aFKfBS2vA8BXEWr40rerlX1EA0p.jpg" group-title="Family",Hotel Sinestra (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7957.m3u8
+#EXTINF:0 CUID="1495" tvg-name="The Claus Family 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aJg7z3AVwBakEUDdJaah5QyebXn.jpg" group-title="Family",The Claus Family 3 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7943.m3u8
+#EXTINF:0 CUID="1452" tvg-name="Christmas on Mistletoe Farm (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="Family",Christmas on Mistletoe Farm (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7899.m3u8
+#EXTINF:0 CUID="1451" tvg-name="Prancer: A Christmas Tale (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tJgCmwkf2ytEHYHv8vH3QtRGVPW.jpg" group-title="Family",Prancer: A Christmas Tale (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7898.m3u8
+#EXTINF:0 CUID="1448" tvg-name="Slumberland (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oGd2JUEtr0BZN3pK8yakmoZlVFq.jpg" group-title="Family",Slumberland (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7881.m3u8
+#EXTINF:0 CUID="1446" tvg-name="Disenchanted (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uyNLq2Dc3s4IOdcYTU8ZtM2lTjb.jpg" group-title="Family",Disenchanted (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7879.m3u8
+#EXTINF:0 CUID="1401" tvg-name="The Highway Family (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xWwNcpmAt89v3hI1IJlHY1BTPUe.jpg" group-title="Family",The Highway Family (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7834.m3u8
+#EXTINF:0 CUID="1336" tvg-name="Spirit Halloween: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/akWDID6zfsWHJhGCAAcbwbytU55.jpg" group-title="Family",Spirit Halloween: The Movie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7762.m3u8
+#EXTINF:0 CUID="1318" tvg-name="Lyle, Lyle, Crocodile (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg" group-title="Family",Lyle, Lyle, Crocodile (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7741.m3u8
+#EXTINF:0 CUID="1317" tvg-name="Under Wraps 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg" group-title="Family",Under Wraps 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7740.m3u8
+#EXTINF:0 CUID="490" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="Mystery",The Ritual Killer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9085.m3u8
+#EXTINF:0 CUID="476" tvg-name="Devil's Peak (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rtlxPYO9zSSz5cv9a1UEna2RtQA.jpg" group-title="Mystery",Devil's Peak (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9070.m3u8
+#EXTINF:0 CUID="424" tvg-name="Alkhallat+ (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/znOml3I0JoZaYL47B7u7WuNzKHI.jpg" group-title="Mystery",Alkhallat+ (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9003.m3u8
+#EXTINF:0 CUID="421" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg" group-title="Mystery",Missing (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9000.m3u8
+#EXTINF:0 CUID="382" tvg-name="Leave the World Behind (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg" group-title="Mystery",Leave the World Behind (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8961.m3u8
+#EXTINF:0 CUID="339" tvg-name="The Marsh King's Daughter (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bcuEjrwhp5HgEUnFe5lc4xpEqzt.jpg" group-title="Mystery",The Marsh King's Daughter (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8915.m3u8
+#EXTINF:0 CUID="333" tvg-name="Manodrome (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/w5hACqUlPbpHiGLYbtoQHF0SNWe.jpg" group-title="Mystery",Manodrome (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8909.m3u8
+#EXTINF:0 CUID="318" tvg-name="Night of the Hunted (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tfNFmBGBVF1biwOTBgFONAeCaDZ.jpg" group-title="Mystery",Night of the Hunted (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8894.m3u8
+#EXTINF:0 CUID="314" tvg-name="Burning Betrayal (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lEuPvWv3aqAjBoqYi088GvCBRMX.jpg" group-title="Mystery",Burning Betrayal (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8888.m3u8
+#EXTINF:0 CUID="292" tvg-name="Awareness (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nXj3iwqUTnVWR95KCkjGT6hle0J.jpg" group-title="Mystery",Awareness (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8866.m3u8
+#EXTINF:0 CUID="248" tvg-name="A Haunting in Venice (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/l6iwxT0NbVw6QiF08YTIuTnXS82.jpg" group-title="Mystery",A Haunting in Venice (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8822.m3u8
+#EXTINF:0 CUID="195" tvg-name="River Wild (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fffPeOw5Ld8CrI8X9X36wMSzXuX.jpg" group-title="Mystery",River Wild (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8769.m3u8
+#EXTINF:0 CUID="164" tvg-name="The Initiated (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6xcxeh9BBWlEMrbdCssMljb0Yui.jpg" group-title="Mystery",The Initiated (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8738.m3u8
+#EXTINF:0 CUID="101" tvg-name="The Matchmaker (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3TlW75w0Lo4uT6l8WRf3pdxbHHs.jpg" group-title="Mystery",The Matchmaker (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8619.m3u8
+#EXTINF:0 CUID="75" tvg-name="Hypnotic (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3IhGkkalwXguTlceGSl8XUJZOVI.jpg" group-title="Mystery",Hypnotic (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8593.m3u8
+#EXTINF:0 CUID="48" tvg-name="Invitation to a Murder (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ucYuml5QqkcGKmWmJj7JpJdsPc1.jpg" group-title="Mystery",Invitation to a Murder (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8566.m3u8
+#EXTINF:0 CUID="9" tvg-name="Marlowe (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vjAMj81oYBryzGBhJk4gcK0M636.jpg" group-title="Mystery",Marlowe (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9059.m3u8
+#EXTINF:0 CUID="594" tvg-name="The Story Of The Night Watcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aGtgFw5D6zzMtvenpSnQUE66Eqf.jpg" group-title="Mystery",The Story Of The Night Watcher (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6943.m3u8
+#EXTINF:0 CUID="787" tvg-name="Exposure 36 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b5128Q2pctk85KmQVT2m59aRCfo.jpg" group-title="Mystery",Exposure 36 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7158.m3u8
+#EXTINF:0 CUID="783" tvg-name="Deep Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6yRMyWwjuhKg6IU66uiZIGhaSc8.jpg" group-title="Mystery",Deep Water (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7154.m3u8
+#EXTINF:0 CUID="769" tvg-name="Reflection (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pYJrhyyGUaXGFVRtme9nAL0wLPA.jpg" group-title="Mystery",Reflection (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7140.m3u8
+#EXTINF:0 CUID="757" tvg-name="Lost Angel (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yvnHiSt2cvQL7eVQtlGZ3tVh3VE.jpg" group-title="Mystery",Lost Angel (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7128.m3u8
+#EXTINF:0 CUID="756" tvg-name="Detective Dee and The Ghost Ship (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tMi997PG0CW3yKgRLWkadQnovoz.jpg" group-title="Mystery",Detective Dee and The Ghost Ship (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7127.m3u8
+#EXTINF:0 CUID="730" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="Mystery",The Batman (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7099.m3u8
+#EXTINF:0 CUID="727" tvg-name="The Weekend Away (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg" group-title="Mystery",The Weekend Away (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7096.m3u8
+#EXTINF:0 CUID="717" tvg-name="No Exit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/abHNrseTKWLDSarAEyIItYtJZFE.jpg" group-title="Mystery",No Exit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7086.m3u8
+#EXTINF:0 CUID="671" tvg-name="Homestay (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/q1wXPzmvayyEAvMFrP8RiY1HM2p.jpg" group-title="Mystery",Homestay (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7036.m3u8
+#EXTINF:0 CUID="667" tvg-name="Death on the Nile (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kVr5zIAFSPRQ57Y1zE7KzmhzdMQ.jpg" group-title="Mystery",Death on the Nile (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7032.m3u8
+#EXTINF:0 CUID="665" tvg-name="Usogui (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pA1S8w1bcjowzcu41re6bfZmsFx.jpg" group-title="Mystery",Usogui (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7030.m3u8
+#EXTINF:0 CUID="649" tvg-name="The Other Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cV7EY78064mfKzeOMzKPS7TQuMj.jpg" group-title="Mystery",The Other Me (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7013.m3u8
+#EXTINF:0 CUID="565" tvg-name="Song Ci (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8v7g3nydS5Ga2wBgdCNC70Y9ykk.jpg" group-title="Mystery",Song Ci (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6872.m3u8
+#EXTINF:0 CUID="560" tvg-name="Nightshade (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8Q0txn1vpJ218nxDLgj0e0rhYYE.jpg" group-title="Mystery",Nightshade (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6866.m3u8
+#EXTINF:0 CUID="1096" tvg-name="Skinamarink (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/o942912KFh89SGhqWuKXuT0SXzN.jpg" group-title="Mystery",Skinamarink (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7506.m3u8
+#EXTINF:0 CUID="1300" tvg-name="Find Her (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9YTeSeNQ7Y1P3cJmvRlUwOmrUxi.jpg" group-title="Mystery",Find Her (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7722.m3u8
+#EXTINF:0 CUID="1299" tvg-name="Smile (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aPqcQwu4VGEewPhagWNncDbJ9Xp.jpg" group-title="Mystery",Smile (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7721.m3u8
+#EXTINF:0 CUID="1293" tvg-name="Mona Lisa and the Blood Moon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zTYdMdMeMxkPxzLtbkP44HThIAW.jpg" group-title="Mystery",Mona Lisa and the Blood Moon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7712.m3u8
+#EXTINF:0 CUID="1276" tvg-name="Don't Worry Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wjAJWfuE5OQm5zerlOAbTxdHFMV.jpg" group-title="Mystery",Don't Worry Darling (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7695.m3u8
+#EXTINF:0 CUID="1269" tvg-name="Dig (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ntD0ieBgZ1AlV0tAam3aeFDH6k7.jpg" group-title="Mystery",Dig (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7688.m3u8
+#EXTINF:0 CUID="1266" tvg-name="Raven's Hollow (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/woYqEqtro2AMWHmwBy9429zB17x.jpg" group-title="Mystery",Raven's Hollow (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7685.m3u8
+#EXTINF:0 CUID="1257" tvg-name="See How They Run (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/r3rpSAi2yukZwr9H2km0WKGODWo.jpg" group-title="Mystery",See How They Run (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7676.m3u8
+#EXTINF:0 CUID="1254" tvg-name="God's Country (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aZp190Qx33oRO8KGSkO1sFjEqC2.jpg" group-title="Mystery",God's Country (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7673.m3u8
+#EXTINF:0 CUID="1247" tvg-name="Oh! My Ghost (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6bIiCjPtOXkQ4FQ6JLhV2334tnE.jpg" group-title="Mystery",Oh! My Ghost (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7666.m3u8
+#EXTINF:0 CUID="1241" tvg-name="Franny Kruugerr presents Scary Stories (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cjcvDMmZbZYIdzQ3Pj3596n9Bds.jpg" group-title="Mystery",Franny Kruugerr presents Scary Stories (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7660.m3u8
+#EXTINF:0 CUID="1233" tvg-name="Mysterious Circumstance: The Death of Meriwether Lewis (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/x1gjcSO6ABuqGeV1PdSCB2AZunu.jpg" group-title="Mystery",Mysterious Circumstance: The Death of Meriwether Lewis (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7651.m3u8
+#EXTINF:0 CUID="1178" tvg-name="The Immaculate Room (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8L3Kb4C7h1g8L1I3OP5aUWHHMRG.jpg" group-title="Mystery",The Immaculate Room (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7595.m3u8
+#EXTINF:0 CUID="1164" tvg-name="When I Consume You (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fyjsmqeTamnsa4lYf3kzvyRYc0a.jpg" group-title="Mystery",When I Consume You (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7579.m3u8
+#EXTINF:0 CUID="1126" tvg-name="Collide (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mmRizqT81KfcY91hndIt0TReqtB.jpg" group-title="Mystery",Collide (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7538.m3u8
+#EXTINF:0 CUID="1088" tvg-name="The Stranger in Our Bed (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9bX57QlmpI1DcWLkggGmg5guqJx.jpg" group-title="Mystery",The Stranger in Our Bed (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7497.m3u8
+#EXTINF:0 CUID="1085" tvg-name="American Carnage (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zQmwQqtT2KEfg5IO5u8lexZoCAR.jpg" group-title="Mystery",American Carnage (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7493.m3u8
+#EXTINF:0 CUID="1067" tvg-name="To Kill the Beast (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/hAdkgE8lHelIQWpgrHk4wjEnbxQ.jpg" group-title="Mystery",To Kill the Beast (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7474.m3u8
+#EXTINF:0 CUID="1032" tvg-name="Murder at Yellowstone City (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/58UKdNFfSSvx8TuecGAzqja3NTZ.jpg" group-title="Mystery",Murder at Yellowstone City (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7431.m3u8
+#EXTINF:0 CUID="1031" tvg-name="Dawn Breaks Behind the Eyes (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eZwAYegCM3vnSh885W8EVFDXx4c.jpg" group-title="Mystery",Dawn Breaks Behind the Eyes (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7430.m3u8
+#EXTINF:0 CUID="1013" tvg-name="Abandoned (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="Mystery",Abandoned (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7405.m3u8
+#EXTINF:0 CUID="1005" tvg-name="The Anchor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/55volAzeebtFzyrx7DJkegvw8Ta.jpg" group-title="Mystery",The Anchor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7395.m3u8
+#EXTINF:0 CUID="977" tvg-name="Watcher (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg" group-title="Mystery",Watcher (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7363.m3u8
+#EXTINF:0 CUID="964" tvg-name="There Are No Saints (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4qrJiGola6k04RA8YDG7Ac5UVlj.jpg" group-title="Mystery",There Are No Saints (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7349.m3u8
+#EXTINF:0 CUID="956" tvg-name="The Unbelievable (The Cases of Disappearances) (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/36Gqgyh1nOguvnIH8RBfhj7EpjH.jpg" group-title="Mystery",The Unbelievable (The Cases of Disappearances) (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7339.m3u8
+#EXTINF:0 CUID="955" tvg-name="The Huntress of Auschwitz (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2Swo97IutuMDSUulAfpPvmZ7ybp.jpg" group-title="Mystery",The Huntress of Auschwitz (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7338.m3u8
+#EXTINF:0 CUID="921" tvg-name="The Treasure Code (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dunC2Q827GgwO1xvvzVsCEsLHjD.jpg" group-title="Mystery",The Treasure Code (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7299.m3u8
+#EXTINF:0 CUID="902" tvg-name="Qinling Mountains (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qNOza32GNEMyvsqBJHx1cSMBnS5.jpg" group-title="Mystery",Qinling Mountains (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7279.m3u8
+#EXTINF:0 CUID="883" tvg-name="I Want to Know Your Parents (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7DLzrazHoJpM0s8DysCTbC8eb8l.jpg" group-title="Mystery",I Want to Know Your Parents (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7260.m3u8
+#EXTINF:0 CUID="873" tvg-name="Toxic (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9z3Ca4uYzYVtMxD9WU35OlUVy1J.jpg" group-title="Mystery",Toxic (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7250.m3u8
+#EXTINF:0 CUID="871" tvg-name="Brut Force (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rai1NpvlCgZiaKzxaNAjbUY72GJ.jpg" group-title="Mystery",Brut Force (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7248.m3u8
+#EXTINF:0 CUID="858" tvg-name="Titanic 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/je5x50SodTvJLbb5CTdj4vDT8HO.jpg" group-title="Mystery",Titanic 666 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7234.m3u8
+#EXTINF:0 CUID="837" tvg-name="The Girl on a Bulldozer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xZoM9pj30E2fV2YX0L0fg7oR5xN.jpg" group-title="Mystery",The Girl on a Bulldozer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7212.m3u8
+#EXTINF:0 CUID="814" tvg-name="Wild Bones (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wdqsIh2b77pfRVMy3r81dU7W7Mt.jpg" group-title="Mystery",Wild Bones (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7188.m3u8
+#EXTINF:0 CUID="1596" tvg-name="Nitram (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/qOmOMMgqZj7vooTDEqzOUF4jzX0.jpg" group-title="Mystery",Nitram (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6817.m3u8
+#EXTINF:0 CUID="1592" tvg-name="NO CALL NO LIFE (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/jBHXoBJiqoLvJPLAFTCfbz3Hqcj.jpg" group-title="Mystery",NO CALL NO LIFE (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6812.m3u8
+#EXTINF:0 CUID="1559" tvg-name="Here Before (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6DrlATDmEuXBkN7ebn0KlZ8xZhv.jpg" group-title="Mystery",Here Before (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6779.m3u8
+#EXTINF:0 CUID="1484" tvg-name="The Eternal Daughter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kyv8tPXx3mKchYzVmA3VckKoJDi.jpg" group-title="Mystery",The Eternal Daughter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7932.m3u8
+#EXTINF:0 CUID="1453" tvg-name="The Night Owl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ktzQ9NdQ9exmWZz8RQBDFzOk7a9.jpg" group-title="Mystery",The Night Owl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7900.m3u8
+#EXTINF:0 CUID="1435" tvg-name="The Wonder (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kQAFHdt3I1TpYhtzcGeBb1ogwUP.jpg" group-title="Mystery",The Wonder (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7868.m3u8
+#EXTINF:0 CUID="1427" tvg-name="The Friendship Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qXaJkaVTNMhrOylFi6xrWnBQGE8.jpg" group-title="Mystery",The Friendship Game (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7860.m3u8
+#EXTINF:0 CUID="1404" tvg-name="Missing (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wEOUYSU5Uf8J7152PT6jdb5233Y.jpg" group-title="Mystery",Missing (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7837.m3u8
+#EXTINF:0 CUID="1385" tvg-name="Sadako DX (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/a0WfIX5OMr6mi6QusBOfMnQkiGh.jpg" group-title="Mystery",Sadako DX (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7818.m3u8
+#EXTINF:0 CUID="1371" tvg-name="The Man from Rome (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eBfkQHFs2Xrerd9Ragul7IgWaUa.jpg" group-title="Mystery",The Man from Rome (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7802.m3u8
+#EXTINF:0 CUID="1346" tvg-name="Decision to Leave (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/N0rskx91Eh6aWjvBybeY6epNic.jpg" group-title="Mystery",Decision to Leave (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7774.m3u8
+#EXTINF:0 CUID="1344" tvg-name="The Harbinger (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bKbchcs0pMXcr91B6H2tfOFNdmJ.jpg" group-title="Mystery",The Harbinger (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7772.m3u8
+#EXTINF:0 CUID="1340" tvg-name="Faces of Anne (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xSpTO2xoWgjU6OwBYY8PHqE6i7I.jpg" group-title="Mystery",Faces of Anne (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7768.m3u8
+#EXTINF:0 CUID="1337" tvg-name="Girl From The Past (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9SBARAqXgHz4vijHo43f6wRYJK7.jpg" group-title="Mystery",Girl From The Past (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7765.m3u8
+#EXTINF:0 CUID="1327" tvg-name="Luckiest Girl Alive (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/e0vrbTmTf2ZcW5CIS9qJ8FDbsU9.jpg" group-title="Mystery",Luckiest Girl Alive (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7752.m3u8
+#EXTINF:0 CUID="1326" tvg-name="Hellraiser (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg" group-title="Mystery",Hellraiser (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7751.m3u8
+#EXTINF:0 CUID="1323" tvg-name="The Visitor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9XRRSD7swlYrGBhZ8vOR2yngIKZ.jpg" group-title="Mystery",The Visitor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7748.m3u8
+#EXTINF:0 CUID="1321" tvg-name="Amsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6sJcVzGCwrDCBMV0DU6eRzA2UxM.jpg" group-title="Mystery",Amsterdam (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7746.m3u8
+#EXTINF:0 CUID="1313" tvg-name="God's Crooked Lines (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/n3X9tWYFYfE96BoNgtVffuwzQo.jpg" group-title="Mystery",God's Crooked Lines (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7736.m3u8
+#EXTINF:0 CUID="93" tvg-name="The Wrath of Becky (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg" group-title="Horror",The Wrath of Becky (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8611.m3u8
+#EXTINF:0 CUID="493" tvg-name="Scream VI (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg" group-title="Horror",Scream VI (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9088.m3u8
+#EXTINF:0 CUID="489" tvg-name="Older Gods (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tCL4U4nySiijUF2wTuB247KJbmT.jpg" group-title="Horror",Older Gods (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9084.m3u8
+#EXTINF:0 CUID="487" tvg-name="Kill Her Goats (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oHVuaIHBX0dqqBUbvYyHgkhyCr8.jpg" group-title="Horror",Kill Her Goats (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9082.m3u8
+#EXTINF:0 CUID="484" tvg-name="Spoonful of Sugar (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/q4cLHdAJCHqAWIIplCHEyG6JgrR.jpg" group-title="Horror",Spoonful of Sugar (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9079.m3u8
+#EXTINF:0 CUID="481" tvg-name="Sound of Silence (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jiQbiEs7yPVPHzCp0Bn9UH83Tq0.jpg" group-title="Horror",Sound of Silence (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9076.m3u8
+#EXTINF:0 CUID="471" tvg-name="Wolf Garden (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9lwzTA2JWdLbe5jA54XyvThVTgN.jpg" group-title="Horror",Wolf Garden (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9064.m3u8
+#EXTINF:0 CUID="459" tvg-name="Blood Harvest (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/l5SB4myR9UekeDGDJU2pkqTSfxx.jpg" group-title="Horror",Blood Harvest (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9051.m3u8
+#EXTINF:0 CUID="456" tvg-name="Consecration (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yQTRmPzKAdLodknnPVtImm6FWPZ.jpg" group-title="Horror",Consecration (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9048.m3u8
+#EXTINF:0 CUID="441" tvg-name="Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg" group-title="Horror",Infinity Pool (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9021.m3u8
+#EXTINF:0 CUID="428" tvg-name="Unwelcome (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="Horror",Unwelcome (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9008.m3u8
+#EXTINF:0 CUID="426" tvg-name="Sorry About the Demon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9NooPiMm8xK8NNIgQQQS89y1MlG.jpg" group-title="Horror",Sorry About the Demon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9005.m3u8
+#EXTINF:0 CUID="423" tvg-name="Birth/Rebirth (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yyIYih3OGJBGzf1V8kPs3goDWTx.jpg" group-title="Horror",Birth/Rebirth (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9002.m3u8
+#EXTINF:0 CUID="418" tvg-name="Alone at Night (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qnTEKKKw1A0qw0eWv3QrctylYzr.jpg" group-title="Horror",Alone at Night (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8997.m3u8
+#EXTINF:0 CUID="417" tvg-name="Devil Beneath (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tS3yHz34uwVniyD5zDUcP0gRoo3.jpg" group-title="Horror",Devil Beneath (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8996.m3u8
+#EXTINF:0 CUID="416" tvg-name="The Offering (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg" group-title="Horror",The Offering (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8995.m3u8
+#EXTINF:0 CUID="409" tvg-name="There's Something Wrong with the Children (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg" group-title="Horror",There's Something Wrong with the Children (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8988.m3u8
+#EXTINF:0 CUID="408" tvg-name="Snow Falls (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg" group-title="Horror",Snow Falls (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8987.m3u8
+#EXTINF:0 CUID="406" tvg-name="Gangnam Zombie (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/m7H2JvD18pxQr21ImBbv2vyy6kK.jpg" group-title="Horror",Gangnam Zombie (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8985.m3u8
+#EXTINF:0 CUID="399" tvg-name="The Devil Conspiracy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1AWcMtUZjpkq4h52yDnNIp9FwEO.jpg" group-title="Horror",The Devil Conspiracy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8978.m3u8
+#EXTINF:0 CUID="370" tvg-name="It's a Wonderful Knife (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qToCVGHgu1670jZKjbdUnMVKmPc.jpg" group-title="Horror",It's a Wonderful Knife (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8947.m3u8
+#EXTINF:0 CUID="342" tvg-name="Thanksgiving (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg" group-title="Horror",Thanksgiving (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8918.m3u8
+#EXTINF:0 CUID="336" tvg-name="There's Something in the Barn (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8qSov4Y66aXtMSQoVh4iEi5wLnd.jpg" group-title="Horror",There's Something in the Barn (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8912.m3u8
+#EXTINF:0 CUID="330" tvg-name="Sister Death (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zfVdFJGGgHDM3RFZdTPhZqy1WEi.jpg" group-title="Horror",Sister Death (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8906.m3u8
+#EXTINF:0 CUID="328" tvg-name="When Evil Lurks (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2gimJ06p9tVR4P6jacZWcLcNEwA.jpg" group-title="Horror",When Evil Lurks (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8904.m3u8
+#EXTINF:0 CUID="327" tvg-name="Five Nights at Freddy's (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7BpNtNfxuocYEVREzVMO75hso1l.jpg" group-title="Horror",Five Nights at Freddy's (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8903.m3u8
+#EXTINF:0 CUID="316" tvg-name="The Portrait (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iv5ELWVKi5MSKaBE9RzBIMpYWHK.jpg" group-title="Horror",The Portrait (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8890.m3u8
+#EXTINF:0 CUID="308" tvg-name="The Puppetman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wEnct8jeMHYzOfm5Y6QmxD3V61t.jpg" group-title="Horror",The Puppetman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8882.m3u8
+#EXTINF:0 CUID="306" tvg-name="The Conference (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uLH5rUkRNwAUt6YqR86f8ewXZEY.jpg" group-title="Horror",The Conference (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8880.m3u8
+#EXTINF:0 CUID="304" tvg-name="Dark Harvest (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sFBDjWdw8gHSI2dMivP7H52iwvp.jpg" group-title="Horror",Dark Harvest (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8878.m3u8
+#EXTINF:0 CUID="299" tvg-name="The Exorcists (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zddK1YMeZrVKAEd33YdDUrTzZ4L.jpg" group-title="Horror",The Exorcists (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8873.m3u8
+#EXTINF:0 CUID="297" tvg-name="Pet Sematary: Bloodlines (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yqnNLn24shYnZ6kqGpbwuB3NJ0D.jpg" group-title="Horror",Pet Sematary: Bloodlines (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8871.m3u8
+#EXTINF:0 CUID="296" tvg-name="The Exorcist: Believer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg" group-title="Horror",The Exorcist: Believer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8870.m3u8
+#EXTINF:0 CUID="294" tvg-name="Totally Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/52YBwGJ3cJs54fpBzwnT1lnqgTo.jpg" group-title="Horror",Totally Killer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8868.m3u8
+#EXTINF:0 CUID="293" tvg-name="The Mill (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bCga8NK6mzRHTd7t1m8bvLDDvSz.jpg" group-title="Horror",The Mill (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8867.m3u8
+#EXTINF:0 CUID="290" tvg-name="In My Mother's Skin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/bjYg9GIKiR3NcE06JsO7K7yJ7RB.jpg" group-title="Horror",In My Mother's Skin (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8864.m3u8
+#EXTINF:0 CUID="284" tvg-name="Deliver Us (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qIKAKzRKeyICizIq4ftWEHl58uA.jpg" group-title="Horror",Deliver Us (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8858.m3u8
+#EXTINF:0 CUID="280" tvg-name="Oracle (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/laOpPREcTlDukttovlUGJ3Wmtb6.jpg" group-title="Horror",Oracle (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8854.m3u8
+#EXTINF:0 CUID="278" tvg-name="Appendage (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/xBlYO5Pih92UKBN3mYUh8Ptiqh2.jpg" group-title="Horror",Appendage (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8852.m3u8
+#EXTINF:0 CUID="272" tvg-name="Saw X (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" group-title="Horror",Saw X (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8846.m3u8
+#EXTINF:0 CUID="264" tvg-name="No One Will Save You (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg" group-title="Horror",No One Will Save You (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8838.m3u8
+#EXTINF:0 CUID="262" tvg-name="It Lives Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/73gIfV8gDwkVgUrFDzt4TfZC9Zc.jpg" group-title="Horror",It Lives Inside (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8836.m3u8
+#EXTINF:0 CUID="252" tvg-name="Perpetrator (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fjTI6czy62GCsoI7G7fKghSrH2x.jpg" group-title="Horror",Perpetrator (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8826.m3u8
+#EXTINF:0 CUID="247" tvg-name="Elevator Game (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3VGfYYIyYyJcsjRajBT0FwEMv9J.jpg" group-title="Horror",Elevator Game (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8821.m3u8
+#EXTINF:0 CUID="246" tvg-name="My Animal (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg" group-title="Horror",My Animal (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8820.m3u8
+#EXTINF:0 CUID="241" tvg-name="Don't Look Away (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iiYx85daT0DzoU4XQGgaynvDtn8.jpg" group-title="Horror",Don't Look Away (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8815.m3u8
+#EXTINF:0 CUID="240" tvg-name="The Bad Seed Returns (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/84WdfgbaShhsuwW08V2IpqDo7nB.jpg" group-title="Horror",The Bad Seed Returns (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8814.m3u8
+#EXTINF:0 CUID="239" tvg-name="Sleep (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jP0fjDDZaYGpuwD9as6tNn0ePPz.jpg" group-title="Horror",Sleep (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8813.m3u8
+#EXTINF:0 CUID="237" tvg-name="Fear the Invisible Man (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jobwUwGIKRS1NwdEjYGlk6Rao5H.jpg" group-title="Horror",Fear the Invisible Man (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8811.m3u8
+#EXTINF:0 CUID="236" tvg-name="The Nun II (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5gzzkR7y3hnY8AD1wXjCnVlHba5.jpg" group-title="Horror",The Nun II (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8810.m3u8
+#EXTINF:0 CUID="231" tvg-name="Brightwood (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/359JRjSSr3t1l6ObcmZFbJwvKI8.jpg" group-title="Horror",Brightwood (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8805.m3u8
+#EXTINF:0 CUID="222" tvg-name="The Communion Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/n7h5qQErebTkp5YfbDxcu9sPxc8.jpg" group-title="Horror",The Communion Girl (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8796.m3u8
+#EXTINF:0 CUID="201" tvg-name="The Last Voyage of the Demeter (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rOq1oGOIt4Tq284M44XD6jxSidz.jpg" group-title="Horror",The Last Voyage of the Demeter (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8775.m3u8
+#EXTINF:0 CUID="196" tvg-name="Spirit of Fear (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/v7htXVrfq9CXhlRXIVofuLUkc7M.jpg" group-title="Horror",Spirit of Fear (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8770.m3u8
+#EXTINF:0 CUID="190" tvg-name="Til Death Do Us Part (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2JSsduIaJzlScVunHCc6KYBIOjY.jpg" group-title="Horror",Til Death Do Us Part (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8764.m3u8
+#EXTINF:0 CUID="185" tvg-name="Talk to Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kdPMUMJzyYAc4roD52qavX0nLIC.jpg" group-title="Horror",Talk to Me (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8759.m3u8
+#EXTINF:0 CUID="180" tvg-name="The Mistress (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1kdmre0wlUAUk9BvySv4Xoveieg.jpg" group-title="Horror",The Mistress (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8754.m3u8
+#EXTINF:0 CUID="177" tvg-name="Cobweb (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2bHCUqQp8CoSVvwPc6sW6TIBXbN.jpg" group-title="Horror",Cobweb (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8751.m3u8
+#EXTINF:0 CUID="176" tvg-name="Mother, May I? (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iBYEX7IxR9wocuhgzco7D3SG90F.jpg" group-title="Horror",Mother, May I? (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8750.m3u8
+#EXTINF:0 CUID="167" tvg-name="Insidious: The Red Door (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/d07phJqCx6z5wILDYqkyraorDPi.jpg" group-title="Horror",Insidious: The Red Door (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8741.m3u8
+#EXTINF:0 CUID="160" tvg-name="Cabin Girl (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hca3PedvFt1I9wRaoIPehdZCkgo.jpg" group-title="Horror",Cabin Girl (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8734.m3u8
+#EXTINF:0 CUID="151" tvg-name="Tinnitus (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sWVCBeQDiQTxmwjuKSuui2Vzjdc.jpg" group-title="Horror",Tinnitus (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8725.m3u8
+#EXTINF:0 CUID="145" tvg-name="Quicksand (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7XYJiltOE8AYsjMq1lkcGCTqC6Q.jpg" group-title="Horror",Quicksand (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8719.m3u8
+#EXTINF:0 CUID="137" tvg-name="Run Rabbit Run (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cgetiYyTqJ4CMmPmvDw30nnYj1f.jpg" group-title="Horror",Run Rabbit Run (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8711.m3u8
+#EXTINF:0 CUID="131" tvg-name="The Blackening (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ooB4KSRRhp7XYRQUmsi82iFnMNC.jpg" group-title="Horror",The Blackening (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8705.m3u8
+#EXTINF:0 CUID="110" tvg-name="Tin & Tina (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iIrXgFnYbrybAu9h3tUgPbnhBqo.jpg" group-title="Horror",Tin & Tina (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8628.m3u8
+#EXTINF:0 CUID="109" tvg-name="Blood (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg" group-title="Horror",Blood (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8627.m3u8
+#EXTINF:0 CUID="102" tvg-name="The Boogeyman (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg" group-title="Horror",The Boogeyman (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8620.m3u8
+#EXTINF:0 CUID="96" tvg-name="The Ghost Station (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/orL3v5KKRqFhwJYGkrZ3jmKEAgy.jpg" group-title="Horror",The Ghost Station (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8614.m3u8
+#EXTINF:0 CUID="81" tvg-name="Los Habitantes (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/p4U0DQdxK7VeFImi2gzFKhe1JuB.jpg" group-title="Horror",Los Habitantes (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8599.m3u8
+#EXTINF:0 CUID="76" tvg-name="Streamer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7NxClMmh1wmCK2aN9Uddd1G1Pso.jpg" group-title="Horror",Streamer (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8594.m3u8
+#EXTINF:0 CUID="73" tvg-name="The Elderly (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/hrnpp4PwwOHUapDr1kwxH59k6Z6.jpg" group-title="Horror",The Elderly (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8591.m3u8
+#EXTINF:0 CUID="72" tvg-name="Organ Trail (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg" group-title="Horror",Organ Trail (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8590.m3u8
+#EXTINF:0 CUID="64" tvg-name="From Black (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9DG2g1Gl1ENAxFONIxxb5FMH99f.jpg" group-title="Horror",From Black (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8582.m3u8
+#EXTINF:0 CUID="54" tvg-name="Evil Dead Rise (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg" group-title="Horror",Evil Dead Rise (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8572.m3u8
+#EXTINF:0 CUID="47" tvg-name="The Tank (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2VxEtwgzOUukatl2IKGn4borpgE.jpg" group-title="Horror",The Tank (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8565.m3u8
+#EXTINF:0 CUID="43" tvg-name="Winnie the Pooh: Blood and Honey (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wtFwgFFk1ze789ghcadWGEVjj3N.jpg" group-title="Horror",Winnie the Pooh: Blood and Honey (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8561.m3u8
+#EXTINF:0 CUID="42" tvg-name="Enys Men (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jqAD5ysjzVI88qQ7wpsaYdGdDtR.jpg" group-title="Horror",Enys Men (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8560.m3u8
+#EXTINF:0 CUID="30" tvg-name="Nefarious (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uFN5Hb8Gqn7VEmfSOOqPt8Udyb9.jpg" group-title="Horror",Nefarious (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8547.m3u8
+#EXTINF:0 CUID="26" tvg-name="The Pope's Exorcist (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jFC4LS5qTAT3PinzdEzINfu1CV9.jpg" group-title="Horror",The Pope's Exorcist (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8543.m3u8
+#EXTINF:0 CUID="21" tvg-name="Family Dinner (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5UTo2GqSwN2xUPM56xblerPlPaO.jpg" group-title="Horror",Family Dinner (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8538.m3u8
+#EXTINF:0 CUID="20" tvg-name="You’re Killing Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tAnwQKYkRlXS6Lgaq5XQ7JqS58x.jpg" group-title="Horror",You’re Killing Me (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8537.m3u8
+#EXTINF:0 CUID="10" tvg-name="Alive (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg" group-title="Horror",Alive (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9039.m3u8
+#EXTINF:0 CUID="586" tvg-name="The Curse of La Patasola (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dJL9O1N9uESFQql3LNnROvBNZCy.jpg" group-title="Horror",The Curse of La Patasola (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6898.m3u8
+#EXTINF:0 CUID="597" tvg-name="Hellblazers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aPG32niYPEIiaAXcclEFcHrGGs.jpg" group-title="Horror",Hellblazers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6948.m3u8
+#EXTINF:0 CUID="583" tvg-name="Scream 5(2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nnD0pLM9LHY3VB4uNV9PJqOSYeD.jpg" group-title="Horror",Scream 5(2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6894.m3u8
+#EXTINF:0 CUID="804" tvg-name="Follower (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hfOLC6XJ0zd6MIRiXFCfatqKy5h.jpg" group-title="Horror",Follower (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7178.m3u8
+#EXTINF:0 CUID="800" tvg-name="So Cold the River (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dhnFKLefUEFTq35XGM6GpKUyi4D.jpg" group-title="Horror",So Cold the River (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7174.m3u8
+#EXTINF:0 CUID="794" tvg-name="Haunted Universities 2nd Semester (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7oF4PsyhcE6QmQV02I1G8FWL2KM.jpg" group-title="Horror",Haunted Universities 2nd Semester (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7165.m3u8
+#EXTINF:0 CUID="789" tvg-name="Deep Hatred (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1HJAn6zzi02VsB4yPKWlCUpN7iZ.jpg" group-title="Horror",Deep Hatred (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7160.m3u8
+#EXTINF:0 CUID="777" tvg-name="Tethered (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mjGvA0VpGDOLsRvztJHQXpK8iNv.jpg" group-title="Horror",Tethered (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7148.m3u8
+#EXTINF:0 CUID="773" tvg-name="Umma (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg" group-title="Horror",Umma (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7144.m3u8
+#EXTINF:0 CUID="772" tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg" group-title="Horror",X (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7143.m3u8
+#EXTINF:0 CUID="770" tvg-name="The Ancestral (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tT4DpPzy4jiBSFbxlFA2gixX1MD.jpg" group-title="Horror",The Ancestral (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7141.m3u8
+#EXTINF:0 CUID="765" tvg-name="The Bunker Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gAphUeXJcF6rwP8He7LGSKGfrPh.jpg" group-title="Horror",The Bunker Game (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7136.m3u8
+#EXTINF:0 CUID="762" tvg-name="Speak No Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ng4lnPnTK43dOWT3dGvOuIiLJKT.jpg" group-title="Horror",Speak No Evil (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7133.m3u8
+#EXTINF:0 CUID="761" tvg-name="Pee Nak 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/upvzNHUJJFBTpMVtqgiIMuql5qH.jpg" group-title="Horror",Pee Nak 3 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7132.m3u8
+#EXTINF:0 CUID="759" tvg-name="Sin Eater (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xTRdXCTOwTDU3wiXot9RAXuxro3.jpg" group-title="Horror",Sin Eater (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7130.m3u8
+#EXTINF:0 CUID="758" tvg-name="Manifest Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ueOOS5Xfrv866SW0tGCxxnLR4kd.jpg" group-title="Horror",Manifest Evil (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7129.m3u8
+#EXTINF:0 CUID="755" tvg-name="Cold Wind Blowing (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qRf5GK85cbp5rgcXVIxtCHzZ95i.jpg" group-title="Horror",Cold Wind Blowing (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7126.m3u8
+#EXTINF:0 CUID="754" tvg-name="Hypochondriac (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zfQGUJ0p0CdYKBYT5HzuaMxEAtJ.jpg" group-title="Horror",Hypochondriac (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7125.m3u8
+#EXTINF:0 CUID="751" tvg-name="Monstrous (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ec3aX4DyjepEhPkpIUukaBxKpN3.jpg" group-title="Horror",Monstrous (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7122.m3u8
+#EXTINF:0 CUID="738" tvg-name="Hillwalkers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mCiK6PJ9D8ThGUEW6q9zQP6GPMS.jpg" group-title="Horror",Hillwalkers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7107.m3u8
+#EXTINF:0 CUID="734" tvg-name="Fresh (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg" group-title="Horror",Fresh (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7103.m3u8
+#EXTINF:0 CUID="731" tvg-name="The Last Possession (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yZfrCSYghN9N5wXw2AH3S8Bai1F.jpg" group-title="Horror",The Last Possession (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7100.m3u8
+#EXTINF:0 CUID="729" tvg-name="Hatching (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jgJACjJIpcbFfEEmEglinfQWQPO.jpg" group-title="Horror",Hatching (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7098.m3u8
+#EXTINF:0 CUID="728" tvg-name="Beneath the Surface (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xXE9IDEFiye0zNzmnT0eUDbGyVI.jpg" group-title="Horror",Beneath the Surface (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7097.m3u8
+#EXTINF:0 CUID="715" tvg-name="Bahay na Pula (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4Js46b86ZjN80b7amEX31Z1zWsH.jpg" group-title="Horror",Bahay na Pula (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7084.m3u8
+#EXTINF:0 CUID="711" tvg-name="Studio 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zD2XyaV6eGEEgEzVnjg0hQVR5yz.jpg" group-title="Horror",Studio 666 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7080.m3u8
+#EXTINF:0 CUID="708" tvg-name="Cracked (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pT57Ta8jdZ3PI9oqVLDF2VUFlZ3.jpg" group-title="Horror",Cracked (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7077.m3u8
+#EXTINF:0 CUID="702" tvg-name="Texas Chainsaw Massacre (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7sKiGNWFM15WNyY7LYd5vmb3brO.jpg" group-title="Horror",Texas Chainsaw Massacre (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7071.m3u8
+#EXTINF:0 CUID="693" tvg-name="They Live in the Grey (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jQ50xkGlXHsreKvQlqtLsj7vSP0.jpg" group-title="Horror",They Live in the Grey (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7062.m3u8
+#EXTINF:0 CUID="681" tvg-name="The Outwaters (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yBN3HGVjIIZtHlSX8t4H51cGDKd.jpg" group-title="Horror",The Outwaters (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7048.m3u8
+#EXTINF:0 CUID="664" tvg-name="Vietnamese Horror Story (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9uNGmPYKfzcqMInNvpmbCNyIL20.jpg" group-title="Horror",Vietnamese Horror Story (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7029.m3u8
+#EXTINF:0 CUID="660" tvg-name="Shut In (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5yDQ4dmsYaqnYbYlCgnkcdU4aYt.jpg" group-title="Horror",Shut In (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7025.m3u8
+#EXTINF:0 CUID="657" tvg-name="The Privilege (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4vR0xZOfY5tnYHI9ACaa7Bppx0H.jpg" group-title="Horror",The Privilege (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7022.m3u8
+#EXTINF:0 CUID="655" tvg-name="Exorcist Vengeance (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kwEUYNwsRzZMLvgcC7978GhDlUE.jpg" group-title="Horror",Exorcist Vengeance (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7020.m3u8
+#EXTINF:0 CUID="653" tvg-name="Student Body (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/f6WnHUG65DriFyUXZe0qBnZgZTo.jpg" group-title="Horror",Student Body (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7018.m3u8
+#EXTINF:0 CUID="650" tvg-name="The Long Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iLHGciBl5kwUVJCUj8xKtDqkP7V.jpg" group-title="Horror",The Long Night (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7015.m3u8
+#EXTINF:0 CUID="648" tvg-name="Immanence (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hpw0PhpkZozPDzPkW2FFnHxvyHQ.jpg" group-title="Horror",Immanence (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7012.m3u8
+#EXTINF:0 CUID="645" tvg-name="Bull Shark (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg" group-title="Horror",Bull Shark (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7009.m3u8
+#EXTINF:0 CUID="641" tvg-name="Incarnation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/A7nzmQgmKz4Tmsxp2vvDGhcF9MG.jpg" group-title="Horror",Incarnation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7005.m3u8
+#EXTINF:0 CUID="635" tvg-name="World Ends at Camp Z (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/86GMhJ3fCGcA0piejuUXY2wd3xH.jpg" group-title="Horror",World Ends at Camp Z (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6999.m3u8
+#EXTINF:0 CUID="632" tvg-name="Monster Portal (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8R7LbNCvDMFq3dCGaVbH6tPHd69.jpg" group-title="Horror",Monster Portal (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6996.m3u8
+#EXTINF:0 CUID="628" tvg-name="In the Forest (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg" group-title="Horror",In the Forest (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6992.m3u8
+#EXTINF:0 CUID="627" tvg-name="The Requin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg" group-title="Horror",The Requin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6991.m3u8
+#EXTINF:0 CUID="618" tvg-name="Echoes (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uoGVZhkQtQak6Z2gw5u5Fm7Yq2U.jpg" group-title="Horror",Echoes (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6981.m3u8
+#EXTINF:0 CUID="605" tvg-name="Evil at the Door (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9ldFrM4VkzYRIMmKLzJmQEmJsyK.jpg" group-title="Horror",Evil at the Door (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6968.m3u8
+#EXTINF:0 CUID="574" tvg-name="Amityville Uprising (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/RrzMH1EOUeuAogTZr1JPHsTAAg.jpg" group-title="Horror",Amityville Uprising (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6885.m3u8
+#EXTINF:0 CUID="570" tvg-name="The Town of Ghosts (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w3p2ZKtYYZvWzrAWhyEfh1PLGEQ.jpg" group-title="Horror",The Town of Ghosts (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6879.m3u8
+#EXTINF:0 CUID="567" tvg-name="The Legend of La Llorona (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vBiqoYfDIWKKzZTiQScqgCO09UD.jpg" group-title="Horror",The Legend of La Llorona (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6876.m3u8
+#EXTINF:0 CUID="559" tvg-name="Rucker (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/khJNgccWl7wOvLtNbY4bUx6kwFT.jpg" group-title="Horror",Rucker (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6865.m3u8
+#EXTINF:0 CUID="558" tvg-name="Monsters in the Closet (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t7yiowqY04VXjW2UEi2TRgMXbap.jpg" group-title="Horror",Monsters in the Closet (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6864.m3u8
+#EXTINF:0 CUID="557" tvg-name="The Jack in the Box: Awakening (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg" group-title="Horror",The Jack in the Box: Awakening (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6863.m3u8
+#EXTINF:0 CUID="555" tvg-name="Candy Land (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg" group-title="Horror",Candy Land (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6861.m3u8
+#EXTINF:0 CUID="554" tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" group-title="Horror",M3GAN (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6860.m3u8
+#EXTINF:0 CUID="548" tvg-name="The Long Dark Trail (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ebdDGnqQXDGfiggHSazaWCLF6Lf.jpg" group-title="Horror",The Long Dark Trail (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6853.m3u8
+#EXTINF:0 CUID="543" tvg-name="What Josiah Saw (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sfKY55tfwyg0D0m9aWibmRoKLq4.jpg" group-title="Horror",What Josiah Saw (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6846.m3u8
+#EXTINF:0 CUID="516" tvg-name="Children Of The Corn (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg" group-title="Horror",Children Of The Corn (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9113.m3u8
+#EXTINF:0 CUID="509" tvg-name="Little Bone Lodge (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2BwerQH4tZvHU6zUlC77aDw7pLt.jpg" group-title="Horror",Little Bone Lodge (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9104.m3u8
+#EXTINF:0 CUID="508" tvg-name="The Lake (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/t0K4yiqZ6so3spK6DG82LsXZh6c.jpg" group-title="Horror",The Lake (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9103.m3u8
+#EXTINF:0 CUID="506" tvg-name="Sorcery (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9cFSlAj5McYWGINS5X1tpiOyU7h.jpg" group-title="Horror",Sorcery (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9101.m3u8
+#EXTINF:0 CUID="504" tvg-name="The Ghost Within (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kWUrJ9WiEpTGoDjlw2UhNHiUueW.jpg" group-title="Horror",The Ghost Within (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9099.m3u8
+#EXTINF:0 CUID="998" tvg-name="My Chilling Roommate (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fu63j7MH5l6wOUwf3zPSaDLAPCD.jpg" group-title="Horror",My Chilling Roommate (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7386.m3u8
+#EXTINF:0 CUID="1099" tvg-name="Blackwood (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oFtsst7wMLG0AH8cfYxmIWyrxLw.jpg" group-title="Horror",Blackwood (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7509.m3u8
+#EXTINF:0 CUID="1107" tvg-name="Resurrection (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2j6cMHN1Mx1u8S897VVhO7wSrce.jpg" group-title="Horror",Resurrection (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7519.m3u8
+#EXTINF:0 CUID="1310" tvg-name="Deadstream (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5rsS8m61oHTjoTKfDWVMF3OHnww.jpg" group-title="Horror",Deadstream (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7733.m3u8
+#EXTINF:0 CUID="1303" tvg-name="Shot in the Dark (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg" group-title="Horror",Shot in the Dark (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7725.m3u8
+#EXTINF:0 CUID="1296" tvg-name="My Best Friend's Exorcism (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yIXICkqthsqbNtvtEd6rpIt3cT4.jpg" group-title="Horror",My Best Friend's Exorcism (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7717.m3u8
+#EXTINF:0 CUID="1292" tvg-name="Devil's Workshop (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fJQr6E6tUwihQuQgTSDUkKsrVZA.jpg" group-title="Horror",Devil's Workshop (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7711.m3u8
+#EXTINF:0 CUID="1287" tvg-name="Sissy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6lrdc1Nhb7kUViPDhhgfB6jkJQD.jpg" group-title="Horror",Sissy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7706.m3u8
+#EXTINF:0 CUID="1285" tvg-name="Don't Come Back Alive (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/arb5afU36jYYmDvOWMW3i8Z4Tmd.jpg" group-title="Horror",Don't Come Back Alive (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7704.m3u8
+#EXTINF:0 CUID="1281" tvg-name="Nix (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pmAFOmkhsTXJlRptAgoKn77Odue.jpg" group-title="Horror",Nix (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7700.m3u8
+#EXTINF:0 CUID="1278" tvg-name="Sick (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bshCGAHZRldAfdxXDX3637PW9cR.jpg" group-title="Horror",Sick (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7697.m3u8
+#EXTINF:0 CUID="1267" tvg-name="Evil Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vcym9A0idLCFI1iIMRFiXKRvnbs.jpg" group-title="Horror",Evil Eye (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7686.m3u8
+#EXTINF:0 CUID="1265" tvg-name="Dangerous Game: The Legacy Murders (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xkRhMw0tBpDtg28bytxN2hrhyri.jpg" group-title="Horror",Dangerous Game: The Legacy Murders (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7684.m3u8
+#EXTINF:0 CUID="1253" tvg-name="Goodnight Mommy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u3G2gF7M9dmH4Vcs54PUjieOi0C.jpg" group-title="Horror",Goodnight Mommy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7672.m3u8
+#EXTINF:0 CUID="1252" tvg-name="Pearl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg" group-title="Horror",Pearl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7671.m3u8
+#EXTINF:0 CUID="1245" tvg-name="Jeepers Creepers: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ym2zWdb6dbHGO3nd0EhbTY23j4y.jpg" group-title="Horror",Jeepers Creepers: Reborn (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7664.m3u8
+#EXTINF:0 CUID="1239" tvg-name="The Red Book Ritual (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bO2KJsAnBFFYhH9hCZCq31wXvIX.jpg" group-title="Horror",The Red Book Ritual (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7658.m3u8
+#EXTINF:0 CUID="1238" tvg-name="House of Darkness (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rolTswZjGXaE6PyFkcD4TJmyOIk.jpg" group-title="Horror",House of Darkness (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7657.m3u8
+#EXTINF:0 CUID="1231" tvg-name="Margaux (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg" group-title="Horror",Margaux (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7649.m3u8
+#EXTINF:0 CUID="1227" tvg-name="Barbarian (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg" group-title="Horror",Barbarian (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7644.m3u8
+#EXTINF:0 CUID="1219" tvg-name="Something in the Woods (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/koadXDdAQZ8uKimCxXb1VpfDNmd.jpg" group-title="Horror",Something in the Woods (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7636.m3u8
+#EXTINF:0 CUID="1216" tvg-name="Tiny Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/haymRE8d8rCNolngLVMsJoY8Ymo.jpg" group-title="Horror",Tiny Cinema (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7633.m3u8
+#EXTINF:0 CUID="1214" tvg-name="All Eyes (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mKnD8g1id6Z7EDshDEgfK9BoCbL.jpg" group-title="Horror",All Eyes (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7631.m3u8
+#EXTINF:0 CUID="1213" tvg-name="Blood in the Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qUzbjq1LHoJZoPa2F0LVidBLX1F.jpg" group-title="Horror",Blood in the Water (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7630.m3u8
+#EXTINF:0 CUID="1203" tvg-name="Who Invited Them (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2aY7M59bGPRqPHtUz6qGArN7bed.jpg" group-title="Horror",Who Invited Them (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7620.m3u8
+#EXTINF:0 CUID="1202" tvg-name="Bula (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/lXf815xQSdDbEwdFtg0v4UEAnfr.jpg" group-title="Horror",Bula (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7619.m3u8
+#EXTINF:0 CUID="1192" tvg-name="Nightmares (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7spL1SrfmAWQ0O2m2u459WsuSkV.jpg" group-title="Horror",Nightmares (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7609.m3u8
+#EXTINF:0 CUID="1190" tvg-name="The Invitation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jcTq6gIskCsHlKDvCKKouEfiU66.jpg" group-title="Horror",The Invitation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7607.m3u8
+#EXTINF:0 CUID="1180" tvg-name="Mask of the Devil (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xc1WhYCMzEUPZR4F4Xwp1ReXQT4.jpg" group-title="Horror",Mask of the Devil (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7597.m3u8
+#EXTINF:0 CUID="1175" tvg-name="Orphan: First Kill (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg" group-title="Horror",Orphan: First Kill (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7592.m3u8
+#EXTINF:0 CUID="1168" tvg-name="Glorious (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="Horror",Glorious (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7584.m3u8
+#EXTINF:0 CUID="1145" tvg-name="The Dead Girl in Apartment 03 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/j8DN94XDIcnLo5CWpMjsLKhFV8i.jpg" group-title="Horror",The Dead Girl in Apartment 03 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7558.m3u8
+#EXTINF:0 CUID="1142" tvg-name="Frank and Penelope (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg" group-title="Horror",Frank and Penelope (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7555.m3u8
+#EXTINF:0 CUID="1132" tvg-name="They/Them (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg" group-title="Horror",They/Them (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7544.m3u8
+#EXTINF:0 CUID="1129" tvg-name="Bodies Bodies Bodies (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg" group-title="Horror",Bodies Bodies Bodies (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7541.m3u8
+#EXTINF:0 CUID="1124" tvg-name="Holy Emy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/m255sOqX4xqVmhEH8kWeFlGWx9f.jpg" group-title="Horror",Holy Emy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7536.m3u8
+#EXTINF:0 CUID="1118" tvg-name="Allegoria (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b8QfIeN7J0Qs0cyunDg6GDRiBax.jpg" group-title="Horror",Allegoria (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7530.m3u8
+#EXTINF:0 CUID="1115" tvg-name="The Reef: Stalked (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zDyoonhhDBGCWCkE5EZt6yqIp4M.jpg" group-title="Horror",The Reef: Stalked (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7527.m3u8
+#EXTINF:0 CUID="1073" tvg-name="She Will (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cbN1YWgBmwqGzqF6ZTsM96dub4r.jpg" group-title="Horror",She Will (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7481.m3u8
+#EXTINF:0 CUID="1072" tvg-name="Ang Babaeng Nawawala sa Sarili (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xKJaAYkc1nWyFlFVRUtqyvyDjR1.jpg" group-title="Horror",Ang Babaeng Nawawala sa Sarili (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7480.m3u8
+#EXTINF:0 CUID="1062" tvg-name="Conjuring: The Beyond (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/icNT5zfTsS8rZKaViOzQ9PmLpOh.jpg" group-title="Horror",Conjuring: The Beyond (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7468.m3u8
+#EXTINF:0 CUID="1055" tvg-name="Incantation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1l4hxdc7PyYgZ0DeZtC0WPU3GOI.jpg" group-title="Horror",Incantation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7460.m3u8
+#EXTINF:0 CUID="1047" tvg-name="11th Hour Cleaning (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kkWEQx1qJfdOkCvXQTIOQDrMaa1.jpg" group-title="Horror",11th Hour Cleaning (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7451.m3u8
+#EXTINF:0 CUID="1046" tvg-name="York Witches Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8vyaZsMiGQZZebpaNzemAGXVHVX.jpg" group-title="Horror",York Witches Society (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7449.m3u8
+#EXTINF:0 CUID="1038" tvg-name="Arthur: Malediction (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2MVrHAbbMFXhFmLsVK1BbWAcHzW.jpg" group-title="Horror",Arthur: Malediction (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7440.m3u8
+#EXTINF:0 CUID="1034" tvg-name="The Haunting of the Tower of London (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3syWckCgiAcsJUjDoC4Skj3Qg2F.jpg" group-title="Horror",The Haunting of the Tower of London (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7436.m3u8
+#EXTINF:0 CUID="1030" tvg-name="The Black Phone (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lr11mCT85T1JanlgjMuhs9nMht4.jpg" group-title="Horror",The Black Phone (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7429.m3u8
+#EXTINF:0 CUID="1026" tvg-name="Gatlopp (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/k5WreZUBFqeR1Er4AAecffp6ay0.jpg" group-title="Horror",Gatlopp (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7423.m3u8
+#EXTINF:0 CUID="1014" tvg-name="Mid-Century (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/v3twbN3ScvJAHPdvDPXemRU9sC3.jpg" group-title="Horror",Mid-Century (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7406.m3u8
+#EXTINF:0 CUID="997" tvg-name="Attachment (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yBhev2zcNZHDhpTOtyADJj1q9Sz.jpg" group-title="Horror",Attachment (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7385.m3u8
+#EXTINF:0 CUID="993" tvg-name="A Wounded Fawn (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5nSiQvEkFXufdcBi4QCBb793L0K.jpg" group-title="Horror",A Wounded Fawn (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7379.m3u8
+#EXTINF:0 CUID="992" tvg-name="Rising Boas in a Girl's School (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xR7gW2Oj8Qku5m82SvWfwTbwopM.jpg" group-title="Horror",Rising Boas in a Girl's School (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7378.m3u8
+#EXTINF:0 CUID="987" tvg-name="As a Prelude to Fear (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jYMwFJZzA2VuPhM2uJKmWaATPgP.jpg" group-title="Horror",As a Prelude to Fear (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7373.m3u8
+#EXTINF:0 CUID="986" tvg-name="Tales from the Other Side (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lZkcV9MviMfEWjaLS2dJ1C8T8FU.jpg" group-title="Horror",Tales from the Other Side (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7372.m3u8
+#EXTINF:0 CUID="980" tvg-name="The Overnight (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3XsGz8FbapcT8TsIeeTZrknJ2O8.jpg" group-title="Horror",The Overnight (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7366.m3u8
+#EXTINF:0 CUID="975" tvg-name="Unhuman (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/a0YCxxFhZSczKrw3FHDV0nTyHb5.jpg" group-title="Horror",Unhuman (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7361.m3u8
+#EXTINF:0 CUID="973" tvg-name="The Summoned (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3VKuYec9D8XeregdXBZ1Q1dnfaK.jpg" group-title="Horror",The Summoned (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7359.m3u8
+#EXTINF:0 CUID="972" tvg-name="The Passenger (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sWIwES7kkAGjD6rihy26plmkXHU.jpg" group-title="Horror",The Passenger (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7358.m3u8
+#EXTINF:0 CUID="971" tvg-name="Shark Bait (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bVUgMgVozyFScDM3quP412kXrT.jpg" group-title="Horror",Shark Bait (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7357.m3u8
+#EXTINF:0 CUID="968" tvg-name="Dead Bride (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6JKx00vSLzKX3jSMJIhpwPU9Qzq.jpg" group-title="Horror",Dead Bride (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7354.m3u8
+#EXTINF:0 CUID="957" tvg-name="Captors (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uw2F92plA1brk5CFZrhzJ6VrY8R.jpg" group-title="Horror",Captors (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7340.m3u8
+#EXTINF:0 CUID="948" tvg-name="Torn Hearts (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w8dSAuMHUgx0lYSB6wAAURStcGM.jpg" group-title="Horror",Torn Hearts (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7330.m3u8
+#EXTINF:0 CUID="944" tvg-name="MEN (Adamlar) (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jo1Kv3P3UgDVk7JnUFr2Cl8WWUM.jpg" group-title="Horror",MEN (Adamlar) (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7326.m3u8
+#EXTINF:0 CUID="943" tvg-name="Daeng Phra Khanong (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vTu0tBaPjrEIdhR4yR6xlHvmuAK.jpg" group-title="Horror",Daeng Phra Khanong (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7325.m3u8
+#EXTINF:0 CUID="940" tvg-name="Moloch (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3jVzYOnylmvo7ZnGerjfoRj2wFz.jpg" group-title="Horror",Moloch (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7322.m3u8
+#EXTINF:0 CUID="917" tvg-name="Faye (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/a7Txk4CmR3eykOJpGqEiJ8AOKbY.jpg" group-title="Horror",Faye (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7295.m3u8
+#EXTINF:0 CUID="913" tvg-name="The Twin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uUUSkKQEptTHjYejxzaT5TVkiAG.jpg" group-title="Horror",The Twin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7291.m3u8
+#EXTINF:0 CUID="893" tvg-name="Revealer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6tYWNhSHgA1gQDeNcoCIL1LGyKj.jpg" group-title="Horror",Revealer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7270.m3u8
+#EXTINF:0 CUID="890" tvg-name="Crabs! (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/r1gdFxHgcA49sXpSReq7GS18JeT.jpg" group-title="Horror",Crabs! (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7267.m3u8
+#EXTINF:0 CUID="889" tvg-name="Presences (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sR4V5TAi4zsxsfe9CVymG7kEtds.jpg" group-title="Horror",Presences (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7266.m3u8
+#EXTINF:0 CUID="888" tvg-name="Luzifer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/y9znMhBKbYc2lg7QaCk48Mk23wm.jpg" group-title="Horror",Luzifer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7265.m3u8
+#EXTINF:0 CUID="885" tvg-name="Rooftop (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ArbK1YlQg3Fzlt0das0mkdYRjZU.jpg" group-title="Horror",Rooftop (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7262.m3u8
+#EXTINF:0 CUID="882" tvg-name="Vampirus (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4WR5HpVFYAgMRM9Ayt6GLqOiPVq.jpg" group-title="Horror",Vampirus (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7259.m3u8
+#EXTINF:0 CUID="880" tvg-name="Children of Sin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uQaLnOSUyBKK9M5QrzIIAhR8mKi.jpg" group-title="Horror",Children of Sin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7257.m3u8
+#EXTINF:0 CUID="875" tvg-name="Veneciafrenia (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/luMC56bwZqaECYRz6X7sXjqN6nd.jpg" group-title="Horror",Veneciafrenia (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7252.m3u8
+#EXTINF:0 CUID="868" tvg-name="SLR (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8cjfz1T5OWN8rhdpaNNslCnF4OC.jpg" group-title="Horror",SLR (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7245.m3u8
+#EXTINF:0 CUID="862" tvg-name="The Cellar (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg" group-title="Horror",The Cellar (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7239.m3u8
+#EXTINF:0 CUID="861" tvg-name="Choose or Die (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jEYE5BPFd5FuPa1judcjpW6xqKp.jpg" group-title="Horror",Choose or Die (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7238.m3u8
+#EXTINF:0 CUID="860" tvg-name="Room 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t4M0n5kfToiU9TIf22bccSbNugG.jpg" group-title="Horror",Room 203 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7237.m3u8
+#EXTINF:0 CUID="854" tvg-name="The Nameless Days (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bTfsJkplZPe47xw147KV3qutqpm.jpg" group-title="Horror",The Nameless Days (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7230.m3u8
+#EXTINF:0 CUID="836" tvg-name="Virus:32 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wZiF79hbhLK1U2Pj9bF67NAKXQR.jpg" group-title="Horror",Virus:32 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7211.m3u8
+#EXTINF:0 CUID="832" tvg-name="Hunting Souls (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rBuE76iVZObavtfWYJqvMdJMBnM.jpg" group-title="Horror",Hunting Souls (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7207.m3u8
+#EXTINF:0 CUID="829" tvg-name="The Haunting of Pendle Hill (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mTSQ8P1WYCouhrANAK1hEGgAxQA.jpg" group-title="Horror",The Haunting of Pendle Hill (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7204.m3u8
+#EXTINF:0 CUID="821" tvg-name="You Won't Be Alone (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qVRADANU3JpMyapKjV3eM41VlDG.jpg" group-title="Horror",You Won't Be Alone (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7195.m3u8
+#EXTINF:0 CUID="811" tvg-name="Night's End (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wxu7T1zFeVEUDcbhk3sOkLYa2CR.jpg" group-title="Horror",Night's End (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7185.m3u8
+#EXTINF:0 CUID="1379" tvg-name="They Crawl Beneath (2022)" tvg-logo="http://103.127.208.209:25461/images/0bd39e72125c11dfb0db850a0c676002.jpg" group-title="Horror",They Crawl Beneath (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7811.m3u8
+#EXTINF:0 CUID="1496" tvg-name="#Float (2022)" tvg-logo="http://103.127.208.209:25461/images/90e23c95580cfb911e4fcc35af5c85ce.jpg" group-title="Horror",#Float (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7944.m3u8
+#EXTINF:0 CUID="1618" tvg-name="Welcome to Hell (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/2zKctDjiTpyCU7PbwkN84NZQcts.jpg" group-title="Horror",Welcome to Hell (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6841.m3u8
+#EXTINF:0 CUID="1607" tvg-name="We're All Going to the World's Fair (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fXn4Nz1WCTEmzAFvwgEZoPHvptR.jpg" group-title="Horror",We're All Going to the World's Fair (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6828.m3u8
+#EXTINF:0 CUID="1603" tvg-name="Father of Flies (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/usMvHRj89vx3ZfZ8KYl2MHbreVa.jpg" group-title="Horror",Father of Flies (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6824.m3u8
+#EXTINF:0 CUID="1588" tvg-name="You Are Not My Mother (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sUw081I0k5JWL6NpTaDRjMpLKwr.jpg" group-title="Horror",You Are Not My Mother (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6808.m3u8
+#EXTINF:0 CUID="1576" tvg-name="Hellbender (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/uLDYfeJ9BvrQsC3MBqMUjG4Hgaz.jpg" group-title="Horror",Hellbender (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6796.m3u8
+#EXTINF:0 CUID="1575" tvg-name="Shepherd (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/nZ96VyEjhG6KJ97tN24PjVfdk33.jpg" group-title="Horror",Shepherd (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6795.m3u8
+#EXTINF:0 CUID="1574" tvg-name="Don't Kill Me (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/d76rZrqTzw3lRE6bQZC86tJ9W3.jpg" group-title="Horror",Don't Kill Me (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6794.m3u8
+#EXTINF:0 CUID="1573" tvg-name="A Banquet (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4FlSYrcjO4z3McJ6UP3V5npb4B4.jpg" group-title="Horror",A Banquet (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6793.m3u8
+#EXTINF:0 CUID="1572" tvg-name="The Ghosts of Borley Rectory (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/hBnVQvEWaHl08Q5cVtMfhgsfpGO.jpg" group-title="Horror",The Ghosts of Borley Rectory (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6792.m3u8
+#EXTINF:0 CUID="1570" tvg-name="The Cursed (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/bewmBcjJxHeipS1PNu9Lfyvt3zY.jpg" group-title="Horror",The Cursed (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6790.m3u8
+#EXTINF:0 CUID="1567" tvg-name="The Exorcism of God (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hangTmbxpSV4gpHG7MgSlCWSSFa.jpg" group-title="Horror",The Exorcism of God (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6787.m3u8
+#EXTINF:0 CUID="1564" tvg-name="Hollow (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/bXy8r2WysptFJMmTvYDErMg5X34.jpg" group-title="Horror",Hollow (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6784.m3u8
+#EXTINF:0 CUID="1563" tvg-name="Terror Trips (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/EJecpFgApjxIomlBCSAs4SjYxx.jpg" group-title="Horror",Terror Trips (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6783.m3u8
+#EXTINF:0 CUID="1552" tvg-name="Ghosts of the Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5KgBwcelQoxWgplfJhY46Urz3Cf.jpg" group-title="Horror",Ghosts of the Ozarks (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6771.m3u8
+#EXTINF:0 CUID="1545" tvg-name="Slapface (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/xFR5TrTfhjaKN2z17rP09hoQXXs.jpg" group-title="Horror",Slapface (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6764.m3u8
+#EXTINF:0 CUID="1544" tvg-name="The Last Thing Mary Saw (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg" group-title="Horror",The Last Thing Mary Saw (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6762.m3u8
+#EXTINF:0 CUID="1543" tvg-name="Ditched (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/wYMTYjQCjr7gN4MddQbratlHHbg.jpg" group-title="Horror",Ditched (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6761.m3u8
+#EXTINF:0 CUID="1536" tvg-name="The Free Fall (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rkpjGzrMvWLfRA8QsB7CjZ2kpMI.jpg" group-title="Horror",The Free Fall (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6745.m3u8
+#EXTINF:0 CUID="1530" tvg-name="The Winter Witch (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qMT9xKQny3eCFrYpVE2oqM6GKMK.jpg" group-title="Horror",The Winter Witch (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7979.m3u8
+#EXTINF:0 CUID="1519" tvg-name="Lullaby" tvg-logo="https://image.tmdb.org/t/p/w780/vmE4gZ9vy8ammgS2UsEh0Z1OCia.jpg" group-title="Horror",Lullaby
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7967.m3u8
+#EXTINF:0 CUID="1516" tvg-name="The Apology" tvg-logo="https://image.tmdb.org/t/p/w780/gUFHThondPpmjqeh3XI1yXnCRDa.jpg" group-title="Horror",The Apology
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7964.m3u8
+#EXTINF:0 CUID="1514" tvg-name="Nanny" tvg-logo="https://image.tmdb.org/t/p/w780/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg" group-title="Horror",Nanny
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7962.m3u8
+#EXTINF:0 CUID="1499" tvg-name="Play Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h5bwT8fuE6VIaOslRezwDiL2DxK.jpg" group-title="Horror",Play Dead (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7947.m3u8
+#EXTINF:0 CUID="1492" tvg-name="Bed Rest (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/l57DqFxp5ugAvBZTi8PBAqpgyPi.jpg" group-title="Horror",Bed Rest (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7940.m3u8
+#EXTINF:0 CUID="1482" tvg-name="Venus (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qKPCbZKjrCqR7PSBhgp48Omvhgq.jpg" group-title="Horror",Venus (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7930.m3u8
+#EXTINF:0 CUID="1475" tvg-name="Carnifex (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wUiN09IRVhbDrffXbMuwmq9e4Tq.jpg" group-title="Horror",Carnifex (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7922.m3u8
+#EXTINF:0 CUID="1474" tvg-name="Legions (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9bpmojZqoclbXGcsG2VJq4GOWa3.jpg" group-title="Horror",Legions (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7921.m3u8
+#EXTINF:0 CUID="1473" tvg-name="The Accursed (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dEEXkhekQd7W1S9gZ9EawXNkaEF.jpg" group-title="Horror",The Accursed (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7920.m3u8
+#EXTINF:0 CUID="1467" tvg-name="The Ghosts of Monday (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lfY6RW1sNaY5IyO50tWxHEAZX26.jpg" group-title="Horror",The Ghosts of Monday (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7914.m3u8
+#EXTINF:0 CUID="1460" tvg-name="Bones and All (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rGnKs2joPvJRKnboqDSf81Ap6Mn.jpg" group-title="Horror",Bones and All (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7907.m3u8
+#EXTINF:0 CUID="1409" tvg-name="Girl at the Window (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/y8PhaJDd4YcYX7DVKJxoDwBUCZO.jpg" group-title="Horror",Girl at the Window (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7842.m3u8
+#EXTINF:0 CUID="1398" tvg-name="Hex (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mFukGiFZaVYoXIR8nrE95LlfbHG.jpg" group-title="Horror",Hex (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7831.m3u8
+#EXTINF:0 CUID="1391" tvg-name="Puppet Master: Doktor Death (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sxgQeuZHKl89O6vA3l6T1DEHst6.jpg" group-title="Horror",Puppet Master: Doktor Death (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7824.m3u8
+#EXTINF:0 CUID="1389" tvg-name="Run Sweetheart Run (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg" group-title="Horror",Run Sweetheart Run (2020)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7822.m3u8
+#EXTINF:0 CUID="1383" tvg-name="The Lair (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg" group-title="Horror",The Lair (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7816.m3u8
+#EXTINF:0 CUID="1377" tvg-name="Hellhole (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/g6wm2BVwIjgFoi2ylT2EmksM1Ry.jpg" group-title="Horror",Hellhole (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7809.m3u8
+#EXTINF:0 CUID="1367" tvg-name="Slayers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1dgNc7FB5RMm6w4D6S0UpZhsUbW.jpg" group-title="Horror",Slayers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7796.m3u8
+#EXTINF:0 CUID="1364" tvg-name="Sinphony: A Clubhouse Horror Anthology (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pLz6IDmuU9B39YhQyS7dFNlBmgu.jpg" group-title="Horror",Sinphony: A Clubhouse Horror Anthology (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7793.m3u8
+#EXTINF:0 CUID="1361" tvg-name="Terror Train (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/goMptsSegtNxjLD31s2Vi0iXHfT.jpg" group-title="Horror",Terror Train (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7789.m3u8
+#EXTINF:0 CUID="1358" tvg-name="V/H/S/99 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg" group-title="Horror",V/H/S/99 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7786.m3u8
+#EXTINF:0 CUID="1354" tvg-name="Devil in the Lake (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yPZVTYQfaoj4Hg0I44k688ovVz.jpg" group-title="Horror",Devil in the Lake (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7782.m3u8
+#EXTINF:0 CUID="1352" tvg-name="The Loneliest Boy in the World (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/A6McNUszcZnRkSa8ZhwlKoLchrT.jpg" group-title="Horror",The Loneliest Boy in the World (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7780.m3u8
+#EXTINF:0 CUID="1343" tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cCTmZ93aBZ1FwHntiDpa2Lj92zs.jpg" group-title="Horror",Re/Member (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7771.m3u8
+#EXTINF:0 CUID="1333" tvg-name="Don't Fuck in the Woods 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/82ZXgSHx43Mvhu1MpnmiDthS1Fs.jpg" group-title="Horror",Don't Fuck in the Woods 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7759.m3u8
+#EXTINF:0 CUID="1331" tvg-name="Grimcutty (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qvg75YJMfbHeDNirUrrgBMQImRn.jpg" group-title="Horror",Grimcutty (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7757.m3u8
+#EXTINF:0 CUID="1330" tvg-name="Feed Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ztYN6xo5meeEHLH3bXU6jej3Tad.jpg" group-title="Horror",Feed Me (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7756.m3u8
+#EXTINF:0 CUID="1329" tvg-name="Old People (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nSguJmHeYv6cwTljOZduPJDTweS.jpg" group-title="Horror",Old People (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7754.m3u8
+#EXTINF:0 CUID="1316" tvg-name="Muoi: The Curse Returns (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xcTPr8gxvrblR2fhldzHaWgvaeZ.jpg" group-title="Horror",Muoi: The Curse Returns (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7739.m3u8
+#EXTINF:0 CUID="1311" tvg-name="Terrifier 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8gLhu8UFPZfH2Hv11JhTZkb9CVl.jpg" group-title="Horror",Terrifier 2 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7734.m3u8
+#EXTINF:0 CUID="498" tvg-name="Love at First Kiss (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/jY092qLqa7qTMelwRiNPpLUolEz.jpg" group-title="Romance",Love at First Kiss (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9093.m3u8
+#EXTINF:0 CUID="496" tvg-name="Faraway (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zQoXlm7NXKrBL4jcbIw3urMHHgs.jpg" group-title="Romance",Faraway (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9091.m3u8
+#EXTINF:0 CUID="488" tvg-name="My♡Puppy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" group-title="Romance",My♡Puppy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9083.m3u8
+#EXTINF:0 CUID="486" tvg-name="Tonight You're Sleeping with Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sexnKxpAOl0wfixYC3RataZD4pI.jpg" group-title="Romance",Tonight You're Sleeping with Me (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9081.m3u8
+#EXTINF:0 CUID="468" tvg-name="A Sunday Affair (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/AvpZ3pBQiX3UNHQIh39G3IR7u93.jpg" group-title="Romance",A Sunday Affair (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9061.m3u8
+#EXTINF:0 CUID="454" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tT7nhCDJ3ngJjATlJVehKMijwSG.jpg" group-title="Romance",At Midnight (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9046.m3u8
+#EXTINF:0 CUID="453" tvg-name="Somebody I Used to Know (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg" group-title="Romance",Somebody I Used to Know (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9044.m3u8
+#EXTINF:0 CUID="452" tvg-name="Your Place or Mine (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3oFfY1HpzJDlRzKSCBF2sA5mb9U.jpg" group-title="Romance",Your Place or Mine (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9043.m3u8
+#EXTINF:0 CUID="439" tvg-name="You People (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/x5E4TndwASNkaK2hwgeYfsIVo2x.jpg" group-title="Romance",You People (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9019.m3u8
+#EXTINF:0 CUID="412" tvg-name="Disconnect: The Wedding Planner (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/co6doQ2d3f5ZaTTvORV76wrTFit.jpg" group-title="Romance",Disconnect: The Wedding Planner (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8991.m3u8
+#EXTINF:0 CUID="390" tvg-name="Maestro (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg" group-title="Romance",Maestro (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8969.m3u8
+#EXTINF:0 CUID="388" tvg-name="The Taming of the Shrewd 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wZ8QPSLgK06RKA6ESbNz62PXnjF.jpg" group-title="Romance",The Taming of the Shrewd 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8967.m3u8
+#EXTINF:0 CUID="375" tvg-name="Holiday in the Vineyards (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zJdW13xObKM3lmLsLAFGnCfrXza.jpg" group-title="Romance",Holiday in the Vineyards (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8953.m3u8
+#EXTINF:0 CUID="365" tvg-name="Christmas As Usual (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/suDjK0qIsPoBNrAhWUtIjkIWx1G.jpg" group-title="Romance",Christmas As Usual (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8941.m3u8
+#EXTINF:0 CUID="354" tvg-name="Last Call for Istanbul (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/8tnCuXBvz4efWDg4J2VkLnu5Ymd.jpg" group-title="Romance",Last Call for Istanbul (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8930.m3u8
+#EXTINF:0 CUID="352" tvg-name="In Love and Deep Water (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3SOiO5eQbww41eFKpEJlQdQLtEb.jpg" group-title="Romance",In Love and Deep Water (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8928.m3u8
+#EXTINF:0 CUID="351" tvg-name="Congrats My Ex! (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/h8aqayDloEkC16rT7WYhzpcDAF5.jpg" group-title="Romance",Congrats My Ex! (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8927.m3u8
+#EXTINF:0 CUID="340" tvg-name="Priscilla (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uDCeELWWpsNq7ErM61Yuq70WAE9.jpg" group-title="Romance",Priscilla (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8916.m3u8
+#EXTINF:0 CUID="323" tvg-name="Nuovo Olimpo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3nx8pSvAARYOLlZ2MNBlH7vW9jv.jpg" group-title="Romance",Nuovo Olimpo (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8899.m3u8
+#EXTINF:0 CUID="317" tvg-name="The Other Zoey (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rh9fwqA98ufdx9vP7V6lLhfpfk1.jpg" group-title="Romance",The Other Zoey (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8891.m3u8
+#EXTINF:0 CUID="298" tvg-name="Love Reset (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yPbfn4mIK4DuP51HdWMKBYoCw7D.jpg" group-title="Romance",Love Reset (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8872.m3u8
+#EXTINF:0 CUID="289" tvg-name="She Came to Me (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2lG18RqCK8qTk7R5jA1L7ZRMWXu.jpg" group-title="Romance",She Came to Me (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8863.m3u8
+#EXTINF:0 CUID="273" tvg-name="Love Is in the Air (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cAn1tvopkqATQ0AfV4LK08ReAvp.jpg" group-title="Romance",Love Is in the Air (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8847.m3u8
+#EXTINF:0 CUID="258" tvg-name="Forgotten Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/A5yIT5u1dY5FsCVpeMOUU3hx3VT.jpg" group-title="Romance",Forgotten Love (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8832.m3u8
+#EXTINF:0 CUID="254" tvg-name="After Everything (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg" group-title="Romance",After Everything (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8828.m3u8
+#EXTINF:0 CUID="251" tvg-name="Ehrengard: The Art of Seduction (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7gXPtMckzLAFOA8V2niy54HqQ4e.jpg" group-title="Romance",Ehrengard: The Art of Seduction (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8825.m3u8
+#EXTINF:0 CUID="245" tvg-name="Love at First Sight (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vCMGlarDrcmhclBmnYoH7JUCDuA.jpg" group-title="Romance",Love at First Sight (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8819.m3u8
+#EXTINF:0 CUID="204" tvg-name="Love in Taipei (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/o6TMfQn6RsWmJVtCoCKk04sQcID.jpg" group-title="Romance",Love in Taipei (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8778.m3u8
+#EXTINF:0 CUID="187" tvg-name="Happiness for Beginners (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rK4jb2t3J98IXjY9O3nc8bX9yqt.jpg" group-title="Romance",Happiness for Beginners (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8761.m3u8
+#EXTINF:0 CUID="175" tvg-name="See You on Venus (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/r94waWYiNhXoAuCEWBCf2XEEegx.jpg" group-title="Romance",See You on Venus (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8749.m3u8
+#EXTINF:0 CUID="172" tvg-name="The Island (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/n4HyHxnKCJG8SbqeLEK1nU5JbIR.jpg" group-title="Romance",The Island (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8746.m3u8
+#EXTINF:0 CUID="143" tvg-name="Through My Window: Across the Sea (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg" group-title="Romance",Through My Window: Across the Sea (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8717.m3u8
+#EXTINF:0 CUID="142" tvg-name="The Perfect Find (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fZXturIugHYCl7T6oLeMj1AWm7p.jpg" group-title="Romance",The Perfect Find (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8716.m3u8
+#EXTINF:0 CUID="141" tvg-name="Make Me Believe (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/q1MWxML2IuAZMLKxxNaZDQTbqU5.jpg" group-title="Romance",Make Me Believe (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8715.m3u8
+#EXTINF:0 CUID="133" tvg-name="SEE HEAR LOVE (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/48cBIyEIAWd26gsGYwL8tjKWv14.jpg" group-title="Romance",SEE HEAR LOVE (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8707.m3u8
+#EXTINF:0 CUID="130" tvg-name="An Unforgettable Year – Winter (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/632MOx4ou1ZuRT9YWSg7eKSPWP7.jpg" group-title="Romance",An Unforgettable Year – Winter (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8704.m3u8
+#EXTINF:0 CUID="122" tvg-name="Rich in Love 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gA2emLQTNb8XS1646Nmhp91NNgv.jpg" group-title="Romance",Rich in Love 2 (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8640.m3u8
+#EXTINF:0 CUID="121" tvg-name="Missed Connections (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/Au0HeQRyMpNCIUI6rUeYVkcsjAw.jpg" group-title="Romance",Missed Connections (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8639.m3u8
+#EXTINF:0 CUID="104" tvg-name="A Beautiful Life (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/x6PvT4HAkK7phdj54Zao8rY5oBT.jpg" group-title="Romance",A Beautiful Life (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8622.m3u8
+#EXTINF:0 CUID="78" tvg-name="Love Again (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/koswMk0y7jGcyofV1sBccnNtY0B.jpg" group-title="Romance",Love Again (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8596.m3u8
+#EXTINF:0 CUID="67" tvg-name="Kiss, Kiss! (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/7DR8Cn40kOVwICu3HyWLzVymAkb.jpg" group-title="Romance",Kiss, Kiss! (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8585.m3u8
+#EXTINF:0 CUID="58" tvg-name="Sun Moon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/92AT6RNm57NCe8ykKWyxKJA5jKF.jpg" group-title="Romance",Sun Moon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8576.m3u8
+#EXTINF:0 CUID="51" tvg-name="A Tourist's Guide to Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/uWkpjbBe4gRZilXRXbYfsMUZMhz.jpg" group-title="Romance",A Tourist's Guide to Love (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8569.m3u8
+#EXTINF:0 CUID="24" tvg-name="Praise This (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/twdgFrp9Sd8rb3TdbWFQXAvslrH.jpg" group-title="Romance",Praise This (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8541.m3u8
+#EXTINF:0 CUID="11" tvg-name="Squared Love All Over Again (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/43nsgB6n1BNyaD4KCEqTFS2462S.jpg" group-title="Romance",Squared Love All Over Again (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9041.m3u8
+#EXTINF:0 CUID="593" tvg-name="The Butcher’s Daughter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vBMlMuGMQw5Q6XdpEyo0ThJ9r7Z.jpg" group-title="Romance",The Butcher’s Daughter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6942.m3u8
+#EXTINF:0 CUID="596" tvg-name="The Royal Treatment (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mYAv0YUoXJzLxIdEirOken8Quwf.jpg" group-title="Romance",The Royal Treatment (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6947.m3u8
+#EXTINF:0 CUID="797" tvg-name="Love Like the Falling Petals (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8m2xnZAnMuydc87KCLS2gnUmidh.jpg" group-title="Romance",Love Like the Falling Petals (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7168.m3u8
+#EXTINF:0 CUID="796" tvg-name="Gabriel's Rapture: Part II (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2DtnVEwBJKL5aUlLAyZASmQpWn8.jpg" group-title="Romance",Gabriel's Rapture: Part II (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7167.m3u8
+#EXTINF:0 CUID="790" tvg-name="Nobody Has to Know (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iLBXTcAyXmvdIgcjXSwOlBmuaSs.jpg" group-title="Romance",Nobody Has to Know (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7161.m3u8
+#EXTINF:0 CUID="748" tvg-name="Radhe Shyam (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8Lj4hi6PhXjSq5yBvNluPH0rlbZ.jpg" group-title="Romance",Radhe Shyam (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7118.m3u8
+#EXTINF:0 CUID="706" tvg-name="Perpetuity (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qHQ4c6sUVJP3geUtwt44daGo0GO.jpg" group-title="Romance",Perpetuity (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7075.m3u8
+#EXTINF:0 CUID="695" tvg-name="The Blue Skies at Your Feet (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6KjzQa91ZQboEaRfHtBvdyXQGML.jpg" group-title="Romance",The Blue Skies at Your Feet (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7064.m3u8
+#EXTINF:0 CUID="687" tvg-name="AI Love You (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sBiJOvHCSWORnFpc4yItflIkdTi.jpg" group-title="Romance",AI Love You (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7055.m3u8
+#EXTINF:0 CUID="679" tvg-name="The Sky Is Everywhere (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg" group-title="Romance",The Sky Is Everywhere (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7046.m3u8
+#EXTINF:0 CUID="677" tvg-name="Love and Leashes (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/A3QOfTfkNcGKn2UyUqHDDFyjDvi.jpg" group-title="Romance",Love and Leashes (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7044.m3u8
+#EXTINF:0 CUID="674" tvg-name="Love Tactics (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8RyASTsrKKRnQ9xSGJDuImD8cjX.jpg" group-title="Romance",Love Tactics (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7041.m3u8
+#EXTINF:0 CUID="673" tvg-name="The In Between (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg" group-title="Romance",The In Between (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7040.m3u8
+#EXTINF:0 CUID="672" tvg-name="Marry Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg" group-title="Romance",Marry Me (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7038.m3u8
+#EXTINF:0 CUID="663" tvg-name="Just Remembering (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aen27pX3XcxLzDHtOtqkghomOGy.jpg" group-title="Romance",Just Remembering (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7028.m3u8
+#EXTINF:0 CUID="662" tvg-name="Into the Wind (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bM9m2JH9TFMfFxDERW9pufJ5szR.jpg" group-title="Romance",Into the Wind (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7027.m3u8
+#EXTINF:0 CUID="652" tvg-name="Through My Window (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/n0EIdj2qctC6OsMJXjpbSp9mjrm.jpg" group-title="Romance",Through My Window (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7017.m3u8
+#EXTINF:0 CUID="620" tvg-name="My Best Friend's Breakfast (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lCMirnpsOPP4MoLcr2JOHM9LP6Y.jpg" group-title="Romance",My Best Friend's Breakfast (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6983.m3u8
+#EXTINF:0 CUID="617" tvg-name="Reincarnation Land (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tl5dE3XhUELk1kDrsgvaFexn0cB.jpg" group-title="Romance",Reincarnation Land (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6980.m3u8
+#EXTINF:0 CUID="604" tvg-name="Redeeming Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mV3vomFNiCQbSowGrp2penDGRqJ.jpg" group-title="Romance",Redeeming Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6967.m3u8
+#EXTINF:0 CUID="603" tvg-name="Simple Passion (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/ezSCLw2xy2OqL63Dx7zoHlj177v.jpg" group-title="Romance",Simple Passion (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6966.m3u8
+#EXTINF:0 CUID="541" tvg-name="Prom Pact (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg" group-title="Romance",Prom Pact (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9139.m3u8
+#EXTINF:0 CUID="505" tvg-name="Still Time (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gGtzr9huoZFm0SoQmXYAAcwO4ty.jpg" group-title="Romance",Still Time (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9100.m3u8
+#EXTINF:0 CUID="1083" tvg-name="Where the Crawdads Sing (2022)" tvg-logo="http://103.127.208.209:25461/images/519a413e69e3642a2569289e8ce78ae3.jpg" group-title="Romance",Where the Crawdads Sing (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7491.m3u8
+#EXTINF:0 CUID="1092" tvg-name="HollyBlood (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ts82TuL0Uz2P3YNbMzZWC9Kp16Q.jpg" group-title="Romance",HollyBlood (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7502.m3u8
+#EXTINF:0 CUID="1105" tvg-name="Love Destiny: The Movie (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xydEAOsDUKogj4FbQtN8iGPCSYU.jpg" group-title="Romance",Love Destiny: The Movie (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7517.m3u8
+#EXTINF:0 CUID="1309" tvg-name="One Fine Morning (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oLmWB5Gjk6ncO7qX2OMybQD6Rkh.jpg" group-title="Romance",One Fine Morning (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7732.m3u8
+#EXTINF:0 CUID="1305" tvg-name="Jumping from High Places (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sPHpbnhFNGyYGzXMT5BQatdIYQN.jpg" group-title="Romance",Jumping from High Places (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7728.m3u8
+#EXTINF:0 CUID="1302" tvg-name="A Love Song (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uu3FvDIV9Bw7I2owLUR44IBLH0D.jpg" group-title="Romance",A Love Song (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7724.m3u8
+#EXTINF:0 CUID="1282" tvg-name="Life Is Beautiful (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6tEJnof1DKWPnl5lzkjf0FVv7oB.jpg" group-title="Romance",Life Is Beautiful (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7701.m3u8
+#EXTINF:0 CUID="1277" tvg-name="A Jazzman's Blues (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/juvKmySdoCFmjuPeokOtEK3jGHx.jpg" group-title="Romance",A Jazzman's Blues (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7696.m3u8
+#EXTINF:0 CUID="1264" tvg-name="Meet Cute (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9rp4nj7L3V5tPm2pWks4sX8NVKY.jpg" group-title="Romance",Meet Cute (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7683.m3u8
+#EXTINF:0 CUID="1234" tvg-name="No Limit (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/96ZYNAVN5RhBJqkijYkgFjQA630.jpg" group-title="Romance",No Limit (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7652.m3u8
+#EXTINF:0 CUID="1220" tvg-name="After Ever Happy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/moogpu8rNkEjTgFyLXwhPghft5w.jpg" group-title="Romance",After Ever Happy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7637.m3u8
+#EXTINF:0 CUID="1218" tvg-name="Diorama (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gQrjtU0B8nGu9fB3ZDkxcXA4lLE.jpg" group-title="Romance",Diorama (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7635.m3u8
+#EXTINF:0 CUID="1204" tvg-name="Love in the Villa (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/t92CXfEP5aWBATeOomcF0wF9NsM.jpg" group-title="Romance",Love in the Villa (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7621.m3u8
+#EXTINF:0 CUID="1193" tvg-name="Mama Boy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5wIQtmrtjPO0EHE9xyCuWmqHoya.jpg" group-title="Romance",Mama Boy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7610.m3u8
+#EXTINF:0 CUID="1188" tvg-name="That's Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iyYibVfi8q0zwsX1evl7mxTZJp1.jpg" group-title="Romance",That's Amor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7605.m3u8
+#EXTINF:0 CUID="1174" tvg-name="The Next 365 Days (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg" group-title="Romance",The Next 365 Days (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7591.m3u8
+#EXTINF:0 CUID="1166" tvg-name="Look Both Ways (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jq8IGJgg16mJ95a5OPyS7eGJaam.jpg" group-title="Romance",Look Both Ways (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7581.m3u8
+#EXTINF:0 CUID="1165" tvg-name="Royalteen (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg" group-title="Romance",Royalteen (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7580.m3u8
+#EXTINF:0 CUID="1159" tvg-name="Girl Picture (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kNRhvWoVDWP9kr2E7GBB3G0ZQVI.jpg" group-title="Romance",Girl Picture (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7573.m3u8
+#EXTINF:0 CUID="1151" tvg-name="Happy Ending (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rD3x0J6UCOhtv4Dj5AC7n8bxI5T.jpg" group-title="Romance",Happy Ending (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7565.m3u8
+#EXTINF:0 CUID="1149" tvg-name="Heartsong (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8LMdLAReF10fxO1imTiVR9OllNR.jpg" group-title="Romance",Heartsong (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7563.m3u8
+#EXTINF:0 CUID="1125" tvg-name="Wedding Season (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg" group-title="Romance",Wedding Season (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7537.m3u8
+#EXTINF:0 CUID="1122" tvg-name="Close To Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/czAQt5OV3Jzi8IJjXjvjmiN1bV5.jpg" group-title="Romance",Close To Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7534.m3u8
+#EXTINF:0 CUID="1119" tvg-name="Don't Blame Karma! (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7BtnZMhU4V8Mq33609UpWvLSHE3.jpg" group-title="Romance",Don't Blame Karma! (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7531.m3u8
+#EXTINF:0 CUID="1112" tvg-name="Purple Hearts (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4JyNWkryifWbWXJyxcWh3pVya6N.jpg" group-title="Romance",Purple Hearts (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7524.m3u8
+#EXTINF:0 CUID="1091" tvg-name="Anything's Possible (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aLeswI1zxf2xN5iIdcJpqx9XEnX.jpg" group-title="Romance",Anything's Possible (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7501.m3u8
+#EXTINF:0 CUID="1081" tvg-name="Persuasion (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/p0SAkCFD02wj2gekOvFilMjzs3j.jpg" group-title="Romance",Persuasion (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7489.m3u8
+#EXTINF:0 CUID="1066" tvg-name="Under the Amalfi Sun (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2vufsfqtJHDjbBFtti8F1ZeSRm4.jpg" group-title="Romance",Under the Amalfi Sun (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7473.m3u8
+#EXTINF:0 CUID="1053" tvg-name="Dangerous Liaisons (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5MEl1xrbM93zjpFgS3sHJ2SlIFm.jpg" group-title="Romance",Dangerous Liaisons (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7458.m3u8
+#EXTINF:0 CUID="1048" tvg-name="Hello, Goodbye, and Everything in Between (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xyGsnp4Ld5PmJYYWnfuYYoENhHt.jpg" group-title="Romance",Hello, Goodbye, and Everything in Between (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7452.m3u8
+#EXTINF:0 CUID="1028" tvg-name="Wildhood (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rKuokl89RoJv2U45OBnlBcwi64V.jpg" group-title="Romance",Wildhood (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7426.m3u8
+#EXTINF:0 CUID="1021" tvg-name="Doom of Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zkOZJDTxy2BmhDLicQ7YzpeNG8a.jpg" group-title="Romance",Doom of Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7415.m3u8
+#EXTINF:0 CUID="1017" tvg-name="Cha Cha Real Smooth (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg" group-title="Romance",Cha Cha Real Smooth (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7409.m3u8
+#EXTINF:0 CUID="1009" tvg-name="Good Luck to You, Leo Grande (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg" group-title="Romance",Good Luck to You, Leo Grande (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7401.m3u8
+#EXTINF:0 CUID="1007" tvg-name="Father of the Bride (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/g6OTK7l6EX2JP5r00O5fG6BZJlh.jpg" group-title="Romance",Father of the Bride (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7398.m3u8
+#EXTINF:0 CUID="1004" tvg-name="Heart Parade (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aalVJiTZ72CBy5FcdrkCzKeQ1rq.jpg" group-title="Romance",Heart Parade (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7394.m3u8
+#EXTINF:0 CUID="981" tvg-name="Breathe Again (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/v3SooAeOJCPyReDq0eySMUP1e2M.jpg" group-title="Romance",Breathe Again (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7367.m3u8
+#EXTINF:0 CUID="969" tvg-name="My Blue Summer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6yZXzwqschRuEvJh53gsm4aA7GA.jpg" group-title="Romance",My Blue Summer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7355.m3u8
+#EXTINF:0 CUID="961" tvg-name="Zanox (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/db1ni4k6iW9DMSYonSYy7Ki1wMe.jpg" group-title="Romance",Zanox (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7344.m3u8
+#EXTINF:0 CUID="949" tvg-name="F*ck Love Too (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4wpWwMGUoLpkZrmfIDaXGkYK8Ap.jpg" group-title="Romance",F*ck Love Too (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7332.m3u8
+#EXTINF:0 CUID="947" tvg-name="The Valet (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg" group-title="Romance",The Valet (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7329.m3u8
+#EXTINF:0 CUID="945" tvg-name="Downton Abbey: A New Era (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg" group-title="Romance",Downton Abbey: A New Era (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7327.m3u8
+#EXTINF:0 CUID="915" tvg-name="Along for the Ride (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="Romance",Along for the Ride (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7293.m3u8
+#EXTINF:0 CUID="891" tvg-name="Crush (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hayr56csDzCSADaejgrRMVPHyDy.jpg" group-title="Romance",Crush (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7268.m3u8
+#EXTINF:0 CUID="857" tvg-name="366 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mDONR1ABbzRgpeJOGAOcvbzIND7.jpg" group-title="Romance",366 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7233.m3u8
+#EXTINF:0 CUID="852" tvg-name="The Taming of the Shrewd (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4JXsbuWTHWy9KieVRef5CmrzDN6.jpg" group-title="Romance",The Taming of the Shrewd (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7228.m3u8
+#EXTINF:0 CUID="822" tvg-name="Green Snake: The Fate of Reunion (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mIh37nBjtYqYwycAAZVnLqHLoXw.jpg" group-title="Romance",Green Snake: The Fate of Reunion (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7196.m3u8
+#EXTINF:0 CUID="813" tvg-name="Moonshot (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/thqgzBPEDYQX0taszVus5nYMtTZ.jpg" group-title="Romance",Moonshot (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7187.m3u8
+#EXTINF:0 CUID="1619" tvg-name="Art of Love (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/5wloNxeTKXrlzHArIxG5Iab37KD.jpg" group-title="Romance",Art of Love (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6842.m3u8
+#EXTINF:0 CUID="1595" tvg-name="Learn to Swim (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/8A8Zn9EDokjVqCyfap7itGo69r5.jpg" group-title="Romance",Learn to Swim (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6815.m3u8
+#EXTINF:0 CUID="1587" tvg-name="Great Freedom (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/dPiTezDq9N4gMGhjMmvxoC0Hbjc.jpg" group-title="Romance",Great Freedom (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6807.m3u8
+#EXTINF:0 CUID="1581" tvg-name="Mothering Sunday (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/unZ7vPgxMTxWrpPGIkAVSqgdryv.jpg" group-title="Romance",Mothering Sunday (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6801.m3u8
+#EXTINF:0 CUID="1556" tvg-name="The Worst Person in the World (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/p5nLFV9aa76zhFK91Qi0xRlXvQ1.jpg" group-title="Romance",The Worst Person in the World (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6775.m3u8
+#EXTINF:0 CUID="1551" tvg-name="Forever Out of My League (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1zhsT17wTXAw5IxK9rSLtftu7Aw.jpg" group-title="Romance",Forever Out of My League (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6770.m3u8
+#EXTINF:0 CUID="1550" tvg-name="Cyrano (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/e4koV8iC2cCM57bqUnEnIL2a2zH.jpg" group-title="Romance",Cyrano (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6769.m3u8
+#EXTINF:0 CUID="1541" tvg-name="Road to Perth (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/jzQOoYzl4D9AymO70NRL9mZ9G34.jpg" group-title="Romance",Road to Perth (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6759.m3u8
+#EXTINF:0 CUID="1510" tvg-name="I Believe in Santa" tvg-logo="https://image.tmdb.org/t/p/w780/qCBfPgsvACaVS4wSBaddVkL22c9.jpg" group-title="Romance",I Believe in Santa
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7958.m3u8
+#EXTINF:0 CUID="1504" tvg-name="Stuck with You (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/AkfvwYH5dYbDI0x74YG4jNV4GeI.jpg" group-title="Romance",Stuck with You (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7952.m3u8
+#EXTINF:0 CUID="1502" tvg-name="Something from Tiffany's (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hzQV66zQHqWKRjLVphISNOqadIp.jpg" group-title="Romance",Something from Tiffany's (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7950.m3u8
+#EXTINF:0 CUID="1497" tvg-name="Empire of Light (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/h84SnIQF91Gz2Fv1OpMJ3245t4i.jpg" group-title="Romance",Empire of Light (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7945.m3u8
+#EXTINF:0 CUID="1494" tvg-name="The Marriage App (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/caMOaq9aBvLt4eUzP05JwLfQyKQ.jpg" group-title="Romance",The Marriage App (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7942.m3u8
+#EXTINF:0 CUID="1493" tvg-name="Burning Patience (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/aCL4YZBsyobwDQZeLdJ0iGOrXvs.jpg" group-title="Romance",Burning Patience (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7941.m3u8
+#EXTINF:0 CUID="1490" tvg-name="Delivery by Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/49KcmgKAtgC02xQFpDly2svEOxW.jpg" group-title="Romance",Delivery by Christmas (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7938.m3u8
+#EXTINF:0 CUID="1486" tvg-name="Lady Chatterley's Lover (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3H58M1rUGO9AOve8GR0svRGmjau.jpg" group-title="Romance",Lady Chatterley's Lover (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7934.m3u8
+#EXTINF:0 CUID="1472" tvg-name="Christmas Full of Grace (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iHRphB4zfPTuUHVrbO2vTmCLuHO.jpg" group-title="Romance",Christmas Full of Grace (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7919.m3u8
+#EXTINF:0 CUID="1464" tvg-name="The Noel Diary (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/f6mMqxJfAD2Ao4sto7kOq6a7tWg.jpg" group-title="Romance",The Noel Diary (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7911.m3u8
+#EXTINF:0 CUID="1461" tvg-name="Holiday Harmony (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5lDOz2zlfiprRYKAWUJRkdSaWhl.jpg" group-title="Romance",Holiday Harmony (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7908.m3u8
+#EXTINF:0 CUID="1447" tvg-name="Sachertorte (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2b0fduX9GDkGspUIW53nfNK0n2y.jpg" group-title="Romance",Sachertorte (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7880.m3u8
+#EXTINF:0 CUID="1441" tvg-name="Christmas with You (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nkJQWyK0ABJaBaQ4Io3kOzMvdsa.jpg" group-title="Romance",Christmas with You (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7874.m3u8
+#EXTINF:0 CUID="1438" tvg-name="Ditto (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/m63hXkGw176a0rXpco33knGUDNK.jpg" group-title="Romance",Ditto (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7871.m3u8
+#EXTINF:0 CUID="1428" tvg-name="Don't Leave (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rFRduJsp91O8M9TJc4SkhmJxcHC.jpg" group-title="Romance",Don't Leave (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7861.m3u8
+#EXTINF:0 CUID="1423" tvg-name="Falling for Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zgtkXLJagDMlW4iXTCojL5guDeu.jpg" group-title="Romance",Falling for Christmas (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7856.m3u8
+#EXTINF:0 CUID="1397" tvg-name="Masquerade (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1sHH629kR3ZDmPfL90JkUWew4wz.jpg" group-title="Romance",Masquerade (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7830.m3u8
+#EXTINF:0 CUID="1381" tvg-name="Beyond the Universe (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/AlAP6WRSBuf5cP8OgpHTF45BPUp.jpg" group-title="Romance",Beyond the Universe (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7813.m3u8
+#EXTINF:0 CUID="1378" tvg-name="OMG! Oh My Girl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/okCGcDeffxk82mCT7HdU73UI8J8.jpg" group-title="Romance",OMG! Oh My Girl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7810.m3u8
+#EXTINF:0 CUID="1369" tvg-name="20th Century Girl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/od22ftNnyag0TTxcnJhlsu3aLoU.jpg" group-title="Romance",20th Century Girl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7798.m3u8
+#EXTINF:0 CUID="1366" tvg-name="Ticket to Paradise (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/1tzERH50P5c2mFWtLbgixzLZS1L.jpg" group-title="Romance",Ticket to Paradise (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7795.m3u8
+#EXTINF:0 CUID="1363" tvg-name="My Policeman (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xHlGNVO7xDQrJMOv38UMLawajKP.jpg" group-title="Romance",My Policeman (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7792.m3u8
+#EXTINF:0 CUID="1348" tvg-name="Rosaline (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jQHrbzVy6ptopxqUohV6PcmmVcY.jpg" group-title="Romance",Rosaline (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7776.m3u8
+#EXTINF:0 CUID="1345" tvg-name="Game of Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pkkvFb765ef9ErkrNA73h0ec3ZY.jpg" group-title="Romance",Game of Love (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7773.m3u8
+#EXTINF:0 CUID="1342" tvg-name="Falcon Lake (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cEqBxAdTroLJqrLHCQQV4mkOFld.jpg" group-title="Romance",Falcon Lake (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7770.m3u8
+#EXTINF:0 CUID="1338" tvg-name="Someone Borrowed (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6l6qR3JGf1WLJAwwYgIQPR5rLKz.jpg" group-title="Romance",Someone Borrowed (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7766.m3u8
+#EXTINF:0 CUID="1314" tvg-name="No Bears (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dO2JdK7MonWis9Jg2im9IcVq7eJ.jpg" group-title="Romance",No Bears (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7737.m3u8
+#EXTINF:0 CUID="386" tvg-name="Rebel Moon - Part One: A Child of Fire (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ui4DrH1cKk2vkHshcUcGt2lKxCm.jpg" group-title="Science ~ Fiction",Rebel Moon - Part One: A Child of Fire (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8965.m3u8
+#EXTINF:0 CUID="345" tvg-name="The Hunger Games: The Ballad of Songbirds & Snakes (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg" group-title="Science ~ Fiction",The Hunger Games: The Ballad of Songbirds & Snakes (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8921.m3u8
+#EXTINF:0 CUID="337" tvg-name="Foe (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/eTPBizhkX6B9NgzPzkhVIOvwXxZ.jpg" group-title="Science ~ Fiction",Foe (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8913.m3u8
+#EXTINF:0 CUID="286" tvg-name="57 Seconds (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dfS5qHWFuXyZQnwYREwb7N4qU5p.jpg" group-title="Science ~ Fiction",57 Seconds (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8860.m3u8
+#EXTINF:0 CUID="255" tvg-name="Aporia (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zYt35YGKoc85LXULzMKDfJ8qX1C.jpg" group-title="Science ~ Fiction",Aporia (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8829.m3u8
+#EXTINF:0 CUID="158" tvg-name="Gray Matter (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/zJn1nO2UuS4Oo5Sk49YUHHRcGyC.jpg" group-title="Science ~ Fiction",Gray Matter (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8732.m3u8
+#EXTINF:0 CUID="157" tvg-name="Bird Box Barcelona (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg" group-title="Science ~ Fiction",Bird Box Barcelona (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8731.m3u8
+#EXTINF:0 CUID="83" tvg-name="Motion Detected (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dM8HOQzK11FzmHzrcSwf0mc4Pa8.jpg" group-title="Science ~ Fiction",Motion Detected (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8601.m3u8
+#EXTINF:0 CUID="12" tvg-name="Silver and the Book of Dreams (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ycpxvpNyrkzsydwvLTUNixRWrdQ.jpg" group-title="Science ~ Fiction",Silver and the Book of Dreams (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8955.m3u8
+#EXTINF:0 CUID="585" tvg-name="Arctic Void (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2OkdcVn1wIgRA4zo8tTbn7NNDUT.jpg" group-title="Science ~ Fiction",Arctic Void (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6897.m3u8
+#EXTINF:0 CUID="788" tvg-name="Metamorphosis (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/js0aMjVf0vRqHpgxqW95ykl1P8D.jpg" group-title="Science ~ Fiction",Metamorphosis (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7159.m3u8
+#EXTINF:0 CUID="771" tvg-name="Dual" tvg-logo="https://image.tmdb.org/t/p/w780/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg" group-title="Science ~ Fiction",Dual
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7142.m3u8
+#EXTINF:0 CUID="723" tvg-name="After the Pandemic (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/p1LbrdJ53dGfEhRopG71akfzOVu.jpg" group-title="Science ~ Fiction",After the Pandemic (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7092.m3u8
+#EXTINF:0 CUID="721" tvg-name="The Calm Beyond (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg" group-title="Science ~ Fiction",The Calm Beyond (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7090.m3u8
+#EXTINF:0 CUID="676" tvg-name="Bigbug (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jDJOojbuqgnNVGmKgmuYzBpaIgP.jpg" group-title="Science ~ Fiction",Bigbug (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7043.m3u8
+#EXTINF:0 CUID="675" tvg-name="Cosmic Dawn (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/uuSFeIVBBgCpRI7jTvTiDzETw2J.jpg" group-title="Science ~ Fiction",Cosmic Dawn (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7042.m3u8
+#EXTINF:0 CUID="658" tvg-name="Loveland (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zVxFQG0rAFITjIygEMHFRLtR6JI.jpg" group-title="Science ~ Fiction",Loveland (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7023.m3u8
+#EXTINF:0 CUID="646" tvg-name="Moonfall (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg" group-title="Science ~ Fiction",Moonfall (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7010.m3u8
+#EXTINF:0 CUID="575" tvg-name="Old Strangers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jd5swX0bQGq6dOc7XiptmF5muSQ.jpg" group-title="Science ~ Fiction",Old Strangers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6886.m3u8
+#EXTINF:0 CUID="564" tvg-name="Project Gemini (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rFljUdOozFEv6HDHIFpFvcYW0ec.jpg" group-title="Science ~ Fiction",Project Gemini (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6871.m3u8
+#EXTINF:0 CUID="1273" tvg-name="Blank (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wyEQ62i42A4xeoN46neYs2Z1gXp.jpg" group-title="Science ~ Fiction",Blank (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7692.m3u8
+#EXTINF:0 CUID="1271" tvg-name="Control (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/iTMD8xezZJzNKLH6mlzITfVEey7.jpg" group-title="Science ~ Fiction",Control (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7690.m3u8
+#EXTINF:0 CUID="1248" tvg-name="Rubikon (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/n5Ynx568yHn1hKG2ND7ctoL9jEl.jpg" group-title="Science ~ Fiction",Rubikon (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7667.m3u8
+#EXTINF:0 CUID="1221" tvg-name="The Visitor from the Future (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bsMIi4W3MvLChEUk8tiiHffyhQm.jpg" group-title="Science ~ Fiction",The Visitor from the Future (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7638.m3u8
+#EXTINF:0 CUID="1211" tvg-name="Memory of Water (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zKR7Um6Z0yiKc8dCK9voAR6UYQl.jpg" group-title="Science ~ Fiction",Memory of Water (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7628.m3u8
+#EXTINF:0 CUID="1197" tvg-name="Samaritan (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zgH8Ej50n2cvJCMJrxd4twEwSqz.jpg" group-title="Science ~ Fiction",Samaritan (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7614.m3u8
+#EXTINF:0 CUID="1148" tvg-name="Office Invasion (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/khcVwO0gwguC1CndbxtH1bzk4aj.jpg" group-title="Science ~ Fiction",Office Invasion (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7562.m3u8
+#EXTINF:0 CUID="1052" tvg-name="Brian and Charles (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pzP3N9qRo3S91QjfBFWNI0ph0AY.jpg" group-title="Science ~ Fiction",Brian and Charles (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7456.m3u8
+#EXTINF:0 CUID="1016" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5hTK0J9SGPLSTFwcbU0ELlJsnAY.jpg" group-title="Science ~ Fiction",Spiderhead (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7408.m3u8
+#EXTINF:0 CUID="976" tvg-name="After Blue (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/1hA3kVAAl07A1arS9bZuBCiemLS.jpg" group-title="Science ~ Fiction",After Blue (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7362.m3u8
+#EXTINF:0 CUID="960" tvg-name="Revenge Girl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/b3bkRhpPJ4qQfINJ1BRZoqrK0kc.jpg" group-title="Science ~ Fiction",Revenge Girl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7343.m3u8
+#EXTINF:0 CUID="959" tvg-name="Crimes of the Future (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/RAFYMC0NgK9In9aGY6k6wsIL8w.jpg" group-title="Science ~ Fiction",Crimes of the Future (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7342.m3u8
+#EXTINF:0 CUID="952" tvg-name="Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/zq9iHZTVNOXFT4SIzjpA7gfwsyZ.jpg" group-title="Science ~ Fiction",Deus (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7335.m3u8
+#EXTINF:0 CUID="933" tvg-name="Dark Cloud (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg" group-title="Science ~ Fiction",Dark Cloud (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7314.m3u8
+#EXTINF:0 CUID="929" tvg-name="Firestarter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2MTGip0nfahQ1jPQCZSfCsPBZes.jpg" group-title="Science ~ Fiction",Firestarter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7310.m3u8
+#EXTINF:0 CUID="887" tvg-name="Cryo (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6uz3HVIO2xbFroKwIEcjI1fmOoS.jpg" group-title="Science ~ Fiction",Cryo (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7264.m3u8
+#EXTINF:0 CUID="859" tvg-name="Chariot (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gKqA1Vz9CtDbiwR4z2peJjqwPXA.jpg" group-title="Science ~ Fiction",Chariot (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7235.m3u8
+#EXTINF:0 CUID="847" tvg-name="Remember Me? (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3GcAGqAtaSfD8V2ULGV1v6CROPj.jpg" group-title="Science ~ Fiction",Remember Me? (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7223.m3u8
+#EXTINF:0 CUID="830" tvg-name="Prototype (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pbOJXDMzLRSyhQeY4SbTaBmGb4o.jpg" group-title="Science ~ Fiction",Prototype (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7205.m3u8
+#EXTINF:0 CUID="823" tvg-name="Madelines (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xNVLNTA2232OjOWkm79YYxtO2oW.jpg" group-title="Science ~ Fiction",Madelines (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7197.m3u8
+#EXTINF:0 CUID="1466" tvg-name="The Guardians of the Galaxy Holiday Special (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg" group-title="Science ~ Fiction",The Guardians of the Galaxy Holiday Special (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7913.m3u8
+#EXTINF:0 CUID="1335" tvg-name="Project Legion (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/vEfbuchWvISRpqwEUHoxwuxdF0O.jpg" group-title="Science ~ Fiction",Project Legion (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7761.m3u8
+#EXTINF:0 CUID="1324" tvg-name="Significant Other (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cENXzoBLd3VJloPlVOQtpM4ymgg.jpg" group-title="Science ~ Fiction",Significant Other (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7749.m3u8
+#EXTINF:0 CUID="33" tvg-name="Darkland: The Return (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/c8B4DsVcFVDLVmbpHMHU3RjLNAV.jpg" group-title="Thriller",Darkland: The Return (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8550.m3u8
+#EXTINF:0 CUID="497" tvg-name="Unseen (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qPxONIm4sWHVMZd4nqgqlz5EwGK.jpg" group-title="Thriller",Unseen (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9092.m3u8
+#EXTINF:0 CUID="478" tvg-name="The Strays (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg" group-title="Thriller",The Strays (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9073.m3u8
+#EXTINF:0 CUID="474" tvg-name="Cocaine Bear (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg" group-title="Thriller",Cocaine Bear (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9067.m3u8
+#EXTINF:0 CUID="464" tvg-name="Unlocked (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/fBDLdEraxCBKGmOPb6pJPYiDQh1.jpg" group-title="Thriller",Unlocked (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9056.m3u8
+#EXTINF:0 CUID="463" tvg-name="Sharper (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tq8x5F17q95T1j0up5rpzXFAylN.jpg" group-title="Thriller",Sharper (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9055.m3u8
+#EXTINF:0 CUID="451" tvg-name="The Girl Who Escaped: The Kara Robinson Story (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/o9hwOE1FeOelkNxfsGtTNrlWnyq.jpg" group-title="Thriller",The Girl Who Escaped: The Kara Robinson Story (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9042.m3u8
+#EXTINF:0 CUID="447" tvg-name="Knock at the Cabin (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg" group-title="Thriller",Knock at the Cabin (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9033.m3u8
+#EXTINF:0 CUID="357" tvg-name="Doi Boy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nFjNdswa8V8OyhwmhX31JB6ENkG.jpg" group-title="Thriller",Doi Boy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8933.m3u8
+#EXTINF:0 CUID="309" tvg-name="Dangerous Waters (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/b7BLWOWrUZICFydcwUy3b6d9DBI.jpg" group-title="Thriller",Dangerous Waters (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8883.m3u8
+#EXTINF:0 CUID="288" tvg-name="Nowhere (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/cVxIX8JJJB179zh7wcUt0A6TpQQ.jpg" group-title="Thriller",Nowhere (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8862.m3u8
+#EXTINF:0 CUID="268" tvg-name="The Kill Room (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qKpdy7N6zX05eisopvvviiTwPxb.jpg" group-title="Thriller",The Kill Room (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8842.m3u8
+#EXTINF:0 CUID="265" tvg-name="The Dive (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/o43eMkNkWBBsyxEyyUeQwl4AOe.jpg" group-title="Thriller",The Dive (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8839.m3u8
+#EXTINF:0 CUID="243" tvg-name="The Good Mother (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/whwxm3JUXNiGvqZWcRC6g6kAHm1.jpg" group-title="Thriller",The Good Mother (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8817.m3u8
+#EXTINF:0 CUID="232" tvg-name="Breakwater (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/pfwCmX13GAwrFhhVFOgXmPdZgS6.jpg" group-title="Thriller",Breakwater (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8806.m3u8
+#EXTINF:0 CUID="223" tvg-name="Don't Buy the Seller (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kYmoJSypfpB9OnwvxebiV1nZUXi.jpg" group-title="Thriller",Don't Buy the Seller (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8797.m3u8
+#EXTINF:0 CUID="186" tvg-name="Paradise (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yGz88hNPcHUJkUx7MPm0Ue6GZt7.jpg" group-title="Thriller",Paradise (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8760.m3u8
+#EXTINF:0 CUID="124" tvg-name="God Is a Bullet (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg" group-title="Thriller",God Is a Bullet (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8642.m3u8
+#EXTINF:0 CUID="118" tvg-name="Simulant (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/kmDJhZIq1xnu5ZiMOlb0nHJH1qb.jpg" group-title="Thriller",Simulant (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8636.m3u8
+#EXTINF:0 CUID="98" tvg-name="The Black Demon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/6ecSjKSjgIULyHfrfyyg9vgAI33.jpg" group-title="Thriller",The Black Demon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8616.m3u8
+#EXTINF:0 CUID="95" tvg-name="Mother's Day (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wws9Z90DdZ7D0n3gdzFSZ6cntJi.jpg" group-title="Thriller",Mother's Day (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8613.m3u8
+#EXTINF:0 CUID="52" tvg-name="Chokehold (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ck7y1li6vefAzqXqCs27Sju4qO9.jpg" group-title="Thriller",Chokehold (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8570.m3u8
+#EXTINF:0 CUID="49" tvg-name="Hungry Dog Blues (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gQwAxZQZjMucYufWLF0E3y0bmGn.jpg" group-title="Thriller",Hungry Dog Blues (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8567.m3u8
+#EXTINF:0 CUID="29" tvg-name="Killing Romance (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/d5cvYhiyykZrliPSPqO4iFGJMus.jpg" group-title="Thriller",Killing Romance (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8546.m3u8
+#EXTINF:0 CUID="16" tvg-name="Cairo Conspiracy (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dXGNABIoMWo8EOGUQH2651w9CWz.jpg" group-title="Thriller",Cairo Conspiracy (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8533.m3u8
+#EXTINF:0 CUID="13" tvg-name="Operation Napoleon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/l5VLVINzfiltL1fqNLt8oMTWnr0.jpg" group-title="Thriller",Operation Napoleon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9037.m3u8
+#EXTINF:0 CUID="587" tvg-name="Shattered (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nGjepyrldPYJeNNgZ0h3Y8X6YkT.jpg" group-title="Thriller",Shattered (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6899.m3u8
+#EXTINF:0 CUID="591" tvg-name="Heatwave (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kd2kN3tnsDNgPDf3lKhgn1aKtfy.jpg" group-title="Thriller",Heatwave (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6903.m3u8
+#EXTINF:0 CUID="592" tvg-name="The Demon Hunter (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dt4O1mRH4pbsTIQnnZ7AIatk2Pe.jpg" group-title="Thriller",The Demon Hunter (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6904.m3u8
+#EXTINF:0 CUID="776" tvg-name="Measure of Revenge (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bO0gQaEGBJYMIuuke58zhiQD6ys.jpg" group-title="Thriller",Measure of Revenge (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7147.m3u8
+#EXTINF:0 CUID="775" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jrGyjoCsRLVbzmsaeFCueOnGOKL.jpg" group-title="Thriller",Alice (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7146.m3u8
+#EXTINF:0 CUID="767" tvg-name="Code Name: Emperor (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8VjVLMiPm598Kg6XmKk5m1fz0p7.jpg" group-title="Thriller",Code Name: Emperor (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7138.m3u8
+#EXTINF:0 CUID="766" tvg-name="In the Heart of the Machine (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/nKTWb8aDgsENhG5B1uAy1tbRtd4.jpg" group-title="Thriller",In the Heart of the Machine (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7137.m3u8
+#EXTINF:0 CUID="760" tvg-name="Notre-Dame on Fire (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg" group-title="Thriller",Notre-Dame on Fire (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7131.m3u8
+#EXTINF:0 CUID="752" tvg-name="Gone in the Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/A1F9RpyLNbYyE9nE4INrVQh0b7T.jpg" group-title="Thriller",Gone in the Night (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7123.m3u8
+#EXTINF:0 CUID="746" tvg-name="All My Friends Hate Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7j5ZLDGWQ4U3iAD2wLNhs0CjpuQ.jpg" group-title="Thriller",All My Friends Hate Me (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7116.m3u8
+#EXTINF:0 CUID="737" tvg-name="Every Last Secret (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/caxblp2Jz2VJTvQvGMpU6UTAWS9.jpg" group-title="Thriller",Every Last Secret (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7106.m3u8
+#EXTINF:0 CUID="709" tvg-name="Dark Glasses (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6dgpZwoNNlho0ZYWWTSFzjUpgA1.jpg" group-title="Thriller",Dark Glasses (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7078.m3u8
+#EXTINF:0 CUID="684" tvg-name="TQM (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2LYFm81KacJv8CN1p8MC6ZZclgD.jpg" group-title="Thriller",TQM (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7051.m3u8
+#EXTINF:0 CUID="582" tvg-name="Hugas (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sfFwKI9lxMqwwziesEI80WEBTog.jpg" group-title="Thriller",Hugas (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6893.m3u8
+#EXTINF:0 CUID="581" tvg-name="Brazen (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7e4n1GfC9iky9VQzH3cDQz9wYpO.jpg" group-title="Thriller",Brazen (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6892.m3u8
+#EXTINF:0 CUID="579" tvg-name="Savage Salvation (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" group-title="Thriller",Savage Salvation (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6890.m3u8
+#EXTINF:0 CUID="551" tvg-name="Alice, Darling (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ybqS7I4tuMs1TIssvuLMk2lYlLe.jpg" group-title="Thriller",Alice, Darling (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6856.m3u8
+#EXTINF:0 CUID="542" tvg-name="Where’s Rose (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9cTOkOWATBoQvtHY6SAJhkiNciF.jpg" group-title="Thriller",Where’s Rose (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6845.m3u8
+#EXTINF:0 CUID="538" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg" group-title="Thriller",Tetris (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9136.m3u8
+#EXTINF:0 CUID="531" tvg-name="Last Sentinel" tvg-logo="https://image.tmdb.org/t/p/w780/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="Thriller",Last Sentinel
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9128.m3u8
+#EXTINF:0 CUID="517" tvg-name="Boston Strangler (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/oZJfw78ZyPmgNJ0YJ8070nKEF4Y.jpg" group-title="Thriller",Boston Strangler (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9114.m3u8
+#EXTINF:0 CUID="510" tvg-name="Luther: The Fallen Sun (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/tvX2JltXjmpHLQ7BBijyVc9STv4.jpg" group-title="Thriller",Luther: The Fallen Sun (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9105.m3u8
+#EXTINF:0 CUID="502" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/dXsiWJWwGwYwOQ6DfYFt5pPBMwT.jpg" group-title="Thriller",Inside (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9097.m3u8
+#EXTINF:0 CUID="1095" tvg-name="The Legend of Enveloped Demons (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/dLnPLtsN7qa6hZkd4rvHTwXNaq8.jpg" group-title="Thriller",The Legend of Enveloped Demons (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7505.m3u8
+#EXTINF:0 CUID="1106" tvg-name="Thirteen Lives (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/yi5KcJqFxy0D6yP8nCfcF8gJGg5.jpg" group-title="Thriller",Thirteen Lives (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7518.m3u8
+#EXTINF:0 CUID="1307" tvg-name="Mr. Harrigan's Phone (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gPn9e8eP7TeKQU4IeWAMzOajR40.jpg" group-title="Thriller",Mr. Harrigan's Phone (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7730.m3u8
+#EXTINF:0 CUID="1260" tvg-name="Anja - Real Love Girl (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cylyzTqP1YhwyfZETQZPBaIS2Pq.jpg" group-title="Thriller",Anja - Real Love Girl (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7679.m3u8
+#EXTINF:0 CUID="1249" tvg-name="The Escort Wife (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/PDmMLfAsJKgi9stkipDi27bCTZ.jpg" group-title="Thriller",The Escort Wife (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7668.m3u8
+#EXTINF:0 CUID="1235" tvg-name="End of the Road (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2mxnDbKCoR1M9e5szzc6Ku3Nfmv.jpg" group-title="Thriller",End of the Road (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7653.m3u8
+#EXTINF:0 CUID="1224" tvg-name="Stalked Within (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bsExTL9tVpFKRPYc9drSLzHUZnT.jpg" group-title="Thriller",Stalked Within (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7641.m3u8
+#EXTINF:0 CUID="1215" tvg-name="The Family (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3ER4u7T951pMv60hL5bUN6WsAMV.jpg" group-title="Thriller",The Family (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7632.m3u8
+#EXTINF:0 CUID="1196" tvg-name="Loving Adults (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mNSqObjKszcxr55buQafQF9ARiC.jpg" group-title="Thriller",Loving Adults (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7613.m3u8
+#EXTINF:0 CUID="1185" tvg-name="Route 10 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jZ58C9r3KJLdkyCTvRAvQh7tkI5.jpg" group-title="Thriller",Route 10 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7602.m3u8
+#EXTINF:0 CUID="1156" tvg-name="Fall (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="Thriller",Fall (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7570.m3u8
+#EXTINF:0 CUID="1135" tvg-name="The Most Dangerous Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg" group-title="Thriller",The Most Dangerous Game (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7548.m3u8
+#EXTINF:0 CUID="1117" tvg-name="Into the Deep (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/bPyBqGBYjGzyLVHJEIsCwlZejk.jpg" group-title="Thriller",Into the Deep (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7529.m3u8
+#EXTINF:0 CUID="1084" tvg-name="Wrong Place (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mlEtOQAQVy6eW65sHz3UduvzRK.jpg" group-title="Thriller",Wrong Place (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7492.m3u8
+#EXTINF:0 CUID="1065" tvg-name="Neon Lights (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7tlxaXoxmZCqeyq4MLhy0DSTPdl.jpg" group-title="Thriller",Neon Lights (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7471.m3u8
+#EXTINF:0 CUID="1051" tvg-name="Hot Seat (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/6zoA2yEfKs8hNFlk4AV28VpoT3I.jpg" group-title="Thriller",Hot Seat (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7455.m3u8
+#EXTINF:0 CUID="1041" tvg-name="Catfish Killer (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wSXOGXHhMdOPTp0Bm9QfMI6OaKV.jpg" group-title="Thriller",Catfish Killer (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7444.m3u8
+#EXTINF:0 CUID="1037" tvg-name="Five Elements Secret Art (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fBFAlMxm8LDjY0B596nMVEJglqE.jpg" group-title="Thriller",Five Elements Secret Art (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7439.m3u8
+#EXTINF:0 CUID="1008" tvg-name="Plaza Catedral (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/d6CNUw19Rr1ZFCR0wEBWm5brVCm.jpg" group-title="Thriller",Plaza Catedral (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7399.m3u8
+#EXTINF:0 CUID="1003" tvg-name="The Wrath of God (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xXTybIXrytekB4TeN4xrqeI1f8G.jpg" group-title="Thriller",The Wrath of God (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7393.m3u8
+#EXTINF:0 CUID="897" tvg-name="The Aviary (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/u6HUQcOQsgkFFO8xCITfxQz6ivc.jpg" group-title="Thriller",The Aviary (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7274.m3u8
+#EXTINF:0 CUID="894" tvg-name="Runway 34 (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/8RlQEuxeRqHh7sWTRswdUC9kP3H.jpg" group-title="Thriller",Runway 34 (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7271.m3u8
+#EXTINF:0 CUID="892" tvg-name="The Eighth Clause (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/5CbVMeLvaGn87gx05waiIJ0JySr.jpg" group-title="Thriller",The Eighth Clause (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7269.m3u8
+#EXTINF:0 CUID="833" tvg-name="Inexorable (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/cIdnkWNpEO7pwCUV3Jv5qKiKTlt.jpg" group-title="Thriller",Inexorable (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7208.m3u8
+#EXTINF:0 CUID="1608" tvg-name="I'm Sorry If I Took a Toll on You (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/xeyOaO5etw6ykP2mAimpnXPFy1W.jpg" group-title="Thriller",I'm Sorry If I Took a Toll on You (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6829.m3u8
+#EXTINF:0 CUID="1600" tvg-name="Barbarians (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/6dSolFhaf5JOQjgwKCYnEoeJB8z.jpg" group-title="Thriller",Barbarians (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6821.m3u8
+#EXTINF:0 CUID="1590" tvg-name="Nightride (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w8WILe0aNn4QhiNQA0hIFltuti9.jpg" group-title="Thriller",Nightride (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6810.m3u8
+#EXTINF:0 CUID="1583" tvg-name="American Refugee (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/pslX7CSq8eYmUNtnNYWZgZY3Ih2.jpg" group-title="Thriller",American Refugee (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6803.m3u8
+#EXTINF:0 CUID="1579" tvg-name="The Desperate Hour (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg" group-title="Thriller",The Desperate Hour (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6799.m3u8
+#EXTINF:0 CUID="1578" tvg-name="6:45 (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/AifHZptVzkzLLfk2tedIQixqrgV.jpg" group-title="Thriller",6:45 (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6798.m3u8
+#EXTINF:0 CUID="1562" tvg-name="Catch the Fair One (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/35QvPu5nOGlzDIGOdvtRNNkfjLZ.jpg" group-title="Thriller",Catch the Fair One (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6782.m3u8
+#EXTINF:0 CUID="1557" tvg-name="Hacker: Trust No One (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/91pB7MxquMeFbeMHamslCKk5wNZ.jpg" group-title="Thriller",Hacker: Trust No One (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6776.m3u8
+#EXTINF:0 CUID="1548" tvg-name="Black Medusa (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/fA82r5NY4VCrNYYr5Ja8Jq7U8VO.jpg" group-title="Thriller",Black Medusa (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6767.m3u8
+#EXTINF:0 CUID="1462" tvg-name="The Black Spider (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w0GjWn94mtzKOV1T1ae0MfOHnHo.jpg" group-title="Thriller",The Black Spider (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7909.m3u8
+#EXTINF:0 CUID="1443" tvg-name="Viking Wolf (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/abBDzmy35A3Nkupn6wK2DKyFamd.jpg" group-title="Thriller",Viking Wolf (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7876.m3u8
+#EXTINF:0 CUID="1426" tvg-name="Manifest West (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/lAxUEIHjzqYcatkYKKEOudJW2mA.jpg" group-title="Thriller",Manifest West (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7859.m3u8
+#EXTINF:0 CUID="1418" tvg-name="The Willowbrook (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/p8Xs2fEyTn9qKzvlka50vZpWmNb.jpg" group-title="Thriller",The Willowbrook (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7851.m3u8
+#EXTINF:0 CUID="1417" tvg-name="On the Line (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/jVmWI8PqoVTHCnrLYAcyrclzeY0.jpg" group-title="Thriller",On the Line (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7850.m3u8
+#EXTINF:0 CUID="1416" tvg-name="Staring at Strangers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ozgB7njLoj0xRb1VtVCTrNH3FEw.jpg" group-title="Thriller",Staring at Strangers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7849.m3u8
+#EXTINF:0 CUID="1406" tvg-name="The Minute You Wake Up Dead (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/pUPwTbnAqfm95BZjNBnMMf39ChT.jpg" group-title="Thriller",The Minute You Wake Up Dead (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7839.m3u8
+#EXTINF:0 CUID="1396" tvg-name="A Savannah Haunting (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fpxmnwY9mQk05JVya6lsbvUm3mW.jpg" group-title="Thriller",A Savannah Haunting (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7829.m3u8
+#EXTINF:0 CUID="1353" tvg-name="The Possessed (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/tDmWqD80zzxQZhgSzDEOW2llS0L.jpg" group-title="Thriller",The Possessed (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7781.m3u8
+#EXTINF:0 CUID="1351" tvg-name="Piggy (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sgGvWkIM6ayUDtpL12FUh9V6hEU.jpg" group-title="Thriller",Piggy (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7779.m3u8
+#EXTINF:0 CUID="1347" tvg-name="Halloween Ends (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/q06saepaXeBdkMibuN4R2fXmgIw.jpg" group-title="Thriller",Halloween Ends (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7775.m3u8
+#EXTINF:0 CUID="1341" tvg-name="Love Proof (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/oP54FuQr07FTCg203x1ZfVCb1P0.jpg" group-title="Thriller",Love Proof (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7769.m3u8
+#EXTINF:0 CUID="1320" tvg-name="The Inhabitant (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg" group-title="Thriller",The Inhabitant (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7745.m3u8
+#EXTINF:0 CUID="14" tvg-name="Fall Into Winter (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/nKvBcgmhGNDEGPY4zZFnuGOK9KC.jpg" group-title="TV Movie",Fall Into Winter (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9040.m3u8
+#EXTINF:0 CUID="1261" tvg-name="Wedding of a Lifetime (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/sZiGBV09gjbTx5pWJubPHASsOTv.jpg" group-title="TV Movie",Wedding of a Lifetime (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7680.m3u8
+#EXTINF:0 CUID="846" tvg-name="Curious Caterer: Dying for Chocolate (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/7quPRcCVUmMBxKO58QwPuIADtYG.jpg" group-title="TV Movie",Curious Caterer: Dying for Chocolate (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7222.m3u8
+#EXTINF:0 CUID="1394" tvg-name="A Party to Die For (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rrSSb7fbliP7Xnz0qkC4Z5T0YoO.jpg" group-title="TV Movie",A Party to Die For (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7827.m3u8
+#EXTINF:0 CUID="1372" tvg-name="We Need a Little Christmas (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/n2TIUpxs4I9cfNOqVx8LVvg9qye.jpg" group-title="TV Movie",We Need a Little Christmas (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7803.m3u8
+#EXTINF:0 CUID="1360" tvg-name="The Lost Patient (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tHwGtD4zT0IhKdc2JQNxHAJFGWn.jpg" group-title="TV Movie",The Lost Patient (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7788.m3u8
+#EXTINF:0 CUID="440" tvg-name="Condor's Nest (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/aBAsCMzsbGlFtQFqeWsKWM6hvOE.jpg" group-title="War",Condor's Nest (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9020.m3u8
+#EXTINF:0 CUID="438" tvg-name="JUNG_E (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg" group-title="War",JUNG_E (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9018.m3u8
+#EXTINF:0 CUID="366" tvg-name="Betrayal (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4YRaJcaDXILuieNIoDxaSLpGYAq.jpg" group-title="War",Betrayal (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8942.m3u8
+#EXTINF:0 CUID="359" tvg-name="Napoleon (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/vcZWJGvB5xydWuUO1vaTLI82tGi.jpg" group-title="War",Napoleon (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8935.m3u8
+#EXTINF:0 CUID="82" tvg-name="Come Out Fighting (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg" group-title="War",Come Out Fighting (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8600.m3u8
+#EXTINF:0 CUID="55" tvg-name="The Covenant (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/4jwVlbGt3BeLr8HCbCTVa72IcWe.jpg" group-title="War",The Covenant (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/8573.m3u8
+#EXTINF:0 CUID="15" tvg-name="Ambush - Battlefield Vietnam (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg" group-title="War",Ambush - Battlefield Vietnam (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/9072.m3u8
+#EXTINF:0 CUID="763" tvg-name="Darkling (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gwB4RSrgZ0qPVINQwZgjHrqQjTp.jpg" group-title="War",Darkling (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7134.m3u8
+#EXTINF:0 CUID="690" tvg-name="Once In The Desert (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/hnjGrFdh2FZPQGOFq9myiQuABoK.jpg" group-title="War",Once In The Desert (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7059.m3u8
+#EXTINF:0 CUID="639" tvg-name="Snipers (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/98zSP1anihAPi5RZIsLErkbYDlH.jpg" group-title="War",Snipers (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7003.m3u8
+#EXTINF:0 CUID="637" tvg-name="The Battle at Lake Changjin II: Water Gate Bridge (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/4W58wirZhbzcw2lNzRS2ErKnOGS.jpg" group-title="War",The Battle at Lake Changjin II: Water Gate Bridge (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7001.m3u8
+#EXTINF:0 CUID="550" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="War",Narvik (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6855.m3u8
+#EXTINF:0 CUID="1297" tvg-name="The Greatest Beer Run Ever (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/ggf37TpcKaxwguhvtNn6MQpyqBn.jpg" group-title="War",The Greatest Beer Run Ever (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7718.m3u8
+#EXTINF:0 CUID="1237" tvg-name="Wolves of War (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/rfKvX0oB3YyJfYEtUe2TazaQdRq.jpg" group-title="War",Wolves of War (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7656.m3u8
+#EXTINF:0 CUID="1229" tvg-name="Wolf Pack (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/olDaLipBeKRoQBRqUZSyzpkzzbp.jpg" group-title="War",Wolf Pack (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7646.m3u8
+#EXTINF:0 CUID="1181" tvg-name="Sniper: The White Raven (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/295gZzTXMvuiIG0U19h4M44PXxI.jpg" group-title="War",Sniper: The White Raven (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7598.m3u8
+#EXTINF:0 CUID="1080" tvg-name="Image of Victory (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/2j7GP2FxnBedPW3BmVvr6E1xr1s.jpg" group-title="War",Image of Victory (2023)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7488.m3u8
+#EXTINF:0 CUID="1078" tvg-name="Kingdom 2: Far and Away (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/wE4NqJosSPjiyqStBEv67mQbR1b.jpg" group-title="War",Kingdom 2: Far and Away (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7486.m3u8
+#EXTINF:0 CUID="1020" tvg-name="Black Fox: Ultimate Rescue (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/w1CEub3EkxWR21skS8pdqkLsENo.jpg" group-title="War",Black Fox: Ultimate Rescue (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7413.m3u8
+#EXTINF:0 CUID="978" tvg-name="Wolf Hound (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/kzYin0Tr51KOa6y8dcbbcvwcq9k.jpg" group-title="War",Wolf Hound (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7364.m3u8
+#EXTINF:0 CUID="927" tvg-name="Spitfire Over Berlin (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/xtPPOPTad1qopK6uDe3VlYUa22o.jpg" group-title="War",Spitfire Over Berlin (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7306.m3u8
+#EXTINF:0 CUID="922" tvg-name="Operation Mincemeat (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/tfdfh1mK24VujxT5z11732asxdR.jpg" group-title="War",Operation Mincemeat (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7301.m3u8
+#EXTINF:0 CUID="920" tvg-name="Siberian Sniper (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/mm7HDu4fHXCwdFVCkb089DiMCxr.jpg" group-title="War",Siberian Sniper (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7298.m3u8
+#EXTINF:0 CUID="851" tvg-name="Broken Keys (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/3om2wl4TlnrJKSONoH6bI50FQNo.jpg" group-title="War",Broken Keys (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7227.m3u8
+#EXTINF:0 CUID="1611" tvg-name="Foxhole (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/hSbeOXVt4J0wEC3QAKN3QEjlrTJ.jpg" group-title="War",Foxhole (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6832.m3u8
+#EXTINF:0 CUID="1594" tvg-name="The Shadow in My Eye (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/jCKvbH3a4V5IPoRAG85eDaniNqO.jpg" group-title="War",The Shadow in My Eye (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6814.m3u8
+#EXTINF:0 CUID="1539" tvg-name="The Tragedy of Macbeth (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg" group-title="War",The Tragedy of Macbeth (2021)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/6757.m3u8
+#EXTINF:0 CUID="1465" tvg-name="Battle for Saipan (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/9N3KwhzBCcqmFcqHpPCsjqfym9M.jpg" group-title="War",Battle for Saipan (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7912.m3u8
+#EXTINF:0 CUID="1457" tvg-name="Devotion (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/26yQPXymbWeCLKwcmyL8dRjAzth.jpg" group-title="War",Devotion (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7904.m3u8
+#EXTINF:0 CUID="1390" tvg-name="All Quiet on the Western Front (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg" group-title="War",All Quiet on the Western Front (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7823.m3u8
+#EXTINF:0 CUID="1319" tvg-name="Operation Seawolf (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/eqm5EAyC9hJCN5qutuW4Ka1xYbU.jpg" group-title="War",Operation Seawolf (2022)
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 10) ExoPlayerLib/2.13.2 
+http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7744.m3u8
 
 
 ========================================================================================================================================================================
