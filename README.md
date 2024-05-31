@@ -2628,212 +2628,7 @@ https://hadeh.pitoyoabdi.workers.dev/Crimson%20Love%20Letter%20(2017).mp4
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/gTNGP4R/Zero-the-Enforcer-2018.jpg" group-title="Film Animasi", Zero the Enforcer (2018)
 https://hadeh.pitoyoabdi.workers.dev/Zero%20the%20Enforcer%20(2018).mp4
-
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Onward (2020)
-https://lh3.googleusercontent.com/fF8HWTTEyxQ47-aS0eX_bgduZKpSz7nQMWvNFZHITRQuzFfDsIEEUnHJLafBEFD5G2YVWzCFvQHondQrww=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Superman: Red Son (2020)
-https://lh3.googleusercontent.com/_4hWYQK9NZZhVyYrK6f-J7wdBShV1dimiEmZuHn-cSK_7dj5tQk-3S06ZV8bSFId6cb5f1pYZkmJ1q_EIg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", How to Train Your Dragon: The Hidden World (2019)
-https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Steven Universe: The Movie (2019)
-https://lh3.googleusercontent.com/E99xqFlfU_4bdUjOk9Ji6qIDSO1TCtjVB9lNThPVww_cVaepGnxYNW3PeB01PDJmuZ-Pdr6jt46IgqlQ7w=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Spies in Disguise (2019)
-https://lh3.googleusercontent.com/OoBO6eHYVDaqQGVTbi_V7B6k9gex4sBQghhHRnSTMrv5Z9h4AlICZX5NKjLB0shdHz7QNL3lwNMv2Mqk-w=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ne Zha (2019)
-https://lh3.googleusercontent.com/c0U7OGUBnkPTdncJ2Ok8ZCZryJ3P6dK82BsWpZX5eNM7Ue4roUSmGdczGLn0yhc6FKnpuHiijTN-apqJ6g=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Abominable (2019)
-https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymfYndRmWvIeq3H12dilQw6wXG4RFVj6vt_yUQw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", A Shaun the Sheep Movie: Farmageddon (2019)
-https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", BoBoiBoy Movie 2 (2019)
-https://lh3.googleusercontent.com/s_n63JhY1Nh1upoyAT6L653V9BrfKXxrcNbG7zODPUjjD_F4QBeHWxjFshWW3JCYdG4A_X-kx2w3E4xm4w=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Frozen II (2019)
-https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Klaus (2019)
-https://lh3.googleusercontent.com/bZksVRtlxJYkorO8Nv5vhIdEeQmgzLQMcLB0D5VJREvnt70WbJVsl9ZdQo6SzXbSkLMKB0V6Jm4XZWsKYw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Dragon Quest: Your Story (2019)
-https://lh3.googleusercontent.com/18EQjsSIBHi4fbbOv2wwMLayRH4dk3igm_JvM7Ta0R9oYhrXl_dR7y3xBo_lFpRtSBBc5msG-0NJWQplyA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ejen Ali: The Movie (2019)
-https://lh3.googleusercontent.com/jmLxzKTov1xWOsKFZhNooBeqEsQi6Y-HV2tNpU1QCHwbU8lwD5TfyOw7Hh-mSPUD1F9xBlK2vZPX-p8DMw=m22
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", White Snake (2019)
-https://lh3.googleusercontent.com/RamGmf47xAzSLk9JDJNlfTD_l3aeAKBzjSlOTBDo_Jw30u6fCcz-Pnq1D_8AUO0u5sVMKcesaGeAkayBwg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Playmobil: The Movie (2019)
-https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Playmobil: The Movie (2019)
-https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Scooby-Doo! and the Curse of the 13th Ghost (2019)
-https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Addams Family (2019)
-https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Trolled (2018)
-https://lh3.googleusercontent.com/genRt26TWtb0zBMuTXuVA1W_JSYNm8Ycyj4B6FM06z71CTtFqzaq31YGm6qQeHxfHwAqL29ke_a2qNH4pg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ralph Breaks the Internet (2018)
-https://lh3.googleusercontent.com/H_GqI24O5cNbG80JM4gGbXir6_KVd-0pQQJ11eOxPqcMyD7kBoRzqNqNHwk8dOswmg-f9B7D9mDsQX_aCA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Batman Ninja (2018)
-https://lh3.googleusercontent.com/-tgi8pvGLgoUmbtSEOR0LuEyZQcvNi_NWM04Xi2FvlN8smXkqE6wcVcesxUkBR1B3FldiYPmjPrusNZmxA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ice Princess Lily (2018)
-https://lh3.googleusercontent.com/P3PiUglF1AVAY2uqaNaDMiQPW9NOxbQuwttFpC-Di21C_ttxtcoEMk0pybUAWOMXWC2A2AfAKcami9xovw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Next Gen (2018)
-https://lh3.googleusercontent.com/NyW6KtjebzkRDEgarfoj4raUDwjirHptpKikrn2vkw_kTWjrRkKA4wVr1TmFPtfrwAKfOK8bt60bAVtAEQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Racetime (2018)
-https://lh3.googleusercontent.com/fhw3X66GqUCTzmwweS1nZmXO7DslzAcbIrPPF09lTwK-teUh8nIFvPsZEhHownMKQtB7T6mBjVBFYtOGaw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Spider-Man: Into the Spider-Verse (2018)
-https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Incredibles 2 (2018)
-https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Duck Duck Goose (2018)
-https://lh3.googleusercontent.com/gdh73W9ibmWLvZGXMyEr5BOmi88klvMshe7Yc8FvAZlxq9ujiS1FEqDQCupwzXarWJWaPDxo0cRPGil7DA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ploey (2018)
-https://lh3.googleusercontent.com/By9ezNfZ9dmIC0Qk2vkCfbntcGL6Ybdc13gDV9bAWU85KrBfR45mR_TQOgJmkDUu_XFhKBAJ6cpQqp-HoA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Early Man (2018)
-https://lh3.googleusercontent.com/s3umJBZYY8x6Q19-5gu9IesDlTo7kpR3pT_qGeIinD6zw7L_EQ7VsyoMa9fMFCrmh_sz3QE0PgPoIYP1Rw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Luis and the Aliens (2018)
-https://lh3.googleusercontent.com/ax1thLqrhCB8Xcy99VYX9ASXAejRZwJgkIhLcTEg5V0Gvxww3PelKkJvYp1eOaECcZukq-6Y1r79MInUnA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania 3: Summer Vacation (2018)
-https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Pokémon the Movie: The Power of Us (2018)
-https://lh3.googleusercontent.com/nOPQnLh3q9rsfXXbL8iBQsU2MN38rPsx9ovcP88eBByElr8UV_djNSArFh1W_T9EVmzZTp_1aLwcczTuCg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Peter Rabbit (2018)
-https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHzg9VpmWCZaHJAITEXD9pRoupQhUc6pVgl4rXg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Rabbit School - Guardians of the Golden Egg (2017)
-https://lh3.googleusercontent.com/eZ7xx-sBxliS9RqIPS83EV1Y2hpMrpGy3quJCh7w6jH6lED7pkifhEsAhF2Irc2fbHKZ-8Ou6MkmxB9GHw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Big Bad Fox and Other Tales (2017)
-https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Cars 3 (2017)
-https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Boss Baby (2017)
-https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Emoji Movie (2017)
-https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ferdinand (2017)
-https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Breadwinner (2017)
-https://lh3.googleusercontent.com/uMgnRZ7dVhTAZ-jF4yb655NXUd-h4-YWxng7S0SVVozx40O0DAT09G4GtzHn08KtdVWkvLPvjd4K0hnh9A=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Woody Woodpecker (2017)
-https://lh3.googleusercontent.com/LAO2jlag3W5IvX5S1oRmvIc77JKlhtfvkHVTC3NxJgRWsdyDtwk17HKkJvx_gQzYJnV6CmyYqQx78l8onQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Coco (2017)
-https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Cinderella the Cat (2017)
-https://lh3.googleusercontent.com/ZeKk8aw26Vle_JgcDATloql64Y8UiMENzgMER2RMRujbGayebdkUum099Mp5T3WhQrs1GoLcvsvFjyKWvw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", BoBoiBoy: The Movie (2016)
-https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf7sxeJCRC7q-qGe1SkMke9dDIqYtlRgHk0KbQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ice Age: Collision Course (2016)
-https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Kung Fu Panda 3 (2016)
-https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Moana (2016)
-https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
-https://lh3.googleusercontent.com/9Pwu6oU8JOO8xLQvcbZKBv92_Xg30CGIKiZOn_e1zM62QEmMO83oqTYnMZ-qc3ngLmqz64PRK6KjVSbeJQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Spark: A Space Tail (2016)
-https://lh3.googleusercontent.com/UPIm4fM-6VhJ5ExNFfRNiYwLmfEcZ9K9_Aj2bFbbRQQNSwRKnl_6GuNLP7RGTYF54uryWcE0Bp-jQzWAQw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen 3 (2016)
-https://lh3.googleusercontent.com/VwINSgoBhaYdlPODtPggQCEvv9nUbojqu2y7SyiXV2-Jfp2vU3z-bAJ36yfVCSsmQqhX5ARt-B6HijKjCw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Throne of Elves (2016)
-https://lh3.googleusercontent.com/z64bQSz2Xc9fAAr467xapW9CrGzs5Mi4EIlWttapanaalcCHLqrmkw2yYT8F6cAVGgAUcIwBCHxrxiTJyQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Trolls (2016)
-https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap2uuxJAHp4vCn9vQjHTw8cmUtwUAz1wsZUKJg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Bilal: A New Breed of Hero (2015)
-https://lh3.googleusercontent.com/f3uaz13M7le6hfjKjBOIR6tNCUObu4gIPfEFosf6j72n2gWAg7J05A7CV6M-w8FcwdtXirBy5atiF78XDQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania 2 (2015)
-https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Big Hero 6 (2014)
-https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Dragon Nest: Warriors' Dawn (2014)
-https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", How to Train Your Dragon 2 (2014)
-https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Rio 2 (2014)
-https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen 2 (2014)
-https://lh3.googleusercontent.com/PUkP_uc30xYVDPQPTPBOcYAmdTJDzriV5Jb_RKM0CrMlykOwQBB4a6B4Hs2NMEJwPF5t2bZVqOOSWfjgsQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Frozen (2013)
-https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Monsters University (2013)
-https://lh3.googleusercontent.com/CrjdkDGEoO0RzVc9UZhMmV6r2jNNLlhqvzYm768vkKY5JAArbC50XvZdAhoYpIaCb09h__j-d-GPBQoTkQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Tarzan (2013)
-https://lh3.googleusercontent.com/zufDgL7mogTBnRtvvwRJcdEZR-AkdSbGM24odqJTnp5qp2x_UEirukB_XNB13CjL38w8R2i-ukpD-p62IQ=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Brave (2012)
-https://lh3.googleusercontent.com/5JnP-eTnKSwFQ9M29yEwcU4m3U2twJ9zeEOpzLuDTg0mtZj-7gfI7Ui7aEkeCLVh7NLjUk24muipjgm-aA=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania (2012)
-https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania (2012)
-https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ice Age: Continental Drift (2012)
-https://lh3.googleusercontent.com/6QwK8RipgMSvRNhioFlgChBB9olLkEaqC_C22acc4Rikl3Pb6ldczJpFdRUqORmJkvHN5VyQyKAIa8msaw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Tad: The Explorer (2012)
-https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEtr6nu2Ak47AXKroZsxnwAgZF2nEQAbmkCD5sw=m22
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen  (2012)
-https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
-===============================================================================================================================
+====
 
 
 =============================================================================================================================
@@ -8258,193 +8053,7 @@ http://103.127.208.209:25461/movie/vod@nvcm3u/vod/7744.m3u8
 
 
 ========================================================================================================================================================================
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgGR6MmNouhg1QifgCVDlGzZrSj6MMfqI8zWWmbAbSrqf#.mkv
-#EXTINF:-1 xui-id="12212" tvg-name="Meg 2: The Trench (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDTOVtpjxb0NFhEMd88poZ03dY-w3lExSRZomy0kYAe0.jpg" group-title="Continued Collection",Meg 2: The Trench (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgA-fYI6PEoq6Uyf4muQniiCQNZX_J5_FAv0C_e-bvNZT#.mkv
-#EXTINF:-1 xui-id="12213" tvg-name="Mission: Impossible - Dead Reckoning Part One (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNr0c557vb1U7TgHiEfNZgiFEdjAn1hd3EoFZufKvgLo.jpg" group-title="Continued Collection",Mission: Impossible - Dead Reckoning Part One (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgK4dddOCAy5B0fXUT-aIgQ2olUVpjV2NOe-btWLsdxRe#.mkv
-#EXTINF:-1 xui-id="12214" tvg-name="Oppenheimer (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLd7RlUQWaYkObeQcL8IoqhMQNFH4K5KTV8TOp7orDMdQ.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Oppenheimer (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgBoerVTrlj4S5c3hzIN1QdZMMDIzunqi4gAvmU0TZiUu#.mkv
-#EXTINF:-1 xui-id="12215" tvg-name="Spider-Man: Across the Spider-Verse (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDTSvA5H5gYvKbalKG4bH-KPE1MhaJRnIS0omv89c6gc.jpg" group-title="Marvel Collection",Spider-Man: Across the Spider-Verse (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIHyXxYlPCNdLwRlrJEXugeHAIX9difxVcURPglblPsS#.mkv
-#EXTINF:-1 xui-id="12216" tvg-name="The Dive (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLflYYP6BwpM7PhtRA8CeUetUwERmfxrTpW4uTrQi9HoY.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",The Dive (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDRroLE22jJUiNkrNlHsmWb12MXHcJrRiQ5cuqeG-6SG#.mkv
-#EXTINF:-1 xui-id="12218" tvg-name="The Equalizer (2014)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnPyWGo-rzRSYmw7lG43cxpaO88lrodTEpiDNICzEvs0.jpg" group-title="Continued Collection",The Equalizer (2014)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgECRhHBYuRIpAL5YikejzsqCd2rTtSTEj33g9u57_jee#.mkv
-#EXTINF:-1 xui-id="12219" tvg-name="The Equalizer 3 (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqcCW-jDvbDY-XDJmGHNzXRDZLqrspp6q8WOYJcWuAqA.jpg" group-title="Continued Collection",The Equalizer 3 (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgAQpFAS_mbDassbTMjXqf2W0WL5UA7EIJBxyTdNW8_G8#.mkv
-#EXTINF:-1 xui-id="12220" tvg-name="The Flash (2023)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLiFVKqLJQgXwpL1_DH3CW7nkjJxPNkCKT2fP1fDQwq-0.jpg" group-title="DC Collection",The Flash (2023)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIopOJ0OBmIESBJe2ecZGXxWwaIqp98_d_W0JoBvcmZ9#.mkv
-#EXTINF:-1 xui-id="12221" tvg-name="From Dusk Till Dawn 2: Texas Blood Money (1999)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLh-82H4xPGGdcmRj4u2im0pyE0vSnRwCdsvCpqjtCsz0.jpg" group-title="Continued Collection",From Dusk Till Dawn 2: Texas Blood Money (1999)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDAyxVWti8l_kT6CYmQG3-uSaGSQ0lbNYH815LjkrfaO#.mkv
-#EXTINF:-1 xui-id="12222" tvg-name="From Dusk Till Dawn 3: The Hangman's Daughter (1999)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBTSOLerG2FuyIW-ZB4SbdWRxZkx734V27_0yJ5jRzag.jpg" group-title="Continued Collection",From Dusk Till Dawn 3: The Hangman's Daughter (1999)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDRyLcJG-MMbBHo6ePi_8kXZXZsxXWjcaCDXhNbkmZrN#.mkv
-#EXTINF:-1 xui-id="12411" tvg-name="Fast & Feel Love (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLSGHICoUGMGLDR2gXo7ITQ-2otj_WgcPac8r5bx7oAlg.jpg" group-title="Movie Thailand",Fast & Feel Love (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgMSqJbawUbzO4nt7F4PTyRtw30nCy39OnHtyS9r6lpOu#.mkv
-#EXTINF:-1 xui-id="12412" tvg-name="Minions: The Rise Gru (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTxjsKZXICloOvIRqz6_HxQ0qodeyZBGEYAJwF5U8470.jpg" group-title="Anime & Cartoon Movie",Minions: The Rise Gru (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgBydxYRkgHlX0_jqA4owESuYGce5AeiTd2Z0RV-2Yzpt#.mkv
-#EXTINF:-1 xui-id="12413" tvg-name="Paradise Highway (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpZKdqCxugrt6mdjMz_UGrBGEtumivBt6aTbtlKfeh8o.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Paradise Highway (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgPXvCI_lUTjIa6Kog7vZ2S3dQrnHEIRA4LveAFBq7FHI#.mkv
-#EXTINF:-1 xui-id="12414" tvg-name="Prey (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4LoCBypGU4gZV1mbvTz5NCEzsIBi8nxP3wiEIALfSqE.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Prey (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgJkPe4fVxJ1PtsI_5MloXOUEnwboeNzs7695xZ4psBFO#.mkv
-#EXTINF:-1 xui-id="12415" tvg-name="The Gray Man (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLm-LpRjM7K1zMKn9DjTkmmJSogJ72SEBbYqCmDi2VNuY.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",The Gray Man (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDZcIz6G9W2gYDBMztQtJSJJiGNqdonTnNwJpJ5qDAcv#.mkv
-#EXTINF:-1 xui-id="12416" tvg-name="The Roundup (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLtII1mrOC3AKmyLohIPORHaYpWmQORHKVo8CErZed1lc.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",The Roundup (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEy4_FfgIbY6gthTrrR0ya9F0vXEJXU1efe2_PEztaiC#.mkv
-#EXTINF:-1 xui-id="12417" tvg-name="The Witch: Part 2 The Other One (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhsvL1xj9LpTRdlmoxTr5uoWyrffvkUvE4neOsNQNoKw.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",The Witch: Part 2 The Other One (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgOKY-dbt1CxTWaSPA4yUPgG_br9w8ORa97INfKIV53vk#.mkv
-#EXTINF:-1 xui-id="12418" tvg-name="Thirteen Lives (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXtl-OFpP08bCCY49ob-ShnkERJfv0tlNo7yo7t3vpzQ.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Thirteen Lives (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKre-tZdNzbV-xe2-_ORYFjH-llq-9ENuhikyFlupNSM#.mkv
-#EXTINF:-1 xui-id="14225" tvg-name="Firestarter (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdgC289H-l7S8h70niQrZlOxEqeSpvi8AScQULyXC7Cg.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Firestarter (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgLEAKzI_ATF-MEsKQfudiWEVMuGCxLiJHPCaWmT8jYuO#.mkv
-#EXTINF:-1 xui-id="14226" tvg-name="Jujutsu Kaisen 0 (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLwCdcX1B5uXVESvlhOTr3W1E6riymXt5CFP8a-RZmesA.jpg" group-title="Anime & Cartoon Movie",Jujutsu Kaisen 0 (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgBpJ390EFvTqcPLeVtWQ9XPY2HMAlUKhyX3ONDmFJIUQ#.mp4
-#EXTINF:-1 xui-id="14227" tvg-name="Merindu Cahaya De Amstel (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnyph48fZ05NLiTS8zLNlT1a4O32dtxN6-nbwaEPW2Tk.jpg" group-title="Movie Indonesia",Merindu Cahaya De Amstel (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgCMIDJhLz4-CKfSp249TuAC8McZHVxwmuoG8s8rfGvDQ#.mkv
-#EXTINF:-1 xui-id="14228" tvg-name="Morbius (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLn9vpz3dYtMbsnJcmGRZCVAViFuPM0ke4PKYKNpr05U8.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Morbius (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgAyrwJ6V3546WkMgf6awRbddPbPC-KkhYg0g1HP9UJjv#.mp4
-#EXTINF:-1 xui-id="14229" tvg-name="Rise Roar Revolt (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL9QSgItGoktwdtsrwVrisYz2aOZxtCC4HStQZT9TniUQ.jpg" group-title="Movie India",Rise Roar Revolt (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgHh4bJtNWblpWgmEfo1LpuG3ncCZ6N1wNcAkavx0WPVv#.mkv
-#EXTINF:-1 xui-id="14230" tvg-name="Senior Year (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyEsVDNbVRWkh7viJrt-JrWJUT9aYtAWBUlJ7v45o4sk.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Senior Year (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEsezCgBlwS41f-oFmB46gguzAyOOCYD719sG24-FA4z#.mp4
-#EXTINF:-1 xui-id="14231" tvg-name="Shut In (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLpaDfGNxhCJa8NGRydZnIGk_OMcrJowGHdRjyg7uW7I8.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Shut In (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgGUHMphFcQ7iWcDXcUh0hAixWpw8-WWRVvB5JrftNYFp#.mkv
-#EXTINF:-1 xui-id="14232" tvg-name="The Bourne Identity (2002)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0BwBW1gqzqaP3mgcSBoAXztTV8igTgFeYWg-fEXSFPQ.jpg" group-title="Continued Collection",The Bourne Identity (2002)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIMh68DghU7fO_a0YIMEIQwBLak62AW57HE0Nx6ndZM0#.mp4
-#EXTINF:-1 xui-id="14233" tvg-name="The Bourne Supremacy (2004)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1tc4YCJ7qfuMEjX6ydFmiw5wDDywC10PB-EzNfIgedM.jpg" group-title="Continued Collection",The Bourne Supremacy (2004)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDmgrjfH46bdIyNFjQse9-EffH2ny_k-UiQax31hIgi5#.mp4
-#EXTINF:-1 xui-id="14234" tvg-name="Fast & Furious Presents: Hobbs & Shaw (2019)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLzBWpJlCaYHo185aCnggbPDrUCrg9d_FNwtra62F95Ks.jpg" group-title="Continued Collection",Fast & Furious Presents: Hobbs & Shaw (2019)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgFzlFAtHLZ2t_KBt9fyxmx5e-ID3LjQy9tCxPvSxWVqZ#.mp4
-#EXTINF:-1 xui-id="14235" tvg-name="The Bourne Ultimatum (2007)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRIQvSlgdaWK9nsDzy5_xAN_Hd_jQoFLCSvdrBEG-A5c.jpg" group-title="Continued Collection",The Bourne Ultimatum (2007)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKH3bWxn059eUVLSFxMgwniMzfd30-YqrhZI54bnl_7P#.mp4
-#EXTINF:-1 xui-id="14236" tvg-name="G.I. Joe: The Rise of Cobra (2009)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLnyoRltBV-SXEg2nk8jICdzy9mmkZmTnnhA6gFdscNh8.jpg" group-title="Continued Collection",G.I. Joe: The Rise of Cobra (2009)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgJuqDe8b19htgmsrsKoBZXM4xzpucCUZRq7j-3gjb3eb#.mkv
-#EXTINF:-1 xui-id="14237" tvg-name="2 Fast 2 Furious (2003)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLjrKkUKi0sd_tM5iu9tT8HwQYNz7MOP8dpt5Tt-HRfBs.jpg" group-title="Continued Collection",2 Fast 2 Furious (2003)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKCeEu4Hi_RamvaP57RKSlW0loqZHHxpU-OWXHFpQsUW#.mkv
-#EXTINF:-1 xui-id="14238" tvg-name="The Expendables (2010)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLLGcYqenJl4apPpiiKvaDwgJbWBORUSzVdLoBlCEbplE.jpg" group-title="Continued Collection",The Expendables (2010)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEc_ANGm7v3nN_Q22rAzm9mECf2tDLIEKmDlH7rbiqlw#.mkv
-#EXTINF:-1 xui-id="14239" tvg-name="The Fast and the Furious: Tokyo Drift (2006)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLE1nuX7XBN8L1RAwqnhCPejr7sAiBKCl0BE3fPjXzGaQ.jpg" group-title="Continued Collection",The Fast and the Furious: Tokyo Drift (2006)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgK8YfE6PbxHastDfDI44-gDiT9AtcEiwzvfSuoWlgUbh#.mp4
-#EXTINF:-1 xui-id="14240" tvg-name="G.I. Joe: Retaliation (2013)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLgPBQ5nZ_6qtI5JLXRZTfLUwSz8-5sk-bWV7Gscsld9I.jpg" group-title="Continued Collection",G.I. Joe: Retaliation (2013)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDqZwGrP_Y8XWUfjVcRn0zpJLoIp8RFmN8Edo7dvmKSc#.mkv
-#EXTINF:-1 xui-id="14241" tvg-name="Jason Bourne (2016)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLg_m2F08h96jK4kNOI9ZlJrJ5XjzuHZ1VW5fAIOB5obc.jpg" group-title="Continued Collection",Jason Bourne (2016)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgLfRf8TfHO9-RIs89rDPXIXn_zCCspprUuXwTpKHXZtB#.mp4
-#EXTINF:-1 xui-id="14242" tvg-name="Fast & Furious (2009)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3xeZiiJsj6JujIh2oLeFUJK1toT6PpkEA6E6bVP91-4.jpg" group-title="Continued Collection",Fast & Furious (2009)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDlwHn_w4qjiigVoGylEawNVYNFAs3tYvD2B47T-9cgM#.mp4
-#EXTINF:-1 xui-id="14243" tvg-name="Bumblebee (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJFXj4jZA0SOinV4Mpp1kKiRpw97VjQBonrXM6k-oNaE.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Bumblebee (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIavfl7lym3uTVW9Qx5oI9o8BWgdljBF1DsAORYT2jtL#.mp4
-#EXTINF:-1 xui-id="14244" tvg-name="Fast & Furious 6 (2013)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2Mq3OuDj4rYPzaTusQS-IP6vbSvLiOPgtwTxYuX4-Us.jpg" group-title="Continued Collection",Fast & Furious 6 (2013)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgLE7VCUk99y4tz3nHOsUixLvSnL3NLD5CihS85a0FIAe#.mp4
-#EXTINF:-1 xui-id="14245" tvg-name="Johnny English (2003)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLNGy2ybVYBawElVScB4JlVjsAXUUmC14dSdr8Oguo3C8.jpg" group-title="Continued Collection",Johnny English (2003)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgHT-icR3VcXqrPmvZhqDyJo9SCiQoUjgQt9RW6Mk90w7#.mp4
-#EXTINF:-1 xui-id="14246" tvg-name="Fast Five (2011)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoof8uQkg9eX-P8neNoJ5Qf2j_NhHixFvOR5gvFqKxIA.jpg" group-title="Continued Collection",Fast Five (2011)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgNHAVuBru7DydGeNsBXAMdJW-mNVXSSb0uAzUQPIN-ka#.mp4
-#EXTINF:-1 xui-id="14247" tvg-name="Johnny English Reborn (2011)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1JRxXd7qItLDakGu7DuMXLHawPTU9AND7XJmDQvfgX4.jpg" group-title="Continued Collection",Johnny English Reborn (2011)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgBCV7pObVek-rzWTM9c8ymNG7AK3WbiupDBH54-qF04X#.mp4
-#EXTINF:-1 xui-id="14248" tvg-name="Furious Seven (2015)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL4Lbx2RCVr1VWh2Gb2caRK87PotmSklPfh3MjM5BNOe0.jpg" group-title="Continued Collection",Furious Seven (2015)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEPhWpWGcp2L_CMzWBqDemy2zDgQTdZmgzRYw7wN7Ac-#.mp4
-#EXTINF:-1 xui-id="14249" tvg-name="Johnny English Strikes Again (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLIZ5uCpCXuk5VYpUdRPeyV8ezq1L1qtP5aDwjIvIiwsg.jpg" group-title="Continued Collection",Johnny English Strikes Again (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgBHrpVBm70njFII3bo8vKChF5yMDAP7zLfS66LGELFk8#.mp4
-#EXTINF:-1 xui-id="14250" tvg-name="The Fast and the Furious (2001)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLj3jWo_Ondlww7bcVS9hZ5V49un_MJI6uC8COw6PI9RA.jpg" group-title="Continued Collection",The Fast and the Furious (2001)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgGnRMUsCZQUz8BRcpFNTJYXa4apoEQYpHSfiwgfJ2P4B#.mp4
-#EXTINF:-1 xui-id="14251" tvg-name="Now You See Me (2013)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQaQOJhTDER27Vnb8yJyEkQmXF6feDYj7VR2KBpRugIU.jpg" group-title="Continued Collection",Now You See Me (2013)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgGjLJqYBqIVVJDm0DEdwJIgeamAWVxKmGQGsvpSyETow#.mkv
-#EXTINF:-1 xui-id="14252" tvg-name="The Fate of the Furious (2017)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKQgWYgqRjaTD2_YuK0KtF5XRaJClkyTboNS_YoqQ0t0.jpg" group-title="Continued Collection",The Fate of the Furious (2017)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgE5uwLEMF2DqiqPGTUuL5KEkTYDF2mT6_Tu3TiifM6HP#.mp4
-#EXTINF:-1 xui-id="14253" tvg-name="Now You See Me 2 (2016)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhl-KuFmxOO-leb_ODEijhTYwtMOGSOlDTGkPA2wscJ8.jpg" group-title="Continued Collection",Now You See Me 2 (2016)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKchlsVoAoyzWN8hze-dkKcuqNM1lvGHWcPVYqvWRDuj#.mkv
-#EXTINF:-1 xui-id="14254" tvg-name="RoboCop (1987)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJjff3qgsJCY7g3wUBQ0gEXhbLO-jumTVNHp4Pt78dlA.jpg" group-title="Continued Collection",RoboCop (1987)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgP-gGxYc1VNqLIDTi6YSVI3RZXrWgLz-VZB3js9RBky1#.mp4
-#EXTINF:-1 xui-id="14255" tvg-name="RoboCop (2014)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLRjuUS_zbKCa5kKeg9Xv8zDzvC2V75-AhBegjCpdr9us.jpg" group-title="Continued Collection",RoboCop (2014)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEOostdjkh4Na5QybZI61zifvGSSD6dq1t-LSlDQ_nw_#.mp4
-#EXTINF:-1 xui-id="14296" tvg-name="RoboCop 2 (1990)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyN3hkPAFIyJLbEiXISy_0-sO58mCYEQEItOsDMbO3vQ.jpg" group-title="Continued Collection",RoboCop 2 (1990)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgByKTcgaXROIk3uo7NZblLQl1KEcRBH3Z5ALu8D7LtqC#.mp4
-#EXTINF:-1 xui-id="14297" tvg-name="RoboCop 3 (1993)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQcERiGidlt--k5AbebFVUfci6HZC0Ir0vjH0OSyoqIs.jpg" group-title="Continued Collection",RoboCop 3 (1993)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIrJ-ts0sQedAWl803-YG1y79pTH__G7dZFjVT9z7aJb#.mp4
-#EXTINF:-1 xui-id="14298" tvg-name="Transformers: Age of Extinction (2014)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJeH-6TwOmsVKCevuQrI-KYdwKmMmB3eY3YnT7W5PQfM.jpg" group-title="Continued Collection",Transformers: Age of Extinction (2014)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEr01DJmd61cJjMU_kwEGDccfEHDFZSyP4Axmh58CosO#.mp4
-#EXTINF:-1 xui-id="14320" tvg-name="Transformers: Dark of the Moon (2011)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdJADaJFv6oWGquPbZmSr8kMpBSjB8IBaDyjCNHtscos.jpg" group-title="Continued Collection",Transformers: Dark of the Moon (2011)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgNNu5Nd5gBSV49CdEd_jvSZVPLYIDojW6ST0dJgN7guv#.mp4
-#EXTINF:-1 xui-id="14321" tvg-name="Transformers: Revenge of the Fallen (2009)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2Xaxj2gBp10CmzuHRDgIgjE3p3Rq399AiSTzTwpWIaQ.jpg" group-title="Continued Collection",Transformers: Revenge of the Fallen (2009)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgHnFcggsmgSi7mSfETEqFgbPMVPlKZzGkYnW2LYtxmM8#.mp4
-#EXTINF:-1 xui-id="14322" tvg-name="Transformers: The Last Knight (2017)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLJTFqezq3O5Nof3wBC1U3b7ISmiCEQH6NMKpGiP3TatI.jpg" group-title="Continued Collection",Transformers: The Last Knight (2017)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgCgte7KUjiiYQ67_jYq3NTrRxiMI-HWzXq3MyUH3Ar1w#.mp4
-#EXTINF:-1 xui-id="14323" tvg-name="Home Alone 4 (2002)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLhS-DNPfB8niAGZoT5fmt5B0hWeFbMCsjAQZXOgt0Wz8.jpg" group-title="Continued Collection",Home Alone 4 (2002)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgLmpb61A7KFDB-9rNUVFzZO8pWXgH0QNA5k6YAYWGt9A#.mp4
-#EXTINF:-1 xui-id="14324" tvg-name="Home Alone (1990)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLWv5i_iV-IWkVmwZeKIMUfxaFzejLdltwCQjOPPB0ijk.jpg" group-title="Continued Collection",Home Alone (1990)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgFlDUKI0qL_sLCfXzmZdA6nJvyqgWyru00rQJ5tdWD-h#.mp4
-#EXTINF:-1 xui-id="14325" tvg-name="Home Alone 2: Lost in New York (1992)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYGaGc_WZlXjaV8MMdNWexoiXH-eK-0p5UPa4I8WdOiw.jpg" group-title="Continued Collection",Home Alone 2: Lost in New York (1992)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDCaWnvbB8bJT5h09SglkkkDjVm_gzTLQG3eO7GLiQjS#.mp4
-#EXTINF:-1 xui-id="14326" tvg-name="Home Alone 3 (1997)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-cNuWf1ShwE3IU56LddnthSjgASeMTiWuIarPaTXVqw.jpg" group-title="Continued Collection",Home Alone 3 (1997)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgK4A-AEFxvk0rk5XzXfUzVPCT_jMNKiQkTQeyiIi9dx5#.mp4
-#EXTINF:-1 xui-id="14327" tvg-name="Home Alone: The Holiday Heist (2012)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL1X14NeVWRg018kDUJbbG5DR_JgglevNgn3hNY9dG14k.jpg" group-title="Continued Collection",Home Alone: The Holiday Heist (2012)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgI1YkjAoVbVSPXoCK3H3KHCdkC0BLyx7AoWupfARMlMv#.mp4
-#EXTINF:-1 xui-id="14328" tvg-name="The Expendables 2 (2012)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVUBndwgGMEcDhkM82AFtN68lOlRV1MeE5_HhPbXQZe4.jpg" group-title="Continued Collection",The Expendables 2 (2012)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIbHHGk6zktUluTf12Y7vuAxKc4knqA8b7cLFvP5aHl_#.mp4
-#EXTINF:-1 xui-id="14346" tvg-name="The Expendables 3 (2014)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLdVYssJ2m3PuZeImFSTRqkn16R5K9wo_0Ty7gVxlxvIY.jpg" group-title="Continued Collection",The Expendables 3 (2014)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgBshvGoNyQ2BEtBQCCnIc7zcMpr8YTr4xpwvGohxJC7A#.mp4
-#EXTINF:-1 xui-id="14347" tvg-name="Transformers (2007)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLoqZx-lGy18jwfgxnTTd1HUVeGx3-ZZRXWz5T7GFD2_w.jpg" group-title="Continued Collection",Transformers (2007)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgM5LTri84g5XHzzawnMwatKlVeDxTbYUgIytqwVlw9eY#.mp4
-#EXTINF:-1 xui-id="14348" tvg-name="Thor: Ragnarok (2017)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLuR_8oOqRimHu0zTm0lrX2v6V24XwxWBYMmGNqATkzQs.jpg" group-title="Marvel Collection",Thor: Ragnarok (2017)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDQM0IEaeIHtehyAntBw206gIw1IPbWZqBPP6_9X47vK#.mkv
-#EXTINF:-1 xui-id="14365" tvg-name="Ant-Man and the Wasp (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLIiKpE99FH3Oy95c1ILScHvb2wIDcsXNZAesEUZnHHnc.jpg" group-title="Marvel Collection",Ant-Man and the Wasp (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgADWeJSSVYtY-wuyX7kTOm05BQKzFQcNjWM2PTiqH_R7#.mkv
-#EXTINF:-1 xui-id="14366" tvg-name="Avengers: Infinity War (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLgsaME6QPBqoHhq-nYsmaWBT7h5nGOpFj54P0mJHx24E.jpg" group-title="Marvel Collection",Avengers: Infinity War (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgOANTRG93dg8YDJ06flFBo5fYEECB_hdNavnf3JBm_Je#.mkv
-#EXTINF:-1 xui-id="14369" tvg-name="Black Panther (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQgxa9bPGVjM9TbLUo3rzku8D4bGV63XS8CxMIEqP5Os.jpg" group-title="Marvel Collection",Black Panther (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgANKyGxEC4Zw2VjcdIJfpAkfk3jEPfX29voRHWIV4RaF#.mkv
-#EXTINF:-1 xui-id="14370" tvg-name="Deadpool 2 (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLTb275MT1VaVMrGIgscHj3ZDjUtrIMLBRtegyCiPPJBw.jpg" group-title="Marvel Collection",Deadpool 2 (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgE9vB_am9K_pYmDsDN9lWh-KLpL3fU8aXFRMTmHIBcZU#.mp4
-#EXTINF:-1 xui-id="14371" tvg-name="Venom (2018)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLYR-dz7VKVMRBjYPnpw3Iw9eTrZ_-cxJxzdXCba2xiYc.jpg" group-title="Marvel Collection",Venom (2018)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgLDL2OgREb9fZghUig_hcmc_FfNZ_ZB3BHnsRZKPtRaM#.mkv
-#EXTINF:-1 xui-id="14372" tvg-name="Captain Marvel (2019)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyY_qrPH47xvGglH5SBy8FM9DVuZtNx8zSlCSdjuzS3Q.jpg" group-title="Marvel Collection",Captain Marvel (2019)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgCS8Y1cw86hgjZhYk7HeCi6Mv0zxkVPWxwJydUzEPkfF#.mkv
-#EXTINF:-1 xui-id="14373" tvg-name="Avengers: Endgame (2019)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3c8p5LkaJjICKD3xu_Ks9GtJtTGSq-PHEZ9ouirHN_4.jpg" group-title="Marvel Collection",Avengers: Endgame (2019)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIw3zhw8Qm5H1TXwQreo4mFT4MzdZIvZSZGsPr_dQiEd#.mkv
-#EXTINF:-1 xui-id="14374" tvg-name="Spider-Man: Far From Home (2019)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2MplE6XvbhaRPxVziNYCKVrr4JNTi6lf_GTMf61bDgA.jpg" group-title="Marvel Collection",Spider-Man: Far From Home (2019)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgMyDqi52AMOS5enqR04u38T5vooXoMnVrliyvdKTMCT3#.mkv
-#EXTINF:-1 xui-id="14375" tvg-name="Wonder Woman 1984 (2020)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLqmZhpvcJFg5D83xMWVefMw2RkPn6TgsNhVwTKAL74hk.jpg" group-title="Marvel Collection",Wonder Woman 1984 (2020)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgLEqjJHrxFVKyFluICiaRcy6Oqov7UFEHZa7xoFXzZDl#.mkv
-#EXTINF:-1 xui-id="14376" tvg-name="Zack Snyder's Justice League (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmyRjd_QrzBjGvY6AdmpMA0YTioyl6EuNw6Nyadgmg1g.jpg" group-title="Marvel Collection",Zack Snyder's Justice League (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIE9cKXWVmKDsrd4N32YlZa8II8JVDvJs4fna6oMz9WL#.mkv
-#EXTINF:-1 xui-id="14377" tvg-name="Venom: Let There Be Carnage (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLibwTwPDuJ2CWOsWijjyI3KwzMznH78xn1yuHdJ-sMDs.jpg" group-title="Marvel Collection",Venom: Let There Be Carnage (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDK89GW_YaUBC5ez6lzZrtDAn3jKxz6t8sja1DE8nAnk#.mkv
-#EXTINF:-1 xui-id="14378" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyjlUFV-_itXufp8FzxKshCOqVhd1v-uxQmhMoPDOMec.jpg" group-title="Marvel Collection",Spider-Man: No Way Home (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgP6_5yVGf_vWZYKlYcXsjxDjeVCH9alMtlEe_R04PaDe#.mp4
-#EXTINF:-1 xui-id="14379" tvg-name="The Suicide Squad (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLZMlA-K4TQ8GbqDu_8_PRS9x5KzFTpZMJpBS1La90YZQ.jpg" group-title="Marvel Collection",The Suicide Squad (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgD2T-wcz-5gwaj2esp9_SgRZ90W2Ycwz6Y_LQjkVnKJf#.mp4
-#EXTINF:-1 xui-id="14380" tvg-name="Chip 'n Dale: Rescue Rangers (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLBnMP_uvNo_zJyMJyJY4tSGZpeGrfNdQpk-qk9WnYf90.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Chip 'n Dale: Rescue Rangers (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgP88IdbQc99vyhctFmdpX2jdHQOF5y6JthzCM54ZcJQN#.mkv
-#EXTINF:-1 xui-id="14381" tvg-name="Dakota (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLOu1MCf3p5vo_EQPvaZaHU1xx_BB66Yl_YJCVLi5Gjhs.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Dakota (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgHRwtrrdrYGLSHIUATf9b0VaNQ9NAZolrOV1Dx3i9jLS#.mkv
-#EXTINF:-1 xui-id="14382" tvg-name="Father Stu (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLFebSlv5PJIokezlQDOSQJbzqyWGnmxrJ85hRZ9-GVok.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Father Stu (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKbIwXS3m7S0Z3KXWbuGvmEgm5yDRsy-0KcO0wZ5s9zH#.mkv
-#EXTINF:-1 xui-id="14383" tvg-name="Spitfire Over Berlin (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLyr3nvD26VGOe9AS1cQoY4hs4xhVq_qKcFbf_gHcKb74.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Spitfire Over Berlin (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKr_8gAfn3RpgONoV-eX7s0Ou45VYr_XFbNie09NIgkC#.mkv
-#EXTINF:-1 xui-id="14384" tvg-name="The Girl on a Bulldozer (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLVxPR-z5UriZNZmS6yjUH8f__iF8nR_VD3W8LuYGRqgc.jpg" group-title="Movie Korea",The Girl on a Bulldozer (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgET7NMEtQd_HRjz-oxXMiChEIh8TUSuAXBCFzHOOqNRz#.mp4
-#EXTINF:-1 xui-id="14385" tvg-name="Vendetta (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLB_yIGFHmtLNMUeP7hoZYxRPA9KiA6yJ32rrRypGZuks.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Vendetta (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgAXgVJV5GNM-_iJp6WlpwWw829O0vQPYc573Us1GPaKo#.mkv
-#EXTINF:-1 xui-id="14386" tvg-name="Batman: The Long Halloween, Part Two (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL-RhfUH3LCr4x4qX7vvP-BkAqqjJi6PvdJwwVbR1JcmQ.jpg" group-title="DC Collection",Batman: The Long Halloween, Part Two (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgE_0CLshocku8gLUjnG4sdzbPkkk2FRCNf-wSsZEtMga#.mp4
-#EXTINF:-1 xui-id="14387" tvg-name="Chickenhare and the Hamster of Darkness (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLrTJfB8BUuG9B5jWJ7yPCagWNSc3Mk-l5A8IB1gzmbGI.jpg" group-title="Anime & Cartoon Movie",Chickenhare and the Hamster of Darkness (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgF2lC2pmw1e_9Oxo8yE1rxXEtAK2N3APKuIECQ7vd5c8#.mp4
-#EXTINF:-1 xui-id="14388" tvg-name="Collision (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL0H8Ruwe8vx6pQ4zowIMHGhxHAUzSz_s5j0exb_ClQ6Q.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Collision (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgAdEjg7mCaPCQ-cKJTtqBE8MTYA7dOxkJpHByYVvtlwM#.mkv
-#EXTINF:-1 xui-id="14389" tvg-name="Crawlspace (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLDOSb2EjWKWRHL-82xoAv9UktUN8UkFIbgi5UyXFreCE.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Crawlspace (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgDCoyhEdb3ZbPtj5y-3lVpIAbNMAmzWI_y9Qv1-i1EgN#.mp4
-#EXTINF:-1 xui-id="14390" tvg-name="Father of the Bride (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXrKBf5vVJl3Jx0xWswQfaLrnCGvW7b7UrMBY7witVHM.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Father of the Bride (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgHhSHWcWnZSvc0UV6nn15GJE1Is3I2FNi3cwI-yZ_WkM#.mkv
-#EXTINF:-1 xui-id="14391" tvg-name="Hustle (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLPhLvDHo08J0skHbulhl981LqliMUCuolcew1dTgBQqM.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Hustle (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgJ7LC8KrMj87l3SfJ-nPoJqRD31VU0QPOV2sTQhAxkN0#.mp4
-#EXTINF:-1 xui-id="14392" tvg-name="Spiderhead (2022)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLD1vkuGzRL450bp9yGDGEZqftkzPiJZ6azr28HUPUKQA.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Spiderhead (2022)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgKFzTosT_Ysa48SkFuITUxbueXxzjv-YWOtrskFAv24l#.mkv
-#EXTINF:-1 xui-id="14393" tvg-name="Born a Champion (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQ4aNTrxqOD0ewMW6hB1s9fXUbXDsN92bqzMeg4o_xBw.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Born a Champion (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgGPDp8o5_XGqhDFzECO8Totq3g_7y4LYPTbVwyrv_3El#.mkv
-#EXTINF:-1 xui-id="14394" tvg-name="Dead in the Water (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLvQFiGTEyj20FkjmD5weDgnyCIMRTp1mCljJBhbPcUj0.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Dead in the Water (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgEu89b_j7P0sdPkM6GhpuTJyDmgivwyDHpgUCwmyTIZ7#.mkv
-#EXTINF:-1 xui-id="14395" tvg-name="Junkrat Train (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLUSfzi2kihvgT00v-UPFPKdfjmmuBeJ1WmgWrcWLTpTM.jpg" group-title="Movie China",Junkrat Train (2021)
-http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgJ3ywcXNpkfg9gYcwd1jqHn2r0IIBG2P9SXobTnAQ-4J#.mkv
+
 #EXTINF:-1 xui-id="14396" tvg-name="Outside the Wire (2021)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL3okS-M9VC0-1SsOG4_pu1c9aSbTPVqVz_FlBWNdJsG8.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Outside the Wire (2021)
 http://play.fastkobar.my.id:8080/play/Ir4ZoU7oJlyv2t3FUffPgIVSKzlD2m1yVB4abv22Mexhp5LQkdAPYik4cGH7FN7-#.mkv
 #EXTINF:-1 xui-id="14397" tvg-name="Sorry I Killed You (2020)" tvg-logo="http://play.fastkobar.my.id:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLQRDUKrGF_TyrPYx5iNpMfHedocFhEoy76ivMi0L-WHE.jpg" group-title="Premium Collection(HBO, Cinemax, Hits)",Sorry I Killed You (2020)
@@ -9023,5 +8632,210 @@ https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495588
 #EXTINF: -1 tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/S1F4lse.jpg" group-title="VOD KIDS", Woody Woodpecker (2017)
 https://m3u-editor.com/serve/e8be5a90-d910-11ec-a6b8-fbdf23da009a/568495625
 
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Onward (2020)
+https://lh3.googleusercontent.com/fF8HWTTEyxQ47-aS0eX_bgduZKpSz7nQMWvNFZHITRQuzFfDsIEEUnHJLafBEFD5G2YVWzCFvQHondQrww=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Superman: Red Son (2020)
+https://lh3.googleusercontent.com/_4hWYQK9NZZhVyYrK6f-J7wdBShV1dimiEmZuHn-cSK_7dj5tQk-3S06ZV8bSFId6cb5f1pYZkmJ1q_EIg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", How to Train Your Dragon: The Hidden World (2019)
+https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Steven Universe: The Movie (2019)
+https://lh3.googleusercontent.com/E99xqFlfU_4bdUjOk9Ji6qIDSO1TCtjVB9lNThPVww_cVaepGnxYNW3PeB01PDJmuZ-Pdr6jt46IgqlQ7w=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Spies in Disguise (2019)
+https://lh3.googleusercontent.com/OoBO6eHYVDaqQGVTbi_V7B6k9gex4sBQghhHRnSTMrv5Z9h4AlICZX5NKjLB0shdHz7QNL3lwNMv2Mqk-w=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ne Zha (2019)
+https://lh3.googleusercontent.com/c0U7OGUBnkPTdncJ2Ok8ZCZryJ3P6dK82BsWpZX5eNM7Ue4roUSmGdczGLn0yhc6FKnpuHiijTN-apqJ6g=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Abominable (2019)
+https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymfYndRmWvIeq3H12dilQw6wXG4RFVj6vt_yUQw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", A Shaun the Sheep Movie: Farmageddon (2019)
+https://lh3.googleusercontent.com/femImuOfQRBRN-S1obc8NotK4oV-rtlTN_sQnxjCtiUO8OXlipD3-veBM2IoRNr3R-H10fZUzMJPzdZLdw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", BoBoiBoy Movie 2 (2019)
+https://lh3.googleusercontent.com/s_n63JhY1Nh1upoyAT6L653V9BrfKXxrcNbG7zODPUjjD_F4QBeHWxjFshWW3JCYdG4A_X-kx2w3E4xm4w=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Frozen II (2019)
+https://lh3.googleusercontent.com/GZHehDjuIB4vJdnV0MWyiOwe6n875bjkqgYpnLUMnVYXm5tUrvOdPCDtYBw6mRFbUf6eK810qA2JHLmOGQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Klaus (2019)
+https://lh3.googleusercontent.com/bZksVRtlxJYkorO8Nv5vhIdEeQmgzLQMcLB0D5VJREvnt70WbJVsl9ZdQo6SzXbSkLMKB0V6Jm4XZWsKYw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Dragon Quest: Your Story (2019)
+https://lh3.googleusercontent.com/18EQjsSIBHi4fbbOv2wwMLayRH4dk3igm_JvM7Ta0R9oYhrXl_dR7y3xBo_lFpRtSBBc5msG-0NJWQplyA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ejen Ali: The Movie (2019)
+https://lh3.googleusercontent.com/jmLxzKTov1xWOsKFZhNooBeqEsQi6Y-HV2tNpU1QCHwbU8lwD5TfyOw7Hh-mSPUD1F9xBlK2vZPX-p8DMw=m22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", White Snake (2019)
+https://lh3.googleusercontent.com/RamGmf47xAzSLk9JDJNlfTD_l3aeAKBzjSlOTBDo_Jw30u6fCcz-Pnq1D_8AUO0u5sVMKcesaGeAkayBwg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Playmobil: The Movie (2019)
+https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Playmobil: The Movie (2019)
+https://lh3.googleusercontent.com/scDny2HoezAZc-_4kGwu7g0Dg5a1KcoWgT3mbCODM9heUrRPEIBlm4jPb_jmGhEIl86nPUdRum1ue_7RVQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Scooby-Doo! and the Curse of the 13th Ghost (2019)
+https://lh3.googleusercontent.com/EpPRg-UNMNIdX7NRnaFChCp-9rndDHTvxnfa-YaFgJ0eMiLJdLqLPq3GaYBJl4C0DuUhxTT8EM1gAENkag=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Addams Family (2019)
+https://lh3.googleusercontent.com/ygTh4dv0Mjm7hzhJjfuqHgLOEEH5C1MYVX9uJqUJuEehvzOb_hmO3tq2cuZnRuKgo3PkevRnsuEBtAEINQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Trolled (2018)
+https://lh3.googleusercontent.com/genRt26TWtb0zBMuTXuVA1W_JSYNm8Ycyj4B6FM06z71CTtFqzaq31YGm6qQeHxfHwAqL29ke_a2qNH4pg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ralph Breaks the Internet (2018)
+https://lh3.googleusercontent.com/H_GqI24O5cNbG80JM4gGbXir6_KVd-0pQQJ11eOxPqcMyD7kBoRzqNqNHwk8dOswmg-f9B7D9mDsQX_aCA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Batman Ninja (2018)
+https://lh3.googleusercontent.com/-tgi8pvGLgoUmbtSEOR0LuEyZQcvNi_NWM04Xi2FvlN8smXkqE6wcVcesxUkBR1B3FldiYPmjPrusNZmxA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ice Princess Lily (2018)
+https://lh3.googleusercontent.com/P3PiUglF1AVAY2uqaNaDMiQPW9NOxbQuwttFpC-Di21C_ttxtcoEMk0pybUAWOMXWC2A2AfAKcami9xovw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Next Gen (2018)
+https://lh3.googleusercontent.com/NyW6KtjebzkRDEgarfoj4raUDwjirHptpKikrn2vkw_kTWjrRkKA4wVr1TmFPtfrwAKfOK8bt60bAVtAEQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Racetime (2018)
+https://lh3.googleusercontent.com/fhw3X66GqUCTzmwweS1nZmXO7DslzAcbIrPPF09lTwK-teUh8nIFvPsZEhHownMKQtB7T6mBjVBFYtOGaw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Spider-Man: Into the Spider-Verse (2018)
+https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Incredibles 2 (2018)
+https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Duck Duck Goose (2018)
+https://lh3.googleusercontent.com/gdh73W9ibmWLvZGXMyEr5BOmi88klvMshe7Yc8FvAZlxq9ujiS1FEqDQCupwzXarWJWaPDxo0cRPGil7DA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ploey (2018)
+https://lh3.googleusercontent.com/By9ezNfZ9dmIC0Qk2vkCfbntcGL6Ybdc13gDV9bAWU85KrBfR45mR_TQOgJmkDUu_XFhKBAJ6cpQqp-HoA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Early Man (2018)
+https://lh3.googleusercontent.com/s3umJBZYY8x6Q19-5gu9IesDlTo7kpR3pT_qGeIinD6zw7L_EQ7VsyoMa9fMFCrmh_sz3QE0PgPoIYP1Rw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Luis and the Aliens (2018)
+https://lh3.googleusercontent.com/ax1thLqrhCB8Xcy99VYX9ASXAejRZwJgkIhLcTEg5V0Gvxww3PelKkJvYp1eOaECcZukq-6Y1r79MInUnA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania 3: Summer Vacation (2018)
+https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Pokémon the Movie: The Power of Us (2018)
+https://lh3.googleusercontent.com/nOPQnLh3q9rsfXXbL8iBQsU2MN38rPsx9ovcP88eBByElr8UV_djNSArFh1W_T9EVmzZTp_1aLwcczTuCg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Peter Rabbit (2018)
+https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHzg9VpmWCZaHJAITEXD9pRoupQhUc6pVgl4rXg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Rabbit School - Guardians of the Golden Egg (2017)
+https://lh3.googleusercontent.com/eZ7xx-sBxliS9RqIPS83EV1Y2hpMrpGy3quJCh7w6jH6lED7pkifhEsAhF2Irc2fbHKZ-8Ou6MkmxB9GHw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Big Bad Fox and Other Tales (2017)
+https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Cars 3 (2017)
+https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Boss Baby (2017)
+https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Emoji Movie (2017)
+https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ferdinand (2017)
+https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Breadwinner (2017)
+https://lh3.googleusercontent.com/uMgnRZ7dVhTAZ-jF4yb655NXUd-h4-YWxng7S0SVVozx40O0DAT09G4GtzHn08KtdVWkvLPvjd4K0hnh9A=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Woody Woodpecker (2017)
+https://lh3.googleusercontent.com/LAO2jlag3W5IvX5S1oRmvIc77JKlhtfvkHVTC3NxJgRWsdyDtwk17HKkJvx_gQzYJnV6CmyYqQx78l8onQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Coco (2017)
+https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Cinderella the Cat (2017)
+https://lh3.googleusercontent.com/ZeKk8aw26Vle_JgcDATloql64Y8UiMENzgMER2RMRujbGayebdkUum099Mp5T3WhQrs1GoLcvsvFjyKWvw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", BoBoiBoy: The Movie (2016)
+https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf7sxeJCRC7q-qGe1SkMke9dDIqYtlRgHk0KbQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ice Age: Collision Course (2016)
+https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Kung Fu Panda 3 (2016)
+https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Moana (2016)
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
+https://lh3.googleusercontent.com/9Pwu6oU8JOO8xLQvcbZKBv92_Xg30CGIKiZOn_e1zM62QEmMO83oqTYnMZ-qc3ngLmqz64PRK6KjVSbeJQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Spark: A Space Tail (2016)
+https://lh3.googleusercontent.com/UPIm4fM-6VhJ5ExNFfRNiYwLmfEcZ9K9_Aj2bFbbRQQNSwRKnl_6GuNLP7RGTYF54uryWcE0Bp-jQzWAQw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen 3 (2016)
+https://lh3.googleusercontent.com/VwINSgoBhaYdlPODtPggQCEvv9nUbojqu2y7SyiXV2-Jfp2vU3z-bAJ36yfVCSsmQqhX5ARt-B6HijKjCw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Throne of Elves (2016)
+https://lh3.googleusercontent.com/z64bQSz2Xc9fAAr467xapW9CrGzs5Mi4EIlWttapanaalcCHLqrmkw2yYT8F6cAVGgAUcIwBCHxrxiTJyQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Trolls (2016)
+https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap2uuxJAHp4vCn9vQjHTw8cmUtwUAz1wsZUKJg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Bilal: A New Breed of Hero (2015)
+https://lh3.googleusercontent.com/f3uaz13M7le6hfjKjBOIR6tNCUObu4gIPfEFosf6j72n2gWAg7J05A7CV6M-w8FcwdtXirBy5atiF78XDQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania 2 (2015)
+https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Big Hero 6 (2014)
+https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Dragon Nest: Warriors' Dawn (2014)
+https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", How to Train Your Dragon 2 (2014)
+https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Rio 2 (2014)
+https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen 2 (2014)
+https://lh3.googleusercontent.com/PUkP_uc30xYVDPQPTPBOcYAmdTJDzriV5Jb_RKM0CrMlykOwQBB4a6B4Hs2NMEJwPF5t2bZVqOOSWfjgsQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Frozen (2013)
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Monsters University (2013)
+https://lh3.googleusercontent.com/CrjdkDGEoO0RzVc9UZhMmV6r2jNNLlhqvzYm768vkKY5JAArbC50XvZdAhoYpIaCb09h__j-d-GPBQoTkQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Tarzan (2013)
+https://lh3.googleusercontent.com/zufDgL7mogTBnRtvvwRJcdEZR-AkdSbGM24odqJTnp5qp2x_UEirukB_XNB13CjL38w8R2i-ukpD-p62IQ=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Brave (2012)
+https://lh3.googleusercontent.com/5JnP-eTnKSwFQ9M29yEwcU4m3U2twJ9zeEOpzLuDTg0mtZj-7gfI7Ui7aEkeCLVh7NLjUk24muipjgm-aA=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Ice Age: Continental Drift (2012)
+https://lh3.googleusercontent.com/6QwK8RipgMSvRNhioFlgChBB9olLkEaqC_C22acc4Rikl3Pb6ldczJpFdRUqORmJkvHN5VyQyKAIa8msaw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", Tad: The Explorer (2012)
+https://lh3.googleusercontent.com/ImP5Y0jSsvXj3mhlFF21Fo3b5D_SqcTs_yXKp-C7kpiTEtr6nu2Ak47AXKroZsxnwAgZF2nEQAbmkCD5sw=m22
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Danishdania86/AkuPunyaKauPunya/main/PSX_20221026_114811.png" group-title="VOD KIDZ", The Snow Queen  (2012)
+https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAngSGC1G13Z584bqHd-egA6p1NG-Y8ARAYi39xQ=m22
+===========================================================================================================================
 
 
